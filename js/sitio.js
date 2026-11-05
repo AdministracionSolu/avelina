@@ -18,6 +18,17 @@ document.querySelectorAll('.lite').forEach(b => b.addEventListener('click', () =
 // Carta de la libreta
 document.querySelectorAll('[data-abre]').forEach(b => b.addEventListener('click', () => document.getElementById(b.dataset.abre).showModal()));
 document.querySelectorAll('dialog').forEach(d => d.addEventListener('click', e => { if (e.target === d) d.close(); }));
+// Cartas: el correo se manda sin salir de la página
+document.querySelectorAll('.sobre').forEach(f => f.addEventListener('submit', async e => {
+  e.preventDefault();
+  const aviso = f.querySelector('.aviso-form'), b = f.querySelector('button'), datos = new FormData(f);
+  if (datos.get('sitio')) return;
+  datos.delete('sitio'); b.disabled = true; aviso.textContent = '';
+  try {
+    await fetch(f.action, { method: 'POST', mode: 'no-cors', body: new URLSearchParams(datos) });
+    f.classList.add('enviado'); aviso.textContent = f.dataset.ok;
+  } catch { aviso.textContent = f.dataset.error; b.disabled = false; }
+}));
 // Álbum
 const vista = document.createElement('dialog'); vista.className = 'vista';
 vista.addEventListener('click', () => vista.close());

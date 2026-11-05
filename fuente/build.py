@@ -8,6 +8,9 @@ BASE = "http://www.avelina.com.mx"
 PRESENTACION = "rmZBT6yQDr4"
 DM = "https://ig.me/m/avelinaa.mar"
 YT = "https://www.youtube.com/@AvelinaMartinetMolina"
+# Dónde se guardan los correos de las cartas. El diseño vive en el sitio; esto es solo el destino.
+CARTAS_DESTINO = "https://docs.google.com/forms/d/e/1FAIpQLSdzM1mxl6Y9UOgS43TMNM-qjSBjyNXzCM2F6qHH1jsVmF179Q/formResponse"
+CARTAS_CAMPO = "entry.697244922"
 REDES = [("Instagram", "@avelinaa.mar", "https://www.instagram.com/avelinaa.mar/", "ave"),
          ("TikTok", "@avelinamm7", "https://www.tiktok.com/@avelinamm7", "estrella"),
          ("YouTube", "@AvelinaMartinetMolina", YT, "ola")]
@@ -63,7 +66,7 @@ with all her pain"""
 
 RUTAS = {"inicio": ("", "en/"), "musica": ("musica/", "en/music/"), "videos": ("videos/", "en/videos/"),
          "diario": ("diario/", "en/diary/"), "album": ("album/", "en/album/"),
-         "quien": ("quien-soy/", "en/about/"), "contacto": ("contacto/", "en/contact/")}
+         "quien": ("quien-soy/", "en/about/"), "contacto": ("contacto/", "en/contact/"), "privacidad": ("privacidad/", "en/privacy/")}
 T = {
  "es": dict(html="es", otra="EN", otra_nombre="Read in English", nav=[("musica","Música"),("videos","Videos"),("diario","Diario"),("album","Álbum"),("quien","Quién soy"),("contacto","Contacto")],
   menu="Menú", quien="cantautora · nacida en sonora, foránea en mty", frase="canto lo que escribo",
@@ -76,7 +79,7 @@ T = {
   diario="Diario", diario_sub="Solo en línea", diario_txt="Casi siempre estoy grabando. Aquí se va quedando lo que escribo y lo que canto, con su fecha.", diario_mas="Abrir el diario", meses_t="Meses",
   album="Verano de nostalgia", album_txt="Pedacitos de una tarde de verano.", abrir="Ver foto", album_nav="Álbum",
   quien_t="Quién soy", bio=["Nací en un pueblo pequeño de Sonora, en una familia de campo, caballos y vacas. Hoy soy foránea en Monterrey.", "La guitarra me acompaña desde niña. Mis momentos favoritos son cuando estoy sola con ella, improvisando y dejando salir lo que siento sin pensarlo demasiado.", "Me inspiran Kevin Kaarl, Ed Maverick, Carla Morrison, Sleeping At Last, Natalia Lafourcade y Silvana Estrada. Lo que busco es un universo propio, sin personajes ni alter egos."],
-  cartas="Cartas de una foránea", cartas_txt="Cuando haya canción nueva, te escribo antes que a nadie.", cartas_btn="Quiero las cartas", cartas_pie="Mándame un mensaje por Instagram y te anoto en la lista.",
+  cartas="Cartas de una foránea", cartas_txt="Cuando haya canción nueva, te escribo antes que a nadie.", cartas_btn="Quiero las cartas", cartas_label="Tu correo", cartas_ph="tu@correo.com", cartas_pie="Solo uso tu correo para mandarte las cartas.", cartas_ok="Ya vas en camino a la lista. Te escribo pronto.", cartas_error="No se pudo enviar. Inténtalo otra vez.", cartas_para="Para:", priv_t="Aviso de privacidad", priv=[("Quién soy","Avelina Martinet Molina es la responsable de los datos de este sitio."),("Qué guardo","Solo tu correo, si te apuntas a las cartas."),("Para qué","Para escribirte sobre mi música. No lo vendo ni lo comparto con nadie."),("Dónde se guarda","En un formulario de Google de mi cuenta."),("Cómo salir de la lista","Escríbeme por Instagram a @avelinaa.mar y borro tu correo."),("Videos","YouTube solo se carga si le das play a un video en esta página. Este sitio no usa cookies propias.")], priv_fecha="Actualizado el 4 de noviembre de 2026",
   redes="Donde me encuentras", contacto_t="Contacto", contacto_txt="Para hablar de música, colaboraciones o presentaciones, escríbeme por Instagram. Yo te contesto.", contacto_btn="Escribirme",
   no_hay="Esta página se fue volando", no_hay_btn="Volver al inicio", ave_t="Ir a las cartas", meses="enero febrero marzo abril mayo junio julio agosto septiembre octubre noviembre diciembre".split()),
  "en": dict(html="en", otra="ES", otra_nombre="Leer en español", nav=[("musica","Music"),("videos","Videos"),("diario","Diary"),("album","Album"),("quien","About"),("contacto","Contact")],
@@ -90,7 +93,7 @@ T = {
   diario="Diary", diario_sub="Only online", diario_txt="I am almost always filming. What I write and sing stays here, with its date.", diario_mas="Open the diary", meses_t="Months",
   album="Summer of nostalgia", album_txt="Little pieces of a summer afternoon.", abrir="See photo", album_nav="Album",
   quien_t="About", bio=["I was born in a small town in Sonora, Mexico, in a family of fields, horses and cows. Now I live far from home in Monterrey.", "The guitar has been with me since I was little. My favorite moments are alone with it, improvising and letting out what I feel without overthinking.", "I am inspired by Kevin Kaarl, Ed Maverick, Carla Morrison, Sleeping At Last, Natalia Lafourcade and Silvana Estrada. What I am after is a world of my own, with no characters and no alter egos."],
-  cartas="Letters from far from home", cartas_txt="When there is a new song, I will write to you before anyone else.", cartas_btn="I want the letters", cartas_pie="Send me a message on Instagram and I will add you to the list.",
+  cartas="Letters from far from home", cartas_txt="When there is a new song, I will write to you before anyone else.", cartas_btn="I want the letters", cartas_label="Your email", cartas_ph="you@email.com", cartas_pie="I only use your email to send you the letters.", cartas_ok="You are on your way to the list. I will write soon.", cartas_error="It could not be sent. Please try again.", cartas_para="To:", priv_t="Privacy notice", priv=[("Who I am","Avelina Martinet Molina is responsible for the data on this site."),("What I keep","Only your email, if you sign up for the letters."),("What for","To write to you about my music. I do not sell it or share it with anyone."),("Where it is kept","In a Google form on my account."),("How to leave the list","Write to me on Instagram at @avelinaa.mar and I will delete your email."),("Videos","YouTube only loads if you press play on a video on this page. This site uses no cookies of its own.")], priv_fecha="Updated November 4, 2026",
   redes="Where to find me", contacto_t="Contact", contacto_txt="To talk about music, collaborations or shows, write to me on Instagram. I will answer you.", contacto_btn="Write to me",
   no_hay="This page flew away", no_hay_btn="Back to home", ave_t="Go to the letters", meses="January February March April May June July August September October November December".split()),
 }
@@ -136,9 +139,17 @@ def video_presentacion(t):
     return f'''<div class="marco marco-grande"><button class="lite" type="button" data-id="{v['id']}" aria-label="{t['play']}: {e(v['t'])}"><img src="/img/videos/{v['id']}.webp" alt="" loading="lazy"><span class="play" aria-hidden="true"></span></button></div>'''
 
 def cartas(t):
-    return f'''<section class="cartas" id="cartas"><div class="ancho">{ic('ave','grande')}
+    l = t["html"]
+    return f'''<section class="cartas" id="cartas"><div class="ancho">
 <h2>{t['cartas']}</h2><p class="lead">{t['cartas_txt']}</p>
-<a class="boton boton-luz" href="{DM}" target="_blank" rel="noopener">{t['cartas_btn']}</a><p class="pie">{t['cartas_pie']}</p></div></section>'''
+<form class="sobre" action="{CARTAS_DESTINO}" method="post" target="_blank" data-ok="{t['cartas_ok']}" data-error="{t['cartas_error']}">
+<span class="timbre" aria-hidden="true"><img src="/img/marca/paloma-1.png" alt=""></span>
+<label for="correo-cartas">{t['cartas_label']}</label>
+<div class="renglon"><span aria-hidden="true">{t['cartas_para']}</span><input id="correo-cartas" type="email" name="{CARTAS_CAMPO}" required autocomplete="email" inputmode="email" placeholder="{t['cartas_ph']}"></div>
+<input class="trampa" type="text" name="sitio" tabindex="-1" autocomplete="off" aria-hidden="true">
+<button class="boton" type="submit">{t['cartas_btn']}</button>
+<p class="aviso-form" role="status"></p></form>
+<p class="pie">{t['cartas_pie']} <a href="{url(l,'privacidad')}">{t['priv_t']}</a></p></div></section>'''
 def redes(t):
     c = "".join(f'<a class="red" href="{h}" target="_blank" rel="noopener">{ic(i)}<b>{n}</b><span>{u}</span></a>' for n, u, h, i in REDES)
     return f'<section class="lienzo redes"><div class="ancho"><h2>{t["redes"]}</h2><div class="fila-redes">{c}</div></div></section>'
@@ -185,7 +196,7 @@ def pagina(l, clave, titulo, cuerpo, ruta_es=None, ruta_en=None, ld=""):
 <a class="idioma" href="/{alt}" hreflang="{otro}" lang="{otro}" aria-label="{t['otra_nombre']}">{t['otra']}</a></header>
 <main>{cuerpo}</main>
 <footer><div class="ancho"><img src="/img/marca/avelina.png" alt="" width="707" height="157" loading="lazy"><p>{t['frase']}</p>
-<nav>{"".join(f'<a href="{h}" target="_blank" rel="noopener">{n}</a>' for n,u,h,i in REDES)}</nav><small>© 2026 Avelina Martinet Molina</small></div></footer>
+<nav>{"".join(f'<a href="{h}" target="_blank" rel="noopener">{n}</a>' for n,u,h,i in REDES)}</nav><small>© 2026 Avelina Martinet Molina · <a href="{url(l,'privacidad')}">{t['priv_t']}</a></small></div></footer>
 <a class="companera" href="{url(l,'contacto')}#cartas" aria-label="{t['ave_t']}" title="{t['ave_t']}"><img src="/img/marca/paloma-1.png" alt=""></a>
 </body></html>
 '''
@@ -227,6 +238,8 @@ def paginas(l):
     bio = "".join(f"<p>{p}</p>" for p in t["bio"])
     out["quien"] = pagina(l, "quien", t["quien_t"], f'<section class="lienzo primera"><div class="ancho">{cabeza(t["hola"])}<div class="presentacion">{video_presentacion(t)}</div><div class="bio">{bio}</div></div></section>{redes(t)}')
     out["contacto"] = pagina(l, "contacto", t["contacto_t"], f'<section class="lienzo primera"><div class="ancho centro">{cabeza(t["contacto_t"], t["contacto_txt"])}<a class="boton boton-luz" href="{DM}" target="_blank" rel="noopener">{t["contacto_btn"]}</a></div></section>{cartas(t)}{redes(t)}')
+    secc = "".join(f"<h2>{a}</h2><p>{b}</p>" for a, b in t["priv"])
+    out["privacidad"] = pagina(l, "privacidad", t["priv_t"], f'<section class="lienzo primera"><div class="ancho legal">{cabeza(t["priv_t"])}{secc}<p class="sub">{t["priv_fecha"]}</p></div></section>')
     return out
 
 def escribe(ruta, txt):

@@ -130,7 +130,22 @@ dialog::backdrop{background:#1b244dcc}
 /* cartas, redes */
 .cartas{background:var(--vino);text-align:center;color:var(--luz)}
 .cartas .lead{margin-inline:auto;margin-bottom:1.5rem}
-.cartas .grande{width:82px;height:54px;margin-bottom:.5rem}
+.sobre{position:relative;width:min(560px,100%);margin:0 auto;padding:30px clamp(20px,5vw,40px) 26px;text-align:left;color:var(--noche);background:#fffdf5;box-shadow:0 14px 28px #5e1c2255;transform:rotate(-1deg);transition:transform .7s,opacity .7s;background-image:repeating-linear-gradient(135deg,var(--vino) 0 12px,transparent 12px 24px,var(--azul) 24px 36px,transparent 36px 48px);background-size:100% 7px;background-repeat:no-repeat}
+.sobre label{display:block;font-family:var(--mano);font-weight:700;font-size:2rem;letter-spacing:.06em;line-height:1.1;padding-right:80px}
+.timbre{position:absolute;top:22px;right:22px;width:62px;height:74px;display:grid;place-items:center;background:var(--azul);outline:3px dotted #fffdf5;outline-offset:-1px;box-shadow:0 0 0 3px var(--azul);transform:rotate(3deg);transition:transform .9s cubic-bezier(.3,-.3,.5,1)}
+.timbre img{width:42px}
+.renglon{display:flex;align-items:baseline;gap:.6rem;border-bottom:2px solid var(--noche);margin:.9rem 0 1.2rem}
+.renglon span{font-style:italic}
+.renglon input{flex:1;min-width:0;border:0;background:none;font:italic 400 1.3rem/1.5 var(--texto);color:var(--noche);padding:.25rem 0}
+.renglon input::placeholder{color:#55679ca6}.renglon input:focus{outline:none}
+.renglon:focus-within{border-color:var(--vino);box-shadow:0 2px 0 var(--vino)}
+.trampa{position:absolute;left:-9999px;width:1px;height:1px}
+.aviso-form{margin-top:.7rem;font-family:var(--mano);font-weight:700;font-size:1.6rem;letter-spacing:.04em;line-height:1.1}.aviso-form:empty{display:none}
+.sobre.enviado{transform:rotate(1deg)}.sobre.enviado .timbre{transform:translate(70px,-150px) rotate(24deg) scale(.7);opacity:0;transition:transform .9s,opacity .9s .4s}
+.sobre.enviado label,.sobre.enviado .renglon,.sobre.enviado .boton{display:none}.sobre.enviado .aviso-form{margin:0;font-size:2.1rem}
+.cartas .pie a{color:inherit}
+.legal{max-width:40em}.legal h2{font-size:2.5rem;margin:1.6rem 0 .2rem}.legal .sub{margin-top:2rem;font-size:1.5rem}
+footer small a{color:inherit}
 .cartas .pie{font-size:1rem;margin-top:.9rem}
 .redes{text-align:center}
 .fila-redes{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:2rem}
