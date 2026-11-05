@@ -99,6 +99,10 @@ T = {
   no_hay="This page flew away", no_hay_btn="Back to home", ave_t="Go to the letters", meses="January February March April May June July August September October November December".split()),
 }
 e = html.escape
+def version(ruta):
+    import hashlib
+    return hashlib.sha1(open(os.path.join(RAIZ, ruta), "rb").read()).hexdigest()[:8]
+V_CSS, V_JS = version("css/sitio.css"), version("js/sitio.js")
 def url(l, k): return "/" + RUTAS[k][0 if l == "es" else 1]
 def yt(i): return f"https://www.youtube.com/watch?v={i}"
 def fecha(l, f):
@@ -188,8 +192,8 @@ def pagina(l, clave, titulo, cuerpo, ruta_es=None, ruta_en=None, ld=""):
 <meta property="og:title" content="{e(full)}"><meta property="og:description" content="{e(t['desc'])}"><meta property="og:image" content="{BASE}/img/compartir.jpg"><meta property="og:url" content="{BASE}/{mi}"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#2d3b70"><link rel="icon" href="/img/favicon.png"><link rel="canonical" href="{BASE}/{mi}">
 <link rel="alternate" hreflang="es" href="{BASE}/{es_r}"><link rel="alternate" hreflang="en" href="{BASE}/{en_r}">
-<link rel="preload" href="/fonts/amaticsc-normal-700.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/css/sitio.css">{ld}
-<script src="/js/sitio.js" defer></script></head>
+<link rel="preload" href="/fonts/amaticsc-normal-700.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/css/sitio.css?v={V_CSS}">{ld}
+<script src="/js/sitio.js?v={V_JS}" defer></script></head>
 <body class="p-{clave}">{SIMBOLOS}
 <header class="barra"><a class="logo" href="{url(l,'inicio')}"><img src="/img/marca/avelina.png" alt="Avelina" width="707" height="157"></a>
 <details class="menu"><summary>{t['menu']}</summary><nav>{nav}</nav></details>
