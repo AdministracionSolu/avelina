@@ -9,11 +9,13 @@ El sitio se genera con `fuente/build.py` (Python, sin dependencias). No edites a
 3. `git add -A && git commit -m "lo que cambiaste" && git push`
 
 - **Video de presentación:** cambia `PRESENTACION` por el id de YouTube y guarda su miniatura en `img/videos/<id>.webp`.
-- **Nuevo video o entrada del diario:** agrega una línea al inicio de `VIDEOS`. `musica=1` lo pone en el mosaico y `pared=1` en la pared.
+- **Nuevo video o entrada del diario:** agrega una línea al inicio de `VIDEOS`. `mia=1` lo pone en Mis canciones y Mis letras, `musica=1` en Covers y `pared=1` en la pared.
+- **Baúl de mi alma:** guarda `img/fotos/<nombre>.webp` y `<nombre>-chica.webp` y agrégalo a `BAUL`.
+- **Marca:** el «Avelina» bordado, las telas y los marcos salen de `fuente/generar_marca.py` (pide pillow y numpy). Están dibujados con código y no usan imágenes de referencia, que son de otros autores.
 - **HTTPS:** el dominio principal es `avelina.com.mx` (sin www), que tiene certificado válido. Si cambias `CNAME` a www, el sitio vuelve a marcar «no seguro» hasta que exista certificado para www.
 - **Cartas:** los correos se guardan en Supabase, proyecto AvPiPro, tabla `cartas_avelina`. Se ven en el panel de Supabase (Table Editor). Desde el sitio solo se puede agregar. La llave secreta nunca va en este repo, que es público.
 - **Latido:** `.github/workflows/latido-supabase.yml` toca la base dos veces por semana para que el plan gratis no la pause.
-- **Tipografías:** Amatic SC y Newsreader suplen a Glypher y Karumbi del manual. Si tienes los archivos de las originales, se cambian en `css/sitio.css`.
+- **Tipografías:** Sedgwick Ave (títulos) y Kalam (textos), ambas gratis con licencia OFL, suplen a Belmonte Ballpoint. Si se compra Belmonte con licencia web, se agrega su `@font-face` y se cambian `--mano` y `--texto` en `css/sitio.css`.
 
 ## No borrar
 - `CNAME`: le dice a GitHub que el sitio vive en avelina.com.mx. Si se borra, el dominio deja de funcionar.

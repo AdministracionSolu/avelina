@@ -15,8 +15,6 @@ document.querySelectorAll('.lite').forEach(b => b.addEventListener('click', () =
   f.title = b.getAttribute('aria-label'); f.allow = 'autoplay; encrypted-media; picture-in-picture'; f.allowFullscreen = true;
   b.replaceWith(f);
 }));
-// Carta de la libreta
-document.querySelectorAll('[data-abre]').forEach(b => b.addEventListener('click', () => document.getElementById(b.dataset.abre).showModal()));
 document.querySelectorAll('dialog').forEach(d => d.addEventListener('click', e => { if (e.target === d) d.close(); }));
 // Cartas: solo agradece si Supabase confirmó que guardó el correo
 document.querySelectorAll('.sobre').forEach(f => f.addEventListener('submit', async e => {
@@ -34,7 +32,7 @@ document.querySelectorAll('.sobre').forEach(f => f.addEventListener('submit', as
     f.classList.add('enviado'); aviso.textContent = f.dataset.ok;
   } catch { aviso.textContent = f.dataset.error; b.disabled = false; }
 }));
-// Álbum
+// Baúl: ver en grande
 const vista = document.createElement('dialog'); vista.className = 'vista';
 vista.addEventListener('click', () => vista.close());
 document.body.append(vista);
