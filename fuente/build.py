@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Genera todo el sitio. Uso: python3 fuente/build.py  (desde la raíz del repo).
 Para agregar un video o una entrada del diario, edita VIDEOS. Para cambiar el video
-de presentación, cambia PRESENTACION. Cuando el certificado HTTPS esté listo, cambia BASE."""
+de presentación, cambia PRESENTACION."""
 import html, json, os, re
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-BASE = "http://www.avelina.com.mx"
+BASE = "https://avelina.com.mx"
 PRESENTACION = "rmZBT6yQDr4"
 DM = "https://ig.me/m/avelinaa.mar"
 YT = "https://www.youtube.com/@AvelinaMartinetMolina"
@@ -182,7 +182,7 @@ def pagina(l, clave, titulo, cuerpo, ruta_es=None, ruta_en=None, ld=""):
     nav = "".join(f'<a href="{url(l,k)}"{" aria-current=page" if k==clave else ""}>{n}</a>' for k, n in t["nav"])
     full = "Avelina · " + ("cantautora" if l == "es" else "singer-songwriter") if clave == "inicio" else f"{titulo} · Avelina"
     return f'''<!doctype html>
-<html lang="{t['html']}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="{t['html']}"><head><meta charset="utf-8"><script>if(location.protocol==="http:"&&location.hostname==="avelina.com.mx")location.replace("https://avelina.com.mx"+location.pathname+location.search+location.hash)</script><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(full)}</title><meta name="description" content="{e(t['desc'])}">
 <meta property="og:title" content="{e(full)}"><meta property="og:description" content="{e(t['desc'])}"><meta property="og:image" content="{BASE}/img/compartir.jpg"><meta property="og:url" content="{BASE}/{mi}"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#2d3b70"><link rel="icon" href="/img/favicon.png"><link rel="canonical" href="{BASE}/{mi}">

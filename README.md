@@ -10,7 +10,8 @@ El sitio se genera con `fuente/build.py` (Python, sin dependencias). No edites a
 
 - **Video de presentación:** cambia `PRESENTACION` por el id de YouTube y guarda su miniatura en `img/videos/<id>.webp`.
 - **Nuevo video o entrada del diario:** agrega una línea al inicio de `VIDEOS`. `musica=1` lo pone en el mosaico y `pared=1` en la pared.
-- **HTTPS:** cuando el certificado funcione, cambia `BASE` a `https://www.avelina.com.mx` y vuelve a generar.
+- **HTTPS:** el dominio principal es `avelina.com.mx` (sin www), que tiene certificado válido. Si cambias `CNAME` a www, el sitio vuelve a marcar «no seguro» hasta que exista certificado para www.
+- **Cartas:** los correos llegan al destino en `CARTAS_DESTINO` de `fuente/build.py`.
 - **Tipografías:** Amatic SC y Newsreader suplen a Glypher y Karumbi del manual. Si tienes los archivos de las originales, se cambian en `css/sitio.css`.
 
 ## No borrar
