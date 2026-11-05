@@ -10,7 +10,7 @@ DM = "https://ig.me/m/avelinaa.mar"
 YT = "https://www.youtube.com/@AvelinaMartinetMolina"
 # Dónde se guardan los correos de las cartas. El diseño vive en el sitio; esto es solo el destino.
 CARTAS_DESTINO = "https://docs.google.com/forms/d/e/1FAIpQLSdzM1mxl6Y9UOgS43TMNM-qjSBjyNXzCM2F6qHH1jsVmF179Q/formResponse"
-CARTAS_CAMPO = "entry.697244922"
+CARTAS_CAMPO = "entry.1295792918"
 REDES = [("Instagram", "@avelinaa.mar", "https://www.instagram.com/avelinaa.mar/", "ave"),
          ("TikTok", "@avelinamm7", "https://www.tiktok.com/@avelinamm7", "estrella"),
          ("YouTube", "@AvelinaMartinetMolina", YT, "ola")]
