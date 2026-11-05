@@ -18,14 +18,19 @@ document.querySelectorAll('.lite').forEach(b => b.addEventListener('click', () =
 // Carta de la libreta
 document.querySelectorAll('[data-abre]').forEach(b => b.addEventListener('click', () => document.getElementById(b.dataset.abre).showModal()));
 document.querySelectorAll('dialog').forEach(d => d.addEventListener('click', e => { if (e.target === d) d.close(); }));
-// Cartas: el correo se manda sin salir de la página
+// Cartas: solo agradece si Supabase confirmó que guardó el correo
 document.querySelectorAll('.sobre').forEach(f => f.addEventListener('submit', async e => {
   e.preventDefault();
   const aviso = f.querySelector('.aviso-form'), b = f.querySelector('button'), datos = new FormData(f);
   if (datos.get('sitio')) return;
-  datos.delete('sitio'); b.disabled = true; aviso.textContent = '';
+  b.disabled = true; aviso.textContent = '';
   try {
-    await fetch(f.action, { method: 'POST', mode: 'no-cors', body: new URLSearchParams(datos) });
+    const r = await fetch(f.dataset.destino, {
+      method: 'POST',
+      headers: { apikey: f.dataset.llave, 'Content-Type': 'application/json', Prefer: 'return=minimal' },
+      body: JSON.stringify({ correo: datos.get('correo').trim(), idioma: f.dataset.idioma })
+    });
+    if (!r.ok && r.status !== 409) throw new Error(r.status); // 409: ese correo ya estaba en la lista
     f.classList.add('enviado'); aviso.textContent = f.dataset.ok;
   } catch { aviso.textContent = f.dataset.error; b.disabled = false; }
 }));

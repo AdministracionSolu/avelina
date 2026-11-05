@@ -1,0 +1,22 @@
+# Toca la base de datos dos veces por semana para que el plan gratis de Supabase no la pause.
+# Manda un correo inválido a propósito: la base lo revisa y lo rechaza, así que no guarda nada.
+# Si la base no contesta, la corrida falla y GitHub avisa.
+name: Latido Supabase
+on:
+  schedule:
+    - cron: "17 15 * * 1,4"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  latido:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Tocar la base
+        run: |
+          r=$(curl -s -m 30 -X POST "https://bgnonjbkowraazdepexx.supabase.co/rest/v1/cartas_avelina" \
+            -H "apikey: sb_publishable_wSmKdiLmLPUJu9QUlLXasA_RiSUNbIY" \
+            -H "Content-Type: application/json" -H "Prefer: return=minimal" -d '{"correo":"latido"}')
+          echo "$r"
+          echo "$r" | grep -q '"23514"'
