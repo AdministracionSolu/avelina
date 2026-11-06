@@ -276,3 +276,5 @@ footer .ancho::before{content:"";display:block;width:84px;height:84px;margin:0 a
 .logo img{width:158px}.texto-portada h1 img{width:min(82vw,640px);margin-left:-10px;filter:drop-shadow(0 1px 1px #0006)}
 .p-videos .logo img,.p-album .logo img{filter:brightness(.4) saturate(1.5)}
 footer img{width:190px}
+.texto-portada h1 img{filter:drop-shadow(0 1px 2px #000b) drop-shadow(0 0 12px #0009)}
+@media(max-width:700px){.portada::after{background:linear-gradient(to top,#160e0af0 0,#160e0ad0 42%,#160e0a00 72%),linear-gradient(to bottom,#160e0a80,#160e0a00 20%)}}
