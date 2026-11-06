@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-"""Genera los materiales azules del sitio en img/azul/. Todo se dibuja aquí con código:
+"""Genera los materiales del sitio en img/azul/ e img/calido/. Todo se dibuja aquí con código:
 las fotos de inspiración son de otras personas y nunca entran al sitio. Las aves son las
-golondrinas del manual de Avelina (img/marca/golondrinas.png).
-Necesita numpy, scipy y pillow. Uso: python3 fuente/generar_azul.py  (desde la raíz del repo)."""
+golondrinas del manual de Avelina (img/marca/golondrinas.png). La letra de la tela vino es su
+canción Country girl, escrita con Sedgwick Ave (licencia OFL, fuente/sedgwickave.ttf).
+Necesita numpy, scipy y pillow. Uso: python3 fuente/generar_materiales.py  (desde la raíz del repo)."""
 import math, os, random
 import numpy as np
-from PIL import Image, ImageDraw, ImageFilter
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 from scipy import ndimage as ni
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SAL = os.path.join(RAIZ, "img/azul"); os.makedirs(SAL, exist_ok=True)
@@ -41,16 +42,17 @@ def doblez(sh, W, H, xs, ys, semilla):
     return sh + gasto * np.clip(.55 + .4 * rot, 0, 1) * .26
 
 MAR = [(0, "#10264f"), (.2, "#1b3263"), (.38, "#2a4674"), (.55, "#55708f"), (.72, "#8c9ba6"), (.88, "#c9c8bb"), (1, "#ece6d6")]
-def mar(W=2400, H=1200, semilla=7):
-    hy = int(H * .15)                       # horizonte
-    Y, X = np.mgrid[0:H, 0:W].astype(float)
-    t = np.clip((Y - hy) / (H - hy), 0, 1)
+def mar(W=3600, H=1800, semilla=7):
+    e = W / 2400; W0, H0 = 2400, 1200       # la composición se piensa en 2400 y se imprime más grande
+    hy = int(H0 * .15)                      # horizonte
+    Y, X = np.mgrid[0:H, 0:W].astype(float); Y /= e; X /= e
+    t = np.clip((Y - hy) / (H0 - hy), 0, 1)
     s = .08 + t**1.35                       # perspectiva: lejos todo se comprime
     n1 = ruido(1024, 2048, 1.7, semilla, ax=2.1); n2 = ruido(1024, 2048, 1.15, semilla + 1, ax=1.5)
-    u = (X - W / 2) / (.5 + s); v = 520 * np.log(s / .08 + 1)
+    u = (X - W0 / 2) / (.5 + s); v = 520 * np.log(s / .08 + 1)
     def muestra(n, a, b): return ni.map_coordinates(n, [(b % 1024), (a % 2048)], order=1, mode="wrap")
     alt = muestra(n1, u * .34, v) + .5 * muestra(n2, u * .9, v * 2.1)
-    gy = np.gradient(ni.gaussian_filter(alt, (1.5, 3)), axis=0)
+    gy = np.gradient(ni.gaussian_filter(alt, (1.5 * e, 3 * e)), axis=0)
     gy = gy / (np.abs(gy).mean() + 1e-6)
     L = .3 + .03 * gy * (.5 + t) + .055 * alt
     # lavado de espuma en la orilla, abajo
@@ -59,7 +61,7 @@ def mar(W=2400, H=1200, semilla=7):
     L = L + orilla * (.1 + .3 * parches)
     # olas largas que revientan, de lejos a cerca
     for k, (ty, alto, fuerza, cubre) in enumerate([(.09, 8, .24, .5), (.2, 12, .3, .7), (.34, 18, .36, .5), (.5, 26, .44, .8), (.7, 34, .46, .75)]):
-        yc = hy + ty * (H - hy) + ruido(8, W, 2.1, semilla + 10 + k)[0] * (12 + 50 * ty)
+        yc = hy + ty * (H0 - hy) + ruido(8, W, 2.1, semilla + 10 + k)[0] * (12 + 50 * ty)
         pres = np.clip(ruido(8, W, 2.6, semilla + 20 + k)[0] * .5 + cubre, 0, 1)
         d = Y - yc[None, :]
         L = L - .17 * np.exp(-np.clip(d, 0, None) / (alto * 1.6)) * (d > 0) * (.4 + .6 * pres[None, :])          # cara oscura
@@ -76,9 +78,11 @@ def mar(W=2400, H=1200, semilla=7):
     L = np.where(L > .56, .56 + (L - .56) * .62, L)            # la espuma no se quema
     L = L + .045 * ruido(H, W, 2.0, semilla + 41)              # manchas de la impresión
     L = doblez(L, W, H, [W * .5, W * .25, W * .75], [H * .4, H * .78], semilla + 50)
-    L = ni.gaussian_filter(L, .6)
-    L = L + np.random.default_rng(semilla + 60).normal(0, .03, L.shape)  # grano de papel
-    guarda(tono(np.clip(L, 0, .97), MAR), "mar.webp", 66)
+    L = ni.gaussian_filter(L, .5)
+    L = L + ni.gaussian_filter(np.random.default_rng(semilla + 60).normal(0, .03, L.shape), .6)  # grano de papel fino
+    final = tono(np.clip(L, 0, .97), MAR)
+    guarda(final, "mar.webp", 80)
+    Image.fromarray(final.astype("uint8")).resize((1800, 900), Image.LANCZOS).save(os.path.join(SAL, "mar-chico.webp"), quality=78, method=6)
 
 def estrella(c, r, giro, rr):
     p = []
@@ -94,10 +98,10 @@ def estrellas(N=1400, semilla=3):
     # papel de estrellas recortadas
     mascara = Image.new("L", (M, M), 0); sombra = Image.new("L", (M, M), 0)
     d = ImageDraw.Draw(mascara); ds = ImageDraw.Draw(sombra); puestos = []
-    for _ in range(9000):
+    for _ in range(700):
         x, y = rr.uniform(0, N), rr.uniform(0, N)
-        r = rr.choice([7, 8, 9, 11, 13, 16, 20, 25, 31])
-        ok = all(min(abs(x - a), N - abs(x - a))**2 + min(abs(y - b), N - abs(y - b))**2 > (r + c + 30)**2 for a, b, c in puestos)
+        r = rr.choice([6, 7, 7, 8, 9, 10, 12, 15, 19])
+        ok = all(min(abs(x - a), N - abs(x - a))**2 + min(abs(y - b), N - abs(y - b))**2 > (r + c + 118)**2 for a, b, c in puestos)
         if ok:
             puestos.append((x, y, r))
             pol0 = estrella((x, y), r, rr.uniform(-.5, .5), rr)
@@ -109,16 +113,16 @@ def estrellas(N=1400, semilla=3):
     sb = np.asarray(sombra.resize((N, N), Image.LANCZOS).filter(ImageFilter.GaussianBlur(2)), float) / 255
     # veta del papel de las estrellas
     veta = ruido(N, N, 1.1, semilla + 2, ax=.25, ay=5)
-    papel = tono(np.clip(.55 + .16 * veta, 0, 1), [(0, "#8d8878"), (.5, "#c8bfa8"), (1, "#e9e2cf")])
+    papel = tono(np.clip(.55 + .16 * veta, 0, 1), [(0, "#6f7486"), (.5, "#9fa2a2"), (1, "#c3c0b0")])
     a = fondo * (1 - .35 * sb[..., None])
     a = a * (1 - m[..., None]) + papel * m[..., None]
     # polvo de estrellas
     r = np.random.default_rng(semilla + 3); polvo = np.zeros((N, N))
-    ys, xs = r.integers(0, N, 2600), r.integers(0, N, 2600); polvo[ys, xs] = r.uniform(.4, 1, 2600)
+    ys, xs = r.integers(0, N, 620), r.integers(0, N, 620); polvo[ys, xs] = r.uniform(.3, .8, 620)
     p2 = ni.gaussian_filter(polvo, .6, mode="wrap") * 2.4
-    a = a + np.clip(p2, 0, 1)[..., None] * (rgb("#ece6d6") - a) * .85
+    a = a + np.clip(p2, 0, 1)[..., None] * (rgb("#ece6d6") - a) * .6
     a = a + r.normal(0, 3.2, (N, N, 1))
-    guarda(a, "estrellas.webp", 64)
+    guarda(a, "estrellas.webp", 82)
 
 def golondrinas():
     """Separa las golondrinas del manual, una por una, ya suavizadas."""
@@ -132,29 +136,30 @@ def golondrinas():
         aves.append(g.point(lambda v: 255 if v > 118 else 0).filter(ImageFilter.GaussianBlur(1)))
     return aves
 
-def cielo(N=1400, semilla=11):
-    aves = golondrinas()
+def cielo(N=2800, semilla=11):
+    e = N // 1400; aves = golondrinas()
     nube = ruido(N, N, 1.75, semilla)
     # nubes impresas con punto de tinta
     Y, X = np.mgrid[0:N, 0:N].astype(float); p = 2 * math.pi * 112 / N  # entero de ciclos: sigue sin costuras
     trama = (np.sin((X + Y) * p) * np.sin((X - Y) * p)) * .5 + .5
     dens = np.clip((nube + .1) / 1.8, 0, 1)
     punto = np.clip((dens - trama * .9) * 3, 0, 1)
-    L = .33 + .12 * ni.gaussian_filter(punto, 1, mode="wrap") + .05 * ruido(N, N, 1.2, semilla + 1)
+    L = .33 + .12 * ni.gaussian_filter(punto, 1.2 * e, mode="wrap") + .05 * ruido(N, N, 1.2, semilla + 1)
     a = tono(np.clip(L, 0, 1))
     capa = Image.new("L", (N, N), 0)
     rr = random.Random(semilla + 2)
     # bandada en la franja derecha del azulejo: el texto del diario queda libre a la izquierda
     for x, y, tam, op in [(1030, 90, 190, 235), (1190, 330, 140, 200), (930, 400, 115, 150), (1080, 610, 230, 235), (950, 880, 125, 165), (1180, 950, 160, 215), (1040, 1180, 150, 180)]:
-        g = rr.choice(aves); e = tam / max(g.size)
-        g = g.resize((int(g.width * e), int(g.height * e)), Image.LANCZOS).rotate(rr.uniform(-24, 24), expand=True, resample=Image.BICUBIC)
+        x, y, tam = x * e, y * e, tam * e
+        g = rr.choice(aves); f = tam / max(g.size)
+        g = g.resize((int(g.width * f), int(g.height * f)), Image.LANCZOS).rotate(rr.uniform(-24, 24), expand=True, resample=Image.BICUBIC)
         g = g.point(lambda v: v * op // 255)
         capa.paste(Image.composite(g, capa.crop((x, y, x + g.width, y + g.height)), g), (x, y))
     m = np.asarray(capa, float) / 255
-    borron = ni.gaussian_filter(m, 1.2) * (.82 + .18 * np.clip(ruido(N, N, .8, semilla + 3), -1, 1))
+    borron = ni.gaussian_filter(m, 1.2 * e) * (.82 + .18 * np.clip(ruido(N, N, .8, semilla + 3), -1, 1))
     a = a * (1 - borron[..., None]) + tono(np.clip(.9 + .03 * ruido(N, N, 1, semilla + 4), 0, 1)) * borron[..., None]
     r = np.random.default_rng(semilla + 5)
-    guarda(a + r.normal(0, 3.4, (N, N, 1)), "cielo.webp", 62)
+    guarda(a + ni.gaussian_filter(r.normal(0, 4, (N, N)), .6)[..., None], "cielo.webp", 78)
 
 def grabado(mascara, semilla):
     """Tinta de grabado: líneas finas dentro de la golondrina, como un buril."""
@@ -178,7 +183,7 @@ def papel_golondrinas(nombre, vuelo, N=900, semilla=21):
         tinta[y:y+hh, x:x+ww] = np.maximum(tinta[y:y+hh, x:x+ww], m[:hh, :ww])
     tinta = ni.gaussian_filter(tinta, .55)
     a = fondo * (1 - tinta[..., None] * .92) + rgb("#2c4696") * tinta[..., None] * .92
-    guarda(a + np.random.default_rng(semilla).normal(0, 2.2, (N, N, 1)), nombre, 72)
+    guarda(a + np.random.default_rng(semilla).normal(0, 2.2, (N, N, 1)), nombre, 86)
 
 def timbre(W=360, H=430, semilla=31):
     """Pinceladas de agua para el timbre de las cartas."""
@@ -197,10 +202,12 @@ def timbre(W=360, H=430, semilla=31):
         for _ in range(26):
             d.line([(cx + rr.gauss(0, 9), cy + rr.gauss(0, 5)), (cx + rr.gauss(0, 9), cy + rr.gauss(0, 5))], fill=rr.choice(["#f2b45a", "#ffb76d"]), width=5)
     im = im.filter(ImageFilter.GaussianBlur(1.2)).resize((W, H), Image.LANCZOS)
-    # papel del timbre con su orilla perforada
-    m, paso, r = 30, 28, 9
-    TW, TH = W + 2 * m - 2, H + 2 * m - 16
-    TW, TH = (TW // paso) * paso, (TH // paso) * paso
+    perfora(im, "timbre.webp", SAL)
+
+def perfora(im, nombre, carpeta):
+    """Papel de timbre con su orilla perforada alrededor de la imagen."""
+    W, H = im.size; m, paso, r = 30, 28, 9
+    TW, TH = ((W + 2 * m) // paso) * paso, ((H + 2 * m) // paso) * paso
     hoja = Image.new("RGBA", (TW * 2, TH * 2), "#fbf8ee"); al = Image.new("L", hoja.size, 255); da = ImageDraw.Draw(al)
     for x in range(0, TW + 1, paso):
         for y in (0, TH): da.ellipse([(x - r) * 2, (y - r) * 2, (x + r) * 2, (y + r) * 2], fill=0)
@@ -208,16 +215,16 @@ def timbre(W=360, H=430, semilla=31):
         for x in (0, TW): da.ellipse([(x - r) * 2, (y - r) * 2, (x + r) * 2, (y + r) * 2], fill=0)
     hoja.putalpha(al); hoja = hoja.resize((TW, TH), Image.LANCZOS)
     hoja.paste(im.crop((0, 0, TW - 2 * m, TH - 2 * m)), (m, m))
-    hoja.save(os.path.join(SAL, "timbre.webp"), quality=80, method=6)
-    print("timbre.webp", os.path.getsize(os.path.join(SAL, "timbre.webp")) // 1024, "KB")
+    hoja.save(os.path.join(carpeta, nombre), quality=82, method=6)
+    print(nombre, os.path.getsize(os.path.join(carpeta, nombre)) // 1024, "KB")
 
-def rasgado(W=1600, H=56, semilla=41, color="#fff7e0"):
+def rasgado(W=3200, H=112, semilla=41, color="#fff7e0"):
     """Orilla rasgada del papel crema: se pone encima del azul, sin costura al repetirse."""
     n = ruido(8, W, 1.45, semilla)[0]; fino = ruido(8, W, .85, semilla + 1)[0]
-    orilla = 26 + 8.5 * n + 1.8 * fino
+    orilla = 52 + 17 * n + 3.6 * fino
     Y = np.arange(H)[:, None]
     cuerpo = np.clip((Y - orilla[None, :] + .6) / 1.2, 0, 1)
-    fibra_alto = 5 + 2.4 * np.abs(ruido(8, W, 1.0, semilla + 2)[0])
+    fibra_alto = 10 + 4.8 * np.abs(ruido(8, W, 1.0, semilla + 2)[0])
     fibra = np.clip((Y - (orilla - fibra_alto)[None, :] + .6) / 1.2, 0, 1) * (ruido(H, W, .7, semilla + 3) > -.7)
     a = np.zeros((H, W, 4)); c = rgb(color); blanco = rgb("#fffdf7")
     a[..., :3] = blanco * (1 - cuerpo[..., None]) + c * cuerpo[..., None]
@@ -225,8 +232,104 @@ def rasgado(W=1600, H=56, semilla=41, color="#fff7e0"):
     Image.fromarray(a.astype("uint8"), "RGBA").save(os.path.join(SAL, "rasgado.png"), optimize=True)
     print("rasgado.png", os.path.getsize(os.path.join(SAL, "rasgado.png")) // 1024, "KB")
 
+CAL = os.path.join(RAIZ, "img/calido"); os.makedirs(CAL, exist_ok=True)
+def guarda_c(a, nombre, q=72):
+    Image.fromarray(np.clip(a, 0, 255).astype("uint8")).save(os.path.join(CAL, nombre), quality=q, method=6)
+    print(nombre, os.path.getsize(os.path.join(CAL, nombre)) // 1024, "KB")
+def trama(N, paso=3.0):
+    """Hilos de una tela de libro: urdimbre y trama. Paso entero de ciclos para no dejar costura."""
+    c = round(N / paso); Y, X = np.mgrid[0:N, 0:N].astype(float)
+    return np.sin(X * math.tau * c / N), np.sin(Y * math.tau * c / N)
+def tela(N, semilla, escala, luz=.5, arrugas=26):
+    u, v = trama(N); h = ruido(N, N, .9, semilla + 1, ax=.2, ay=3); w = ruido(N, N, .9, semilla + 2, ax=3, ay=.2)
+    L = luz + .07 * ruido(N, N, 1.8, semilla) + .025 * u * v + .03 * h + .03 * w
+    im = Image.new("L", (N, N), 0); d = ImageDraw.Draw(im); rr = random.Random(semilla + 3)
+    for _ in range(arrugas):       # gastado en los dobleces de la tela
+        x, y = rr.uniform(0, N), rr.uniform(0, N); a = rr.uniform(0, math.tau); pts = []
+        for i in range(9):
+            pts.append((x, y)); a += rr.gauss(0, .22); q = rr.uniform(10, 34); x += q * math.cos(a); y += q * math.sin(a)
+        for ox in (-N, 0, N):
+            for oy in (-N, 0, N):
+                d.line([(p + ox, q + oy) for p, q in pts], fill=rr.randint(70, 190), width=rr.choice([1, 1, 2]))
+    g = np.asarray(im.filter(ImageFilter.GaussianBlur(.9)), float) / 255
+    L = L + .34 * g * np.clip(.65 + .5 * ruido(N, N, .9, semilla + 4), 0, 1)
+    return tono(np.clip(L, 0, 1), escala)
+VINO = [(0, "#2f0b0a"), (.35, "#4d1715"), (.5, "#5b201d"), (.7, "#6b3f39"), (1, "#a98a78")]
+ROJO = [(0, "#5a1512"), (.32, "#8e2420"), (.5, "#9b302a"), (.68, "#a13932"), (.85, "#c98a72"), (1, "#e6d3b4")]
+def tela_vino(N=1400, semilla=51):
+    """Tela vino escrita a mano con la letra de Country girl."""
+    a = tela(N, semilla, VINO, .46, 8)
+    fuente = open(os.path.join(RAIZ, "fuente/build.py"), encoding="utf-8").read()
+    versos = [v.strip().rstrip(",.") for v in fuente.split('LETRA = """')[1].split('"""')[0].splitlines() if v.strip()]
+    ruta = os.environ.get("BIRO_TTF") or os.path.join(RAIZ, "fuente/sedgwickave.ttf")   # BIRO_TTF: solo para imprimir la tela, la fuente no se publica
+    if os.environ.get("BIRO_TTF"):
+        from fontTools.ttLib import TTFont
+        mapa = TTFont(ruta).getBestCmap(); versos = [v.replace(",", "") for v in versos if all(ord(c) in mapa for c in v.replace(",", ""))]
+    capa = Image.new("L", (N, N), 0); d = ImageDraw.Draw(capa); rr = random.Random(semilla + 1)
+    letra = ImageFont.truetype(ruta, 46); paso = 70
+    corrido = "   ".join(versos); pos = 0
+    for fila in range(N // paso):
+        y = fila * paso + 6; x = -rr.uniform(0, 240)
+        texto = (corrido[pos:] + "   " + corrido)[:90]; pos = (pos + 37) % len(corrido)
+        for ox in (0,):
+            d.text((x, y + rr.uniform(-2, 2)), texto, fill=255, font=letra, stroke_width=1, stroke_fill=255)
+    m = np.asarray(capa.filter(ImageFilter.GaussianBlur(.5)), float) / 255
+    m = m * np.clip(.84 + .3 * ruido(N, N, 1.1, semilla + 2), .4, 1)       # tinta gastada por la tela
+    a = a * (1 - m[..., None] * .92) + rgb("#dcc9b3") * m[..., None] * .92
+    guarda_c(a + np.random.default_rng(semilla).normal(0, 1.4, (N, N, 1)), "tela-vino.webp", 82)
+def tela_roja(N=900, semilla=61):
+    a = tela(N, semilla, ROJO, .5, 30)
+    # costura con pliegues, como en un libro viejo
+    y0 = int(N * .8); Y, X = np.mgrid[0:N, 0:N].astype(float)
+    rr = random.Random(semilla); hilo = np.zeros((N, N))
+    for x in range(0, N, 15):
+        hilo[y0 - 1 + rr.randint(-1, 1):y0 + 2, x:x + 10] = 1
+    hilo = ni.gaussian_filter(hilo, .7)
+    a = a * (1 - .32 * np.exp(-((Y - y0 - 5) / 7)**2))[..., None]
+    a = a * (1 - hilo[..., None]) + rgb("#e6d3b4") * hilo[..., None]
+    guarda_c(a + np.random.default_rng(semilla).normal(0, 2.4, (N, N, 1)), "tela-roja.webp", 84)
+def sol_naranja(N=900, semilla=71):
+    """Rayas de pincel que giran alrededor de un sol en la esquina."""
+    k = 2; M = N * k; rr = random.Random(semilla); im = Image.new("RGB", (M, M), "#d2321a"); d = ImageDraw.Draw(im)
+    cx, cy = M * .9, M * .1; tonos = ["#ebc82d", "#eb9f11", "#e66418", "#d2321a", "#9f1e19"]
+    def color(r, a):
+        b = (r / M * 5.2 + .85 * math.sin(a * 3.1 + r / M * 7)) % 5
+        return tonos[min(4, int(b + rr.gauss(0, .24)) % 5)]
+    for _ in range(62000):
+        x, y = rr.uniform(-40, M + 40), rr.uniform(-40, M + 40); r = math.hypot(x - cx, y - cy); a = math.atan2(y - cy, x - cx)
+        t = a + math.pi / 2 + .5 * math.sin(r / 240); l = rr.uniform(14, 34)
+        d.line([(x, y), (x + l * math.cos(t), y + l * math.sin(t))], fill=color(r, a), width=rr.randint(3, 5))
+    for _ in range(5200):
+        q = rr.uniform(0, 1)**.6 * M * .17; a = rr.uniform(0, math.tau); x, y = cx + q * math.cos(a), cy + q * math.sin(a)
+        d.line([(x, y), (x + 16 * math.sin(a), y - 16 * math.cos(a))], fill=rr.choice(["#fff3c0", "#ffe27a", "#ebc82d"]), width=4)
+    im = im.filter(ImageFilter.GaussianBlur(.8)).resize((N, N), Image.LANCZOS)
+    guarda_c(np.asarray(im, float) + np.random.default_rng(semilla).normal(0, 2.4, (N, N, 1)), "sol-naranja.webp", 80)
+def acuarela(N=900, semilla=81):
+    """Golondrinas del manual lavadas en acuarela vino sobre papel."""
+    fondo = tono(np.clip(.5 + .05 * ruido(N, N, 1.7, semilla), 0, 1), [(0, "#cfb79c"), (.5, "#dcc7ae"), (1, "#e8d9c4")])
+    aves = golondrinas(); rr = random.Random(semilla + 1); k = Image.new("L", (N, N), 0)
+    for x, y, tam, giro in [(30, 20, 250, 10), (640, 30, 220, -16), (40, 660, 220, -8), (620, 640, 240, 16)]:
+        g = rr.choice(aves); f = tam / max(g.size)
+        g = g.resize((int(g.width * f), int(g.height * f)), Image.LANCZOS).rotate(giro, expand=True, resample=Image.BICUBIC)
+        k.paste(255, (x, y), g)
+    m = ni.gaussian_filter(np.asarray(k, float) / 255, 1.6)
+    agua = np.clip(.72 + .34 * ruido(N, N, 1.35, semilla + 4), .3, 1)
+    a = fondo * (1 - m[..., None] * agua[..., None]) + rgb("#904041") * m[..., None] * agua[..., None]
+    guarda_c(a, "acuarela.webp", 84)
+def timbre_sol(W=360, H=430, semilla=91):
+    """Timbre: sol de oro estampado en tela roja."""
+    a = tela(max(W, H), semilla, ROJO, .45, 10)[:H, :W]
+    k = 3; im = Image.new("L", (W * k, H * k), 0); d = ImageDraw.Draw(im); cx, cy = W * k * .5, H * k * .46; R = 62 * k
+    for i in range(16):
+        t = i / 16 * math.tau + .1; d.line([(cx + R * 1.2 * math.cos(t), cy + R * 1.2 * math.sin(t)), (cx + 900 * math.cos(t), cy + 900 * math.sin(t))], fill=255, width=2 * k)
+    d.ellipse([cx - R, cy - R, cx + R, cy + R], fill=255)
+    m = np.asarray(im.resize((W, H), Image.LANCZOS), float) / 255
+    oro = tono(np.clip(.55 + .22 * ruido(H, W, 1.2, semilla + 1), 0, 1), [(0, "#a07a3c"), (.5, "#e5b771"), (1, "#f4e0a6")])
+    a = a * (1 - m[..., None]) + oro * m[..., None]
+    perfora(Image.fromarray(np.clip(a, 0, 255).astype("uint8")), "timbre-sol.webp", CAL)
+
 if __name__ == "__main__":
     mar(); estrellas(); cielo(); papel_golondrinas("golondrinas-1.webp", [(30, 20, 330, 12), (600, 40, 270, -14), (40, 610, 270, -6), (560, 580, 330, 18)])
     papel_golondrinas("golondrinas-2.webp", [(330, 16, 250, -20), (620, 120, 240, 8), (20, 90, 220, 16), (250, 660, 230, 24), (600, 640, 220, -10)], semilla=22)
-    papel_golondrinas("golondrinas-3.webp", [(20, 30, 250, -12), (20, 600, 280, 20), (610, 330, 270, -22), (560, 650, 220, 6), (610, 30, 200, 14)], semilla=23)
-    timbre(); rasgado()
+    papel_golondrinas("golondrinas-3.webp", [(20, 30, 250, -12), (20, 620, 260, 20), (610, 660, 230, 6), (340, 690, 170, -14), (610, 30, 210, 14)], semilla=23)
+    timbre(); rasgado(); tela_vino(); tela_roja(); sol_naranja(); acuarela(); timbre_sol()

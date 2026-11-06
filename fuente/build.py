@@ -65,6 +65,12 @@ I ask her how she is
 I wonder if I can help her
 with all her pain"""
 
+# Fragmento de su artículo en Substack, tal como ella lo escribió.
+SUBSTACK = "https://avelinaa.substack.com/p/corazon-de-agua"
+CORAZON = """Solo quiero ser profundamente yo.
+
+Ya no me quiero tener miedo, o sentir que por expresar lo que siento tan fuertemente asustaré a las personas y se alejarán de mí. Sé que es demasiado vulnerable escribir esto y exponerme de esta manera, pero creo que es la única forma de aprender a aceptar que tal vez hay días en los que sí soy un poco rara, pero ¿quién no es raro? Y, sobre todo, aceptar que así es mi corazón, un corazón de agua, como lo llamo, siempre propenso a derramarse, de amor, de lágrimas, de sensibilidad."""
+
 RUTAS = {"inicio": ("", "en/"), "musica": ("musica/", "en/music/"), "videos": ("videos/", "en/videos/"),
          "diario": ("diario/", "en/diary/"), "album": ("album/", "en/album/"),
          "quien": ("quien-soy/", "en/about/"), "contacto": ("contacto/", "en/contact/"), "privacidad": ("privacidad/", "en/privacy/")}
@@ -74,7 +80,7 @@ T = {
   desc="Avelina, cantautora nacida en Sonora y foránea en Monterrey. Canto lo que escribo.",
   ver_videos="Ver videos", leer_diario="Leer el diario",
   hola="Hola, soy Avelina", hola_txt="Nací en un pueblo pequeño de Sonora y hoy soy foránea en Monterrey. Mis canciones nacen improvisando, sola con mi guitarra.", mas_quien="Conóceme",
-  play="Reproducir video", libreta="Una página de la libreta", leer="Leer la página", libreta_pie="Country girl, junio de 2026", cerrar="Cerrar", nota_carta="Quiero subir un álbum completo a YouTube con mis letras, grabado en casa. Esta es la primera canción.",
+  play="Reproducir video", libreta="Una página de la libreta", leer="Leer la página", leer_substack="Leer en Substack", cerrar="Cerrar",
   musica="Música", musica_txt="Todavía no hay discos. Por ahora las canciones viven en video. Toca un cuadro para descubrirla.", descubre="Escuchar en YouTube", avisame="Avísame cuando salga", toca_ave="Lo que viene", voltea="Ver",
   pared="La pared", pared_txt="Cada marco te lleva directo al video.", todos="Todos en YouTube", ver="Ver en YouTube", ver_pared="Ver toda la pared",
   diario="Diario", diario_sub="Solo en línea", diario_txt="Casi siempre estoy grabando. Aquí se va quedando lo que escribo y lo que canto, con su fecha.", diario_mas="Abrir el diario", meses_t="Meses",
@@ -88,7 +94,7 @@ T = {
   desc="Avelina, singer-songwriter born in Sonora, Mexico, living in Monterrey. I sing what I write.",
   ver_videos="Watch videos", leer_diario="Read the diary",
   hola="Hi, I'm Avelina", hola_txt="I was born in a small town in Sonora and now live far from home in Monterrey. My songs begin as improvisations, alone with my guitar.", mas_quien="Get to know me",
-  play="Play video", libreta="A page from the notebook", leer="Read the page", libreta_pie="Country girl, June 2026", cerrar="Close", nota_carta="I want to upload a full album to YouTube with my lyrics, recorded at home. This is the first song.",
+  play="Play video", libreta="A page from the notebook", leer="Read the page", leer_substack="Read on Substack", cerrar="Close",
   musica="Music", musica_txt="There are no records yet. For now the songs live on video. Tap a square to find one.", descubre="Listen on YouTube", avisame="Tell me when it's out", toca_ave="What's next", voltea="See",
   pared="The wall", pared_txt="Every frame takes you straight to the video.", todos="All on YouTube", ver="Watch on YouTube", ver_pared="See the whole wall",
   diario="Diary", diario_sub="Only online", diario_txt="I am almost always filming. What I write and sing stays here, with its date.", diario_mas="Open the diary", meses_t="Months",
@@ -112,11 +118,17 @@ def mes(l, f):
     y, m, _ = map(int, f.split("-")); mes_ = T[l]["meses"][m-1]
     return f"{mes_} {y}"
 SIMBOLOS = '''<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+<path id="aro" d="M60 60m-43 0a43 43 0 1 1 86 0a43 43 0 1 1-86 0"/>
 <symbol id="ola" viewBox="0 0 64 28"><path d="M3 18c7-10 13-10 20 0s13 10 20 0 12-9 18-1" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
 <symbol id="estrella" viewBox="0 0 40 40"><path d="M20 3l4 12.5L37 20l-13 4.500L20 37l-4-12.500L3 20l13-4.500z" fill="none" stroke="currentColor" stroke-width="2.200" stroke-linejoin="round"/></symbol>
 <symbol id="ave" viewBox="0 0 56 36"><path d="M4 23c9-9 16-9 22-3 5-10 14-14 26-10-8 3-12 8-15 14-9 4-21 3-33-1z" fill="none" stroke="currentColor" stroke-width="2.300" stroke-linejoin="round"/></symbol>
 </defs></svg>'''
 def ic(n, c=""): return f'<svg class="ic {c}" aria-hidden="true"><use href="#{n}"/></svg>'
+
+def matasellos(t, clase=""):
+    """Matasellos con sus palabras. El aro de texto usa la tipografía del sitio."""
+    aro = e(t["frase"].upper()) + " · MONTERREY ·"
+    return f'''<svg class="matasellos {clase}" viewBox="0 0 236 120" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="60" cy="60" r="56"/><circle cx="60" cy="60" r="33"/><path stroke-linecap="round" d="M124 34c13-9 26-9 39 0s26 9 39 0 22-7 30-2M124 60c13-9 26-9 39 0s26 9 39 0 22-7 30-2M124 86c13-9 26-9 39 0s26 9 39 0 22-7 30-2"/></g><text fill="currentColor" font-size="11.5" font-weight="500" letter-spacing=".6"><textPath href="#aro" textLength="262">{aro}</textPath></text><use href="#ave" x="35" y="43" width="50" height="34" color="currentColor"/></svg>'''
 
 def marco(l, v, carga="lazy"):
     return f'''<a class="obra {'obra-v' if v['tipo']=='v' else ''}" href="{yt(v['id'])}" target="_blank" rel="noopener">
@@ -148,7 +160,7 @@ def cartas(t):
     return f'''<section class="cartas" id="cartas"><div class="ancho">
 <h2>{t['cartas']}</h2><p class="lead">{t['cartas_txt']}</p>
 <form class="sobre" data-destino="{CARTAS_DESTINO}" data-llave="{CARTAS_LLAVE}" data-idioma="{l}" data-ok="{t['cartas_ok']}" data-error="{t['cartas_error']}">
-<span class="timbre" aria-hidden="true"><img src="/img/marca/paloma-1.png" alt=""></span>
+<span class="timbre" aria-hidden="true"><img src="/img/marca/paloma-1.png" alt=""></span>{matasellos(t, "m-sobre")}
 <label for="correo-cartas">{t['cartas_label']}</label>
 <div class="renglon"><span aria-hidden="true">{t['cartas_para']}</span><input id="correo-cartas" type="email" name="correo" required autocomplete="email" inputmode="email" placeholder="{t['cartas_ph']}"></div>
 <input class="trampa" type="text" name="sitio" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -161,8 +173,8 @@ def redes(t, clase="mar mar-2"):
 
 def dialogo_carta(t):
     return f'''<dialog class="carta" id="carta"><form method="dialog"><button class="cerrar" aria-label="{t['cerrar']}">×</button></form>
-<h3>Country girl</h3><p class="nota">{t['nota_carta']}</p><pre lang="en">{e(LETRA)}</pre>
-<a class="boton" href="{yt('YaefwL4A84s')}" target="_blank" rel="noopener">{t['ver']}</a></dialog>'''
+<h3 lang="es">Corazón de agua</h3><pre lang="es">{e(CORAZON)}</pre>
+<a class="boton" href="{SUBSTACK}" target="_blank" rel="noopener">{t['leer_substack']}</a></dialog>'''
 
 def diario_lista(l, t, vs, agrupar=True):
     out, actual = [], None
@@ -214,14 +226,14 @@ def inicio(l):
     ld = '<script type="application/ld+json">' + json.dumps({"@context":"https://schema.org","@type":"MusicGroup","name":"Avelina","alternateName":"Avelina Martinet Molina","genre":"cantautora","url":BASE+"/","image":BASE+"/img/compartir.jpg","description":T["es"]["desc"],"sameAs":[r[2] for r in REDES]}, ensure_ascii=False) + "</script>"
     c = f'''<section class="portada">
 <div class="fotos-portada" aria-hidden="true"><img src="/img/fotos/tarde.webp" alt="" fetchpriority="high"><img src="/img/fotos/guitarra.webp" alt=""><img src="/img/fotos/casa.webp" alt=""></div>
-<div class="orilla o-arriba"></div><div class="orilla o-abajo"></div><div class="orilla o-izq"></div><div class="orilla o-der"></div>
+<span class="sello-portada" aria-hidden="true"></span>{matasellos(t, "m-portada")}
 <a class="detalle d1" href="{url(l,'diario')}" aria-label="{t['diario']}">{ic('ave')}<span>{t['diario']}</span></a>
 <a class="detalle d2" href="{url(l,'musica')}" aria-label="{t['musica']}">{ic('estrella')}<span>{t['musica']}</span></a>
 <a class="detalle d3" href="{url(l,'videos')}" aria-label="{t['pared']}">{ic('ola')}<span>{t['pared']}</span></a>
 <div class="texto-portada"><h1><img src="/img/marca/avelina.png" alt="Avelina" width="707" height="157"></h1><p class="quien">{t['quien']}</p><p class="frase">{t['frase']}</p>
 <p class="acciones"><a class="boton boton-luz" href="{url(l,'videos')}">{t['ver_videos']}</a><a class="boton boton-linea" href="{url(l,'diario')}">{t['leer_diario']}</a></p></div></section>
-<section class="lienzo mar hola"><div class="ancho dos"><div>{video_presentacion(t)}</div><div><h2>{t['hola']}</h2><p class="lead">{t['hola_txt']}</p><a class="enlace" href="{url(l,'quien')}">{t['mas_quien']}</a></div></div></section>
-<section class="papel libreta"><div class="ancho dos"><div class="hoja"><p lang="en">I'm a country girl trying to be a singer,<br>with fewer chances, but maybe more heart.</p><small>{t['libreta_pie']}</small></div><div><h2>{t['libreta']}</h2><button class="boton" type="button" data-abre="carta">{t['leer']}</button></div></div></section>
+<section class="lienzo mar hola"><div class="ancho"><div class="postal"><div class="postal-foto">{video_presentacion(t)}</div><div class="postal-dorso"><span class="estampilla" aria-hidden="true"></span>{matasellos(t, "m-postal")}<h2>{t['hola']}</h2><p class="lead">{t['hola_txt']}</p><a class="enlace" href="{url(l,'quien')}">{t['mas_quien']}</a></div></div></div></section>
+<section class="papel libreta"><div class="ancho dos"><div class="hoja"><p lang="es">Solo quiero ser profundamente yo.</p><p lang="es">…así es mi corazón, un corazón de agua, como lo llamo, siempre propenso a derramarse, de amor, de lágrimas, de sensibilidad.</p><small lang="es">Corazón de agua</small></div><div><h2>{t['libreta']}</h2><button class="boton" type="button" data-abre="carta">{t['leer']}</button></div></div></section>
 {dialogo_carta(t)}
 <section class="lienzo"><div class="ancho"><h2>{t['musica']}</h2><p class="lead">{t['musica_txt']}</p>{mosaico(l, t)}</div></section>
 <section class="papel"><div class="ancho"><h2>{t['pared']}</h2><p class="lead">{t['pared_txt']}</p>{pared(l, pv)}<p class="centro"><a class="boton" href="{url(l,'videos')}">{t['ver_pared']}</a></p></div></section>
