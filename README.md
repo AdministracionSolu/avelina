@@ -16,7 +16,8 @@ El sitio se genera con `fuente/build.py` (Python, sin dependencias). No edites a
 - **Materiales:** el mar, las estrellas, el cielo, las telas y los timbres están en `img/azul/` e `img/calido/` y se generan con `fuente/generar_materiales.py` (necesita numpy, scipy y pillow). Las fotos de inspiración son de otras personas y nunca entran al sitio.
 - **Fotos:** `fuente/generar_fotos.py` rehace `img/fotos/` desde los originales en Descargas.
 - **Estampas y sellos de cera:** `img/estampas/`, dibujados con `fuente/generar_estampas.py`.
-- **Letra a mano:** Avelina Mano, en `fonts/`. Es una versión modificada de Nothing You Could Do (Kimberly Geswein, licencia OFL, ver `fonts/OFL-avelina-mano.txt`). Se rehace con `fuente/generar_mano.py`.
+- **Letra a mano:** Avelina Mano, en `fonts/`. Es una versión modificada de Nothing You Could Do (Kimberly Geswein, licencia OFL, ver `fonts/OFL-avelina-mano.txt`). Cada letra está retrazada con textura de lápiz y se rehace con `fuente/generar_mano.py`.
+- **Avelina bordado:** `img/marca/avelina-hilo.webp` se genera con `fuente/generar_hilo.py fuente/oooh-baby.ttf` (la letra Oooh Baby, licencia OFL, solo sirve de guía para las puntadas).
 - **Tipografías:** Newsreader para el texto y letra a mano para títulos, menú y botones.
 
 ## No borrar

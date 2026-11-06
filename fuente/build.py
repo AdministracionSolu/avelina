@@ -230,12 +230,12 @@ def pagina(l, clave, titulo, cuerpo, ruta_es=None, ruta_en=None, ld=""):
 <link rel="preload" href="/fonts/avelina-mano.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/css/sitio.css?v={V_CSS}">{ld}
 <script src="/js/sitio.js?v={V_JS}" defer></script></head>
 <body class="p-{clave}">{SIMBOLOS}
-<header class="barra"><a class="logo" href="{url(l,'inicio')}"><img src="/img/marca/avelina.png" alt="Avelina" width="707" height="157"></a>
+<header class="barra"><a class="logo" href="{url(l,'inicio')}"><img src="/img/marca/avelina-hilo.webp" alt="Avelina" width="1341" height="332"></a>
 <details class="menu"><summary>{bi(t['menu'])}</summary><nav>{nav}</nav></details>
 <nav class="nav-ancho" aria-label="{t['menu']}">{nav}</nav>
 <a class="idioma" href="/{alt}" hreflang="{otro}" lang="{otro}" aria-label="{t['otra_nombre']}">{bi(t['otra'])}</a></header>
 <main>{cuerpo}</main>
-<footer><div class="ancho"><img src="/img/marca/avelina.png" alt="" width="707" height="157" loading="lazy"><p>{bi(t['frase'])}</p>
+<footer><div class="ancho"><img src="/img/marca/avelina-hilo.webp" alt="" width="1341" height="332" loading="lazy"><p>{bi(t['frase'])}</p>
 <nav>{"".join(f'<a href="{h}" target="_blank" rel="noopener">{bi(n)}</a>' for n,u,h,i in REDES)}</nav><small>© 2026 Avelina Martinet Molina · <a href="{url(l,'privacidad')}">{t['priv_t']}</a></small></div></footer>
 <a class="companera" href="{url(l,'contacto')}#cartas" aria-label="{t['ave_t']}" title="{t['ave_t']}"><img src="/img/estampas/golondrina-carta.webp" alt="" width="600" height="456"></a>
 </body></html>
@@ -256,7 +256,7 @@ def inicio(l):
 <a class="detalle d1" href="{url(l,'diario')}" aria-label="{t['diario']}">{ic('ave')}<span>{bi(t['diario'])}</span></a>
 <a class="detalle d2" href="{url(l,'musica')}" aria-label="{t['musica']}">{ic('estrella')}<span>{bi(t['musica'])}</span></a>
 <a class="detalle d3" href="{url(l,'videos')}" aria-label="{t['pared']}">{ic('ola')}<span>{bi(t['pared'])}</span></a>
-<div class="texto-portada"><h1><img src="/img/marca/avelina.png" alt="Avelina" width="707" height="157"></h1><p class="quien">{bi(t['quien'])}</p><p class="frase">{bi(t['frase'])}</p>
+<div class="texto-portada"><h1><img src="/img/marca/avelina-hilo.webp" alt="Avelina" width="1341" height="332"></h1><p class="quien">{bi(t['quien'])}</p><p class="frase">{bi(t['frase'])}</p>
 <p class="acciones"><a class="boton boton-luz" href="{url(l,'videos')}">{bi(t['ver_videos'])}</a><a class="boton boton-linea" href="{url(l,'diario')}">{bi(t['leer_diario'])}</a></p></div></section>
 <section class="lienzo mar hola"><div class="ancho"><div class="postal"><div class="postal-foto">{video_presentacion(t)}</div><div class="postal-dorso"><span class="estampilla" aria-hidden="true"></span>{matasellos(t, "m-postal")}<h2>{bi(t['hola'])}</h2><p class="lead">{t['hola_txt']}</p><a class="enlace" href="{url(l,'quien')}">{bi(t['mas_quien'])}</a></div></div></div></section>
 <section class="papel libreta"><span class="vuelo" aria-hidden="true"></span><div class="ancho dos"><div class="hoja"><p lang="es">Solo quiero ser profundamente yo.</p><p lang="es">…así es mi corazón, un corazón de agua, como lo llamo, siempre propenso a derramarse, de amor, de lágrimas, de sensibilidad.</p><small lang="es">{bi('Corazón de agua')}</small></div><div><h2>{bi(t['libreta'])}</h2><button class="boton" type="button" data-abre="carta">{bi(t['leer'])}</button></div></div></section>
