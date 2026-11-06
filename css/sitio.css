@@ -199,7 +199,7 @@ body{background:var(--noche) url(/img/azul/estrellas.webp) center top/700px}
 .red{background:var(--carton);color:var(--noche);border:0;border-radius:0;padding:1.7rem 1rem;text-shadow:none;transition:transform .2s}
 .red:hover{background:var(--carton);color:var(--vino);transform:translateY(-4px) rotate(-1deg)}
 @media(max-width:900px){.postal{grid-template-columns:1fr}.postal-dorso{border-left:0;border-top:1px solid #1c356d44;padding:106px 4px 6px;min-height:0}.m-postal{top:16px;right:66px}}
-@media(max-width:560px){.cara,.cuadro-dib{font-size:1.2rem}.cara{padding:0 5% 6%}.vuelo{width:62vw;top:10px}.hoja::before{right:-6px;width:84px;height:84px}.sobre::after{width:66px;height:66px;right:10px;bottom:8px}.portada{margin:8px;min-height:calc(100svh - 16px)}.barra{padding:30px 34px}.m-portada{right:44px}.sobre label{padding-right:92px}.m-sobre{width:104px;right:60px;top:34px}.renglon{margin-right:0;margin-top:1.6rem}.obra::after{width:70px;height:34px}}
+@media(max-width:560px){.cara,.cuadro-dib{font-size:1.2rem}.cara{padding:0 5% 6%}.vuelo{width:62vw;top:10px}.hoja::before{right:8px;width:84px;height:84px}.sobre::after{width:66px;height:66px;right:10px;bottom:8px}.portada{margin:8px;min-height:calc(100svh - 16px)}.barra{padding:30px 34px}.m-portada{right:44px}.sobre label{padding-right:92px}.m-sobre{width:104px;right:60px;top:34px}.renglon{margin-right:0;margin-top:1.6rem}.obra::after{width:70px;height:34px}}
 /* letra a mano, estampas, sellos de cera y vuelo */
 .vh{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
 .biro{display:inline-block;height:1.25em;font-size:calc(1em*var(--b,1));vertical-align:-.35em;overflow:visible}
@@ -220,7 +220,7 @@ footer p{font-size:1.5rem;font-style:normal}footer nav{font-size:1.25rem;--b:1.1
 .dorso a{--b:1.05;letter-spacing:0}
 .cara:hover,.cuadro-dib:hover{filter:brightness(1.03)}
 .cera{position:absolute;pointer-events:none;background:center/contain no-repeat;filter:drop-shadow(0 3px 4px #2f0b0a66)}
-.hoja::before{content:"";position:absolute;right:-22px;bottom:-30px;width:104px;height:104px;background:url(/img/estampas/sello-azul.webp) center/contain no-repeat;transform:rotate(-9deg);filter:drop-shadow(0 3px 4px #0f235066)}
+.hoja::before{content:"";position:absolute;right:-12px;bottom:-30px;width:104px;height:104px;background:url(/img/estampas/sello-azul.webp) center/contain no-repeat;transform:rotate(-9deg);filter:drop-shadow(0 3px 4px #0f235066)}
 .sobre::after{content:"";position:absolute;right:18px;bottom:12px;width:82px;height:82px;background:url(/img/estampas/sello-vino.webp) center/contain no-repeat;transform:rotate(8deg);filter:drop-shadow(0 2px 3px #2f0b0a66)}
 .sobre.enviado::after{transition:opacity .4s}
 .carta::after{content:"";display:block;width:84px;height:84px;margin:-66px 0 0 auto;background:url(/img/estampas/sello-azul.webp) center/contain no-repeat}
