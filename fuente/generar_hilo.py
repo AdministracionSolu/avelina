@@ -9,7 +9,7 @@ from scipy import ndimage as ni
 from skimage.morphology import skeletonize
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 W, H = 2800, 1200
-HILO = [(0, "#5e4a30"), (.3, "#9c8561"), (.55, "#cdb88f"), (.78, "#e6d7b6"), (1, "#fbf3df")]
+HILO = [(0, "#4a3b2a"), (.28, "#857258"), (.52, "#b3a184"), (.76, "#d4c6a9"), (1, "#efe6d2")]
 def rgb(h): return np.array([int(h[i:i+2], 16) for i in (1, 3, 5)], float)
 xs_ = [p for p, _ in HILO]; cs_ = np.array([rgb(c) for _, c in HILO])
 def tono(L): return np.stack([np.interp(L, xs_, cs_[:, i]) for i in range(3)], -1)
@@ -49,7 +49,7 @@ def suaviza(c, s=7):
     return np.c_[ni.gaussian_filter1d(c[:, 0], s, mode="nearest"), ni.gaussian_filter1d(c[:, 1], s, mode="nearest")]
 class Tela:
     def __init__(s): s.c = np.zeros((H, W, 3)); s.a = np.zeros((H, W)); s.rr = random.Random(3)
-    def puntada(s, x, y, ang, largo, ancho, brillo=1):
+    def puntada(s, x, y, ang, largo, ancho, brillo=1, desgaste=.3):
         r = int(largo / 2 + ancho + 4); x0, y0 = int(x) - r, int(y) - r; x1, y1 = x0 + 2 * r, y0 + 2 * r
         if x0 < 0 or y0 < 0 or x1 >= W or y1 >= H: return
         Y, X = np.mgrid[y0:y1, x0:x1].astype(float); dx, dy = X - x, Y - y; ca, sa = math.cos(ang), math.sin(ang)
@@ -63,23 +63,42 @@ class Tela:
         fase = s.rr.uniform(0, 6.28); tor = (u * largo / 2 * .62 + v * 1.0)
         hebra = .5 + .5 * np.sin(tor / (ancho * .3) * math.tau / 2 + fase)            # las fibras torcidas del hilo
         fino = .5 + .5 * np.sin(tor / (ancho * .105) + fase * 2)
-        L = (.12 + .86 * dif) * (.62 + .3 * hebra + .1 * fino) * (.72 + .28 * np.sqrt(np.clip(1 - np.abs(u)**3, 0, 1))) * brillo
+        L = (.2 + .72 * dif) * (.56 + .34 * hebra + .14 * fino) * (.72 + .28 * np.sqrt(np.clip(1 - np.abs(u)**3, 0, 1))) * brillo
         col = tono(np.clip(L, 0, 1)); al = np.clip(den * 3, 0, 1)
-        al = al * (1 - (np.random.rand(*al.shape) < .035 * (.4 + np.abs(vn))))          # hebras gastadas que faltan
+        raya = np.sin(tor / (ancho * .16) + fase * 3) + .9 * np.random.randn(*al.shape)
+        al = al * (1 - (raya > 1.5 - desgaste * 1.1 - .7 * np.abs(vn)))                  # hebras gastadas que faltan
         A = al[..., None]; s.c[y0:y1, x0:x1] = s.c[y0:y1, x0:x1] * (1 - A) + col * A; s.a[y0:y1, x0:x1] = np.maximum(s.a[y0:y1, x0:x1], al)
     def borda(s, c, paso, largo, ancho, inclina=.2):
         d = np.r_[0, np.cumsum(np.hypot(*np.diff(c, axis=0).T))]; t = 0
+        # el desgaste cambia a lo largo del hilo: tramos enteros y tramos casi rotos
+        fase = s.rr.uniform(0, 99); onda = lambda q, f: math.sin(q / f + fase) * .6 + math.sin(q / (f * .37) + fase * 2) * .4
         while t < d[-1]:
             x, y = np.interp(t, d, c[:, 0]), np.interp(t, d, c[:, 1])
-            x2, y2 = np.interp(t + 3, d, c[:, 0]), np.interp(t + 3, d, c[:, 1]); a = math.atan2(y2 - y, x2 - x) + s.rr.uniform(-.06, .06)
-            s.puntada(x + s.rr.uniform(-.8, .8), y + s.rr.uniform(-.8, .8), a + inclina, largo * s.rr.uniform(.93, 1.08), ancho * s.rr.uniform(.92, 1.06), s.rr.uniform(.86, 1.08)); t += paso * s.rr.uniform(.92, 1.08)
+            x2, y2 = np.interp(t + 3, d, c[:, 0]), np.interp(t + 3, d, c[:, 1]); a = math.atan2(y2 - y, x2 - x) + s.rr.uniform(-.09, .09)
+            gasto = min(1, max(0, .42 + .5 * onda(t, 70) + s.rr.uniform(-.14, .14)))
+            sucio = .8 + .2 * onda(t, 150) + s.rr.uniform(-.1, .08)
+            w = ancho * (1 - .34 * gasto) * s.rr.uniform(.88, 1.08); l = largo * s.rr.uniform(.88, 1.1)
+            if gasto > .68 and s.rr.random() < .6:                # el hilo se abre en dos hebras
+                nx, ny = -math.sin(a), math.cos(a); o = ancho * s.rr.uniform(.26, .42)
+                for sg in (-1, 1): s.puntada(x + sg * o * nx, y + sg * o * ny, a + inclina + sg * .1, l, w * .55, sucio * s.rr.uniform(.85, 1.05), gasto)
+            else:
+                s.puntada(x + s.rr.uniform(-1.1, 1.1), y + s.rr.uniform(-1.1, 1.1), a + inclina, l, w, sucio, gasto)
+            t += paso * s.rr.uniform(.9, 1.12)
     def pelusa(s, c, n, alcance):
         im = Image.new("L", (W * 2, H * 2), 0); d = ImageDraw.Draw(im)
         for _ in range(n):
-            x, y = c[s.rr.randrange(len(c))]; a = s.rr.uniform(0, 6.28); x += alcance * .6 * math.cos(a); y += alcance * .6 * math.sin(a); l = s.rr.uniform(5, 19); pts = []
+            x, y = c[s.rr.randrange(len(c))]; a = s.rr.uniform(0, 6.28); x += alcance * .6 * math.cos(a); y += alcance * .6 * math.sin(a); l = s.rr.uniform(4, 15); pts = []
             for i in range(5): pts.append((x * 2, y * 2)); a += s.rr.gauss(0, .4); x += l / 4 * math.cos(a); y += l / 4 * math.sin(a)
-            d.line(pts, fill=s.rr.randint(90, 200), width=1)
+            d.line(pts, fill=s.rr.randint(60, 170), width=1)
         return np.asarray(im.resize((W, H), Image.LANCZOS), float) / 255
+def _deshilacha(s, p, dirv, ancho):
+    """Punta del cabo abierta en fibras sueltas."""
+    a0 = math.atan2(dirv[1], dirv[0])
+    for i in range(9):
+        a = a0 + s.rr.uniform(-.55, .55); x, y = p; n = s.rr.randint(5, 13)
+        for k in range(n):
+            s.puntada(x, y, a, ancho * .95, ancho * .2, s.rr.uniform(.8, 1.05), .7); a += s.rr.gauss(0, .16); x += ancho * .6 * math.cos(a); y += ancho * .6 * math.sin(a)
+Tela.deshilacha = _deshilacha
 def cabo(p0, semilla=2):
     """Hilo suelto que sale de la última letra."""
     r = random.Random(semilla); x, y = p0; pts = [(x, y)]
@@ -93,7 +112,8 @@ def hilo(ruta, salida, ancho=10):
     for c in tr: t.borda(c, ancho * 1.0, ancho * 2.5, ancho)
     final = max(tr, key=lambda c: c[:, 0].max()); fin = final[np.argmax(final[:, 0])]
     suelto = suaviza(cabo(fin), 16); t.borda(suelto, ancho * .6, ancho * 1.7, ancho * .8, .16)
-    todo = np.vstack(tr + [suelto]); p = t.pelusa(todo, 2600, ancho)
+    todo = np.vstack(tr + [suelto]); p = t.pelusa(todo, 2200, ancho * .8)
+    fin_cabo = suelto[-1]; t.deshilacha(fin_cabo, suelto[-1] - suelto[-30], ancho)
     # puntas abiertas del cabo
     a = np.clip(t.a, 0, 1); col = t.c
     k = (p * .62)[..., None]; col = col * (1 - k * (a[..., None] < .5)) + rgb("#ece0c6") * k * (a[..., None] < .5); a = np.maximum(a, p * .62)

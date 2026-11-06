@@ -1,7 +1,6 @@
-@font-face{font-family:"Avelina Mano";font-display:swap;size-adjust:81%;src:url(/fonts/avelina-mano.woff2) format("woff2")}
 @font-face{font-family:Newsreader;font-weight:300 600;font-display:swap;src:url(/fonts/newsreader-normal-300-600.woff2) format("woff2")}
 @font-face{font-family:Newsreader;font-style:italic;font-weight:300 500;font-display:swap;src:url(/fonts/newsreader-italic-300-500.woff2) format("woff2")}
-:root{--noche:#1c356d;--azul:#2c4696;--cielo:#c6cedd;--mar:#1c4776;--hondo:#0f2350;--crema:#ffedb7;--papel:#fff7e0;--luz:#fdfeff;--naranja:#e66418;--vino:#8e2420;--oxblood:#5b201d;--oro:#e5b771;--carton:#fbf6ea;--rosa:#eda6ac;--verde:#91c473;--mano:"Avelina Mano",Newsreader,Georgia,serif;--texto:Newsreader,Georgia,serif}
+:root{--noche:#1c356d;--azul:#2c4696;--cielo:#c6cedd;--mar:#1c4776;--hondo:#0f2350;--crema:#ffedb7;--papel:#fff7e0;--luz:#fdfeff;--naranja:#e66418;--vino:#8e2420;--oxblood:#5b201d;--oro:#e5b771;--carton:#fbf6ea;--rosa:#eda6ac;--verde:#91c473;--mano:Newsreader,Georgia,serif;--texto:Newsreader,Georgia,serif}
 *{box-sizing:border-box;margin:0}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
 body{background:var(--noche);color:var(--luz);font:400 1.15rem/1.6 var(--texto);overflow-x:hidden}
@@ -205,20 +204,22 @@ body{background:var(--noche) url(/img/azul/estrellas.webp) center top/700px}
 @media(max-width:900px){.suelta:not(.en-chico){display:none}.suelta{left:var(--mx);top:var(--my);font-size:1.15rem}.cartas{padding-block:128px 150px}.postal{grid-template-columns:1fr}.postal-dorso{border-left:0;border-top:1px solid #1c356d44;padding:106px 4px 6px;min-height:0}.m-postal{top:16px;right:66px}}
 @media(max-width:560px){.cara,.cuadro-dib{font-size:1.2rem}.cara{padding:0 5% 6%}.vuelo{width:62vw;top:10px}.hoja::before{right:8px;width:84px;height:84px}.sobre::after{width:58px;height:58px;right:-8px;bottom:-16px}.portada{margin:8px;min-height:calc(100svh - 16px)}.barra{padding:30px 34px}.m-portada{right:44px}.sobre label{padding-right:92px}.m-sobre{display:none}.renglon{margin-right:0;margin-top:1.6rem}.obra::after{width:70px;height:34px}}
 /* letra a mano, estampas, sellos de cera y vuelo */
-.a-mano{font-family:var(--mano);font-size:calc(1em*var(--b,1));font-weight:400;font-style:normal;letter-spacing:0}
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.biro{display:inline-block;height:1.25em;font-size:calc(.88em*var(--b,1));vertical-align:-.35em;overflow:visible}
+.plano{font-family:var(--texto);font-style:italic;font-weight:400;letter-spacing:0;font-size:.62em}
 h1,h2,h3{--b:1.02;letter-spacing:0;line-height:1.16;word-spacing:.04em}
 .postal-dorso h2{--b:1.08}
 .barra nav a,.menu summary{--b:1.12}.idioma{--b:.86}.boton{--b:1.14;letter-spacing:0;line-height:1.1}.enlace,.sub,.quien,.frase,.red b,.hoja small,.sobre label{--b:1.16;letter-spacing:0}
 .frase{font-size:1.55rem;font-style:normal}.quien{font-size:clamp(1.5rem,3vw,2rem)}
 footer p{font-size:1.5rem;font-style:normal}footer nav{font-size:1.25rem;--b:1.12}
 .archivo nav a{--b:1.05}
-.lienzo .a-mano,.portada .a-mano,footer .a-mano{text-shadow:0 1px 2px #0f235099}
-.boton .a-mano,.postal .a-mano,.cuadro .a-mano,.red .a-mano,.sobre .a-mano{text-shadow:none}
+.lienzo .biro,.portada .biro,footer .biro{filter:drop-shadow(0 1px 2px #0f235099)}
+.boton .biro,.postal .biro,.cuadro .biro,.red .biro,.sobre .biro{filter:none}
 .cuadro:not(.cuadro-dib){background:#f1e8d3}
 .cuadro{aspect-ratio:4/5;--c:#efe5cd;--t:var(--noche);--fs:100% 100%}
 .cara{display:flex;align-items:flex-end;justify-content:center;padding:0 7% 6.5%;font-size:clamp(1.3rem,2.5vw,1.95rem);line-height:1.02;--b:1.08;letter-spacing:0;text-shadow:none}
 .cuadro-dib{justify-content:flex-end;font-size:clamp(1.3rem,2.5vw,1.95rem);--b:1.08;letter-spacing:0;line-height:1.02}
-.cuadro-dib>span{padding:0 7% 6%}
+.cuadro-dib span:not(.vh){padding:0 7% 6%}
 .dorso a{--b:1.05;letter-spacing:0}
 .cara:hover,.cuadro-dib:hover{filter:brightness(1.03)}
 .cera{position:absolute;pointer-events:none;background:center/contain no-repeat;filter:drop-shadow(0 3px 4px #2f0b0a66)}
@@ -270,7 +271,6 @@ footer .ancho::before{content:"";display:block;width:84px;height:84px;margin:0 a
 .m-portada{right:clamp(112px,12vw,180px)}
 @media(max-width:700px){.sello-portada{top:74px;width:66px}.m-portada{top:92px;right:100px;width:112px}.d2{display:none}}
 .entrada time,.aviso-form,.legal .sub{font-family:var(--texto)}
-.red b .a-mano{font-size:calc(2.2rem*var(--b,1))}
 .reverso .cedula b{--b:1.22}
 /* Avelina bordado */
 .logo img{width:158px}.texto-portada h1 img{width:min(82vw,640px);margin-left:-10px;filter:drop-shadow(0 1px 1px #0006)}
