@@ -82,7 +82,7 @@ T = {
   hola="Hola, soy Avelina", hola_txt="Nací en un pueblo pequeño de Sonora y hoy soy foránea en Monterrey. Mis canciones nacen improvisando, sola con mi guitarra.", mas_quien="Conóceme",
   play="Reproducir video", libreta="Una página de la libreta", leer="Leer la página", leer_substack="Leer en Substack", cerrar="Cerrar",
   musica="Música", musica_txt="Todavía no hay discos. Por ahora las canciones viven en video. Toca una postal para descubrirla.", descubre="Escuchar en YouTube", avisame="Avísame cuando salga", toca_ave="Lo que viene", voltea="Ver",
-  pared="La pared", pared_txt="Cada postal te lleva directo al video.", todos="Todos en YouTube", ver="Ver en YouTube", ver_pared="Ver toda la pared",
+  pared="Mi baúl de cartas", pared_txt="Cada postal te lleva directo al video.", todos="Todos en YouTube", ver="Ver en YouTube", ver_pared="Abrir todo el baúl",
   diario="Diario", diario_sub="Solo en línea", diario_txt="Casi siempre estoy grabando. Aquí se va quedando lo que escribo y lo que canto, con su fecha.", diario_mas="Abrir el diario", meses_t="Meses",
   album="Verano de nostalgia", album_txt="Pedacitos de una tarde de verano.", abrir="Ver foto", album_nav="Álbum",
   quien_t="Quién soy", bio=["Nací en un pueblo pequeño de Sonora, en una familia de campo, caballos y vacas. Hoy soy foránea en Monterrey.", "La guitarra me acompaña desde niña. Mis momentos favoritos son cuando estoy sola con ella, improvisando y dejando salir lo que siento sin pensarlo demasiado.", "Me inspiran Kevin Kaarl, Ed Maverick, Carla Morrison, Sleeping At Last, Natalia Lafourcade y Silvana Estrada. Lo que busco es un universo propio, sin personajes ni alter egos."],
@@ -96,7 +96,7 @@ T = {
   hola="Hi, I'm Avelina", hola_txt="I was born in a small town in Sonora and now live far from home in Monterrey. My songs begin as improvisations, alone with my guitar.", mas_quien="Get to know me",
   play="Play video", libreta="A page from the notebook", leer="Read the page", leer_substack="Read on Substack", cerrar="Close",
   musica="Music", musica_txt="There are no records yet. For now the songs live on video. Tap a postcard to find one.", descubre="Listen on YouTube", avisame="Tell me when it's out", toca_ave="What's next", voltea="See",
-  pared="The wall", pared_txt="Every postcard takes you straight to the video.", todos="All on YouTube", ver="Watch on YouTube", ver_pared="See the whole wall",
+  pared="My chest of letters", pared_txt="Every postcard takes you straight to the video.", todos="All on YouTube", ver="Watch on YouTube", ver_pared="Open the whole chest",
   diario="Diary", diario_sub="Only online", diario_txt="I am almost always filming. What I write and sing stays here, with its date.", diario_mas="Open the diary", meses_t="Months",
   album="Summer of nostalgia", album_txt="Little pieces of a summer afternoon.", abrir="See photo", album_nav="Album",
   quien_t="About", bio=["I was born in a small town in Sonora, Mexico, in a family of fields, horses and cows. Now I live far from home in Monterrey.", "The guitar has been with me since I was little. My favorite moments are alone with it, improvising and letting out what I feel without overthinking.", "I am inspired by Kevin Kaarl, Ed Maverick, Carla Morrison, Sleeping At Last, Natalia Lafourcade and Silvana Estrada. What I am after is a world of my own, with no characters and no alter egos."],
@@ -217,9 +217,11 @@ def matasellos(t, clase=""):
     return f'''<svg class="matasellos {clase}" viewBox="0 0 236 120" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="60" cy="60" r="56"/><circle cx="60" cy="60" r="33"/><path stroke-linecap="round" d="M124 34c13-9 26-9 39 0s26 9 39 0 22-7 30-2M124 60c13-9 26-9 39 0s26 9 39 0 22-7 30-2M124 86c13-9 26-9 39 0s26 9 39 0 22-7 30-2"/></g><text fill="currentColor" font-size="11.5" font-weight="500" letter-spacing=".6"><textPath href="#aro" textLength="262">{aro}</textPath></text><use href="#ave" x="35" y="43" width="50" height="34" color="currentColor"/></svg>'''
 
 def marco(l, v, carga="lazy"):
+    """Cada video es una postal: la foto de un lado y el reverso escrito del otro."""
+    timbre = "/img/azul/timbre.webp" if int(v["f"][8:]) % 2 else "/img/calido/timbre-sol.webp"
     return f'''<a class="obra {'obra-v' if v['tipo']=='v' else ''}" href="{yt(v['id'])}" target="_blank" rel="noopener">
 <span class="marco"><img src="/img/videos/{v['id']}.webp" alt="" loading="{carga}"><span class="play" aria-hidden="true"></span></span>
-<span class="cedula"><b>{e(v['t'])}</b><i>{fecha(l, v['f'])}</i></span></a>'''
+<span class="reverso"><span class="mini-timbre" style="background-image:url({timbre})" aria-hidden="true"></span><span class="cedula"><b>{bi(v['t'])}</b><i>{fecha(l, v['f'])}</i></span></span></a>'''
 def pared(l, vs): return '<div class="pared">' + "".join(marco(l, v) for v in vs) + "</div>"
 
 ESTAMPAS = {"YaefwL4A84s": "country-girl", "rmZBT6yQDr4": "improvisando", "anBe-FCImC4": "corazon", "suRrMCKqzBU": "dos-almas", "uRt5VXAh1xo": "valentina",
@@ -317,7 +319,7 @@ def pagina(l, clave, titulo, cuerpo, ruta_es=None, ruta_en=None, ld=""):
 <main>{cuerpo}</main>
 <footer><div class="ancho"><img src="/img/marca/avelina.png" alt="" width="707" height="157" loading="lazy"><p>{bi(t['frase'])}</p>
 <nav>{"".join(f'<a href="{h}" target="_blank" rel="noopener">{bi(n)}</a>' for n,u,h,i in REDES)}</nav><small>© 2026 Avelina Martinet Molina · <a href="{url(l,'privacidad')}">{t['priv_t']}</a></small></div></footer>
-<a class="companera" href="{url(l,'contacto')}#cartas" aria-label="{t['ave_t']}" title="{t['ave_t']}"><img src="/img/marca/paloma-1.png" alt=""></a>
+<a class="companera" href="{url(l,'contacto')}#cartas" aria-label="{t['ave_t']}" title="{t['ave_t']}"><img src="/img/estampas/golondrina-carta.webp" alt="" width="600" height="456"></a>
 </body></html>
 '''
 def cabeza(titulo, sub=""):
@@ -328,7 +330,7 @@ def inicio(l):
     t = T[l]; pv = [v for v in VIDEOS if v.get("pared")][:4]
     ld = '<script type="application/ld+json">' + json.dumps({"@context":"https://schema.org","@type":"MusicGroup","name":"Avelina","alternateName":"Avelina Martinet Molina","genre":"cantautora","url":BASE+"/","image":BASE+"/img/compartir.jpg","description":T["es"]["desc"],"sameAs":[r[2] for r in REDES]}, ensure_ascii=False) + "</script>"
     c = f'''<section class="portada">
-<div class="fotos-portada" aria-hidden="true"><img src="/img/fotos/tarde.webp" alt="" fetchpriority="high"><img src="/img/fotos/guitarra.webp" alt=""><img src="/img/fotos/casa.webp" alt=""></div>
+<div class="fotos-portada" aria-hidden="true"><img src="/img/fotos/guitarra-muro.webp" alt="" fetchpriority="high"><img src="/img/fotos/guitarra-luz.webp" alt=""><img src="/img/fotos/guitarra.webp" alt=""><img src="/img/fotos/guitarra-risa.webp" alt=""><img src="/img/fotos/casa.webp" alt=""><img src="/img/fotos/guitarra-sol.webp" alt=""></div>
 <span class="sello-portada" aria-hidden="true"></span>{matasellos(t, "m-portada")}
 <a class="detalle d1" href="{url(l,'diario')}" aria-label="{t['diario']}">{ic('ave')}<span>{bi(t['diario'])}</span></a>
 <a class="detalle d2" href="{url(l,'musica')}" aria-label="{t['musica']}">{ic('estrella')}<span>{bi(t['musica'])}</span></a>

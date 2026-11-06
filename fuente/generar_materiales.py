@@ -240,28 +240,46 @@ def tela(N, semilla, escala, luz=.5, arrugas=26):
     return tono(np.clip(L, 0, 1), escala)
 VINO = [(0, "#2f0b0a"), (.35, "#4d1715"), (.5, "#5b201d"), (.7, "#6b3f39"), (1, "#a98a78")]
 ROJO = [(0, "#5a1512"), (.32, "#8e2420"), (.5, "#9b302a"), (.68, "#a13932"), (.85, "#c98a72"), (1, "#e6d3b4")]
-BEIGE = [(0, "#a98c5c"), (.35, "#cdb27d"), (.55, "#dcc496"), (.8, "#e8d8b4"), (1, "#f2e8d0")]
-def papel_viejo_L(N, semilla):
-    L = .55 + .1 * ruido(N, N, 1.9, semilla) + .035 * ruido(N, N, 1.2, semilla + 1)
-    # arrugas de hoja guardada: crestas finas con su sombra
-    for k, f in ((2, .05), (3, .04)):
-        c = np.abs(ruido(N, N, 1.7, semilla + k * 7)); cresta = np.exp(-(c / .035)**2)
-        L = L + f * cresta * np.clip(ruido(N, N, 1.4, semilla + k), 0, 1) - f * .6 * np.roll(cresta, 3, 0) * np.clip(ruido(N, N, 1.4, semilla + k), 0, 1)
-    # dobleces largos, marcados y gastados
-    Y, X = np.mgrid[0:N, 0:N].astype(float)
-    for d, gasto in (((X + Y * .62) % N - N * .3, .1), ((X * .7 - Y) % N - N * .55, .08)):
-        d = (d + N / 2) % N - N / 2
-        L = L + gasto * np.exp(-(d / 2.2)**2) * np.clip(.6 + .5 * ruido(N, N, 1.1, semilla + 40), 0, 1) - .03 * np.exp(-(d / 40)**2) * np.sign(d)
-    # manchitas de los años y fibra
-    r = np.random.default_rng(semilla + 3); pecas = np.zeros((N, N)); pecas[r.integers(0, N, 170), r.integers(0, N, 170)] = 1
-    L = L - .11 * np.clip(ni.gaussian_filter(pecas, 5, mode="wrap") * 150, 0, 1)
-    return L + .012 * ruido(N, N, .55, semilla + 4)
-def papel_viejo(N=1600, semilla=51):
-    a = tono(np.clip(papel_viejo_L(N, semilla), 0, 1), BEIGE)
-    # renglones tenues de cuaderno viejo: 25 caben exactos, así no hay costura
-    Y = np.mgrid[0:N, 0:N][0].astype(float); renglon = np.exp(-(((Y + 20) % 64 - 32) / 1.1)**2) * .17 * np.clip(.8 + .4 * ruido(N, N, 1.2, semilla + 8), .2, 1)
-    a = a * (1 - renglon[..., None]) + rgb("#7b6746") * renglon[..., None]
-    guarda_c(a, "papel-viejo.webp", 84)
+BEIGE = [(0, "#9c8560"), (.35, "#c9b48c"), (.55, "#dccba7"), (.75, "#e8dcc0"), (1, "#f3ecd9")]
+def facetas(w, h, n, semilla, luz=(-.6, -.8)):
+    """Arrugas de papel: pequeños planos inclinados que se encuentran en crestas."""
+    from scipy.spatial import cKDTree
+    r = np.random.default_rng(semilla); pts = np.c_[r.uniform(-40, w + 40, n), r.uniform(-40, h + 40, n)]
+    Y, X = np.mgrid[0:h, 0:w]; d, i = cKDTree(pts).query(np.c_[X.ravel(), Y.ravel()], k=2)
+    t = r.normal(0, 1, (n, 2)) @ np.array(luz); plano = t[i[:, 0]].reshape(h, w); borde = (d[:, 1] - d[:, 0]).reshape(h, w)
+    return plano, borde
+def fibras(w, h, n, semilla):
+    rr = random.Random(semilla); im = Image.new("L", (w, h), 128); d = ImageDraw.Draw(im)
+    for _ in range(n):
+        x, y, a, l = rr.uniform(0, w), rr.uniform(0, h), rr.uniform(0, math.tau), rr.uniform(8, 34)
+        d.line([(x, y), (x + l * math.cos(a), y + l * math.sin(a) * .8)], fill=rr.choice([96, 108, 146, 160]), width=1)
+    return (np.asarray(im.filter(ImageFilter.GaussianBlur(.7)), float) - 128) / 128
+def papel_viejo(W=3000, H=1600, semilla=51):
+    w, h = W // 2, H // 2
+    p1, b1 = facetas(w, h, 70, semilla); p2, b2 = facetas(w, h, 620, semilla + 1)
+    zona = np.clip(.45 + .55 * ruido(h, w, 2.1, semilla + 2), .12, 1)       # hay partes lisas y partes muy arrugadas
+    L = (.05 * ni.gaussian_filter(p1, 3) + .022 * ni.gaussian_filter(p2, 1.6)) * zona
+    c1, c2 = np.exp(-(b1 / 1.7)**2), np.exp(-(b2 / 1.3)**2)
+    L = L + zona * (.085 * c1 + .03 * c2) - zona * (.06 * np.roll(c1, 2, 0) + .02 * np.roll(c2, 1, 0))
+    L = ni.zoom(L, 2, order=1)[:H, :W]
+    L = .62 + L + .016 * ruido(H, W, 2.2, semilla + 3) + .02 * ruido(H, W, .7, semilla + 4) + .022 * fibras(W, H, 42000, semilla + 5)
+    # dobleces de carta: dos horizontales y uno vertical, gastados en la cresta
+    Y, X = np.mgrid[0:H, 0:W].astype(float)
+    for d, g in ((X - W * .5 + 5 * ruido(H, W, 2, semilla + 6), .06), (Y - H * .34 + 5 * ruido(H, W, 2, semilla + 7), .05), (Y - H * .68 + 5 * ruido(H, W, 2, semilla + 8), .05)):
+        L = L + .05 * (d / 60) * np.exp(-(d / 60)**2) + g * np.exp(-(d / 1.6)**2) * np.clip(.55 + .6 * ruido(H, W, 1.0, semilla + 9), 0, 1)
+    a = tono(np.clip(L, 0, 1), BEIGE)
+    # el tiempo: tono más cálido por manchas y hacia las orillas, y puntitos de oxidación
+    orilla = np.exp(-np.minimum(Y, H - Y) / 150) * .5 + np.exp(-np.minimum(X, W - X) / 240) * .35
+    calido = np.clip(.07 * ruido(H, W, 2.3, semilla + 10) + .1 + orilla * .5, 0, .34)[..., None]
+    a = a * (1 - calido) + (a * rgb("#d9b67e") / 232) * calido
+    r = np.random.default_rng(semilla + 11); pecas = np.zeros((H, W)); pecas[r.integers(0, H, 240), r.integers(0, W, 240)] = 1
+    a = a * (1 - .3 * np.clip(ni.gaussian_filter(pecas, 2.6) * 42, 0, 1))[..., None] + rgb("#8a5f32") * (.3 * np.clip(ni.gaussian_filter(pecas, 2.6) * 42, 0, 1))[..., None]
+    # renglones muy tenues, que siguen las arrugas del papel
+    yy = Y + 7 * ruido(H, W, 2.3, semilla + 12); renglon = np.exp(-(((yy + 20) % 72 - 36) / 1.2)**2) * .1 * np.clip(.85 + .5 * ruido(H, W, 1.2, semilla + 13), .15, 1)
+    a = a * (1 - renglon[..., None]) + rgb("#6f7a8a") * renglon[..., None]
+    guarda_c(a, "papel-viejo.webp", 90)
+    N = 900; b = tono(np.clip(.62 + .02 * ruido(N, N, 2, semilla + 20) + .011 * ruido(N, N, .75, semilla + 21) + .014 * fibras(N, N, 7000, semilla + 22), 0, 1), [(0, "#cfc2a4"), (.5, "#ece2cb"), (.7, "#f4ecda"), (1, "#fbf6ea")])
+    guarda_c(b, "papel-postal.webp", 84)
     # orilla rasgada: máscara que corta la hoja misma, para que el papel no tenga costura
     W, H = 3200, 112; n = ruido(8, W, 1.45, semilla + 9)[0]; fino = ruido(8, W, .85, semilla + 10)[0]
     orilla = 52 + 17 * n + 3.6 * fino; Yv = np.arange(H)[:, None]

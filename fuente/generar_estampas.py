@@ -249,9 +249,80 @@ def vuelo(W2=1400, H2=420):
     q = Image.new("L", (130, 90), 255).rotate(-16, expand=True); c = c.rotate(-16, expand=True); im.paste(c, (x + 40, y + 260), q)
     al = im.resize((W2, H2), Image.LANCZOS); o = Image.new("RGBA", (W2, H2), "#1c356d"); o.putalpha(al)
     o.save(os.path.join(SAL, "vuelo.webp"), quality=86, method=6); print("vuelo", os.path.getsize(os.path.join(SAL, "vuelo.webp")) // 1024, "KB")
+def curva(pts, n=16, cerrada=True):
+    """Curva suave que pasa por los puntos (Catmull-Rom)."""
+    p = list(pts); fuera = []; m = len(p)
+    for i in range(m if cerrada else m - 1):
+        p0, p1, p2, p3 = p[(i - 1) % m], p[i], p[(i + 1) % m], p[(i + 2) % m]
+        if not cerrada: p0, p3 = p[max(i - 1, 0)], p[min(i + 2, m - 1)]
+        for j in range(n):
+            t = j / n
+            fuera.append(tuple(.5 * (2 * p1[c] + (p2[c] - p0[c]) * t + (2 * p0[c] - 5 * p1[c] + 4 * p2[c] - p3[c]) * t * t + (3 * p1[c] - p0[c] - 3 * p2[c] + p3[c]) * t**3) for c in (0, 1)))
+    return fuera
+def mensajera():
+    """Golondrina de crayón que lleva una carta. Dibujo propio."""
+    Wc, Hc, k = 1000, 760, 2
+    tinta = Image.new("L", (Wc * k, Hc * k), 0); d = ImageDraw.Draw(tinta); cinta = Image.new("L", tinta.size, 0); dc2 = ImageDraw.Draw(cinta); pa = Image.new("L", tinta.size, 0); e = ImageDraw.Draw(pa)
+    q = lambda pts: [(x * k, y * k) for x, y in pts]
+    cuerpo = [(790, 340), (760, 300), (700, 292), (610, 310), (500, 332), (420, 372), (430, 400), (520, 432), (620, 436), (710, 412), (770, 376)]
+    d.polygon(q(curva(cuerpo)), fill=255); d.polygon(q([(778, 322), (846, 350), (780, 368)]), fill=255)
+    ala1 = [(640, 322), (590, 240), (510, 160), (410, 98), (310, 66), (232, 62), (206, 92), (238, 118), (216, 148), (252, 172), (240, 206), (290, 226), (296, 262), (372, 300), (480, 356)]
+    ala2 = [(640, 420), (570, 510), (480, 590), (380, 648), (280, 690), (196, 702), (168, 672), (204, 650), (190, 616), (232, 600), (226, 562), (280, 548), (296, 512), (372, 466), (480, 410)]
+    d.polygon(q(curva(ala1)), fill=255); d.polygon(q(curva(ala2)), fill=255)
+    d.polygon(q(curva([(460, 356), (360, 318), (262, 262), (170, 176), (232, 292), (300, 356), (200, 382), (30, 396), (200, 420), (340, 436), (470, 420)], 8)), fill=255)
+    d.polygon(q([(190, 196), (168, 172), (214, 214)]), fill=255); d.polygon(q([(60, 396), (22, 397), (70, 403)]), fill=255)
+    m = np.asarray(tinta, float) / 255
+    m = ni.gaussian_filter(m, 3.5) + .07 * ni.zoom(ruido(Hc, Wc, 1.0, 5), k, order=1); m = (m > .5).astype(float)
+    grano = ni.zoom(ruido(Hc, Wc, .45, 6), k, order=1) > 1.9; m = m * (1 - grano)         # el crayón deja ver el papel
+    def est(x, y, r, g=.2):
+        e.polygon(q([(x + (r if i % 2 == 0 else r * .36) * math.cos(g + i * math.pi / 5 - math.pi / 2), y + (r if i % 2 == 0 else r * .36) * math.sin(g + i * math.pi / 5 - math.pi / 2)) for i in range(10)]), fill=255)
+    est(372, 176, 44); est(360, 570, 42, -.2)
+    for x in (318, 360, 402):                  # plumas de la cola
+        e.arc([(x - 21) * k, (362 - 17) * k, (x + 21) * k, (362 + 21) * k], 10, 170, fill=255, width=4 * k)
+        e.arc([(x - 21) * k, (398 - 17) * k, (x + 21) * k, (398 + 21) * k], 10, 170, fill=255, width=4 * k)
+    for (x0, y0), (x1, y1) in (((262, 96), (340, 130)), ((270, 142), (336, 172)), ((248, 656), (326, 622)), ((262, 612), (324, 586))):
+        e.line(q([(x0, y0), (x1, y1)]), fill=255, width=4 * k)                               # plumas del ala
+    e.ellipse([737 * k, 326 * k, 755 * k, 344 * k], fill=255); 
+    # moño: dos lazos y sus puntas, con contorno de tinta
+    cx, cy = 660, 360
+    lazo1 = curva([(cx, cy), (640, 280), (648, 190), (690, 168), (716, 216), (690, 300)], 14)
+    lazo2 = curva([(cx, cy), (620, 430), (590, 520), (632, 556), (680, 516), (682, 430)], 14)
+    punta1 = curva([(cx, cy), (620, 300), (560, 262), (520, 226)], 14, False); punta2 = curva([(cx, cy), (610, 420), (548, 470), (500, 520)], 14, False)
+    for trazo in (lazo1 + lazo1[:1], lazo2 + lazo2[:1], punta1, punta2): dc2.line(q(trazo), fill=255, width=11 * k, joint="curve")
+    dc2.ellipse([(cx - 15) * k, (cy - 15) * k, (cx + 15) * k, (cy + 15) * k], fill=255)
+    cm_ = np.asarray(cinta, float) / 255 > .5; contorno = ni.binary_dilation(cm_, iterations=7).astype(float)
+    pap = np.maximum(np.asarray(pa, float) / 255, cm_.astype(float)); tinta_final = np.maximum(m, contorno) * (1 - pap)
+    # carta en el pico
+    c = Image.new("L", tinta.size, 0); dc = ImageDraw.Draw(c); sob = [(842, 302), (964, 334), (936, 450), (812, 418)]; dc.polygon(q(sob), fill=255)
+    l = Image.new("L", tinta.size, 0); dl = ImageDraw.Draw(l); dl.line(q(sob + sob[:1]), fill=255, width=5 * k); dl.line(q([(842, 302), (888, 380), (964, 334)]), fill=255, width=4 * k)
+    x0, y0, r = 888, 396, 26
+    dl.polygon(q([(x0 + (r if i % 2 == 0 else r * .32) * math.cos(i * math.pi / 5 - 1.2), y0 + (r if i % 2 == 0 else r * .32) * math.sin(i * math.pi / 5 - 1.2)) for i in range(10)]), fill=255)
+    cm = np.asarray(c, float) / 255; lm = np.asarray(l, float) / 255
+    forma = np.maximum.reduce([ni.binary_fill_holes(m > .5).astype(float), cm, contorno])
+    halo = ni.gaussian_filter(ni.binary_dilation(forma > .5, iterations=10).astype(float), 2)   # borde de calcomanía, para verse sobre cualquier fondo
+    color = np.ones((*forma.shape, 3)) * rgb("#f7f1e3")
+    t = np.maximum(tinta_final, lm)[..., None]; color = color * (1 - t) + rgb("#15192a") * t
+    o = np.dstack([color, halo * 255]).astype("uint8")
+    Image.fromarray(o, "RGBA").resize((Wc * 6 // 10, Hc * 6 // 10), Image.LANCZOS).save(os.path.join(SAL, "golondrina-carta.webp"), quality=90, method=6)
+    print("golondrina-carta", os.path.getsize(os.path.join(SAL, "golondrina-carta.webp")) // 1024, "KB")
+def marco_flores():
+    """Marco delicado de florecitas y hojas a línea fina. Dibujo propio."""
+    def flor(x, y, r=13):
+        f = "".join(f'<ellipse cx="{x}" cy="{y - r * .62:.1f}" rx="{r * .28:.1f}" ry="{r * .46:.1f}" transform="rotate({i * 45} {x} {y})"/>' for i in range(8))
+        return f + f'<circle cx="{x}" cy="{y}" r="{r * .2:.1f}"/>'
+    def hoja(x, y, g, r=10):
+        return f'<g transform="translate({x} {y}) rotate({g})"><path d="M0 {r}C{-r * .7:.1f} {r * .2:.1f} {-r * .5:.1f} {-r * .6:.1f} 0 {-r}C{r * .5:.1f} {-r * .6:.1f} {r * .7:.1f} {r * .2:.1f} 0 {r}M0 {r}V{-r * .4:.1f}"/></g>'
+    p = []
+    for u, v in ((30, 30), (210, 30), (30, 210), (210, 210)): p.append(flor(u, v))
+    for y, a in ((30, 0), (210, 180)):
+        p += [hoja(82, y, 62 + a), flor(120, y), hoja(158, y, -62 + a), hoja(101, y - 2, 118 + a, 8), hoja(139, y + 2, -118 + a, 8)]
+    for x, a in ((30, 90), (210, 270)):
+        p += [hoja(x, 82, 62 + a), flor(x, 120), hoja(x, 158, -62 + a), hoja(x - 2, 101, 118 + a, 8), hoja(x + 2, 139, -118 + a, 8)]
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240"><rect width="240" height="240" fill="#f4ecdc"/><g fill="none" stroke="#4a4136" stroke-width="1.5" stroke-linecap="round">{"".join(p)}</g></svg>'''
+    open(os.path.join(RAIZ, "img/calido/marco-flores.svg"), "w").write(svg)
 RAMPA_VINO = [(0, "#2a0605"), (.35, "#5f1313"), (.6, "#8c2020"), (.85, "#b34a3f"), (1, "#e09a86")]
 RAMPA_ORO = [(0, "#4a3214"), (.35, "#8a6530"), (.6, "#b98f4e"), (.85, "#dcb978"), (1, "#f6e6b8")]
 RAMPA_AZUL = [(0, "#0b1a3d"), (.35, "#1c356d"), (.6, "#2c5088"), (.85, "#5d84b4"), (1, "#c6d8ea")]
 if __name__ == "__main__":
     for n, f, a in ESTAMPAS: estampa(n, f(), a, sum(map(ord, n)))
-    sello("sello-vino", m_ave, RAMPA_VINO, 3); sello("sello-oro", m_sol, RAMPA_ORO, 8); sello("sello-azul", m_mar, RAMPA_AZUL, 13); vuelo()
+    sello("sello-vino", m_ave, RAMPA_VINO, 3); sello("sello-oro", m_sol, RAMPA_ORO, 8); sello("sello-azul", m_mar, RAMPA_AZUL, 13); vuelo(); mensajera(); marco_flores()

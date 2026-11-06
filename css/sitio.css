@@ -129,7 +129,7 @@ dialog::backdrop{background:#0f2350cc}
 .foto::before{content:"";position:absolute;top:-11px;left:50%;margin-left:-44px;width:88px;height:24px;background:#c6ceddcc;transform:rotate(2deg)}
 .foto:nth-child(3n)::before{background:#c98a72cc}.foto:nth-child(3n+1)::before{background:#eb9f11aa}
 /* cartas, redes */
-.cartas{--tinta-vieja:#3a2616;background:#dcc496 url(/img/calido/papel-viejo.webp) center top/800px;text-align:center;color:var(--tinta-vieja);z-index:1;overflow-x:clip;margin-block:-28px;padding-block:clamp(110px,13vw,170px);--orillas:url(/img/calido/orilla-arriba.png) center top/1600px 56px repeat-x,url(/img/calido/orilla-abajo.png) center bottom/1600px 56px repeat-x,linear-gradient(#000 0 0) center/100% calc(100% - 110px) no-repeat;-webkit-mask:var(--orillas);mask:var(--orillas)}
+.cartas{--tinta-vieja:#3a2616;background:#dccba7 url(/img/calido/papel-viejo.webp) center/cover;text-align:center;color:var(--tinta-vieja);z-index:1;overflow-x:clip;margin-block:-28px;padding-block:clamp(110px,13vw,170px);--orillas:url(/img/calido/orilla-arriba.png) center top/1600px 56px repeat-x,url(/img/calido/orilla-abajo.png) center bottom/1600px 56px repeat-x,linear-gradient(#000 0 0) center/100% calc(100% - 110px) no-repeat;-webkit-mask:var(--orillas);mask:var(--orillas)}
 .cartas .ancho{position:relative;z-index:1}
 .dispersas{position:absolute;inset:0;pointer-events:none}
 .suelta{position:absolute;left:var(--x);top:var(--y);transform:rotate(var(--g));color:var(--tinta-vieja);opacity:.62;font-size:clamp(1.05rem,1.55vw,1.4rem);--b:1.1;white-space:nowrap;line-height:1}
@@ -185,7 +185,6 @@ body{background:var(--noche) url(/img/azul/estrellas.webp) center top/700px}
 .presentacion .marco{background:var(--carton);padding:14px;box-shadow:0 16px 34px #0f235088}
 .obra{background:var(--carton);padding:12px 12px 8px;box-shadow:0 10px 22px #1c356d33,0 1px 2px #1c356d33;position:relative}
 .obra:nth-child(odd){transform:rotate(-.9deg)}.obra:nth-child(even){transform:rotate(.8deg)}.obra:hover{transform:translateY(-4px) rotate(0)}
-.obra::after{content:"";position:absolute;right:20px;top:20px;width:92px;height:44px;opacity:.72;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 118 62' fill='none' stroke='%23fbf6ea' stroke-width='2.4' stroke-linecap='round'%3E%3Cpath d='M2 11c13-9 26-9 39 0s26 9 39 0 24-8 36-3M2 31c13-9 26-9 39 0s26 9 39 0 24-8 36-3M2 51c13-9 26-9 39 0s26 9 39 0 24-8 36-3'/%3E%3C/svg%3E") center/contain no-repeat}
 .cedula{background:none;box-shadow:none;text-align:left;padding:.55rem .2rem .2rem;margin:0;max-width:none}
 .mosaico{gap:clamp(5px,.9vw,10px);box-shadow:none;filter:drop-shadow(0 5px 9px #0f235066)}
 .cuadro,.red{-webkit-mask:var(--perfora);mask:var(--perfora)}
@@ -239,3 +238,29 @@ footer .ancho::before{content:"";display:block;width:84px;height:84px;margin:0 a
 @media(max-width:560px){body{font-size:1.08rem}.mosaico{grid-template-columns:repeat(2,1fr)}.fila-redes{grid-template-columns:1fr}.album{columns:1;padding-inline:8px}.entrada{grid-template-columns:96px 1fr;gap:.9rem}.entrada img{width:96px;height:96px}.marco{border-width:16px;padding:7px}.play{width:50px;height:50px;margin:-25px}.play::after{left:20px;top:14px;border-left-width:16px;border-block-width:11px}.companera{width:42px;right:6px}.barra{padding:24px 28px}.d1{top:17%;left:9%}.d2{top:36%;right:9%}.d3{display:none}.fotos-portada img:nth-child(1){object-position:66% 30%}.fotos-portada img:nth-child(2){object-position:40% 50%}.fotos-portada img:nth-child(3){object-position:82% 60%}.detalle span{display:none}.hoja{padding:40px 22px 24px}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}.fotos-portada img:nth-child(1){opacity:1}}
 @media(max-width:560px){.vuelo{width:62vw;top:10px}.hoja::before{right:8px;width:84px;height:84px}.sobre::after{width:58px;height:58px;right:-8px;bottom:-16px}.cara,.cuadro-dib{font-size:1.2rem}.cara{padding:0 5% 6%}}
+/* portada: marco delicado y seis fotos */
+.portada{margin:10px;min-height:calc(min(100svh,1000px) - 20px);border:clamp(13px,1.45vw,20px) solid #f4ecdc;border-image:url(/img/calido/marco-flores.svg) 60 round;box-shadow:0 6px 18px #0f235055}
+.fotos-portada img{animation:cambia 30s infinite;object-position:65% 50%}
+.fotos-portada img:nth-child(1){opacity:1;animation-name:primera;object-position:65% 50%}
+.fotos-portada img:nth-child(2){animation-delay:5s;object-position:65% 50%}
+.fotos-portada img:nth-child(3){animation-delay:10s;object-position:45% 12%}
+.fotos-portada img:nth-child(4){animation-delay:15s;object-position:65% 50%}
+.fotos-portada img:nth-child(5){animation-delay:20s;object-position:80% 60%}
+.fotos-portada img:nth-child(6){animation-delay:25s;object-position:65% 50%}
+@keyframes cambia{0%{opacity:0;transform:scale(1.03)}3%,17%{opacity:1}20%,100%{opacity:0;transform:scale(1)}}
+@keyframes primera{0%,14%{opacity:1;transform:scale(1)}17%,97%{opacity:0;transform:scale(1.02)}100%{opacity:1}}
+.d1{color:var(--carton)}.d1 .ic{filter:drop-shadow(0 1px 4px #0f235099)}
+/* postales del baúl */
+.obra,.postal,.presentacion .marco{background:#f6efdf url(/img/calido/papel-postal.webp) center/450px}
+.obra{display:grid;grid-template-columns:1.5fr 1fr;gap:0;padding:11px;border-radius:2px;box-shadow:0 10px 20px #3a261633,0 1px 2px #3a261644}
+.obra .marco{align-self:center}
+.reverso{position:relative;display:flex;flex-direction:column;justify-content:flex-end;min-width:0;margin-left:12px;padding:58px 2px 2px 12px;border-left:1px solid #1c356d44;color:var(--noche)}
+.mini-timbre{position:absolute;top:0;right:0;width:40px;height:48px;background:center/100% 100%;transform:rotate(3deg);filter:drop-shadow(0 1px 1px #0f235044)}
+.reverso::before{content:"";position:absolute;top:8px;right:28px;width:62px;height:30px;opacity:.5;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 118 62' fill='none' stroke='%231c356d' stroke-width='2.6' stroke-linecap='round'%3E%3Cpath d='M2 11c13-9 26-9 39 0s26 9 39 0 24-8 36-3M2 31c13-9 26-9 39 0s26 9 39 0 24-8 36-3M2 51c13-9 26-9 39 0s26 9 39 0 24-8 36-3'/%3E%3C/svg%3E") center/contain no-repeat}
+.reverso .cedula{padding:0;background:repeating-linear-gradient(transparent 0 25px,#1c356d2e 25px 26px);line-height:26px;font-size:1.02rem}
+.reverso .cedula b{--b:1.06;font-weight:400;line-height:26px;display:block}.reverso .cedula i{display:block;font-size:.8rem;line-height:26px}
+.obra-v{grid-template-columns:1fr;padding:9px}.obra-v .reverso{margin:9px 0 0;padding:6px 44px 0 2px;border-left:0;border-top:1px solid #1c356d44;min-height:66px}.obra-v .reverso::before{display:none}.obra-v .mini-timbre{top:8px;width:34px;height:41px}
+.companera{width:96px;filter:drop-shadow(0 3px 5px #0f235066)}
+@media(max-width:560px){.portada{margin:6px;min-height:calc(100svh - 12px)}.fotos-portada img:nth-child(1),.fotos-portada img:nth-child(2),.fotos-portada img:nth-child(4),.fotos-portada img:nth-child(6){object-position:65% 50%}.fotos-portada img:nth-child(3){object-position:40% 50%}.fotos-portada img:nth-child(5){object-position:82% 60%}.companera{width:66px}.obra{grid-template-columns:1.25fr 1fr;padding:8px}.obra-v{grid-template-columns:1fr}.reverso{padding-top:46px;margin-left:8px;padding-left:8px}.reverso::before{display:none}.reverso .cedula{font-size:.92rem}}
+.primera .vuelo{top:104px}
+@media(max-width:900px){.primera .vuelo{display:none}}
