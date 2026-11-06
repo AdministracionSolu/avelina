@@ -264,3 +264,7 @@ footer .ancho::before{content:"";display:block;width:84px;height:84px;margin:0 a
 @media(max-width:560px){.portada{margin:6px;min-height:calc(100svh - 12px)}.fotos-portada img:nth-child(1),.fotos-portada img:nth-child(2),.fotos-portada img:nth-child(4),.fotos-portada img:nth-child(6){object-position:65% 50%}.fotos-portada img:nth-child(3){object-position:40% 50%}.fotos-portada img:nth-child(5){object-position:82% 60%}.companera{width:66px}.obra{grid-template-columns:1.25fr 1fr;padding:8px}.obra-v{grid-template-columns:1fr}.reverso{padding-top:46px;margin-left:8px;padding-left:8px}.reverso::before{display:none}.reverso .cedula{font-size:.92rem}}
 .primera .vuelo{top:104px}
 @media(max-width:900px){.primera .vuelo{display:none}}
+.portada::after{background:linear-gradient(to top,#160e0ae0 0,#160e0a70 30%,#160e0a00 58%),linear-gradient(to bottom,#160e0a80,#160e0a00 20%)}
+.fotos-portada img{object-position:50% 50%}.fotos-portada img:nth-child(1),.fotos-portada img:nth-child(2),.fotos-portada img:nth-child(4),.fotos-portada img:nth-child(6){object-position:50% 50%}
+.sello-portada{right:clamp(84px,8.6vw,132px)}.m-portada{right:clamp(130px,14.5vw,216px)}
+@media(max-width:700px){.fotos-portada img:nth-child(1),.fotos-portada img:nth-child(2),.fotos-portada img:nth-child(4),.fotos-portada img:nth-child(6){object-position:50% 22%}.sello-portada{right:74px}.m-portada{right:112px}}

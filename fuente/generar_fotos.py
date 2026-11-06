@@ -33,9 +33,9 @@ W, H = 2400, 1500
 for n, (f, c, giro) in GUITARRA.items():
     im = Image.open(INSPO + f).convert("RGB"); w, h = im.size
     im = im.crop((int(w * c[0]), int(h * c[1]), int(w * c[2]), int(h * c[3])))
-    alto = 1290; ancho = int(im.width * alto / im.height)
+    alto = 1100; ancho = int(im.width * alto / im.height)
     g = im.resize((ancho, alto), Image.LANCZOS).filter(ImageFilter.UnsharpMask(3, 55, 2))
-    b = 34; hoja = Image.new("RGBA", (ancho + 2 * b, alto + 2 * b), "#f6efdf"); hoja.paste(g, (b, b))
+    b = 30; hoja = Image.new("RGBA", (ancho + 2 * b, alto + 2 * b), "#f6efdf"); hoja.paste(g, (b, b))
     hoja = hoja.rotate(giro, expand=True, resample=Image.BICUBIC)
     # fondo: la luz de la foto, muy oscura, sin fingir que es la pared
     t = np.asarray(im.resize((1, 1), Image.BOX), float)[0, 0]; Y, X = np.mgrid[0:H, 0:W].astype(float)
@@ -47,3 +47,7 @@ for n, (f, c, giro) in GUITARRA.items():
     fondo = Image.alpha_composite(fondo, sombra); fondo.alpha_composite(hoja, (x, y))
     a = np.asarray(fondo.convert("RGB"), float) + np.random.default_rng(1).normal(0, 2.2, (H, W, 1))
     p = os.path.join(RAIZ, f"img/fotos/{n}.webp"); Image.fromarray(np.clip(a, 0, 255).astype("uint8")).save(p, quality=84, method=6); print(n, os.path.getsize(p) // 1024, "KB")
+    # en celular la foto llena la pantalla
+    alto_m = 1560; m = im.resize((int(im.width * alto_m / im.height), alto_m), Image.LANCZOS).filter(ImageFilter.UnsharpMask(3, 50, 2))
+    x = max((m.width - 760) // 2, 0); m = m.crop((x, 0, x + 760, alto_m))
+    m.save(os.path.join(RAIZ, f"img/fotos/{n}-movil.webp"), quality=84, method=6)

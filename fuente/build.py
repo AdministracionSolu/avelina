@@ -326,11 +326,14 @@ def cabeza(titulo, sub=""):
     s = f'<p class="lead">{sub}</p>' if sub else ""
     return f'<div class="cabeza"><h1>{bi(titulo)}</h1>{s}</div>'
 
+def impresion(n, extra=""):
+    """Foto de portada: impresión en pantallas grandes y foto completa en celular."""
+    return f'''<img src="/img/fotos/{n}.webp" srcset="/img/fotos/{n}-movil.webp 1400w, /img/fotos/{n}.webp 2400w" sizes="(max-width:700px) 100vw, 2400px" alt=""{extra}>'''
 def inicio(l):
     t = T[l]; pv = [v for v in VIDEOS if v.get("pared")][:4]
     ld = '<script type="application/ld+json">' + json.dumps({"@context":"https://schema.org","@type":"MusicGroup","name":"Avelina","alternateName":"Avelina Martinet Molina","genre":"cantautora","url":BASE+"/","image":BASE+"/img/compartir.jpg","description":T["es"]["desc"],"sameAs":[r[2] for r in REDES]}, ensure_ascii=False) + "</script>"
     c = f'''<section class="portada">
-<div class="fotos-portada" aria-hidden="true"><img src="/img/fotos/guitarra-muro.webp" alt="" fetchpriority="high"><img src="/img/fotos/guitarra-luz.webp" alt=""><img src="/img/fotos/guitarra.webp" alt=""><img src="/img/fotos/guitarra-risa.webp" alt=""><img src="/img/fotos/casa.webp" alt=""><img src="/img/fotos/guitarra-sol.webp" alt=""></div>
+<div class="fotos-portada" aria-hidden="true">{impresion("guitarra-muro", ' fetchpriority="high"')}{impresion("guitarra-luz")}<img src="/img/fotos/guitarra.webp" alt="">{impresion("guitarra-risa")}<img src="/img/fotos/casa.webp" alt="">{impresion("guitarra-sol")}</div>
 <span class="sello-portada" aria-hidden="true"></span>{matasellos(t, "m-portada")}
 <a class="detalle d1" href="{url(l,'diario')}" aria-label="{t['diario']}">{ic('ave')}<span>{bi(t['diario'])}</span></a>
 <a class="detalle d2" href="{url(l,'musica')}" aria-label="{t['musica']}">{ic('estrella')}<span>{bi(t['musica'])}</span></a>
