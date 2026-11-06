@@ -106,91 +106,9 @@ T = {
 }
 e = html.escape
 
-# Letra a mano: cada palabra es un dibujo vectorial de Biro Script, no un archivo de fuente.
-# La fuente nunca entra al repo (su licencia no deja distribuirla). Con BIRO_TTF apuntando a ella
-# se dibujan las palabras nuevas; sin ella se usan las ya guardadas en fuente/palabras.json.
-PALABRAS_JSON = os.path.join(RAIZ, "fuente/palabras.json")
-PALABRAS = json.load(open(PALABRAS_JSON, encoding="utf-8")) if os.path.exists(PALABRAS_JSON) else {}
-USADAS = {}
-ARRIBA_B, ABAJO_B = 900, 350
-MARCAS = {"á": "a", "é": "e", "í": "i", "ó": "o", "ú": "u", "ñ": "n", "Á": "A", "É": "E", "Í": "I", "Ó": "O", "Ú": "U", "Ñ": "N"}
-TRAZOS = {".": ("M40 -6c22-12 44 8 30 28c-16 18-46 2-30-28z", 130), ",": ("M52 -8c20-8 34 10 22 34c-10 22-32 44-58 56c18-22 30-38 28-54c-12-6-6-30 8-36z", 130),
-          ":": ("M40 -6c22-12 44 8 30 28c-16 18-46 2-30-28zM66 -250c22-12 44 8 30 28c-16 18-46 2-30-28z", 150), "·": ("M46 -230c22-12 44 8 30 28c-16 18-46 2-30-28z", 150),
-          "'": ("M64 -640c20-6 32 8 24 30c-10 30-30 60-52 80c10-28 16-50 14-68c-10-8-2-36 14-42z", 120), "-": ("M20 -210c70-14 130-16 190-10l-4 22c-62-6-120-4-182 10z", 240),
-          "!": ("M60 -620l40 4l-34 430l-24-2zM34 -6c20-12 40 8 28 26c-14 18-42 2-28-26z", 150), "?": ("M40 -560c60-70 190-50 180 40c-8 70-90 90-100 170l-30-2c6-90 90-110 96-170c6-60-90-70-130-20zM70 -6c20-12 40 8 28 26c-14 18-42 2-28-26z", 250),
-          "(": ("M150 -640c-110 170-110 560 0 730l-22 12c-130-180-130-580 0-750z", 170), ")": ("M30 -640c110 170 110 560 0 730l22 12c130-180 130-580 0-750z", 170)}
-def simplifica(pts, tol):
-    """Douglas-Peucker: quita puntos que no cambian el trazo a la vista."""
-    if len(pts) < 3: return pts
-    pila, guarda = [(0, len(pts) - 1)], {0, len(pts) - 1}
-    while pila:
-        i, j = pila.pop(); (x0, y0), (x1, y1) = pts[i], pts[j]; dx, dy = x1 - x0, y1 - y0; n = (dx * dx + dy * dy)**.5 or 1; m, k = 0, None
-        for q in range(i + 1, j):
-            d = abs(dy * (pts[q][0] - x0) - dx * (pts[q][1] - y0)) / n
-            if d > m: m, k = d, q
-        if m > tol: guarda.add(k); pila += [(i, k), (k, j)]
-    return [pts[i] for i in sorted(guarda)]
-def contorno(gs, g, x):
-    """Convierte la forma de una letra en una línea corta, ya colocada en la palabra."""
-    from fontTools.pens.basePen import BasePen
-    class Pluma(BasePen):
-        def __init__(s, gs): super().__init__(gs); s.c = []
-        def _moveTo(s, p): s.c.append([p])
-        def _lineTo(s, p): s.c[-1].append(p)
-        def _qCurveToOne(s, a, b_):
-            p = s._getCurrentPoint()
-            for i in range(1, 6):
-                t = i / 5; s.c[-1].append(((1-t)**2*p[0] + 2*(1-t)*t*a[0] + t*t*b_[0], (1-t)**2*p[1] + 2*(1-t)*t*a[1] + t*t*b_[1]))
-        def _curveToOne(s, a, b_, c):
-            p = s._getCurrentPoint()
-            for i in range(1, 7):
-                t = i / 6; u = 1 - t; s.c[-1].append((u**3*p[0] + 3*u*u*t*a[0] + 3*u*t*t*b_[0] + t**3*c[0], u**3*p[1] + 3*u*u*t*a[1] + 3*u*t*t*b_[1] + t**3*c[1]))
-    pl = Pluma(gs); gs[g].draw(pl); d = []
-    for c in pl.c:
-        lejos = max(range(len(c)), key=lambda i: (c[i][0] - c[0][0])**2 + (c[i][1] - c[0][1])**2)   # un contorno cerrado se simplifica en dos mitades
-        q = simplifica(c[:lejos + 1], 2.2)[:-1] + simplifica(c[lejos:] + [c[0]], 2.2)[:-1]
-        if len(q) < 3: continue
-        px, py = round(q[0][0] + x), round(-q[0][1]); d.append(f"M{px} {py}l")
-        for u, v in q[1:]:
-            nx, ny = round(u + x), round(-v); d.append(f"{nx - px} {ny - py} "); px, py = nx, ny
-        d[-1] = d[-1].rstrip(); d.append("z")
-    return "".join(d).replace(" -", "-")
-def dibuja_palabra(p):
-    from fontTools.ttLib import TTFont
-    from fontTools.pens.boundsPen import BoundsPen
-    global _F
-    try: _F
-    except NameError: _F = TTFont(os.environ["BIRO_TTF"])
-    mapa, gs, hm = _F.getBestCmap(), _F.getGlyphSet(), _F["hmtx"]
-    x, partes = 40, []
-    for c in p:
-        base = MARCAS.get(c, c)
-        if c in TRAZOS:
-            d, w = TRAZOS[c]; partes.append(f'<path transform="translate({x} 0)" d="{d}"/>'); x += w; continue
-        if ord(base) not in mapa: return None
-        g = mapa[ord(base)]; partes.append(f'<path d="{contorno(gs, g, x)}"/>')
-        if c != base:
-            bp = BoundsPen(gs); gs[g].draw(bp); x0, _, x1, y1 = bp.bounds; cx, y = x + (x0 + x1) / 2 + 34, -(y1 + (70 if base.islower() else 60))
-            if base in "ñnN": partes.append(f'<path transform="translate({cx:.0f} {y:.0f})" d="M-92 12c30-46 58-46 92-18s54 22 84-16l16 12c-34 50-66 54-106 24s-50-26-72 10z"/>')
-            else: partes.append(f'<path transform="translate({cx:.0f} {y:.0f})" d="M-46 22c44-46 86-92 118-126c16-14 38 4 24 22c-34 40-78 78-126 118z"/>')
-        x += hm[g][0]
-    return {"w": x + 40, "d": "".join(partes)}
 def bi(texto):
-    """Texto visible a mano, con el texto real oculto para buscadores y lectores de pantalla."""
-    t = html.unescape(str(texto)); fuera = []
-    for p in t.split():
-        if p not in PALABRAS and os.environ.get("BIRO_TTF"):
-            d = dibuja_palabra(p)
-            if d: PALABRAS[p] = d
-        if p in PALABRAS:
-            USADAS[p] = PALABRAS[p]; n = list(PALABRAS).index(p)
-            fuera.append(f'<svg class="biro" style="width:{PALABRAS[p]["w"] / 1000:.3f}em" aria-hidden="true"><use href="/img/palabras.svg#{id_palabra(p)}"/></svg>')
-        else:
-            fuera.append(f'<span class="plano" aria-hidden="true">{e(p)}</span>')
-    return f'<span class="vh">{e(t)}</span>' + " ".join(fuera)
-def id_palabra(p):
-    import hashlib
-    return "p" + hashlib.sha1(p.encode()).hexdigest()[:9]
+    """Texto visible en la letra a mano del sitio."""
+    return f'<span class="a-mano">{e(html.unescape(str(texto)))}</span>'
 def version(ruta):
     import hashlib
     return hashlib.sha1(open(os.path.join(RAIZ, ruta), "rb").read()).hexdigest()[:8]
@@ -309,7 +227,7 @@ def pagina(l, clave, titulo, cuerpo, ruta_es=None, ruta_en=None, ld=""):
 <meta property="og:title" content="{e(full)}"><meta property="og:description" content="{e(t['desc'])}"><meta property="og:image" content="{BASE}/img/compartir.jpg"><meta property="og:url" content="{BASE}/{mi}"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#1c356d"><link rel="icon" href="/img/favicon.png"><link rel="canonical" href="{BASE}/{mi}">
 <link rel="alternate" hreflang="es" href="{BASE}/{es_r}"><link rel="alternate" hreflang="en" href="{BASE}/{en_r}">
-<link rel="stylesheet" href="/css/sitio.css?v={V_CSS}">{ld}
+<link rel="preload" href="/fonts/avelina-mano.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/css/sitio.css?v={V_CSS}">{ld}
 <script src="/js/sitio.js?v={V_JS}" defer></script></head>
 <body class="p-{clave}">{SIMBOLOS}
 <header class="barra"><a class="logo" href="{url(l,'inicio')}"><img src="/img/marca/avelina.png" alt="Avelina" width="707" height="157"></a>
@@ -375,9 +293,6 @@ for l in ("es", "en"):
     for k, h in paginas(l).items(): escribe(RUTAS[k][r] + "index.html", h)
 escribe("404.html", pagina("es", "404", T["es"]["no_hay"], f'<section class="lienzo primera"><div class="ancho centro">{cabeza(T["es"]["no_hay"])}<a class="boton boton-luz" href="/">{bi(T["es"]["no_hay_btn"])}</a></div></section>', "", "en/"))
 urls = "".join(f"<url><loc>{BASE}/{r}</loc></url>" for par in RUTAS.values() for r in par)
-palabras = {p: USADAS[p] for p in sorted(USADAS)}
-json.dump(palabras, open(PALABRAS_JSON, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
-escribe("img/palabras.svg", '<svg xmlns="http://www.w3.org/2000/svg">' + "".join(f'<symbol id="{id_palabra(p)}" viewBox="0 {-ARRIBA_B} {d["w"]} {ARRIBA_B + ABAJO_B}"><g fill="currentColor" stroke="currentColor" stroke-width="9" stroke-linejoin="round">{d["d"]}</g></symbol>' for p, d in palabras.items()) + "</svg>")
 escribe("sitemap.xml", f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>\n')
 escribe("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
 print("listo")
