@@ -25,7 +25,7 @@ section{padding:clamp(64px,10vw,120px) 0;position:relative}
 .p-privacidad .lienzo{background:linear-gradient(#26396aeb,#26396aeb),var(--noche) url(/img/azul/estrellas.webp) center top/700px}
 .lienzo.cielo{background:var(--mar) url(/img/azul/cielo.webp) right top/1400px}
 .lienzo .boton,.lienzo .cuadro,.lienzo .marco,.lienzo .red:hover{text-shadow:none}
-.papel{background:var(--papel);color:var(--noche);z-index:1}
+.papel{background:var(--papel);color:var(--noche);z-index:1;overflow-x:clip}
 .papel::before,.papel::after{content:"";position:absolute;left:0;right:0;height:56px;background:url(/img/azul/rasgado.png) center top/1600px 56px repeat-x;pointer-events:none}
 .papel::before{top:-55px}.papel::after{bottom:-55px;transform:scaleY(-1);background-position:-640px 0}.papel.primera::before{display:none}
 .dos{display:grid;gap:clamp(32px,6vw,72px);align-items:center;grid-template-columns:1.25fr 1fr}
