@@ -1,0 +1,22 @@
+name: Publicar en Netlify
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+concurrency:
+  group: netlify
+  cancel-in-progress: true
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Armar carpeta del sitio
+        run: |
+          mkdir -p _publicar
+          git ls-files | grep -v -E '^(README.md|CNAME|\.nojekyll|fuente/.*|\.github/.*)$' | rsync -a --files-from=- . _publicar/
+      - name: Publicar
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: 2d259e09-7053-4264-a729-fce6e7570f29
+        run: npx -y netlify-cli@27.5.2 deploy --prod --dir _publicar --no-build

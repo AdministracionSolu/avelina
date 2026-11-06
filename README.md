@@ -1,6 +1,6 @@
 # avelina.com.mx
 
-Sitio de Avelina. Se publica solo con GitHub Pages: todo lo que llegue a la rama `main` sale en https://avelina.com.mx en 1 o 2 minutos.
+Sitio de Avelina. Se publica solo en Netlify: todo lo que llegue a la rama `main` sale en https://avelina.com.mx en 1 o 2 minutos (lo sube `.github/workflows/netlify.yml`).
 
 ## Cómo editar
 El sitio se genera con `fuente/build.py` (Python, sin dependencias). No edites a mano los `index.html`: se sobrescriben.
@@ -10,21 +10,21 @@ El sitio se genera con `fuente/build.py` (Python, sin dependencias). No edites a
 
 - **Video de presentación:** cambia `PRESENTACION` por el id de YouTube y guarda su miniatura en `img/videos/<id>.webp`.
 - **Nuevo video o entrada del diario:** agrega una línea al inicio de `VIDEOS`. `musica=1` lo pone en el mosaico y `pared=1` en la pared.
-- **HTTPS:** el dominio principal es `avelina.com.mx` (sin www), que tiene certificado válido. Si cambias `CNAME` a www, el sitio vuelve a marcar «no seguro» hasta que exista certificado para www.
+- **HTTPS:** Netlify da el certificado de `avelina.com.mx` y `www.avelina.com.mx` y lo renueva solo. No hay que hacer nada.
 - **Cartas:** los correos se guardan en Supabase, proyecto AvPiPro, tabla `cartas_avelina`. Se ven en el panel de Supabase (Table Editor). Desde el sitio solo se puede agregar. La llave secreta nunca va en este repo, que es público.
 - **Latido:** `.github/workflows/latido-supabase.yml` toca la base dos veces por semana para que el plan gratis no la pause.
 - **Tipografías:** Amatic SC y Newsreader suplen a Glypher y Karumbi del manual. Si tienes los archivos de las originales, se cambian en `css/sitio.css`.
 
 ## No borrar
-- `CNAME`: le dice a GitHub que el sitio vive en avelina.com.mx. Si se borra, el dominio deja de funcionar.
-- `.nojekyll`: hace que GitHub publique los archivos tal cual.
+- `.github/workflows/netlify.yml`: es lo que publica el sitio. Sin él, los cambios no salen.
 
 ## Dónde está cada cosa
-- **Código y publicación:** este repo (GitHub Pages, rama `main`, carpeta raíz).
-- **Dominio y DNS:** registrado en WordPress.com, en la cuenta de Diego. Apunta a GitHub Pages con:
-  - `A @` → 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153
-  - `CNAME www` → administracionsolu.github.io
+- **Código:** este repo, rama `main`.
+- **Publicación:** Netlify, sitio `avelina-produccion` (cuenta de Diego).
+- **Dominio y DNS:** registrado en WordPress.com, en la cuenta de Diego. Apunta a Netlify con:
+  - `A @` → 75.2.60.5
+  - `CNAME www` → avelina-produccion.netlify.app
   Cualquier cambio de DNS (correo con el dominio, etc.) se lo pides a Diego.
 - No hay claves ni contraseñas: no hacen falta. Con ser colaboradora del repo basta para editar y publicar.
 
-Si quieres pasar a un framework (Astro, Next, Vite), se puede: hay que cambiar Pages a "GitHub Actions" en Settings → Pages y agregar el workflow de build.
+Si quieres pasar a un framework (Astro, Next, Vite), se puede: se agrega el paso de build en `.github/workflows/netlify.yml` y se publica la carpeta que genere.
