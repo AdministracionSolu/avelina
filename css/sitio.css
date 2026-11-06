@@ -54,9 +54,9 @@ section{padding:clamp(64px,10vw,120px) 0;position:relative}
 .p-inicio .logo{visibility:hidden}
 .fotos-portada,.fotos-portada img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .fotos-portada img{opacity:0;animation:cambia 21s infinite;object-position:62% 30%}
-.fotos-portada img:nth-child(1){opacity:1;animation-name:primera}
-.fotos-portada img:nth-child(2){animation-delay:7s;object-position:45% 50%}
-.fotos-portada img:nth-child(3){animation-delay:14s;object-position:80% 60%}
+.fotos-portada picture:nth-child(1) img{opacity:1;animation-name:primera}
+.fotos-portada picture:nth-child(2) img{animation-delay:7s;object-position:45% 50%}
+.fotos-portada picture:nth-child(3) img{animation-delay:14s;object-position:80% 60%}
 @keyframes cambia{0%{opacity:0;transform:scale(1.07)}5%,33%{opacity:1}38%,100%{opacity:0;transform:scale(1)}}
 @keyframes primera{0%,28%{opacity:1;transform:scale(1)}33%,95%{opacity:0;transform:scale(1.05)}100%{opacity:1}}
 .portada::after{content:"";position:absolute;inset:0;background:linear-gradient(to top,#1c356de6 0,#1c356d80 34%,#1c356d00 62%),linear-gradient(to bottom,#1c356d88,#1c356d00 22%);pointer-events:none}
@@ -235,18 +235,18 @@ footer .ancho::before{content:"";display:block;width:84px;height:84px;margin:0 a
 .aviso-form{font-size:1.15rem;font-style:italic;font-weight:400;letter-spacing:0;line-height:1.35}.sobre.enviado .aviso-form{font-size:1.3rem}
 .legal .sub{font-size:1rem;font-style:italic;letter-spacing:0}
 @media(max-width:900px){.lienzo.cielo{background:linear-gradient(#1c4776b8,#1c4776b8),var(--mar) url(/img/azul/cielo.webp) right top/1000px}.nav-ancho{display:none}.menu{display:block}.dos{grid-template-columns:1fr}.obra{grid-column:span 12}.obra-v{grid-column:span 6}.archivo{grid-template-columns:1fr}.archivo nav{position:static;display:flex;flex-wrap:wrap;gap:.2rem 1rem}.album{columns:2}}
-@media(max-width:560px){body{font-size:1.08rem}.mosaico{grid-template-columns:repeat(2,1fr)}.fila-redes{grid-template-columns:1fr}.album{columns:1;padding-inline:8px}.entrada{grid-template-columns:96px 1fr;gap:.9rem}.entrada img{width:96px;height:96px}.marco{border-width:16px;padding:7px}.play{width:50px;height:50px;margin:-25px}.play::after{left:20px;top:14px;border-left-width:16px;border-block-width:11px}.companera{width:42px;right:6px}.barra{padding:24px 28px}.d1{top:17%;left:9%}.d2{top:36%;right:9%}.d3{display:none}.fotos-portada img:nth-child(1){object-position:66% 30%}.fotos-portada img:nth-child(2){object-position:40% 50%}.fotos-portada img:nth-child(3){object-position:82% 60%}.detalle span{display:none}.hoja{padding:40px 22px 24px}}
-@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}.fotos-portada img:nth-child(1){opacity:1}}
+@media(max-width:560px){body{font-size:1.08rem}.mosaico{grid-template-columns:repeat(2,1fr)}.fila-redes{grid-template-columns:1fr}.album{columns:1;padding-inline:8px}.entrada{grid-template-columns:96px 1fr;gap:.9rem}.entrada img{width:96px;height:96px}.marco{border-width:16px;padding:7px}.play{width:50px;height:50px;margin:-25px}.play::after{left:20px;top:14px;border-left-width:16px;border-block-width:11px}.companera{width:42px;right:6px}.barra{padding:24px 28px}.d1{top:17%;left:9%}.d2{top:36%;right:9%}.d3{display:none}.fotos-portada picture:nth-child(1) img{object-position:66% 30%}.fotos-portada picture:nth-child(2) img{object-position:40% 50%}.fotos-portada picture:nth-child(3) img{object-position:82% 60%}.detalle span{display:none}.hoja{padding:40px 22px 24px}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}.fotos-portada picture:nth-child(1) img{opacity:1}}
 @media(max-width:560px){.vuelo{width:62vw;top:10px}.hoja::before{right:8px;width:84px;height:84px}.sobre::after{width:58px;height:58px;right:-8px;bottom:-16px}.cara,.cuadro-dib{font-size:1.2rem}.cara{padding:0 5% 6%}}
 /* portada: marco delicado y seis fotos */
 .portada{margin:10px;min-height:calc(min(100svh,1000px) - 20px);border:clamp(13px,1.45vw,20px) solid #f4ecdc;border-image:url(/img/calido/marco-flores.svg) 60 round;box-shadow:0 6px 18px #0f235055}
 .fotos-portada img{animation:cambia 30s infinite;object-position:65% 50%}
-.fotos-portada img:nth-child(1){opacity:1;animation-name:primera;object-position:65% 50%}
-.fotos-portada img:nth-child(2){animation-delay:5s;object-position:65% 50%}
-.fotos-portada img:nth-child(3){animation-delay:10s;object-position:45% 12%}
-.fotos-portada img:nth-child(4){animation-delay:15s;object-position:65% 50%}
-.fotos-portada img:nth-child(5){animation-delay:20s;object-position:80% 60%}
-.fotos-portada img:nth-child(6){animation-delay:25s;object-position:65% 50%}
+.fotos-portada picture:nth-child(1) img{opacity:1;animation-name:primera;object-position:65% 50%}
+.fotos-portada picture:nth-child(2) img{animation-delay:5s;object-position:65% 50%}
+.fotos-portada picture:nth-child(3) img{animation-delay:10s;object-position:45% 12%}
+.fotos-portada picture:nth-child(4) img{animation-delay:15s;object-position:65% 50%}
+.fotos-portada picture:nth-child(5) img{animation-delay:20s;object-position:80% 60%}
+.fotos-portada picture:nth-child(6) img{animation-delay:25s;object-position:65% 50%}
 @keyframes cambia{0%{opacity:0;transform:scale(1.03)}3%,17%{opacity:1}20%,100%{opacity:0;transform:scale(1)}}
 @keyframes primera{0%,14%{opacity:1;transform:scale(1)}17%,97%{opacity:0;transform:scale(1.02)}100%{opacity:1}}
 .d1{color:var(--carton)}.d1 .ic{filter:drop-shadow(0 1px 4px #0f235099)}
@@ -261,10 +261,12 @@ footer .ancho::before{content:"";display:block;width:84px;height:84px;margin:0 a
 .reverso .cedula b{--b:1.06;font-weight:400;line-height:26px;display:block}.reverso .cedula i{display:block;font-size:.8rem;line-height:26px}
 .obra-v{grid-template-columns:1fr;padding:9px}.obra-v .reverso{margin:9px 0 0;padding:6px 44px 0 2px;border-left:0;border-top:1px solid #1c356d44;min-height:66px}.obra-v .reverso::before{display:none}.obra-v .mini-timbre{top:8px;width:34px;height:41px}
 .companera{width:96px;filter:drop-shadow(0 3px 5px #0f235066)}
-@media(max-width:560px){.portada{margin:6px;min-height:calc(100svh - 12px)}.fotos-portada img:nth-child(1),.fotos-portada img:nth-child(2),.fotos-portada img:nth-child(4),.fotos-portada img:nth-child(6){object-position:65% 50%}.fotos-portada img:nth-child(3){object-position:40% 50%}.fotos-portada img:nth-child(5){object-position:82% 60%}.companera{width:66px}.obra{grid-template-columns:1.25fr 1fr;padding:8px}.obra-v{grid-template-columns:1fr}.reverso{padding-top:46px;margin-left:8px;padding-left:8px}.reverso::before{display:none}.reverso .cedula{font-size:.92rem}}
+@media(max-width:560px){.portada{margin:6px;min-height:calc(100svh - 12px)}.fotos-portada picture:nth-child(1) img,.fotos-portada picture:nth-child(2) img,.fotos-portada picture:nth-child(4) img,.fotos-portada picture:nth-child(6) img{object-position:65% 50%}.fotos-portada picture:nth-child(3) img{object-position:40% 50%}.fotos-portada picture:nth-child(5) img{object-position:82% 60%}.companera{width:66px}.obra{grid-template-columns:1.25fr 1fr;padding:8px}.obra-v{grid-template-columns:1fr}.reverso{padding-top:46px;margin-left:8px;padding-left:8px}.reverso::before{display:none}.reverso .cedula{font-size:.92rem}}
 .primera .vuelo{top:104px}
 @media(max-width:900px){.primera .vuelo{display:none}}
 .portada::after{background:linear-gradient(to top,#160e0ae0 0,#160e0a70 30%,#160e0a00 58%),linear-gradient(to bottom,#160e0a80,#160e0a00 20%)}
-.fotos-portada img{object-position:50% 50%}.fotos-portada img:nth-child(1),.fotos-portada img:nth-child(2),.fotos-portada img:nth-child(4),.fotos-portada img:nth-child(6){object-position:50% 50%}
+.fotos-portada img{object-position:50% 50%}.fotos-portada picture:nth-child(1) img,.fotos-portada picture:nth-child(2) img,.fotos-portada picture:nth-child(4) img,.fotos-portada picture:nth-child(6) img{object-position:50% 50%}
 .sello-portada{right:clamp(84px,8.6vw,132px)}.m-portada{right:clamp(130px,14.5vw,216px)}
-@media(max-width:700px){.fotos-portada img:nth-child(1),.fotos-portada img:nth-child(2),.fotos-portada img:nth-child(4),.fotos-portada img:nth-child(6){object-position:50% 22%}.sello-portada{right:74px}.m-portada{right:112px}}
+@media(max-width:700px){.fotos-portada picture:nth-child(1) img,.fotos-portada picture:nth-child(2) img,.fotos-portada picture:nth-child(4) img,.fotos-portada picture:nth-child(6) img{object-position:50% 22%}.sello-portada{right:74px}.m-portada{right:112px}}
+.m-portada{right:clamp(112px,12vw,180px)}
+@media(max-width:700px){.sello-portada{top:74px;width:66px}.m-portada{top:92px;right:100px;width:112px}.d2{display:none}}
