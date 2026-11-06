@@ -246,8 +246,8 @@ def video_presentacion(t):
 # Sueltas sobre la hoja de las cartas. Las frases son de su Substack, con sus palabras exactas.
 # x, y y giro en escritorio; mx y my solo si también aparece en pantallas chicas.
 DISPERSAS = [("solo quiero ser profundamente yo", 3, 13, -3, None, None), ("aves", 12, 31, 5, 8, 4), ("parece hecho de agua", 4, 47, 2, None, None), ("estrellas", 19, 60, -6, 66, 5),
-             ("si no es hoy, será mañana", 3, 76, -2, 6, 92), ("caballos", 15, 86, 4, None, None), ("crear es mi destino", 73, 11, 3, 30, 10), ("mar", 90, 28, -5, None, None),
-             ("entre lágrimas y palabras", 72, 42, -2, None, None), ("viento", 88, 56, 6, 74, 87), ("un corazón de agua", 74, 70, 3, 38, 95), ("familia", 88, 82, -4, 8, 85),
+             ("si no es hoy, será mañana", 3, 76, -2, 6, 86), ("caballos", 15, 86, 4, None, None), ("crear es mi destino", 73, 11, 3, 30, 10), ("mar", 90, 28, -5, None, None),
+             ("entre lágrimas y palabras", 72, 42, -2, None, None), ("viento", 88, 56, 6, 74, 82), ("un corazón de agua", 74, 70, 3, 38, 89), ("familia", 88, 82, -4, 8, 81),
              ("nos vemos en el futuro", 64, 85, -1, None, None), ("Sonora", 30, 7, -4, None, None), ("esto es para mí", 36, 86, 2, None, None)]
 def dispersas():
     fuera = []
