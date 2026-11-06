@@ -81,8 +81,8 @@ T = {
   ver_videos="Ver videos", leer_diario="Leer el diario",
   hola="Hola, soy Avelina", hola_txt="Nací en un pueblo pequeño de Sonora y hoy soy foránea en Monterrey. Mis canciones nacen improvisando, sola con mi guitarra.", mas_quien="Conóceme",
   play="Reproducir video", libreta="Una página de la libreta", leer="Leer la página", leer_substack="Leer en Substack", cerrar="Cerrar",
-  musica="Música", musica_txt="Todavía no hay discos. Por ahora las canciones viven en video. Toca un cuadro para descubrirla.", descubre="Escuchar en YouTube", avisame="Avísame cuando salga", toca_ave="Lo que viene", voltea="Ver",
-  pared="La pared", pared_txt="Cada marco te lleva directo al video.", todos="Todos en YouTube", ver="Ver en YouTube", ver_pared="Ver toda la pared",
+  musica="Música", musica_txt="Todavía no hay discos. Por ahora las canciones viven en video. Toca una postal para descubrirla.", descubre="Escuchar en YouTube", avisame="Avísame cuando salga", toca_ave="Lo que viene", voltea="Ver",
+  pared="La pared", pared_txt="Cada postal te lleva directo al video.", todos="Todos en YouTube", ver="Ver en YouTube", ver_pared="Ver toda la pared",
   diario="Diario", diario_sub="Solo en línea", diario_txt="Casi siempre estoy grabando. Aquí se va quedando lo que escribo y lo que canto, con su fecha.", diario_mas="Abrir el diario", meses_t="Meses",
   album="Verano de nostalgia", album_txt="Pedacitos de una tarde de verano.", abrir="Ver foto", album_nav="Álbum",
   quien_t="Quién soy", bio=["Nací en un pueblo pequeño de Sonora, en una familia de campo, caballos y vacas. Hoy soy foránea en Monterrey.", "La guitarra me acompaña desde niña. Mis momentos favoritos son cuando estoy sola con ella, improvisando y dejando salir lo que siento sin pensarlo demasiado.", "Me inspiran Kevin Kaarl, Ed Maverick, Carla Morrison, Sleeping At Last, Natalia Lafourcade y Silvana Estrada. Lo que busco es un universo propio, sin personajes ni alter egos."],
@@ -95,8 +95,8 @@ T = {
   ver_videos="Watch videos", leer_diario="Read the diary",
   hola="Hi, I'm Avelina", hola_txt="I was born in a small town in Sonora and now live far from home in Monterrey. My songs begin as improvisations, alone with my guitar.", mas_quien="Get to know me",
   play="Play video", libreta="A page from the notebook", leer="Read the page", leer_substack="Read on Substack", cerrar="Close",
-  musica="Music", musica_txt="There are no records yet. For now the songs live on video. Tap a square to find one.", descubre="Listen on YouTube", avisame="Tell me when it's out", toca_ave="What's next", voltea="See",
-  pared="The wall", pared_txt="Every frame takes you straight to the video.", todos="All on YouTube", ver="Watch on YouTube", ver_pared="See the whole wall",
+  musica="Music", musica_txt="There are no records yet. For now the songs live on video. Tap a postcard to find one.", descubre="Listen on YouTube", avisame="Tell me when it's out", toca_ave="What's next", voltea="See",
+  pared="The wall", pared_txt="Every postcard takes you straight to the video.", todos="All on YouTube", ver="Watch on YouTube", ver_pared="See the whole wall",
   diario="Diary", diario_sub="Only online", diario_txt="I am almost always filming. What I write and sing stays here, with its date.", diario_mas="Open the diary", meses_t="Months",
   album="Summer of nostalgia", album_txt="Little pieces of a summer afternoon.", abrir="See photo", album_nav="Album",
   quien_t="About", bio=["I was born in a small town in Sonora, Mexico, in a family of fields, horses and cows. Now I live far from home in Monterrey.", "The guitar has been with me since I was little. My favorite moments are alone with it, improvising and letting out what I feel without overthinking.", "I am inspired by Kevin Kaarl, Ed Maverick, Carla Morrison, Sleeping At Last, Natalia Lafourcade and Silvana Estrada. What I am after is a world of my own, with no characters and no alter egos."],
@@ -105,6 +105,92 @@ T = {
   no_hay="This page flew away", no_hay_btn="Back to home", ave_t="Go to the letters", meses="January February March April May June July August September October November December".split()),
 }
 e = html.escape
+
+# Letra a mano: cada palabra es un dibujo vectorial de Biro Script, no un archivo de fuente.
+# La fuente nunca entra al repo (su licencia no deja distribuirla). Con BIRO_TTF apuntando a ella
+# se dibujan las palabras nuevas; sin ella se usan las ya guardadas en fuente/palabras.json.
+PALABRAS_JSON = os.path.join(RAIZ, "fuente/palabras.json")
+PALABRAS = json.load(open(PALABRAS_JSON, encoding="utf-8")) if os.path.exists(PALABRAS_JSON) else {}
+USADAS = {}
+ARRIBA_B, ABAJO_B = 900, 350
+MARCAS = {"á": "a", "é": "e", "í": "i", "ó": "o", "ú": "u", "ñ": "n", "Á": "A", "É": "E", "Í": "I", "Ó": "O", "Ú": "U", "Ñ": "N"}
+TRAZOS = {".": ("M40 -6c22-12 44 8 30 28c-16 18-46 2-30-28z", 130), ",": ("M52 -8c20-8 34 10 22 34c-10 22-32 44-58 56c18-22 30-38 28-54c-12-6-6-30 8-36z", 130),
+          ":": ("M40 -6c22-12 44 8 30 28c-16 18-46 2-30-28zM66 -250c22-12 44 8 30 28c-16 18-46 2-30-28z", 150), "·": ("M46 -230c22-12 44 8 30 28c-16 18-46 2-30-28z", 150),
+          "'": ("M64 -640c20-6 32 8 24 30c-10 30-30 60-52 80c10-28 16-50 14-68c-10-8-2-36 14-42z", 120), "-": ("M20 -210c70-14 130-16 190-10l-4 22c-62-6-120-4-182 10z", 240),
+          "!": ("M60 -620l40 4l-34 430l-24-2zM34 -6c20-12 40 8 28 26c-14 18-42 2-28-26z", 150), "?": ("M40 -560c60-70 190-50 180 40c-8 70-90 90-100 170l-30-2c6-90 90-110 96-170c6-60-90-70-130-20zM70 -6c20-12 40 8 28 26c-14 18-42 2-28-26z", 250),
+          "(": ("M150 -640c-110 170-110 560 0 730l-22 12c-130-180-130-580 0-750z", 170), ")": ("M30 -640c110 170 110 560 0 730l22 12c130-180 130-580 0-750z", 170)}
+def simplifica(pts, tol):
+    """Douglas-Peucker: quita puntos que no cambian el trazo a la vista."""
+    if len(pts) < 3: return pts
+    pila, guarda = [(0, len(pts) - 1)], {0, len(pts) - 1}
+    while pila:
+        i, j = pila.pop(); (x0, y0), (x1, y1) = pts[i], pts[j]; dx, dy = x1 - x0, y1 - y0; n = (dx * dx + dy * dy)**.5 or 1; m, k = 0, None
+        for q in range(i + 1, j):
+            d = abs(dy * (pts[q][0] - x0) - dx * (pts[q][1] - y0)) / n
+            if d > m: m, k = d, q
+        if m > tol: guarda.add(k); pila += [(i, k), (k, j)]
+    return [pts[i] for i in sorted(guarda)]
+def contorno(gs, g, x):
+    """Convierte la forma de una letra en una línea corta, ya colocada en la palabra."""
+    from fontTools.pens.basePen import BasePen
+    class Pluma(BasePen):
+        def __init__(s, gs): super().__init__(gs); s.c = []
+        def _moveTo(s, p): s.c.append([p])
+        def _lineTo(s, p): s.c[-1].append(p)
+        def _qCurveToOne(s, a, b_):
+            p = s._getCurrentPoint()
+            for i in range(1, 6):
+                t = i / 5; s.c[-1].append(((1-t)**2*p[0] + 2*(1-t)*t*a[0] + t*t*b_[0], (1-t)**2*p[1] + 2*(1-t)*t*a[1] + t*t*b_[1]))
+        def _curveToOne(s, a, b_, c):
+            p = s._getCurrentPoint()
+            for i in range(1, 7):
+                t = i / 6; u = 1 - t; s.c[-1].append((u**3*p[0] + 3*u*u*t*a[0] + 3*u*t*t*b_[0] + t**3*c[0], u**3*p[1] + 3*u*u*t*a[1] + 3*u*t*t*b_[1] + t**3*c[1]))
+    pl = Pluma(gs); gs[g].draw(pl); d = []
+    for c in pl.c:
+        lejos = max(range(len(c)), key=lambda i: (c[i][0] - c[0][0])**2 + (c[i][1] - c[0][1])**2)   # un contorno cerrado se simplifica en dos mitades
+        q = simplifica(c[:lejos + 1], 2.2)[:-1] + simplifica(c[lejos:] + [c[0]], 2.2)[:-1]
+        if len(q) < 3: continue
+        px, py = round(q[0][0] + x), round(-q[0][1]); d.append(f"M{px} {py}l")
+        for u, v in q[1:]:
+            nx, ny = round(u + x), round(-v); d.append(f"{nx - px} {ny - py} "); px, py = nx, ny
+        d[-1] = d[-1].rstrip(); d.append("z")
+    return "".join(d).replace(" -", "-")
+def dibuja_palabra(p):
+    from fontTools.ttLib import TTFont
+    from fontTools.pens.boundsPen import BoundsPen
+    global _F
+    try: _F
+    except NameError: _F = TTFont(os.environ["BIRO_TTF"])
+    mapa, gs, hm = _F.getBestCmap(), _F.getGlyphSet(), _F["hmtx"]
+    x, partes = 40, []
+    for c in p:
+        base = MARCAS.get(c, c)
+        if c in TRAZOS:
+            d, w = TRAZOS[c]; partes.append(f'<path transform="translate({x} 0)" d="{d}"/>'); x += w; continue
+        if ord(base) not in mapa: return None
+        g = mapa[ord(base)]; partes.append(f'<path d="{contorno(gs, g, x)}"/>')
+        if c != base:
+            bp = BoundsPen(gs); gs[g].draw(bp); x0, _, x1, y1 = bp.bounds; cx, y = x + (x0 + x1) / 2 + 34, -(y1 + (70 if base.islower() else 60))
+            if base in "ñnN": partes.append(f'<path transform="translate({cx:.0f} {y:.0f})" d="M-92 12c30-46 58-46 92-18s54 22 84-16l16 12c-34 50-66 54-106 24s-50-26-72 10z"/>')
+            else: partes.append(f'<path transform="translate({cx:.0f} {y:.0f})" d="M-46 22c44-46 86-92 118-126c16-14 38 4 24 22c-34 40-78 78-126 118z"/>')
+        x += hm[g][0]
+    return {"w": x + 40, "d": "".join(partes)}
+def bi(texto):
+    """Texto visible a mano, con el texto real oculto para buscadores y lectores de pantalla."""
+    t = html.unescape(str(texto)); fuera = []
+    for p in t.split():
+        if p not in PALABRAS and os.environ.get("BIRO_TTF"):
+            d = dibuja_palabra(p)
+            if d: PALABRAS[p] = d
+        if p in PALABRAS:
+            USADAS[p] = PALABRAS[p]; n = list(PALABRAS).index(p)
+            fuera.append(f'<svg class="biro" style="width:{PALABRAS[p]["w"] / 1000:.3f}em" aria-hidden="true"><use href="/img/palabras.svg#{id_palabra(p)}"/></svg>')
+        else:
+            fuera.append(f'<span class="plano" aria-hidden="true">{e(p)}</span>')
+    return f'<span class="vh">{e(t)}</span>' + " ".join(fuera)
+def id_palabra(p):
+    import hashlib
+    return "p" + hashlib.sha1(p.encode()).hexdigest()[:9]
 def version(ruta):
     import hashlib
     return hashlib.sha1(open(os.path.join(RAIZ, ruta), "rb").read()).hexdigest()[:8]
@@ -136,19 +222,21 @@ def marco(l, v, carga="lazy"):
 <span class="cedula"><b>{e(v['t'])}</b><i>{fecha(l, v['f'])}</i></span></a>'''
 def pared(l, vs): return '<div class="pared">' + "".join(marco(l, v) for v in vs) + "</div>"
 
+ESTAMPAS = {"YaefwL4A84s": "country-girl", "rmZBT6yQDr4": "improvisando", "anBe-FCImC4": "corazon", "suRrMCKqzBU": "dos-almas", "uRt5VXAh1xo": "valentina",
+            "Q__mG3J91r4": "me-encantaaaa", "Yj5FoBnK1v4": "estrellas-y-mar", "FVlC9LQvT9w": "renunciacion", "aaX3qIqqdbk": "eso-y-mas"}
 def mosaico(l, t):
-    colores = "cielo azul crema vino naranja noche rosa verde".split()
     canciones = [v for v in VIDEOS if v.get("musica")]
-    celdas, extras, i = [], [("ave", url(l, "contacto") + "#cartas", t["avisame"]), ("estrella", url(l, "diario"), t["diario"]), ("ola", url(l, "videos"), t["pared"])], 0
+    celdas, extras = [], [("avisame", url(l, "contacto") + "#cartas", t["avisame"]), ("diario", url(l, "diario"), t["diario"]), ("pared", url(l, "videos"), t["pared"])]
     for n, v in enumerate(canciones):
-        c = colores[n % 8]
-        celdas.append(f'''<div class="cuadro c-{c}"><div class="giro">
-<button class="cara" type="button" aria-expanded="false"><span>{e(v['t'] if len(v['t'])<34 else v['t'].split(' (')[0])}</span></button>
-<div class="dorso" inert><img src="/img/videos/{v['id']}.webp" alt="" loading="lazy"><a href="{yt(v['id'])}" target="_blank" rel="noopener">{t['descubre']}</a></div>
+        arte = f'style="--f:url(/img/estampas/{ESTAMPAS[v["id"]]}.webp)"'
+        titulo = v['t'] if len(v['t']) < 34 else v['t'].split(' (')[0]
+        celdas.append(f'''<div class="cuadro" {arte}><div class="giro">
+<button class="cara" type="button" aria-expanded="false"><span>{bi(titulo)}</span></button>
+<div class="dorso" inert><img src="/img/videos/{v['id']}.webp" alt="" loading="lazy"><a href="{yt(v['id'])}" target="_blank" rel="noopener">{bi(t['descubre'])}</a></div>
 </div></div>''')
         if n in (2, 5, 8) and extras:
-            s, h, x = extras.pop(0); c2 = colores[(n + 3) % 8]
-            celdas.append(f'<a class="cuadro cuadro-dib c-{c2}" href="{h}">{ic(s)}<span>{x}</span></a>')
+            s, h, x = extras.pop(0)
+            celdas.append(f'<a class="cuadro cuadro-dib" href="{h}" style="--f:url(/img/estampas/{s}.webp)"><span>{bi(x)}</span></a>')
     return '<div class="mosaico">' + "".join(celdas) + "</div>"
 
 def video_presentacion(t):
@@ -158,23 +246,23 @@ def video_presentacion(t):
 def cartas(t):
     l = t["html"]
     return f'''<section class="cartas" id="cartas"><div class="ancho">
-<h2>{t['cartas']}</h2><p class="lead">{t['cartas_txt']}</p>
+<h2>{bi(t['cartas'])}</h2><p class="lead">{t['cartas_txt']}</p>
 <form class="sobre" data-destino="{CARTAS_DESTINO}" data-llave="{CARTAS_LLAVE}" data-idioma="{l}" data-ok="{t['cartas_ok']}" data-error="{t['cartas_error']}">
 <span class="timbre" aria-hidden="true"><img src="/img/marca/paloma-1.png" alt=""></span>{matasellos(t, "m-sobre")}
-<label for="correo-cartas">{t['cartas_label']}</label>
+<label for="correo-cartas">{bi(t['cartas_label'])}</label>
 <div class="renglon"><span aria-hidden="true">{t['cartas_para']}</span><input id="correo-cartas" type="email" name="correo" required autocomplete="email" inputmode="email" placeholder="{t['cartas_ph']}"></div>
 <input class="trampa" type="text" name="sitio" tabindex="-1" autocomplete="off" aria-hidden="true">
-<button class="boton" type="submit">{t['cartas_btn']}</button>
+<button class="boton" type="submit">{bi(t['cartas_btn'])}</button>
 <p class="aviso-form" role="status"></p></form>
 <p class="pie">{t['cartas_pie']} <a href="{url(l,'privacidad')}">{t['priv_t']}</a></p></div></section>'''
 def redes(t, clase="mar mar-2"):
-    c = "".join(f'<a class="red" href="{h}" target="_blank" rel="noopener">{ic(i)}<b>{n}</b><span>{u}</span></a>' for n, u, h, i in REDES)
-    return f'<section class="lienzo {clase} redes"><div class="ancho"><h2>{t["redes"]}</h2><div class="fila-redes">{c}</div></div></section>'
+    c = "".join(f'<a class="red" href="{h}" target="_blank" rel="noopener">{ic(i)}<b>{bi(n)}</b><span>{u}</span></a>' for n, u, h, i in REDES)
+    return f'<section class="lienzo {clase} redes"><div class="ancho"><h2>{bi(t["redes"])}</h2><div class="fila-redes">{c}</div></div></section>'
 
 def dialogo_carta(t):
     return f'''<dialog class="carta" id="carta"><form method="dialog"><button class="cerrar" aria-label="{t['cerrar']}">×</button></form>
-<h3 lang="es">Corazón de agua</h3><pre lang="es">{e(CORAZON)}</pre>
-<a class="boton" href="{SUBSTACK}" target="_blank" rel="noopener">{t['leer_substack']}</a></dialog>'''
+<h3 lang="es">{bi('Corazón de agua')}</h3><pre lang="es">{e(CORAZON)}</pre>
+<a class="boton" href="{SUBSTACK}" target="_blank" rel="noopener">{bi(t['leer_substack'])}</a></dialog>'''
 
 def diario_lista(l, t, vs, agrupar=True):
     out, actual = [], None
@@ -182,7 +270,7 @@ def diario_lista(l, t, vs, agrupar=True):
         m = mes(l, v["f"])
         if agrupar and m != actual:
             if actual: out.append("</div>")
-            actual = m; out.append(f'<h2 class="mes" id="m-{v["f"][:7]}">{m}</h2><div class="entradas">')
+            actual = m; out.append(f'<h2 class="mes" id="m-{v["f"][:7]}">{bi(m)}</h2><div class="entradas">')
         txt = f'<p lang="{"en" if re.search(r"\b(I|the|and)\b", v["txt"]) else "es"}">{e(v["txt"])}</p>' if v["txt"] else ""
         out.append(f'''<a class="entrada" href="{yt(v['id'])}" target="_blank" rel="noopener"><img src="/img/videos/{v['id']}.webp" alt="" loading="lazy"><span><time datetime="{v['f']}">{fecha(l, v['f'])}</time><b>{e(v['t'])}</b>{txt}</span></a>''')
     if agrupar: out.append("</div>")
@@ -196,7 +284,7 @@ def pagina(l, clave, titulo, cuerpo, ruta_es=None, ruta_en=None, ld=""):
     t = T[l]; otro = "en" if l == "es" else "es"
     es_r, en_r = RUTAS[clave] if clave in RUTAS else (ruta_es, ruta_en)
     mi = es_r if l == "es" else en_r; alt = en_r if l == "es" else es_r
-    nav = "".join(f'<a href="{url(l,k)}"{" aria-current=page" if k==clave else ""}>{n}</a>' for k, n in t["nav"])
+    nav = "".join(f'<a href="{url(l,k)}"{" aria-current=page" if k==clave else ""}>{bi(n)}</a>' for k, n in t["nav"])
     full = "Avelina · " + ("cantautora" if l == "es" else "singer-songwriter") if clave == "inicio" else f"{titulo} · Avelina"
     return f'''<!doctype html>
 <html lang="{t['html']}"><head><meta charset="utf-8"><script>if(location.protocol==="http:"&&location.hostname==="avelina.com.mx")location.replace("https://avelina.com.mx"+location.pathname+location.search+location.hash)</script><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -204,22 +292,22 @@ def pagina(l, clave, titulo, cuerpo, ruta_es=None, ruta_en=None, ld=""):
 <meta property="og:title" content="{e(full)}"><meta property="og:description" content="{e(t['desc'])}"><meta property="og:image" content="{BASE}/img/compartir.jpg"><meta property="og:url" content="{BASE}/{mi}"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#1c356d"><link rel="icon" href="/img/favicon.png"><link rel="canonical" href="{BASE}/{mi}">
 <link rel="alternate" hreflang="es" href="{BASE}/{es_r}"><link rel="alternate" hreflang="en" href="{BASE}/{en_r}">
-<link rel="preload" href="/fonts/amaticsc-normal-700.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/css/sitio.css?v={V_CSS}">{ld}
+<link rel="stylesheet" href="/css/sitio.css?v={V_CSS}">{ld}
 <script src="/js/sitio.js?v={V_JS}" defer></script></head>
 <body class="p-{clave}">{SIMBOLOS}
 <header class="barra"><a class="logo" href="{url(l,'inicio')}"><img src="/img/marca/avelina.png" alt="Avelina" width="707" height="157"></a>
-<details class="menu"><summary>{t['menu']}</summary><nav>{nav}</nav></details>
+<details class="menu"><summary>{bi(t['menu'])}</summary><nav>{nav}</nav></details>
 <nav class="nav-ancho" aria-label="{t['menu']}">{nav}</nav>
-<a class="idioma" href="/{alt}" hreflang="{otro}" lang="{otro}" aria-label="{t['otra_nombre']}">{t['otra']}</a></header>
+<a class="idioma" href="/{alt}" hreflang="{otro}" lang="{otro}" aria-label="{t['otra_nombre']}">{bi(t['otra'])}</a></header>
 <main>{cuerpo}</main>
-<footer><div class="ancho"><img src="/img/marca/avelina.png" alt="" width="707" height="157" loading="lazy"><p>{t['frase']}</p>
-<nav>{"".join(f'<a href="{h}" target="_blank" rel="noopener">{n}</a>' for n,u,h,i in REDES)}</nav><small>© 2026 Avelina Martinet Molina · <a href="{url(l,'privacidad')}">{t['priv_t']}</a></small></div></footer>
+<footer><div class="ancho"><img src="/img/marca/avelina.png" alt="" width="707" height="157" loading="lazy"><p>{bi(t['frase'])}</p>
+<nav>{"".join(f'<a href="{h}" target="_blank" rel="noopener">{bi(n)}</a>' for n,u,h,i in REDES)}</nav><small>© 2026 Avelina Martinet Molina · <a href="{url(l,'privacidad')}">{t['priv_t']}</a></small></div></footer>
 <a class="companera" href="{url(l,'contacto')}#cartas" aria-label="{t['ave_t']}" title="{t['ave_t']}"><img src="/img/marca/paloma-1.png" alt=""></a>
 </body></html>
 '''
 def cabeza(titulo, sub=""):
     s = f'<p class="lead">{sub}</p>' if sub else ""
-    return f'<div class="cabeza"><h1>{titulo}</h1>{s}</div>'
+    return f'<div class="cabeza"><h1>{bi(titulo)}</h1>{s}</div>'
 
 def inicio(l):
     t = T[l]; pv = [v for v in VIDEOS if v.get("pared")][:4]
@@ -227,17 +315,17 @@ def inicio(l):
     c = f'''<section class="portada">
 <div class="fotos-portada" aria-hidden="true"><img src="/img/fotos/tarde.webp" alt="" fetchpriority="high"><img src="/img/fotos/guitarra.webp" alt=""><img src="/img/fotos/casa.webp" alt=""></div>
 <span class="sello-portada" aria-hidden="true"></span>{matasellos(t, "m-portada")}
-<a class="detalle d1" href="{url(l,'diario')}" aria-label="{t['diario']}">{ic('ave')}<span>{t['diario']}</span></a>
-<a class="detalle d2" href="{url(l,'musica')}" aria-label="{t['musica']}">{ic('estrella')}<span>{t['musica']}</span></a>
-<a class="detalle d3" href="{url(l,'videos')}" aria-label="{t['pared']}">{ic('ola')}<span>{t['pared']}</span></a>
-<div class="texto-portada"><h1><img src="/img/marca/avelina.png" alt="Avelina" width="707" height="157"></h1><p class="quien">{t['quien']}</p><p class="frase">{t['frase']}</p>
-<p class="acciones"><a class="boton boton-luz" href="{url(l,'videos')}">{t['ver_videos']}</a><a class="boton boton-linea" href="{url(l,'diario')}">{t['leer_diario']}</a></p></div></section>
-<section class="lienzo mar hola"><div class="ancho"><div class="postal"><div class="postal-foto">{video_presentacion(t)}</div><div class="postal-dorso"><span class="estampilla" aria-hidden="true"></span>{matasellos(t, "m-postal")}<h2>{t['hola']}</h2><p class="lead">{t['hola_txt']}</p><a class="enlace" href="{url(l,'quien')}">{t['mas_quien']}</a></div></div></div></section>
-<section class="papel libreta"><div class="ancho dos"><div class="hoja"><p lang="es">Solo quiero ser profundamente yo.</p><p lang="es">…así es mi corazón, un corazón de agua, como lo llamo, siempre propenso a derramarse, de amor, de lágrimas, de sensibilidad.</p><small lang="es">Corazón de agua</small></div><div><h2>{t['libreta']}</h2><button class="boton" type="button" data-abre="carta">{t['leer']}</button></div></div></section>
+<a class="detalle d1" href="{url(l,'diario')}" aria-label="{t['diario']}">{ic('ave')}<span>{bi(t['diario'])}</span></a>
+<a class="detalle d2" href="{url(l,'musica')}" aria-label="{t['musica']}">{ic('estrella')}<span>{bi(t['musica'])}</span></a>
+<a class="detalle d3" href="{url(l,'videos')}" aria-label="{t['pared']}">{ic('ola')}<span>{bi(t['pared'])}</span></a>
+<div class="texto-portada"><h1><img src="/img/marca/avelina.png" alt="Avelina" width="707" height="157"></h1><p class="quien">{bi(t['quien'])}</p><p class="frase">{bi(t['frase'])}</p>
+<p class="acciones"><a class="boton boton-luz" href="{url(l,'videos')}">{bi(t['ver_videos'])}</a><a class="boton boton-linea" href="{url(l,'diario')}">{bi(t['leer_diario'])}</a></p></div></section>
+<section class="lienzo mar hola"><div class="ancho"><div class="postal"><div class="postal-foto">{video_presentacion(t)}</div><div class="postal-dorso"><span class="estampilla" aria-hidden="true"></span>{matasellos(t, "m-postal")}<h2>{bi(t['hola'])}</h2><p class="lead">{t['hola_txt']}</p><a class="enlace" href="{url(l,'quien')}">{bi(t['mas_quien'])}</a></div></div></div></section>
+<section class="papel libreta"><span class="vuelo" aria-hidden="true"></span><div class="ancho dos"><div class="hoja"><p lang="es">Solo quiero ser profundamente yo.</p><p lang="es">…así es mi corazón, un corazón de agua, como lo llamo, siempre propenso a derramarse, de amor, de lágrimas, de sensibilidad.</p><small lang="es">{bi('Corazón de agua')}</small></div><div><h2>{bi(t['libreta'])}</h2><button class="boton" type="button" data-abre="carta">{bi(t['leer'])}</button></div></div></section>
 {dialogo_carta(t)}
-<section class="lienzo"><div class="ancho"><h2>{t['musica']}</h2><p class="lead">{t['musica_txt']}</p>{mosaico(l, t)}</div></section>
-<section class="papel"><div class="ancho"><h2>{t['pared']}</h2><p class="lead">{t['pared_txt']}</p>{pared(l, pv)}<p class="centro"><a class="boton" href="{url(l,'videos')}">{t['ver_pared']}</a></p></div></section>
-<section class="lienzo cielo"><div class="ancho"><h2>{t['diario']}</h2><p class="sub">{t['diario_sub']}</p>{diario_lista(l, t, VIDEOS[:3], False)}<p class="centro"><a class="boton boton-luz" href="{url(l,'diario')}">{t['diario_mas']}</a></p></div></section>
+<section class="lienzo"><div class="ancho"><h2>{bi(t['musica'])}</h2><p class="lead">{t['musica_txt']}</p>{mosaico(l, t)}</div></section>
+<section class="papel pared-sec"><span class="vuelo" aria-hidden="true"></span><div class="ancho"><h2>{bi(t['pared'])}</h2><p class="lead">{t['pared_txt']}</p>{pared(l, pv)}<p class="centro"><a class="boton" href="{url(l,'videos')}">{bi(t['ver_pared'])}</a></p></div></section>
+<section class="lienzo cielo"><div class="ancho"><h2>{bi(t['diario'])}</h2><p class="sub">{bi(t['diario_sub'])}</p>{diario_lista(l, t, VIDEOS[:3], False)}<p class="centro"><a class="boton boton-luz" href="{url(l,'diario')}">{bi(t['diario_mas'])}</a></p></div></section>
 {cartas(t)}{redes(t)}'''
     return pagina(l, "inicio", "Avelina", c, ld=ld)
 
@@ -245,17 +333,17 @@ def paginas(l):
     t = T[l]; out = {}
     out["musica"] = pagina(l, "musica", t["musica"], f'<section class="lienzo primera"><div class="ancho">{cabeza(t["musica"], t["musica_txt"])}{mosaico(l,t)}</div></section>{cartas(t)}')
     pv = [v for v in VIDEOS if v.get("pared")]
-    out["videos"] = pagina(l, "videos", t["pared"], f'<section class="papel primera"><div class="ancho">{cabeza(t["pared"], t["pared_txt"])}{pared(l,pv)}<p class="centro"><a class="boton" href="{YT}" target="_blank" rel="noopener">{t["todos"]}</a></p></div></section>{cartas(t)}')
+    out["videos"] = pagina(l, "videos", t["pared"], f'<section class="papel primera pared-sec"><span class="vuelo" aria-hidden="true"></span><div class="ancho">{cabeza(t["pared"], t["pared_txt"])}{pared(l,pv)}<p class="centro"><a class="boton" href="{YT}" target="_blank" rel="noopener">{bi(t["todos"])}</a></p></div></section>{cartas(t)}')
     meses = []
     for v in VIDEOS:
         if v["f"][:7] not in [m[0] for m in meses]: meses.append((v["f"][:7], mes(l, v["f"])))
-    idx = "".join(f'<a href="#m-{k}">{n}</a>' for k, n in meses)
-    out["diario"] = pagina(l, "diario", t["diario"], f'<section class="lienzo cielo primera"><div class="ancho">{cabeza(t["diario"], t["diario_txt"])}<p class="sub">{t["diario_sub"]}</p><div class="archivo"><nav aria-label="{t["meses_t"]}">{idx}</nav><div>{diario_lista(l,t,VIDEOS)}</div></div></div></section>{cartas(t)}')
+    idx = "".join(f'<a href="#m-{k}">{bi(n)}</a>' for k, n in meses)
+    out["diario"] = pagina(l, "diario", t["diario"], f'<section class="lienzo cielo primera"><div class="ancho">{cabeza(t["diario"], t["diario_txt"])}<p class="sub">{bi(t["diario_sub"])}</p><div class="archivo"><nav aria-label="{t["meses_t"]}">{idx}</nav><div>{diario_lista(l,t,VIDEOS)}</div></div></div></section>{cartas(t)}')
     out["album"] = pagina(l, "album", t["album_nav"], f'<section class="papel primera"><div class="ancho">{cabeza(t["album"], t["album_txt"])}<div class="album">{"".join(foto(l,f) for f in FOTOS)}</div></div></section>')
     bio = "".join(f"<p>{p}</p>" for p in t["bio"])
     out["quien"] = pagina(l, "quien", t["quien_t"], f'<section class="lienzo mar primera"><div class="ancho">{cabeza(t["hola"])}<div class="presentacion">{video_presentacion(t)}</div><div class="bio">{bio}</div></div></section>{redes(t, "")}')
-    out["contacto"] = pagina(l, "contacto", t["contacto_t"], f'<section class="lienzo mar primera"><div class="ancho centro">{cabeza(t["contacto_t"], t["contacto_txt"])}<a class="boton boton-luz" href="{DM}" target="_blank" rel="noopener">{t["contacto_btn"]}</a></div></section>{cartas(t)}{redes(t)}')
-    secc = "".join(f"<h2>{a}</h2><p>{b}</p>" for a, b in t["priv"])
+    out["contacto"] = pagina(l, "contacto", t["contacto_t"], f'<section class="lienzo mar primera"><div class="ancho centro">{cabeza(t["contacto_t"], t["contacto_txt"])}<a class="boton boton-luz" href="{DM}" target="_blank" rel="noopener">{bi(t["contacto_btn"])}</a></div></section>{cartas(t)}{redes(t)}')
+    secc = "".join(f"<h2>{bi(a)}</h2><p>{b}</p>" for a, b in t["priv"])
     out["privacidad"] = pagina(l, "privacidad", t["priv_t"], f'<section class="lienzo primera"><div class="ancho legal">{cabeza(t["priv_t"])}{secc}<p class="sub">{t["priv_fecha"]}</p></div></section>')
     return out
 
@@ -265,8 +353,11 @@ for l in ("es", "en"):
     r = 0 if l == "es" else 1
     escribe(RUTAS["inicio"][r] + "index.html", inicio(l))
     for k, h in paginas(l).items(): escribe(RUTAS[k][r] + "index.html", h)
-escribe("404.html", pagina("es", "404", T["es"]["no_hay"], f'<section class="lienzo primera"><div class="ancho centro">{cabeza(T["es"]["no_hay"])}<a class="boton boton-luz" href="/">{T["es"]["no_hay_btn"]}</a></div></section>', "", "en/"))
+escribe("404.html", pagina("es", "404", T["es"]["no_hay"], f'<section class="lienzo primera"><div class="ancho centro">{cabeza(T["es"]["no_hay"])}<a class="boton boton-luz" href="/">{bi(T["es"]["no_hay_btn"])}</a></div></section>', "", "en/"))
 urls = "".join(f"<url><loc>{BASE}/{r}</loc></url>" for par in RUTAS.values() for r in par)
+palabras = {p: USADAS[p] for p in sorted(USADAS)}
+json.dump(palabras, open(PALABRAS_JSON, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+escribe("img/palabras.svg", '<svg xmlns="http://www.w3.org/2000/svg">' + "".join(f'<symbol id="{id_palabra(p)}" viewBox="0 {-ARRIBA_B} {d["w"]} {ARRIBA_B + ABAJO_B}"><g fill="currentColor" stroke="currentColor" stroke-width="9" stroke-linejoin="round">{d["d"]}</g></symbol>' for p, d in palabras.items()) + "</svg>")
 escribe("sitemap.xml", f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>\n')
 escribe("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
 print("listo")
