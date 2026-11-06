@@ -155,9 +155,9 @@ def cartas(t):
 <button class="boton" type="submit">{t['cartas_btn']}</button>
 <p class="aviso-form" role="status"></p></form>
 <p class="pie">{t['cartas_pie']} <a href="{url(l,'privacidad')}">{t['priv_t']}</a></p></div></section>'''
-def redes(t):
+def redes(t, clase="mar mar-2"):
     c = "".join(f'<a class="red" href="{h}" target="_blank" rel="noopener">{ic(i)}<b>{n}</b><span>{u}</span></a>' for n, u, h, i in REDES)
-    return f'<section class="lienzo redes"><div class="ancho"><h2>{t["redes"]}</h2><div class="fila-redes">{c}</div></div></section>'
+    return f'<section class="lienzo {clase} redes"><div class="ancho"><h2>{t["redes"]}</h2><div class="fila-redes">{c}</div></div></section>'
 
 def dialogo_carta(t):
     return f'''<dialog class="carta" id="carta"><form method="dialog"><button class="cerrar" aria-label="{t['cerrar']}">×</button></form>
@@ -190,7 +190,7 @@ def pagina(l, clave, titulo, cuerpo, ruta_es=None, ruta_en=None, ld=""):
 <html lang="{t['html']}"><head><meta charset="utf-8"><script>if(location.protocol==="http:"&&location.hostname==="avelina.com.mx")location.replace("https://avelina.com.mx"+location.pathname+location.search+location.hash)</script><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(full)}</title><meta name="description" content="{e(t['desc'])}">
 <meta property="og:title" content="{e(full)}"><meta property="og:description" content="{e(t['desc'])}"><meta property="og:image" content="{BASE}/img/compartir.jpg"><meta property="og:url" content="{BASE}/{mi}"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#2d3b70"><link rel="icon" href="/img/favicon.png"><link rel="canonical" href="{BASE}/{mi}">
+<meta name="theme-color" content="#1c356d"><link rel="icon" href="/img/favicon.png"><link rel="canonical" href="{BASE}/{mi}">
 <link rel="alternate" hreflang="es" href="{BASE}/{es_r}"><link rel="alternate" hreflang="en" href="{BASE}/{en_r}">
 <link rel="preload" href="/fonts/amaticsc-normal-700.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/css/sitio.css?v={V_CSS}">{ld}
 <script src="/js/sitio.js?v={V_JS}" defer></script></head>
@@ -220,12 +220,12 @@ def inicio(l):
 <a class="detalle d3" href="{url(l,'videos')}" aria-label="{t['pared']}">{ic('ola')}<span>{t['pared']}</span></a>
 <div class="texto-portada"><h1><img src="/img/marca/avelina.png" alt="Avelina" width="707" height="157"></h1><p class="quien">{t['quien']}</p><p class="frase">{t['frase']}</p>
 <p class="acciones"><a class="boton boton-luz" href="{url(l,'videos')}">{t['ver_videos']}</a><a class="boton boton-linea" href="{url(l,'diario')}">{t['leer_diario']}</a></p></div></section>
-<section class="lienzo hola"><div class="ancho dos"><div>{video_presentacion(t)}</div><div><h2>{t['hola']}</h2><p class="lead">{t['hola_txt']}</p><a class="enlace" href="{url(l,'quien')}">{t['mas_quien']}</a></div></div></section>
+<section class="lienzo mar hola"><div class="ancho dos"><div>{video_presentacion(t)}</div><div><h2>{t['hola']}</h2><p class="lead">{t['hola_txt']}</p><a class="enlace" href="{url(l,'quien')}">{t['mas_quien']}</a></div></div></section>
 <section class="papel libreta"><div class="ancho dos"><div class="hoja"><p lang="en">I'm a country girl trying to be a singer,<br>with fewer chances, but maybe more heart.</p><small>{t['libreta_pie']}</small></div><div><h2>{t['libreta']}</h2><button class="boton" type="button" data-abre="carta">{t['leer']}</button></div></div></section>
 {dialogo_carta(t)}
 <section class="lienzo"><div class="ancho"><h2>{t['musica']}</h2><p class="lead">{t['musica_txt']}</p>{mosaico(l, t)}</div></section>
 <section class="papel"><div class="ancho"><h2>{t['pared']}</h2><p class="lead">{t['pared_txt']}</p>{pared(l, pv)}<p class="centro"><a class="boton" href="{url(l,'videos')}">{t['ver_pared']}</a></p></div></section>
-<section class="lienzo"><div class="ancho"><h2>{t['diario']}</h2><p class="sub">{t['diario_sub']}</p>{diario_lista(l, t, VIDEOS[:3], False)}<p class="centro"><a class="boton boton-luz" href="{url(l,'diario')}">{t['diario_mas']}</a></p></div></section>
+<section class="lienzo cielo"><div class="ancho"><h2>{t['diario']}</h2><p class="sub">{t['diario_sub']}</p>{diario_lista(l, t, VIDEOS[:3], False)}<p class="centro"><a class="boton boton-luz" href="{url(l,'diario')}">{t['diario_mas']}</a></p></div></section>
 {cartas(t)}{redes(t)}'''
     return pagina(l, "inicio", "Avelina", c, ld=ld)
 
@@ -238,11 +238,11 @@ def paginas(l):
     for v in VIDEOS:
         if v["f"][:7] not in [m[0] for m in meses]: meses.append((v["f"][:7], mes(l, v["f"])))
     idx = "".join(f'<a href="#m-{k}">{n}</a>' for k, n in meses)
-    out["diario"] = pagina(l, "diario", t["diario"], f'<section class="lienzo primera"><div class="ancho">{cabeza(t["diario"], t["diario_txt"])}<p class="sub">{t["diario_sub"]}</p><div class="archivo"><nav aria-label="{t["meses_t"]}">{idx}</nav><div>{diario_lista(l,t,VIDEOS)}</div></div></div></section>{cartas(t)}')
+    out["diario"] = pagina(l, "diario", t["diario"], f'<section class="lienzo cielo primera"><div class="ancho">{cabeza(t["diario"], t["diario_txt"])}<p class="sub">{t["diario_sub"]}</p><div class="archivo"><nav aria-label="{t["meses_t"]}">{idx}</nav><div>{diario_lista(l,t,VIDEOS)}</div></div></div></section>{cartas(t)}')
     out["album"] = pagina(l, "album", t["album_nav"], f'<section class="papel primera"><div class="ancho">{cabeza(t["album"], t["album_txt"])}<div class="album">{"".join(foto(l,f) for f in FOTOS)}</div></div></section>')
     bio = "".join(f"<p>{p}</p>" for p in t["bio"])
-    out["quien"] = pagina(l, "quien", t["quien_t"], f'<section class="lienzo primera"><div class="ancho">{cabeza(t["hola"])}<div class="presentacion">{video_presentacion(t)}</div><div class="bio">{bio}</div></div></section>{redes(t)}')
-    out["contacto"] = pagina(l, "contacto", t["contacto_t"], f'<section class="lienzo primera"><div class="ancho centro">{cabeza(t["contacto_t"], t["contacto_txt"])}<a class="boton boton-luz" href="{DM}" target="_blank" rel="noopener">{t["contacto_btn"]}</a></div></section>{cartas(t)}{redes(t)}')
+    out["quien"] = pagina(l, "quien", t["quien_t"], f'<section class="lienzo mar primera"><div class="ancho">{cabeza(t["hola"])}<div class="presentacion">{video_presentacion(t)}</div><div class="bio">{bio}</div></div></section>{redes(t, "")}')
+    out["contacto"] = pagina(l, "contacto", t["contacto_t"], f'<section class="lienzo mar primera"><div class="ancho centro">{cabeza(t["contacto_t"], t["contacto_txt"])}<a class="boton boton-luz" href="{DM}" target="_blank" rel="noopener">{t["contacto_btn"]}</a></div></section>{cartas(t)}{redes(t)}')
     secc = "".join(f"<h2>{a}</h2><p>{b}</p>" for a, b in t["priv"])
     out["privacidad"] = pagina(l, "privacidad", t["priv_t"], f'<section class="lienzo primera"><div class="ancho legal">{cabeza(t["priv_t"])}{secc}<p class="sub">{t["priv_fecha"]}</p></div></section>')
     return out

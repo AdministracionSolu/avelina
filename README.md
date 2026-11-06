@@ -13,6 +13,7 @@ El sitio se genera con `fuente/build.py` (Python, sin dependencias). No edites a
 - **HTTPS:** Netlify da el certificado de `avelina.com.mx` y `www.avelina.com.mx` y lo renueva solo. No hay que hacer nada.
 - **Cartas:** los correos se guardan en Supabase, proyecto AvPiPro, tabla `cartas_avelina`. Se ven en el panel de Supabase (Table Editor). Desde el sitio solo se puede agregar. La llave secreta nunca va en este repo, que es público.
 - **Latido:** `.github/workflows/latido-supabase.yml` toca la base dos veces por semana para que el plan gratis no la pause.
+- **Azules:** el mar, las estrellas, el cielo con aves, las golondrinas grabadas, el timbre y la orilla rasgada están en `img/azul/` y se generan con `fuente/generar_azul.py` (necesita numpy, scipy y pillow). Las fotos de inspiración son de otras personas y nunca entran al sitio.
 - **Tipografías:** Amatic SC y Newsreader suplen a Glypher y Karumbi del manual. Si tienes los archivos de las originales, se cambian en `css/sitio.css`.
 
 ## No borrar
