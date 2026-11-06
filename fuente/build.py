@@ -243,9 +243,24 @@ def video_presentacion(t):
     v = next(x for x in VIDEOS if x["id"] == PRESENTACION)
     return f'''<div class="marco marco-grande"><button class="lite" type="button" data-id="{v['id']}" aria-label="{t['play']}: {e(v['t'])}"><img src="/img/videos/{v['id']}.webp" alt="" loading="lazy"><span class="play" aria-hidden="true"></span></button></div>'''
 
+# Sueltas sobre la hoja de las cartas. Las frases son de su Substack, con sus palabras exactas.
+# x, y y giro en escritorio; mx y my solo si también aparece en pantallas chicas.
+DISPERSAS = [("solo quiero ser profundamente yo", 3, 13, -3, None, None), ("aves", 12, 31, 5, 8, 4), ("parece hecho de agua", 4, 47, 2, None, None), ("estrellas", 19, 60, -6, 66, 5),
+             ("si no es hoy, será mañana", 3, 76, -2, 6, 92), ("caballos", 15, 90, 4, None, None), ("crear es mi destino", 73, 11, 3, 30, 10), ("mar", 90, 28, -5, None, None),
+             ("entre lágrimas y palabras", 72, 42, -2, None, None), ("viento", 88, 56, 6, 74, 87), ("un corazón de agua", 74, 70, 3, 38, 95), ("familia", 88, 86, -4, 8, 85),
+             ("nos vemos en el futuro", 66, 92, -1, None, None), ("Sonora", 30, 7, -4, None, None), ("esto es para mí", 34, 93, 2, None, None)]
+def dispersas():
+    fuera = []
+    for txt, x, y, g, mx, my in DISPERSAS:
+        m = f";--mx:{mx}%;--my:{my}%" if mx is not None else ""
+        fuera.append(f'<span class="suelta{" en-chico" if m else ""}" style="--x:{x}%;--y:{y}%;--g:{g}deg{m}">{bi(txt)}</span>')
+    for s_, x, y in (("ave", 26, 30), ("estrella", 80, 19), ("ave", 83, 66), ("estrella", 9, 62), ("ola", 25, 80), ("estrella", 64, 6)):
+        fuera.append(f'<span class="suelta dib" style="--x:{x}%;--y:{y}%;--g:0deg">{ic(s_)}</span>')
+    return '<div class="dispersas" aria-hidden="true">' + "".join(fuera) + "</div>"
+
 def cartas(t):
     l = t["html"]
-    return f'''<section class="cartas" id="cartas"><div class="ancho">
+    return f'''<section class="cartas" id="cartas">{dispersas()}<div class="ancho">
 <h2>{bi(t['cartas'])}</h2><p class="lead">{t['cartas_txt']}</p>
 <form class="sobre" data-destino="{CARTAS_DESTINO}" data-llave="{CARTAS_LLAVE}" data-idioma="{l}" data-ok="{t['cartas_ok']}" data-error="{t['cartas_error']}">
 <span class="timbre" aria-hidden="true"><img src="/img/marca/paloma-1.png" alt=""></span>{matasellos(t, "m-sobre")}

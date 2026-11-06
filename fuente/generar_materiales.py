@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """Genera los materiales del sitio en img/azul/ e img/calido/. Todo se dibuja aquí con código:
 las fotos de inspiración son de otras personas y nunca entran al sitio. Las aves son las
-golondrinas del manual de Avelina (img/marca/golondrinas.png). La letra de la tela vino es su
-canción Country girl, escrita con Sedgwick Ave (licencia OFL, fuente/sedgwickave.ttf).
+golondrinas del manual de Avelina (img/marca/golondrinas.png).
 Necesita numpy, scipy y pillow. Uso: python3 fuente/generar_materiales.py  (desde la raíz del repo)."""
 import math, os, random
 import numpy as np
@@ -241,27 +240,35 @@ def tela(N, semilla, escala, luz=.5, arrugas=26):
     return tono(np.clip(L, 0, 1), escala)
 VINO = [(0, "#2f0b0a"), (.35, "#4d1715"), (.5, "#5b201d"), (.7, "#6b3f39"), (1, "#a98a78")]
 ROJO = [(0, "#5a1512"), (.32, "#8e2420"), (.5, "#9b302a"), (.68, "#a13932"), (.85, "#c98a72"), (1, "#e6d3b4")]
-def tela_vino(N=1400, semilla=51):
-    """Tela vino escrita a mano con la letra de Country girl."""
-    a = tela(N, semilla, VINO, .46, 8)
-    fuente = open(os.path.join(RAIZ, "fuente/build.py"), encoding="utf-8").read()
-    versos = [v.strip().rstrip(",.") for v in fuente.split('LETRA = """')[1].split('"""')[0].splitlines() if v.strip()]
-    ruta = os.environ.get("BIRO_TTF") or os.path.join(RAIZ, "fuente/sedgwickave.ttf")   # BIRO_TTF: solo para imprimir la tela, la fuente no se publica
-    if os.environ.get("BIRO_TTF"):
-        from fontTools.ttLib import TTFont
-        mapa = TTFont(ruta).getBestCmap(); versos = [v.replace(",", "") for v in versos if all(ord(c) in mapa for c in v.replace(",", ""))]
-    capa = Image.new("L", (N, N), 0); d = ImageDraw.Draw(capa); rr = random.Random(semilla + 1)
-    letra = ImageFont.truetype(ruta, 46); paso = 70
-    corrido = "   ".join(versos); pos = 0
-    for fila in range(N // paso):
-        y = fila * paso + 6; x = -rr.uniform(0, 240)
-        texto = (corrido[pos:] + "   " + corrido)[:90]; pos = (pos + 37) % len(corrido)
-        for ox in (0,):
-            d.text((x, y + rr.uniform(-2, 2)), texto, fill=255, font=letra, stroke_width=1, stroke_fill=255)
-    m = np.asarray(capa.filter(ImageFilter.GaussianBlur(.5)), float) / 255
-    m = m * np.clip(.84 + .3 * ruido(N, N, 1.1, semilla + 2), .4, 1)       # tinta gastada por la tela
-    a = a * (1 - m[..., None] * .92) + rgb("#dcc9b3") * m[..., None] * .92
-    guarda_c(a + np.random.default_rng(semilla).normal(0, 1.4, (N, N, 1)), "tela-vino.webp", 82)
+BEIGE = [(0, "#a98c5c"), (.35, "#cdb27d"), (.55, "#dcc496"), (.8, "#e8d8b4"), (1, "#f2e8d0")]
+def papel_viejo_L(N, semilla):
+    L = .55 + .1 * ruido(N, N, 1.9, semilla) + .035 * ruido(N, N, 1.2, semilla + 1)
+    # arrugas de hoja guardada: crestas finas con su sombra
+    for k, f in ((2, .05), (3, .04)):
+        c = np.abs(ruido(N, N, 1.7, semilla + k * 7)); cresta = np.exp(-(c / .035)**2)
+        L = L + f * cresta * np.clip(ruido(N, N, 1.4, semilla + k), 0, 1) - f * .6 * np.roll(cresta, 3, 0) * np.clip(ruido(N, N, 1.4, semilla + k), 0, 1)
+    # dobleces largos, marcados y gastados
+    Y, X = np.mgrid[0:N, 0:N].astype(float)
+    for d, gasto in (((X + Y * .62) % N - N * .3, .1), ((X * .7 - Y) % N - N * .55, .08)):
+        d = (d + N / 2) % N - N / 2
+        L = L + gasto * np.exp(-(d / 2.2)**2) * np.clip(.6 + .5 * ruido(N, N, 1.1, semilla + 40), 0, 1) - .03 * np.exp(-(d / 40)**2) * np.sign(d)
+    # manchitas de los años y fibra
+    r = np.random.default_rng(semilla + 3); pecas = np.zeros((N, N)); pecas[r.integers(0, N, 170), r.integers(0, N, 170)] = 1
+    L = L - .11 * np.clip(ni.gaussian_filter(pecas, 5, mode="wrap") * 150, 0, 1)
+    return L + .012 * ruido(N, N, .55, semilla + 4)
+def papel_viejo(N=1600, semilla=51):
+    a = tono(np.clip(papel_viejo_L(N, semilla), 0, 1), BEIGE)
+    # renglones tenues de cuaderno viejo: 25 caben exactos, así no hay costura
+    Y = np.mgrid[0:N, 0:N][0].astype(float); renglon = np.exp(-(((Y + 20) % 64 - 32) / 1.1)**2) * .17 * np.clip(.8 + .4 * ruido(N, N, 1.2, semilla + 8), .2, 1)
+    a = a * (1 - renglon[..., None]) + rgb("#7b6746") * renglon[..., None]
+    guarda_c(a, "papel-viejo.webp", 84)
+    # orilla rasgada: máscara que corta la hoja misma, para que el papel no tenga costura
+    W, H = 3200, 112; n = ruido(8, W, 1.45, semilla + 9)[0]; fino = ruido(8, W, .85, semilla + 10)[0]
+    orilla = 52 + 17 * n + 3.6 * fino; Yv = np.arange(H)[:, None]
+    al = np.clip((Yv - orilla[None, :] + .6) / 1.2, 0, 1) * 255
+    for nombre, m in (("orilla-arriba.png", al), ("orilla-abajo.png", np.roll(al[::-1], 900, 1))):
+        o = np.zeros((H, W, 4), "uint8"); o[..., 3] = m.astype("uint8")
+        Image.fromarray(o, "RGBA").save(os.path.join(CAL, nombre), optimize=True); print(nombre, os.path.getsize(os.path.join(CAL, nombre)) // 1024, "KB")
 def timbre_sol(W=360, H=430, semilla=91):
     """Timbre: sol de oro estampado en tela roja."""
     a = tela(max(W, H), semilla, ROJO, .45, 10)[:H, :W]
@@ -275,4 +282,4 @@ def timbre_sol(W=360, H=430, semilla=91):
     perfora(Image.fromarray(np.clip(a, 0, 255).astype("uint8")), "timbre-sol.webp", CAL)
 
 if __name__ == "__main__":
-    mar(); estrellas(); cielo(); timbre(); rasgado(); tela_vino(); timbre_sol()
+    mar(); estrellas(); cielo(); timbre(); rasgado(); papel_viejo(); timbre_sol()

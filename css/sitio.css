@@ -129,9 +129,12 @@ dialog::backdrop{background:#0f2350cc}
 .foto::before{content:"";position:absolute;top:-11px;left:50%;margin-left:-44px;width:88px;height:24px;background:#c6ceddcc;transform:rotate(2deg)}
 .foto:nth-child(3n)::before{background:#c98a72cc}.foto:nth-child(3n+1)::before{background:#eb9f11aa}
 /* cartas, redes */
-.cartas{background:linear-gradient(#451412f7 0,#451412e6 60%,#45141200) center top/100% 330px no-repeat,var(--oxblood) url(/img/calido/tela-vino.webp) center top/880px;text-align:center;color:var(--luz);text-shadow:0 1px 3px #2f0b0a,0 0 14px #2f0b0a99}
-.cartas .sobre,.cartas .boton{text-shadow:none}
-.cartas .pie{background:var(--carton);color:var(--oxblood);text-shadow:none;display:inline-block;padding:.2rem .9rem;box-shadow:0 2px 6px #2f0b0a66}
+.cartas{--tinta-vieja:#3a2616;background:#dcc496 url(/img/calido/papel-viejo.webp) center top/800px;text-align:center;color:var(--tinta-vieja);z-index:1;overflow-x:clip;margin-block:-28px;padding-block:clamp(110px,13vw,170px);--orillas:url(/img/calido/orilla-arriba.png) center top/1600px 56px repeat-x,url(/img/calido/orilla-abajo.png) center bottom/1600px 56px repeat-x,linear-gradient(#000 0 0) center/100% calc(100% - 110px) no-repeat;-webkit-mask:var(--orillas);mask:var(--orillas)}
+.cartas .ancho{position:relative;z-index:1}
+.dispersas{position:absolute;inset:0;pointer-events:none}
+.suelta{position:absolute;left:var(--x);top:var(--y);transform:rotate(var(--g));color:var(--tinta-vieja);opacity:.62;font-size:clamp(1.05rem,1.55vw,1.4rem);--b:1.1;white-space:nowrap;line-height:1}
+.suelta:nth-child(3n){opacity:.46}.suelta:nth-child(4n){font-size:clamp(1.25rem,2vw,1.75rem)}
+.suelta.dib{opacity:.42}.suelta .ic{width:44px;height:30px}
 .cartas .lead{margin-inline:auto;margin-bottom:1.5rem}
 .sobre{position:relative;width:min(560px,100%);margin:0 auto;padding:30px clamp(20px,5vw,40px) 26px;text-align:left;color:var(--noche);background:#fffdf5;box-shadow:0 14px 28px #2f0b0a77;transform:rotate(-1deg);transition:transform .7s,opacity .7s;background-image:repeating-linear-gradient(135deg,var(--vino) 0 12px,transparent 12px 24px,var(--azul) 24px 36px,transparent 36px 48px);background-size:100% 7px;background-repeat:no-repeat}
 .sobre label{display:block;font-family:var(--mano);font-weight:700;font-size:2rem;letter-spacing:.06em;line-height:1.1;padding-right:100px}
@@ -147,6 +150,7 @@ dialog::backdrop{background:#0f2350cc}
 .sobre.enviado{transform:rotate(1deg)}.sobre.enviado .timbre{transform:translate(70px,-150px) rotate(24deg) scale(.7);opacity:0;transition:transform .9s,opacity .9s .4s}
 .sobre.enviado label,.sobre.enviado .renglon,.sobre.enviado .boton{display:none}.sobre.enviado .aviso-form{margin:0;font-size:2.1rem}
 .cartas .pie a{color:inherit}
+
 .legal{max-width:40em}.legal h2{font-size:2.5rem;margin:1.6rem 0 .2rem}.legal .sub{margin-top:2rem;font-size:1.5rem}
 footer small a{color:inherit}
 .cartas .pie{font-size:1rem;margin-top:.9rem}
@@ -198,7 +202,7 @@ body{background:var(--noche) url(/img/azul/estrellas.webp) center top/700px}
 .fila-redes{gap:clamp(10px,1.6vw,18px)}
 .red{background:var(--carton);color:var(--noche);border:0;border-radius:0;padding:1.7rem 1rem;text-shadow:none;transition:transform .2s}
 .red:hover{background:var(--carton);color:var(--vino);transform:translateY(-4px) rotate(-1deg)}
-@media(max-width:900px){.postal{grid-template-columns:1fr}.postal-dorso{border-left:0;border-top:1px solid #1c356d44;padding:106px 4px 6px;min-height:0}.m-postal{top:16px;right:66px}}
+@media(max-width:900px){.suelta:not(.en-chico){display:none}.suelta{left:var(--mx);top:var(--my);font-size:1.15rem}.cartas{padding-block:128px 150px}.postal{grid-template-columns:1fr}.postal-dorso{border-left:0;border-top:1px solid #1c356d44;padding:106px 4px 6px;min-height:0}.m-postal{top:16px;right:66px}}
 @media(max-width:560px){.cara,.cuadro-dib{font-size:1.2rem}.cara{padding:0 5% 6%}.vuelo{width:62vw;top:10px}.hoja::before{right:8px;width:84px;height:84px}.sobre::after{width:66px;height:66px;right:10px;bottom:8px}.portada{margin:8px;min-height:calc(100svh - 16px)}.barra{padding:30px 34px}.m-portada{right:44px}.sobre label{padding-right:92px}.m-sobre{width:104px;right:60px;top:34px}.renglon{margin-right:0;margin-top:1.6rem}.obra::after{width:70px;height:34px}}
 /* letra a mano, estampas, sellos de cera y vuelo */
 .vh{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
@@ -210,7 +214,7 @@ h1,h2,h3{--b:1.02;letter-spacing:0;line-height:1.16;word-spacing:.04em}
 .frase{font-size:1.55rem;font-style:normal}.quien{font-size:clamp(1.5rem,3vw,2rem)}
 footer p{font-size:1.5rem;font-style:normal}footer nav{font-size:1.25rem;--b:1.12}
 .archivo nav a{--b:1.05}
-.lienzo .biro,.cartas h2 .biro,.portada .biro,footer .biro{filter:drop-shadow(0 1px 2px #0f235099)}
+.lienzo .biro,.portada .biro,footer .biro{filter:drop-shadow(0 1px 2px #0f235099)}
 .boton .biro,.postal .biro,.cuadro .biro,.red .biro,.sobre .biro{filter:none}
 .cuadro:not(.cuadro-dib){background:#f1e8d3}
 .cuadro{aspect-ratio:4/5;--c:#efe5cd;--t:var(--noche);--fs:100% 100%}
