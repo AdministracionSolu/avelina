@@ -13,7 +13,13 @@ El sitio se genera con `fuente/build.py` (Python, sin dependencias). No edites a
 - **HTTPS:** Netlify da el certificado de `avelina.com.mx` y `www.avelina.com.mx` y lo renueva solo. No hay que hacer nada.
 - **Cartas:** los correos se guardan en Supabase, proyecto AvPiPro, tabla `cartas_avelina`. Se ven en el panel de Supabase (Table Editor). Desde el sitio solo se puede agregar. La llave secreta nunca va en este repo, que es público.
 - **Latido:** `.github/workflows/latido-supabase.yml` toca la base dos veces por semana para que el plan gratis no la pause.
-- **Tipografías:** Amatic SC y Newsreader suplen a Glypher y Karumbi del manual. Si tienes los archivos de las originales, se cambian en `css/sitio.css`.
+- **Materiales:** el mar, las estrellas, el cielo, las telas y los timbres están en `img/azul/` e `img/calido/` y se generan con `fuente/generar_materiales.py` (necesita numpy, scipy y pillow). Las fotos de inspiración son de otras personas y nunca entran al sitio.
+- **Fotos:** `fuente/generar_fotos.py` rehace `img/fotos/` desde los originales en Descargas.
+- **Estampas y sellos de cera:** `img/estampas/`, dibujados con `fuente/generar_estampas.py`.
+- **Letra a mano:** títulos, menú y botones son dibujos de Biro Script guardados en `fuente/palabras.json` e `img/palabras.svg`. La fuente nunca va en este repo. Para una palabra nueva corre `BIRO_TTF=/ruta/a/la/fuente.ttf python3 fuente/build.py` (necesita fonttools); sin eso, esa palabra sale en letra normal.
+- **Avelina bordado:** `img/marca/avelina-hilo.webp` se genera con `fuente/generar_hilo.py fuente/oooh-baby.ttf` (la letra Oooh Baby, licencia OFL, solo sirve de guía para las puntadas).
+- **Imagen para compartir:** `img/compartir.jpg` se rehace con `fuente/generar_compartir.py`.
+- **Tipografías:** Newsreader para el texto y letra a mano para títulos, menú y botones.
 
 ## No borrar
 - `.github/workflows/netlify.yml`: es lo que publica el sitio. Sin él, los cambios no salen.
