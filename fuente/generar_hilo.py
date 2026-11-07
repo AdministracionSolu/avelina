@@ -9,7 +9,7 @@ from scipy import ndimage as ni
 from skimage.morphology import skeletonize
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 W, H = 2800, 1200
-HILO = [(0, "#4a3b2a"), (.28, "#857258"), (.52, "#b3a184"), (.76, "#d4c6a9"), (1, "#efe6d2")]
+HILO = [(0, "#6b5a44"), (.28, "#a8977c"), (.52, "#cfc1a5"), (.76, "#e6dcc5"), (1, "#f8f2e4")]
 def rgb(h): return np.array([int(h[i:i+2], 16) for i in (1, 3, 5)], float)
 xs_ = [p for p, _ in HILO]; cs_ = np.array([rgb(c) for _, c in HILO])
 def tono(L): return np.stack([np.interp(L, xs_, cs_[:, i]) for i in range(3)], -1)
@@ -104,7 +104,7 @@ def cabo(p0, semilla=2):
     r = random.Random(semilla); x, y = p0; pts = [(x, y)]
     guia_ = [(x + 60, y + 14), (x + 130, y - 14), (x + 205, y + 16), (x + 262, y + 74), (x + 330, y + 96), (x + 400, y + 66)]
     q = np.array(pts + guia_, float); t = np.linspace(0, len(q) - 1, 420); return np.c_[np.interp(t, range(len(q)), q[:, 0]), np.interp(t, range(len(q)), q[:, 1])]
-def hilo(ruta, salida, ancho=10):
+def hilo(ruta, salida, ancho=8):
     sk, puntos = guia(ruta); tr = [suaviza(c) for c in caminos(sk)]; tr.sort(key=lambda c: c[:, 0].min())
     t = Tela()
     for x, y in puntos:                        # nudo francés
