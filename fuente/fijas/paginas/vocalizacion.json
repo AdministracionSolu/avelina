@@ -1,0 +1,10 @@
+{
+ "slug": "vocalizacion",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "guia",
+ "coleccion": "guitarra",
+ "cabeza": "vocalizacion",
+ "variantes": [],
+ "volumen": 3000
+}

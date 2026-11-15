@@ -1,0 +1,12 @@
+{
+ "slug": "feliz-cumpleanos-amiga",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "carta",
+ "coleccion": "cumpleanos",
+ "cabeza": "cumpleaños feliz amiga",
+ "variantes": [
+  "cumpleaños feliz para amiga"
+ ],
+ "volumen": 33000
+}

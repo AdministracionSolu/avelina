@@ -1,0 +1,13 @@
+{
+ "slug": "la-bikina",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "la bikina",
+ "variantes": [
+  "la bikina luis miguel",
+  "luis miguel la bikina"
+ ],
+ "volumen": 36000
+}

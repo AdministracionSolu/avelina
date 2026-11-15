@@ -1,0 +1,12 @@
+{
+ "slug": "la-quinta-estacion",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "la quinta estacion",
+ "variantes": [
+  "canciones de la quinta estacion"
+ ],
+ "volumen": 6000
+}

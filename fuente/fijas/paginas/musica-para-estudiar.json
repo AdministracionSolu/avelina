@@ -1,0 +1,15 @@
+{
+ "slug": "musica-para-estudiar",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "musica para estudiar",
+ "variantes": [
+  "music para estudiar y concentrarse",
+  "musica para concentrarse",
+  "musica para concentrarse en el trabajo",
+  "music para estudiar"
+ ],
+ "volumen": 15000
+}

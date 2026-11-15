@@ -1,0 +1,12 @@
+{
+ "slug": "ed-maverick",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "ed maverick",
+ "variantes": [
+  "canciones de ed maverick"
+ ],
+ "volumen": 33000
+}

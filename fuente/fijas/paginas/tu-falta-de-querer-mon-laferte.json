@@ -1,0 +1,65 @@
+{
+ "slug": "tu-falta-de-querer-mon-laferte",
+ "estado": "borrador",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "mon laferte tu falta de querer",
+ "variantes": ["tu falta de querer", "falta de querer mon laferte", "tu tanta falta de querer"],
+ "volumen": 96000,
+ "revisada": "2026-11-15",
+ "title": "Mon Laferte, Tu falta de querer: historia y cover",
+ "description": "Tu falta de querer de Mon Laferte: quién la escribió, de qué disco es, cómo nació y qué logró. Con espacio para mi cover a guitarra y voz. Léela aquí.",
+ "h1": "Tu falta de querer, de Mon Laferte",
+ "resumen": "La canción de desamor de Mon Laferte: su origen, su disco y lo que logró.",
+ "respuesta": "Tu falta de querer es una canción de Mon Laferte que salió como sencillo el 14 de octubre de 2015. Viene del disco Mon Laferte, vol. 1 y la produjo ella misma. Ella ha contado que nació de una ruptura y de una infidelidad.",
+ "cover": {
+  "cancion": "Tu falta de querer",
+  "artista": "Mon Laferte",
+  "compositor": ["Mon Laferte"],
+  "credito": "Canción de Mon Laferte (Universal Music, 2015). Aquí no va la letra: es de su autora.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {"h2": "Ficha de la canción", "bloques": [
+   {"tabla": {"cab": ["Dato", "Tu falta de querer"], "filas": [
+    ["Artista", "Mon Laferte"],
+    ["Disco", "Mon Laferte, vol. 1 (31 de enero de 2015)"],
+    ["Sencillo", "14 de octubre de 2015, segundo del disco"],
+    ["Producción", "Mon Laferte"],
+    ["Sello", "Universal Music"],
+    ["Certificación en México", "Triple diamante más oro (AMPROFON)"],
+    ["Premio", "Video latino del año, MTV Millennial Awards 2016"]
+   ]}},
+   {"nota": "Datos de Wikipedia en español, revisados el 15 de noviembre de 2026."}
+  ]},
+  {"h2": "Cómo nació", "bloques": [
+   "Mon Laferte ha contado que la escribió después de terminar con su pareja de entonces. La ruptura vino de una infidelidad que la dejó muy dolida.",
+   "Antes del video oficial ya había una primera versión en YouTube. La subió el 30 de agosto de 2014 y llegó a unos 18 millones de vistas.",
+   "En 2026 dijo en una entrevista que hoy perdonaría a esa persona. Lo contó el diario chileno 24 Horas."
+  ]},
+  {"h2": "Lo que logró", "bloques": [
+   {"lista": [
+    "El video oficial pasó los 100 millones de vistas en mayo de 2017. Fue su primer video con certificación de VEVO.",
+    "Llegó al número 4 de la radio en México.",
+    "Estuvo más de seis meses en el top 100 de iTunes México.",
+    "Dua Lipa la cantó en Santiago de Chile el 11 de noviembre de 2025."
+   ]}
+  ]},
+  {"h2": "Mi versión", "bloques": [
+   "Mis covers que más se escucharon en TikTok fueron de Mon Laferte. Mi versión va a guitarra y voz, como toco todo lo mío.",
+   "Si quieres más canciones de ella, empieza por la [página de Mon Laferte](/mon-laferte/)."
+  ]}
+ ],
+ "faq": [
+  {"q": "¿Quién escribió Tu falta de querer?", "a": "Mon Laferte. Wikipedia en español también acredita a Anthony López en la composición."},
+  {"q": "¿De qué disco es Tu falta de querer?", "a": "De Mon Laferte, vol. 1, su cuarto disco de estudio, que salió el 31 de enero de 2015."},
+  {"q": "¿Aquí está la letra?", "a": "No. La letra es de su autora y se publica en sus canales oficiales."}
+ ],
+ "fuentes": [
+  {"t": "Tu falta de querer, Wikipedia en español", "url": "https://es.wikipedia.org/wiki/Tu_falta_de_querer"},
+  {"t": "La desgarradora historia detrás de la canción, La Tercera", "url": "https://www.latercera.com/culto/2017/05/30/tu-falta-de-querer-la-desgarradora-historia-detras-de-la-cancion-mas-triste-de-mon-laferte/"},
+  {"t": "Mon Laferte reveló detalles de la infidelidad, 24 Horas", "url": "https://www.24horas.cl/tendencias/espectaculos/ahora-lo-perdonaria-mon-laferte-revelo-detalles-de-la-infidelidad-"}
+ ],
+ "hermanas": ["mon-laferte", "amarrame-mon-laferte", "si-tu-me-quisieras-mon-laferte", "canciones-de-desamor", "canciones-tristes-para-llorar"]
+}

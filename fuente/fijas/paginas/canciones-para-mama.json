@@ -1,0 +1,15 @@
+{
+ "slug": "canciones-para-mama",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "canciones para mama",
+ "variantes": [
+  "cancion para dedicar a mama",
+  "canciones para el dia de las madres",
+  "canciones para la mama",
+  "cancion para mamá"
+ ],
+ "volumen": 15000
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "carta-de-san-valentin",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "carta",
+ "coleccion": "cartas",
+ "cabeza": "carta de san valentin",
+ "variantes": [
+  "carta para el 14 de febrero",
+  "cartas para san valentin",
+  "cartas san valentin",
+  "carta para 14 de febrero",
+  "carta 14 de febrero"
+ ],
+ "volumen": 18000
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "cartas-de-amor",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "carta",
+ "coleccion": "cartas",
+ "cabeza": "cartas de amor",
+ "variantes": [
+  "carta de amor profundo",
+  "cartas de amor para enamorar",
+  "cartas de besos",
+  "notas de amor",
+  "tarjeta de amor",
+  "palabra de amor bonita",
+  "carta de amores",
+  "una carta de amor"
+ ],
+ "volumen": 81000
+}

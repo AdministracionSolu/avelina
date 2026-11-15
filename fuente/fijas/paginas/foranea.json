@@ -1,0 +1,12 @@
+{
+ "slug": "foranea",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "marca",
+ "coleccion": "marca",
+ "cabeza": "foranea",
+ "variantes": [
+  "foraneos"
+ ],
+ "volumen": 6000
+}

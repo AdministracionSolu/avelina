@@ -1,0 +1,13 @@
+{
+ "slug": "sin-bandera",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "canciones de sin bandera",
+ "variantes": [
+  "canciones sin bandera",
+  "canciones sin banderas"
+ ],
+ "volumen": 9000
+}

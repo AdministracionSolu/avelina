@@ -1,0 +1,13 @@
+{
+ "slug": "carta-de-amor-a-mano",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "carta",
+ "coleccion": "cartas",
+ "cabeza": "carta de amor con dibujos",
+ "variantes": [
+  "carta de amor a mano",
+  "dibujos para carta de amor"
+ ],
+ "volumen": 9000
+}

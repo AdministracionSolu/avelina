@@ -1,0 +1,10 @@
+{
+ "slug": "afinador-de-violin",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "herramienta",
+ "coleccion": "afinador",
+ "cabeza": "afinadores de violin",
+ "variantes": [],
+ "volumen": 3000
+}

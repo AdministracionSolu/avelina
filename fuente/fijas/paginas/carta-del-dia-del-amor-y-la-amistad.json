@@ -1,0 +1,15 @@
+{
+ "slug": "carta-del-dia-del-amor-y-la-amistad",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "carta",
+ "coleccion": "cartas",
+ "cabeza": "carta para el dia del amor y la amistad",
+ "variantes": [
+  "carta de san valentin para una amiga",
+  "cartas para el 14 de febrero amistad",
+  "cartas de la amistad",
+  "carta del dia del amor y la amistad"
+ ],
+ "volumen": 15000
+}

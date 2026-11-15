@@ -1,0 +1,12 @@
+{
+ "slug": "canciones-para-una-amiga",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "canciones para una amiga",
+ "variantes": [
+  "canciones para dedicar a una amiga"
+ ],
+ "volumen": 6000
+}

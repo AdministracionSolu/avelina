@@ -1,0 +1,13 @@
+{
+ "slug": "como-afinar-una-guitarra",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "herramienta",
+ "coleccion": "afinador",
+ "cabeza": "afinar guitarra",
+ "variantes": [
+  "afinando una guitarra",
+  "afinación de guitarra acustica"
+ ],
+ "volumen": 9000
+}

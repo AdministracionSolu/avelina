@@ -1,0 +1,15 @@
+{
+ "slug": "canciones-para-boda",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "canciones para boda",
+ "variantes": [
+  "canciones de boda",
+  "canciones para bodas",
+  "canciones boda",
+  "boda canciones"
+ ],
+ "volumen": 9600
+}

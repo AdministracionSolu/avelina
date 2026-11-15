@@ -1,0 +1,14 @@
+{
+ "slug": "proposito-de-vida",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "fe",
+ "coleccion": "fe",
+ "cabeza": "proposito de vida",
+ "variantes": [
+  "cuál es el proposito de la vida",
+  "proposito de la vida",
+  "propositos de vida"
+ ],
+ "volumen": 12000
+}

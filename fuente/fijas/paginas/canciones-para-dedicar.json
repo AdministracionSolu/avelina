@@ -1,0 +1,14 @@
+{
+ "slug": "canciones-para-dedicar",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "canciones para dedicar",
+ "variantes": [
+  "cancion bonita para dedicar",
+  "canciones de amor para dedicar",
+  "cancion para dedicar"
+ ],
+ "volumen": 12000
+}

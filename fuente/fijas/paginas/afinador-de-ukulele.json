@@ -1,0 +1,15 @@
+{
+ "slug": "afinador-de-ukulele",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "herramienta",
+ "coleccion": "afinador",
+ "cabeza": "afinador de ukelele",
+ "variantes": [
+  "afinación ukelele",
+  "afinador uke",
+  "afinador ukelele",
+  "ukelele afinador"
+ ],
+ "volumen": 15000
+}

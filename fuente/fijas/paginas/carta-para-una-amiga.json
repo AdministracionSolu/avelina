@@ -1,0 +1,17 @@
+{
+ "slug": "carta-para-una-amiga",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "carta",
+ "coleccion": "cartas",
+ "cabeza": "carta para una amiga",
+ "variantes": [
+  "carta de amistad para una amiga",
+  "carta especial para una amiga",
+  "bonitas cartas para amigas",
+  "carta a una amiga",
+  "carta para mi amiga",
+  "carta amiga"
+ ],
+ "volumen": 48000
+}

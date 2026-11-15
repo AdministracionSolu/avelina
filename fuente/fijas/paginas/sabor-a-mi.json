@@ -1,0 +1,13 @@
+{
+ "slug": "sabor-a-mi",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "sabor a mi",
+ "variantes": [
+  "luis miguel sabor a mí",
+  "sabor mi"
+ ],
+ "volumen": 63000
+}

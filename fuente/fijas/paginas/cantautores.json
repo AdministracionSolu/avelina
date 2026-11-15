@@ -1,0 +1,12 @@
+{
+ "slug": "cantautores",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "guia",
+ "coleccion": "marca",
+ "cabeza": "cantautores",
+ "variantes": [
+  "cantantes mexicanas"
+ ],
+ "volumen": 6000
+}

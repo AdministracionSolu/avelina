@@ -1,0 +1,10 @@
+{
+ "slug": "carta-de-despedida",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "carta",
+ "coleccion": "cartas",
+ "cabeza": "carta de despedida",
+ "variantes": [],
+ "volumen": 3000
+}

@@ -1,0 +1,13 @@
+{
+ "slug": "afinador-de-bajo",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "herramienta",
+ "coleccion": "afinador",
+ "cabeza": "afinador de bajo",
+ "variantes": [
+  "afinar el bajo",
+  "afinador bajo"
+ ],
+ "volumen": 9000
+}

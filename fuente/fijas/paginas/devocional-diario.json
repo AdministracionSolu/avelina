@@ -1,0 +1,15 @@
+{
+ "slug": "devocional-diario",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "fe",
+ "coleccion": "fe",
+ "cabeza": "devocional diario",
+ "variantes": [
+  "devocional cristiano",
+  "devocional diario cristiano",
+  "devocional cristianos",
+  "diario devocional cristiano"
+ ],
+ "volumen": 15000
+}

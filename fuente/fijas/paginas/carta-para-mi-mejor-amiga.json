@@ -1,0 +1,15 @@
+{
+ "slug": "carta-para-mi-mejor-amiga",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "carta",
+ "coleccion": "cartas",
+ "cabeza": "carta para mi mejor amiga",
+ "variantes": [
+  "cartas para tu mejor amiga que te hagan llorar",
+  "carta para tu mejor amiga",
+  "carta para mejor amiga",
+  "cartas de mejores amigas"
+ ],
+ "volumen": 15000
+}

@@ -1,0 +1,3 @@
+Oooh Baby. Copyright 2004-2021 The Oooh Baby Project Authors (https://github.com/googlefonts/oooh-baby).
+SIL Open Font License 1.1: https://scripts.sil.org/OFL
+Se usa sin cambios en el generador de letra bonita de las fijas.

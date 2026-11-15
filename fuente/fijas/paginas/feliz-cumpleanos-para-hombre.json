@@ -1,0 +1,12 @@
+{
+ "slug": "feliz-cumpleanos-para-hombre",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "carta",
+ "coleccion": "cumpleanos",
+ "cabeza": "cumpleaños feliz para hombre",
+ "variantes": [
+  "cumpleaños feliz para adulto"
+ ],
+ "volumen": 6000
+}

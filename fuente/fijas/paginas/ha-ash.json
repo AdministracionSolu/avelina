@@ -1,0 +1,13 @@
+{
+ "slug": "ha-ash",
+ "esqueleto": true,
+ "estado": "borrador",
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "canciones de ha ash",
+ "variantes": [
+  "canciones de ha * ash",
+  "ha ash canciones"
+ ],
+ "volumen": 9000
+}
