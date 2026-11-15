@@ -1,13 +1,180 @@
 {
- "slug": "como-afinar-una-guitarra",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "herramienta",
- "coleccion": "afinador",
- "cabeza": "afinar guitarra",
  "variantes": [
   "afinando una guitarra",
   "afinación de guitarra acustica"
  ],
- "volumen": 9000
+ "volumen": 9000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "como-afinar-una-guitarra",
+ "tipo": "herramienta",
+ "coleccion": "afinador",
+ "cabeza": "afinar guitarra",
+ "title": "Afinar guitarra paso a paso, con o sin afinador",
+ "description": "Afinar la guitarra paso a paso: con afinador, de oído con el traste 5 o con notas de referencia. Las notas de cada cuerda y qué hacer si se desafina sola.",
+ "h1": "Cómo afinar una guitarra",
+ "resumen": "Tres formas de afinar la guitarra, paso a paso.",
+ "respuesta": "Para afinar la guitarra, cada cuerda al aire tiene que sonar Mi, La, Re, Sol, Si, Mi, de la más gruesa a la más delgada. Lo más fácil es usar un afinador con el micrófono del celular. Sin afinador, se puede afinar de oído con el traste 5.",
+ "secciones": [
+  {
+   "h2": "Afínala aquí con el micrófono",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "afinador",
+      "nombre": "guitarra",
+      "cuerdas": [
+       [
+        "Mi",
+        "E2",
+        82.41,
+        "6ª"
+       ],
+       [
+        "La",
+        "A2",
+        110.0,
+        "5ª"
+       ],
+       [
+        "Re",
+        "D3",
+        146.83,
+        "4ª"
+       ],
+       [
+        "Sol",
+        "G3",
+        196.0,
+        "3ª"
+       ],
+       [
+        "Si",
+        "B3",
+        246.94,
+        "2ª"
+       ],
+       [
+        "Mi",
+        "E4",
+        329.63,
+        "1ª"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Antes de empezar",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Conoce la clavija de cada cuerda.",
+       "Sigue la cuerda desde el puente hasta la cabeza para no girar la que no es."
+      ],
+      [
+       "Apretar sube la nota y aflojar la baja.",
+       "Gira poco, un cuarto de vuelta o menos, y vuelve a tocar."
+      ],
+      [
+       "Afina subiendo.",
+       "Si te pasaste, afloja abajo de la nota y vuelve a subir. Así la cuerda se queda en su lugar."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Forma 1. Con afinador",
+   "bloques": [
+    {
+     "pasos": [
+      "Enciende el micrófono en el afinador de arriba.",
+      "Toca la sexta cuerda, la más gruesa, al aire.",
+      "Gira la clavija hasta que la aguja quede al centro y diga Mi.",
+      "Repite con La, Re, Sol, Si y Mi.",
+      "Da una segunda vuelta, porque al tensar una cuerda las otras se mueven un poco."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Forma 2. De oído, con el traste 5",
+   "bloques": [
+    "Sirve cuando no tienes afinador. Sólo necesitas que la sexta cuerda esté bien.",
+    {
+     "pasos": [
+      "Pisa la sexta cuerda en el traste 5. Esa nota es La.",
+      "Toca la quinta cuerda al aire y gírala hasta que suene igual.",
+      "Pisa la quinta en el traste 5 y afina la cuarta al aire, Re.",
+      "Pisa la cuarta en el traste 5 y afina la tercera al aire, Sol.",
+      "Pisa la tercera en el traste 4, no en el 5, y afina la segunda al aire, Si.",
+      "Pisa la segunda en el traste 5 y afina la primera al aire, Mi."
+     ]
+    },
+    "La única excepción es la segunda cuerda, que se compara con el traste 4. Si dos notas suenan con un temblor, todavía no están iguales."
+   ]
+  },
+  {
+   "h2": "Forma 3. Con notas de referencia",
+   "bloques": [
+    "En el afinador de arriba, toca el botón de cada cuerda. Suena su nota y la imitas girando la clavija.",
+    "Es la forma de entrenar el oído. Con el tiempo reconoces cuando una cuerda está un poco baja."
+   ]
+  },
+  {
+   "h2": "Si se desafina sola",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Cuerdas nuevas.",
+       "Estiran durante los primeros días. Afínalas varias veces antes de tocar."
+      ],
+      [
+       "Cambios de clima.",
+       "El calor y la humedad mueven la madera y las cuerdas."
+      ],
+      [
+       "Clavijas flojas.",
+       "Si una cuerda baja siempre, revisa que la clavija no esté floja."
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cuáles son las notas de la guitarra?",
+   "a": "Mi, La, Re, Sol, Si, Mi, de la sexta cuerda a la primera."
+  },
+  {
+   "q": "¿Se puede afinar sin afinador?",
+   "a": "Sí. Con el método del traste 5, si tienes una cuerda de referencia bien afinada."
+  },
+  {
+   "q": "¿Cada cuánto afino?",
+   "a": "Cada vez que vayas a tocar. Toma un minuto con el afinador."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Standard tuning, Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Standard_tuning"
+  },
+  {
+   "t": "Piano key frequencies, Wikipedia (frecuencias con La 440 Hz)",
+   "url": "https://en.wikipedia.org/wiki/Piano_key_frequencies"
+  }
+ ],
+ "hermanas": [
+  "afinador-de-guitarra",
+  "acordes-de-guitarra-para-principiantes",
+  "como-tocar-guitarra",
+  "canciones-faciles-en-guitarra",
+  "afinador-de-ukulele"
+ ]
 }

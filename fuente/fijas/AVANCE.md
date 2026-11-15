@@ -5,24 +5,24 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 
 | Estado | Páginas |
 |---|---|
-| esqueleto | 120 |
-| espera video | 13 |
-| borrador | 9 |
+| esqueleto | 105 |
+| borrador | 21 |
+| espera video | 16 |
 
 | Tipo | Estado | Páginas |
 |---|---|---|
-| artista | espera video | 7 |
-| artista | esqueleto | 11 |
-| carta | borrador | 6 |
-| carta | esqueleto | 14 |
-| cover | espera video | 6 |
-| cover | esqueleto | 44 |
+| artista | espera video | 9 |
+| artista | esqueleto | 9 |
+| carta | borrador | 12 |
+| carta | esqueleto | 8 |
+| cover | espera video | 7 |
+| cover | esqueleto | 43 |
 | fe | esqueleto | 17 |
 | guia | borrador | 1 |
 | guia | esqueleto | 6 |
-| herramienta | borrador | 2 |
-| herramienta | esqueleto | 5 |
-| lista | esqueleto | 22 |
+| herramienta | borrador | 7 |
+| lista | borrador | 1 |
+| lista | esqueleto | 21 |
 | marca | esqueleto | 1 |
 
 ## Esqueletos por escribir (de mayor a menor volumen)
@@ -37,28 +37,17 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - buenos-dias-dios-te-bendiga (fe, 42,000)
 - gracias-dios-por-todo (fe, 36,000)
 - canciones-faciles-en-guitarra (lista, 33,000)
-- carta-para-mi-novia (carta, 33,000)
-- feliz-cumpleanos-amiga (carta, 33,000)
 - las-mananitas-vicente-fernandez (cover, 33,000)
 - oracion-cristiana-de-la-manana (fe, 33,000)
 - versiculos-de-la-biblia-para-reflexionar (fe, 33,000)
-- caloncho (artista, 30,000)
-- feliz-cumpleanos-sobrina (carta, 30,000)
-- la-llorona (cover, 30,000)
 - marcos-witt (artista, 30,000)
 - reflexiones-cristianas (fe, 30,000)
-- silvana-estrada (artista, 30,000)
 - canciones-para-karaoke (lista, 27,600)
 - canciones-de-amor-en-espanol (lista, 24,000)
 - canciones-tristes-para-llorar (lista, 21,000)
 - reflexiones-de-amor (fe, 21,000)
-- carta-de-san-valentin (carta, 18,000)
 - frases-de-fe (fe, 18,000)
-- afinador-de-ukulele (herramienta, 15,000)
 - canciones-para-cumpleanos (lista, 15,000)
-- canciones-para-mama (lista, 15,000)
-- carta-del-dia-del-amor-y-la-amistad (carta, 15,000)
-- carta-para-mi-mejor-amiga (carta, 15,000)
 - devocional-diario (fe, 15,000)
 - musica-para-estudiar (lista, 15,000)
 - canciones-para-dedicar-a-mi-novio (lista, 12,000)
@@ -70,12 +59,9 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - reflexion-del-evangelio-de-hoy (fe, 12,000)
 - canciones-para-boda (lista, 9,600)
 - acordes-de-guitarra-para-principiantes (guia, 9,000)
-- afinador-de-bajo-quinto (herramienta, 9,000)
-- afinador-de-bajo (herramienta, 9,000)
 - amarrame-mon-laferte (cover, 9,000)
 - carta-de-amor-a-mano (carta, 9,000)
 - christine-d-clario (artista, 9,000)
-- como-afinar-una-guitarra (herramienta, 9,000)
 - feliz-cumpleanos-cristiano-para-mujer (fe, 9,000)
 - frases-de-fin-de-ano (fe, 9,000)
 - ha-ash (artista, 9,000)
@@ -112,7 +98,6 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - colapso-kevin-kaarl (cover, 3,300)
 - disfruto-carla-morrison (cover, 3,300)
 - en-el-2000-natalia-lafourcade (cover, 3,300)
-- afinador-de-violin (herramienta, 3,000)
 - amor-amor-carla-morrison (cover, 3,000)
 - amor-de-mis-amores (cover, 3,000)
 - antes-de-ti-mon-laferte (cover, 3,000)

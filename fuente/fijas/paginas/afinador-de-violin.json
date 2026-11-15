@@ -1,10 +1,147 @@
 {
- "slug": "afinador-de-violin",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "afinador-de-violin",
  "tipo": "herramienta",
  "coleccion": "afinador",
  "cabeza": "afinadores de violin",
- "variantes": [],
- "volumen": 3000
+ "title": "Afinador de violín online gratis: Sol, Re, La, Mi",
+ "description": "Afinador de violín online y gratis: Sol, Re, La, Mi con el micrófono del celular o tocando cada nota de referencia. Te dice si la cuerda está alta o baja.",
+ "h1": "Afinador de violín",
+ "resumen": "Afina tu violín con el micrófono del celular o de oído.",
+ "respuesta": "El violín se afina Sol, Re, La, Mi, de la cuerda más grave a la más aguda. La cuerda La va en 440 Hz y es la que se afina primero. Toca cada cuerda y sigue la aguja.",
+ "secciones": [
+  {
+   "h2": "Afina aquí",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "afinador",
+      "nombre": "violín",
+      "cuerdas": [
+       [
+        "Sol",
+        "G3",
+        196.0,
+        "4ª"
+       ],
+       [
+        "Re",
+        "D4",
+        293.66,
+        "3ª"
+       ],
+       [
+        "La",
+        "A4",
+        440.0,
+        "2ª"
+       ],
+       [
+        "Mi",
+        "E5",
+        659.26,
+        "1ª"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "El sonido se analiza en tu teléfono. No se graba ni se manda a ningún lado."
+    }
+   ]
+  },
+  {
+   "h2": "Las notas del violín",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Cuerda",
+       "Nota",
+       "En inglés",
+       "Frecuencia"
+      ],
+      "filas": [
+       [
+        "4ª, la más grave",
+        "Sol",
+        "G3",
+        "196.00 Hz"
+       ],
+       [
+        "3ª",
+        "Re",
+        "D4",
+        "293.66 Hz"
+       ],
+       [
+        "2ª",
+        "La",
+        "A4",
+        "440.00 Hz"
+       ],
+       [
+        "1ª, la más aguda",
+        "Mi",
+        "E5",
+        "659.26 Hz"
+       ]
+      ]
+     }
+    },
+    "Las cuerdas van separadas por quintas."
+   ]
+  },
+  {
+   "h2": "Cómo usar el afinador",
+   "bloques": [
+    {
+     "pasos": [
+      "Acerca el teléfono a tu violín y busca un lugar sin ruido.",
+      "Toca el botón para encender el micrófono y da permiso.",
+      "Toca una sola cuerda al aire y déjala sonar.",
+      "Si la aguja va a la izquierda, aprieta la clavija. Si va a la derecha, aflójala.",
+      "Repite con las 4 cuerdas y da una segunda vuelta al final."
+     ]
+    },
+    "Si no quieres usar el micrófono, toca un botón de cuerda. Suena su nota y afinas de oído."
+   ]
+  },
+  {
+   "h2": "Clavijas y afinadores finos",
+   "bloques": [
+    "Para cambios grandes usa las clavijas, con cuidado y poco a poco. Para ajustes pequeños usa los afinadores finos del cordal.",
+    "Puntea la cuerda con el dedo o tócala con el arco. El micrófono capta mejor una nota larga con arco."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo se afina un violín?",
+   "a": "Sol, Re, La, Mi, de la cuerda más grave a la más aguda. Empieza por La, en 440 Hz."
+  },
+  {
+   "q": "¿Es gratis?",
+   "a": "Sí. Funciona en el navegador, sin cuenta y sin descargar nada."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Standard tuning, Wikipedia (violín Sol Re La Mi)",
+   "url": "https://en.wikipedia.org/wiki/Standard_tuning"
+  },
+  {
+   "t": "Piano key frequencies, Wikipedia (frecuencias con La 440 Hz)",
+   "url": "https://en.wikipedia.org/wiki/Piano_key_frequencies"
+  }
+ ],
+ "hermanas": [
+  "afinador-de-guitarra",
+  "afinador-de-ukulele",
+  "afinador-de-bajo",
+  "como-afinar-una-guitarra"
+ ]
 }

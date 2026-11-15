@@ -1,15 +1,135 @@
 {
- "slug": "carta-para-mi-mejor-amiga",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "carta",
- "coleccion": "cartas",
- "cabeza": "carta para mi mejor amiga",
  "variantes": [
   "cartas para tu mejor amiga que te hagan llorar",
   "carta para tu mejor amiga",
   "carta para mejor amiga",
   "cartas de mejores amigas"
  ],
- "volumen": 15000
+ "volumen": 15000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "carta-para-mi-mejor-amiga",
+ "tipo": "carta",
+ "coleccion": "cartas",
+ "cabeza": "carta para mi mejor amiga",
+ "title": "Carta para mi mejor amiga: 6 cartas que la hagan llorar",
+ "description": "Carta para mi mejor amiga: seis cartas para agradecerle años de amistad, felicitarla o decirle que la extrañas. Cámbiala y mándala como postal por WhatsApp.",
+ "h1": "Carta para mi mejor amiga",
+ "resumen": "Seis cartas para la amiga de toda la vida.",
+ "respuesta": "Una carta para tu mejor amiga se escribe con años de recuerdos. Aquí tienes seis cartas para agradecerle, felicitarla o decirle que la extrañas. Ponle sus detalles y mándala como postal.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "mejor-amiga",
+      "para": "Amiga",
+      "firma": "Tu persona favorita",
+      "texto": "Eres la primera a la que le cuento todo, lo bueno y lo vergonzoso.\n\nGracias por conocerme tan bien y quedarte igual.\n\nTe quiero muchísimo."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Para agradecerle tantos años",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Amiga,",
+      "texto": "Llevamos tantos años juntas que ya no me acuerdo de mi vida sin ti. Me viste en todas mis versiones, hasta en las que no me caía bien a mí misma.\n\nGracias por quedarte en cada una. Eres mi familia elegida.",
+      "firma": "Tu amiga de siempre"
+     }
+    },
+    {
+     "carta": {
+      "para": "Amiga,",
+      "texto": "Nos hemos reído de todo, hasta de lo que dolía. Eso es lo que más te agradezco.\n\nContigo los días feos pesan la mitad.",
+      "firma": "Te quiero"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para que llore bonito",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Mi mejor amiga,",
+      "texto": "Si un día te sientes sola, lee esto. Hay alguien que te admira, que presume de ti y que daría lo que fuera por verte bien.\n\nEsa soy yo. Desde el primer día y hasta el último.",
+      "firma": "Tuya"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para cuando están lejos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Amiga,",
+      "texto": "Ahora vivimos en ciudades distintas y me cuesta. Ya no hay cafés espontáneos ni tardes en tu cuarto.\n\nPero cada audio tuyo me devuelve a casa. La distancia no nos queda grande.",
+      "firma": "Desde lejos"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para su cumpleaños",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Amiga,",
+      "texto": "Feliz cumpleaños a la persona que mejor me conoce. Que este año te dé tanto como tú das.\n\nAquí estoy para celebrarlo contigo, como siempre.",
+      "firma": "Tu mejor amiga"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cortita",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Gracias por ser mi lugar seguro. Te quiero, amiga.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir la tuya",
+   "bloques": [
+    {
+     "pasos": [
+      "Elige un recuerdo que sólo ustedes dos entiendan.",
+      "Dile qué has aprendido de ella.",
+      "Agradécele un momento difícil en el que estuvo.",
+      "Cierra con un plan para las dos."
+     ]
+    },
+    "Si quieres algo más ligero, mira las cartas para [una amiga](/carta-para-una-amiga/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué le escribo a mi mejor amiga?",
+   "a": "Un recuerdo de las dos, lo que aprendiste de ella y un gracias por un momento difícil."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "carta-para-una-amiga",
+  "feliz-cumpleanos-amiga",
+  "carta-del-dia-del-amor-y-la-amistad",
+  "canciones-para-una-amiga",
+  "cartas-para-amiga-secreta"
+ ]
 }

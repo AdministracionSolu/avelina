@@ -1,10 +1,4 @@
 {
- "slug": "carta-para-mi-novia",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "carta",
- "coleccion": "cartas",
- "cabeza": "una carta para mi novia",
  "variantes": [
   "carta bonita para mi novia",
   "carta de amor para mi novia",
@@ -17,5 +11,137 @@
   "carta para tu novia",
   "carta de amor para tu novia"
  ],
- "volumen": 33000
+ "volumen": 33000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "carta-para-mi-novia",
+ "tipo": "carta",
+ "coleccion": "cartas",
+ "cabeza": "una carta para mi novia",
+ "title": "Carta para mi novia: 7 cartas bonitas para mandarle hoy",
+ "description": "Una carta para mi novia: siete cartas bonitas y largas para decirle lo que sientes, pedir perdón o celebrar. Cámbiala y mándala como postal por WhatsApp.",
+ "h1": "Carta para mi novia",
+ "resumen": "Siete cartas para tu novia, de largas a notas de una línea.",
+ "respuesta": "Una carta para tu novia funciona cuando dice algo que sólo tú sabes de ella. Aquí tienes siete, de largas a cortitas, para distintos momentos. Escoge una, ponle sus detalles y mándala como postal.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "novia",
+      "para": "Amor",
+      "firma": "Tuyo",
+      "texto": "Te escribo porque hay cosas que en persona se me atoran.\n\nMe gusta tu risa cuando no puedes parar, tu forma de cuidar a los tuyos y cómo me miras cuando crees que no me doy cuenta.\n\nGracias por elegirme."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Para decirle lo que sientes",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Amor,",
+      "texto": "Desde que llegaste, mis días tienen un orden distinto. Primero pienso en ti y luego en lo demás.\n\nNo sé decir esto bonito, así que lo digo directo. Te quiero y me haces muy feliz.",
+      "firma": "Tuyo"
+     }
+    },
+    {
+     "carta": {
+      "para": "Mi vida,",
+      "texto": "Me encanta que seas tú en todos lados. Igual en una fiesta que en pijama un domingo.\n\nContigo no tengo que fingir nada. Eso vale más que cualquier regalo.",
+      "firma": "Te amo"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Larga, para que llore bonito",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Mi amor,",
+      "texto": "Me acuerdo del día que nos conocimos. No sabía qué decir y tú me salvaste con una pregunta tonta.\n\nDesde entonces aprendí tus manías, tus miedos y tus canciones favoritas. Aprendí que te pones seria cuando algo te importa y que te ríes con los ojos.\n\nNo te prometo días perfectos. Te prometo estar en los buenos y en los difíciles.\n\nGracias por dejarme quererte.",
+      "firma": "Tuyo, siempre"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para pedirle perdón",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Amor,",
+      "texto": "Me equivoqué contigo y no quiero que pase de largo. Te debo una disculpa sin peros.\n\nLo siento. Voy a escucharte mejor.",
+      "firma": "Perdóname"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para una fecha especial",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Mi amor,",
+      "texto": "Hoy cumplimos un mes más y yo sigo igual de nervioso que al principio.\n\nQue sean muchos más. Contigo quiero todos.",
+      "firma": "Tuyo"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Notas cortitas para tu novia",
+   "bloques": [
+    {
+     "lista": [
+      "Hoy también me gustas, como ayer.",
+      "Eres mi parte favorita del día.",
+      "Gracias por existir tan bonito.",
+      "Te debo un abrazo largo. Cóbramelo hoy."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir la tuya",
+   "bloques": [
+    {
+     "pasos": [
+      "Empieza con un recuerdo concreto de los dos.",
+      "Dile qué te gusta de ella con un ejemplo.",
+      "Cuéntale qué cambió en ti desde que están juntos.",
+      "Cierra con algo que quieras hacer con ella pronto."
+     ]
+    },
+    "Si la quieres creativa, escríbela en pedacitos y escóndelos en sus cosas. O júntala con una de las [canciones para dedicar a mi novia](/canciones-para-dedicar-a-mi-novia/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué le escribo a mi novia en una carta?",
+   "a": "Un recuerdo de los dos, lo que te gusta de ella con ejemplos y un plan para pronto."
+  },
+  {
+   "q": "¿Cómo hago una carta para que llore?",
+   "a": "Dile algo que nunca le has dicho en voz alta, con un detalle que sólo ella entienda."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "carta-para-mi-novio",
+  "cartas-de-amor",
+  "carta-de-amor-a-mano",
+  "carta-de-san-valentin",
+  "canciones-para-dedicar-a-mi-novia",
+  "feliz-cumpleanos-mi-amor"
+ ]
 }

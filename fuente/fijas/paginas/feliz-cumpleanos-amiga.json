@@ -1,12 +1,122 @@
 {
- "slug": "feliz-cumpleanos-amiga",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "carta",
- "coleccion": "cumpleanos",
- "cabeza": "cumpleaños feliz amiga",
  "variantes": [
   "cumpleaños feliz para amiga"
  ],
- "volumen": 33000
+ "volumen": 33000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "feliz-cumpleanos-amiga",
+ "tipo": "carta",
+ "coleccion": "cumpleanos",
+ "cabeza": "cumpleaños feliz amiga",
+ "title": "Feliz cumpleaños amiga: mensajes bonitos y postal",
+ "description": "Feliz cumpleaños, amiga: mensajes cortos, largos y graciosos para felicitar a tu amiga o a tu mejor amiga. Cámbialos y mándalos como postal por WhatsApp.",
+ "h1": "Feliz cumpleaños, amiga",
+ "resumen": "Mensajes de cumpleaños para tu amiga, listos para mandar.",
+ "respuesta": "Para felicitar a tu amiga, junta un recuerdo del año y un deseo para el que empieza. Aquí tienes mensajes cortos, largos y graciosos. Escoge uno, cámbialo y mándalo como postal.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "cumple-amiga",
+      "para": "Amiga",
+      "firma": "Tu amiga",
+      "texto": "Feliz cumpleaños, amiga.\n\nQue este año te traiga todo lo que te mereces, que es muchísimo.\n\nGracias por otro año de risas. Te quiero."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Mensajes cortos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz cumpleaños a mi persona favorita para chismear.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Que cumplas muchos más y que yo esté en todos. Feliz cumple, amiga.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Un año más de ser increíble. Feliz cumpleaños.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Mensajes largos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Amiga,",
+      "texto": "Hoy cumples años y yo celebro haberte encontrado. Gracias por cada plática a deshoras y por cada vez que me hiciste reír cuando no quería.\n\nQue este año te trate bonito. Si no, aquí estoy para ayudarte a cobrárselo.",
+      "firma": "Tu amiga"
+     }
+    },
+    {
+     "carta": {
+      "para": "Amiga,",
+      "texto": "Otro año a tu lado y sigo aprendiendo de ti. De tu valor, de tu paciencia y de tu forma de querer.\n\nFeliz cumpleaños. Te mereces todo.",
+      "firma": "Con cariño"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Mensajes graciosos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz cumpleaños. Tranquila, sigues sin aparentar la edad que tienes, aparentas una mejor.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Otro año de soportarme. Te mereces un premio, y yo te lo doy, un abrazo.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir la tuya",
+   "bloques": [
+    "Usa un recuerdo de este año, aunque sea pequeño. Si es tu amiga de toda la vida, mira también la [carta para mi mejor amiga](/carta-para-mi-mejor-amiga/).",
+    "Para la imagen de su historia, escribe su nombre en [letra bonita](/feliz-cumpleanos-en-letra-bonita/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué le escribo a mi amiga en su cumpleaños?",
+   "a": "Un recuerdo del año, un gracias y un deseo para el que empieza."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "carta-para-una-amiga",
+  "carta-para-mi-mejor-amiga",
+  "feliz-cumpleanos-en-letra-bonita",
+  "las-mananitas",
+  "canciones-para-cumpleanos"
+ ]
 }

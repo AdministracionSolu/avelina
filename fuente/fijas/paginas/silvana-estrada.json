@@ -1,10 +1,128 @@
 {
- "slug": "silvana-estrada",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 30000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "silvana-estrada",
+ "espera_video": true,
  "tipo": "artista",
  "coleccion": "covers",
  "cabeza": "silvana estrada",
- "variantes": [],
- "volumen": 30000
+ "title": "Silvana Estrada: canciones, discos y covers a guitarra",
+ "description": "Silvana Estrada: la cantautora veracruzana del cuatro venezolano, sus discos de 2017 a 2025 y su Latin Grammy a mejor nuevo artista. Con mis covers.",
+ "h1": "Silvana Estrada",
+ "resumen": "La cantautora veracruzana del cuatro venezolano.",
+ "respuesta": "Silvana Estrada es una cantautora mexicana de Veracruz que toca el cuatro venezolano. Nació el 15 de abril de 1997. En 2022 ganó el Latin Grammy a mejor nuevo artista, compartido con Ángela Álvarez.",
+ "cover": {
+  "cancion": "Covers de Silvana Estrada",
+  "artista": "Silvana Estrada",
+  "credito": "Las canciones son de Silvana Estrada y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Silvana Estrada, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Silvana Estrada",
+   "bloques": [
+    "Estudió jazz en la Universidad Veracruzana. Toca el cuatro venezolano, el piano y la trompeta.",
+    "Vivió en Nueva York, donde grabó con el músico de jazz Charlie Hunter. Después se mudó a la Ciudad de México.",
+    "Wikipedia en español da dos lugares de nacimiento, Coatepec y Xalapa, los dos en Veracruz."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "Marchita",
+        "2022",
+        "Canción que da nombre a su disco"
+       ],
+       [
+        "Tristeza",
+        "",
+        "Sencillo"
+       ],
+       [
+        "Te guardo",
+        "",
+        "Sencillo"
+       ],
+       [
+        "[Como un pájaro](/como-un-pajaro-silvana-estrada/)",
+        "",
+        "Sencillo"
+       ],
+       [
+        "Milagro y desastre",
+        "",
+        "Nominada al Grammy en 2024, en música global"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Lo sagrado (2017)",
+       "Con Charlie Hunter. Se volvió a lanzar en 2020."
+      ],
+      [
+       "Marchita (2022)",
+       "El disco con el que ganó el Latin Grammy a mejor nuevo artista."
+      ],
+      [
+       "Abrazo (2022)",
+       "EP."
+      ],
+      [
+       "Vendrán suaves lluvias (2025)",
+       "Su disco más reciente al revisar esta página."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Silvana está en mi lista de inspiraciones en [quién soy](/quien-soy/). Mis covers de ella van a guitarra y voz.",
+    "Mis covers que más se escucharon en TikTok incluyen canciones suyas. Cada una tiene su página."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De dónde es Silvana Estrada?",
+   "a": "De Veracruz. Wikipedia en español la ubica en Coatepec y en Xalapa."
+  },
+  {
+   "q": "¿Qué instrumento toca Silvana Estrada?",
+   "a": "El cuatro venezolano, una guitarra pequeña de cuatro cuerdas. También toca piano y trompeta."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Silvana Estrada, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Silvana_Estrada"
+  }
+ ],
+ "hermanas": [
+  "como-un-pajaro-silvana-estrada",
+  "natalia-lafourcade",
+  "carla-morrison",
+  "kevin-kaarl",
+  "amor-eterno"
+ ]
 }

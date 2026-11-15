@@ -1,13 +1,189 @@
 {
- "slug": "afinador-de-bajo-quinto",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "herramienta",
- "coleccion": "afinador",
- "cabeza": "afinador de bajo quinto",
  "variantes": [
   "afinación bajo quinto",
   "afinando bajo quinto"
  ],
- "volumen": 9000
+ "volumen": 9000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "afinador-de-bajo-quinto",
+ "tipo": "herramienta",
+ "coleccion": "afinador",
+ "cabeza": "afinador de bajo quinto",
+ "title": "Afinador de bajo quinto online: La, Re, Sol, Do, Fa",
+ "description": "Afinador de bajo quinto online y gratis: cinco órdenes La, Re, Sol, Do, Fa, con sus octavas, por micrófono o de oído. Afina las diez cuerdas aquí en minutos.",
+ "h1": "Afinador de bajo quinto",
+ "resumen": "Afina tu bajo quinto con el micrófono del celular o de oído.",
+ "respuesta": "El bajo quinto tiene diez cuerdas en cinco órdenes, afinadas La, Re, Sol, Do y Fa. Los órdenes de La y Re llevan una cuerda una octava abajo. Afina cada cuerda por separado con el micrófono o de oído.",
+ "secciones": [
+  {
+   "h2": "Afina aquí",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "afinador",
+      "nombre": "bajo quinto",
+      "cuerdas": [
+       [
+        "La grave",
+        "A1",
+        55.0,
+        "5º orden"
+       ],
+       [
+        "La",
+        "A2",
+        110.0,
+        "5º orden"
+       ],
+       [
+        "Re grave",
+        "D2",
+        73.42,
+        "4º orden"
+       ],
+       [
+        "Re",
+        "D3",
+        146.83,
+        "4º orden"
+       ],
+       [
+        "Sol",
+        "G2",
+        98.0,
+        "3er orden"
+       ],
+       [
+        "Do",
+        "C3",
+        130.81,
+        "2º orden"
+       ],
+       [
+        "Fa",
+        "F3",
+        174.61,
+        "1er orden"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "El sonido se analiza en tu teléfono. No se graba ni se manda a ningún lado."
+    }
+   ]
+  },
+  {
+   "h2": "Las notas del bajo quinto",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Orden",
+       "Cuerdas",
+       "Notas",
+       "Frecuencias"
+      ],
+      "filas": [
+       [
+        "5º, el más grave",
+        "Par en octava",
+        "La (A2) y La grave (A1)",
+        "110.00 y 55.00 Hz"
+       ],
+       [
+        "4º",
+        "Par en octava",
+        "Re (D3) y Re grave (D2)",
+        "146.83 y 73.42 Hz"
+       ],
+       [
+        "3º",
+        "Par al unísono",
+        "Sol (G2)",
+        "98.00 Hz"
+       ],
+       [
+        "2º",
+        "Par al unísono",
+        "Do (C3)",
+        "130.81 Hz"
+       ],
+       [
+        "1º",
+        "Par al unísono",
+        "Fa (F3)",
+        "174.61 Hz"
+       ]
+      ]
+     }
+    },
+    "Es la afinación que da Wikipedia en inglés. Algunos músicos usan variantes, sobre todo en el orden de Sol."
+   ]
+  },
+  {
+   "h2": "Cómo usar el afinador",
+   "bloques": [
+    {
+     "pasos": [
+      "Acerca el teléfono a tu bajo quinto y busca un lugar sin ruido.",
+      "Toca el botón para encender el micrófono y da permiso.",
+      "Toca una sola cuerda al aire y déjala sonar.",
+      "Si la aguja va a la izquierda, aprieta la clavija. Si va a la derecha, aflójala.",
+      "Repite con las 10 cuerdas y da una segunda vuelta al final."
+     ]
+    },
+    "Si no quieres usar el micrófono, toca un botón de cuerda. Suena su nota y afinas de oído."
+   ]
+  },
+  {
+   "h2": "Afinar las cuerdas dobles",
+   "bloques": [
+    {
+     "pasos": [
+      "Afina primero la cuerda delgada de cada par.",
+      "Toca juntas las dos cuerdas del par.",
+      "Si oyes un temblor o una ondulación, mueve la segunda clavija poco a poco.",
+      "Cuando el temblor desaparece, el par está afinado."
+     ]
+    },
+    "El bajo quinto se usa en la música regional mexicana con acordeón, en polkas, corridos y redovas."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo se afina un bajo quinto?",
+   "a": "La, Re, Sol, Do, Fa, del orden más grave al más agudo. Los órdenes de La y Re llevan octava."
+  },
+  {
+   "q": "¿Cuántas cuerdas tiene un bajo quinto?",
+   "a": "Diez, en cinco pares llamados órdenes."
+  },
+  {
+   "q": "¿Es gratis?",
+   "a": "Sí. Funciona en el navegador, sin cuenta y sin descargar nada."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Bajo quinto, Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Bajo_quinto"
+  },
+  {
+   "t": "Bajo quinto, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Bajo_quinto"
+  },
+  {
+   "t": "Piano key frequencies, Wikipedia (frecuencias con La 440 Hz)",
+   "url": "https://en.wikipedia.org/wiki/Piano_key_frequencies"
+  }
+ ],
+ "hermanas": [
+  "afinador-de-bajo",
+  "afinador-de-guitarra",
+  "como-afinar-una-guitarra",
+  "afinador-de-ukulele"
+ ]
 }

@@ -1,10 +1,4 @@
 {
- "slug": "carta-de-san-valentin",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "carta",
- "coleccion": "cartas",
- "cabeza": "carta de san valentin",
  "variantes": [
   "carta para el 14 de febrero",
   "cartas para san valentin",
@@ -12,5 +6,125 @@
   "carta para 14 de febrero",
   "carta 14 de febrero"
  ],
- "volumen": 18000
+ "volumen": 18000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "carta-de-san-valentin",
+ "tipo": "carta",
+ "coleccion": "cartas",
+ "cabeza": "carta de san valentin",
+ "title": "Carta de San Valentín: 6 cartas para el 14 de febrero",
+ "description": "Carta de San Valentín para tu novio, novia o pareja: seis cartas para el 14 de febrero, largas y cortas. Cámbiala y mándala como postal por WhatsApp. Gratis.",
+ "h1": "Carta de San Valentín",
+ "resumen": "Seis cartas para el 14 de febrero en pareja.",
+ "respuesta": "Una carta de San Valentín vale más que cualquier regalo si habla de ustedes. Aquí tienes seis para el 14 de febrero, de largas a cortitas. Escoge una, cámbiala y mándala como postal.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "san-valentin",
+      "para": "Mi Valentín",
+      "firma": "",
+      "texto": "Feliz 14 de febrero.\n\nNo necesito un día para quererte, pero hoy aprovecho para decírtelo por escrito. Eres lo más bonito que me ha pasado.\n\nTe quiero."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Para tu pareja",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Amor,",
+      "texto": "Este es otro 14 de febrero a tu lado y todavía me sorprendes. Me sorprende lo fácil que es quererte.\n\nGracias por los días comunes, que contigo nunca lo son. Feliz San Valentín.",
+      "firma": "Tuya"
+     }
+    },
+    {
+     "carta": {
+      "para": "Mi vida,",
+      "texto": "Hoy todo el mundo regala flores. Yo te regalo esta carta, que dura más.\n\nTe elegiría otra vez, en cualquier ciudad y en cualquier año.",
+      "firma": "Te amo"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Si es su primer San Valentín",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Hola, tú,",
+      "texto": "Es nuestro primer 14 de febrero y no sé bien cómo se hace esto. Lo que sí sé es que me gusta mucho estar contigo.\n\nQue sea el primero de muchos.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Si están lejos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Amor,",
+      "texto": "Este 14 de febrero nos toca de lejos. Te mando esta carta para que la abras a la hora que sea de este lado.\n\nCuando nos veamos, celebramos todos los que nos debemos.",
+      "firma": "Desde lejos"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cortitas",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Mi plan favorito de San Valentín eres tú.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz 14. Gracias por hacer bonito lo de todos los días.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir la tuya",
+   "bloques": [
+    {
+     "pasos": [
+      "Recuerda su primer 14 de febrero juntos o su primera cita.",
+      "Dile algo que te gusta de este año con él o con ella.",
+      "Cierra con un plan para el día."
+     ]
+    },
+    "Si es para una amiga, mira la [carta del día del amor y la amistad](/carta-del-dia-del-amor-y-la-amistad/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué escribo en una carta de San Valentín?",
+   "a": "Un recuerdo de los dos, algo que te gusta de este año juntos y un plan para el día."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "cartas-de-amor",
+  "carta-para-mi-novio",
+  "carta-para-mi-novia",
+  "carta-del-dia-del-amor-y-la-amistad",
+  "carta-de-amor-a-mano"
+ ]
 }

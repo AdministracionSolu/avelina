@@ -1,15 +1,160 @@
 {
- "slug": "afinador-de-ukulele",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "herramienta",
- "coleccion": "afinador",
- "cabeza": "afinador de ukelele",
  "variantes": [
   "afinación ukelele",
   "afinador uke",
   "afinador ukelele",
   "ukelele afinador"
  ],
- "volumen": 15000
+ "volumen": 15000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "afinador-de-ukulele",
+ "tipo": "herramienta",
+ "coleccion": "afinador",
+ "cabeza": "afinador de ukelele",
+ "title": "Afinador de ukulele online gratis con tu micrófono",
+ "description": "Afinador de ukulele online y gratis: Sol, Do, Mi, La con el micrófono del celular o de oído. Te dice si cada cuerda está alta o baja. Afina aquí en un minuto.",
+ "h1": "Afinador de ukulele",
+ "resumen": "Afina tu ukulele con el micrófono del celular o de oído.",
+ "respuesta": "El ukulele se afina Sol, Do, Mi, La, de la cuerda de arriba a la de abajo. Enciende el micrófono, toca una cuerda y sigue la aguja. Al centro, está afinada.",
+ "secciones": [
+  {
+   "h2": "Afina aquí",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "afinador",
+      "nombre": "ukulele",
+      "cuerdas": [
+       [
+        "Sol",
+        "G4",
+        392.0,
+        "4ª"
+       ],
+       [
+        "Do",
+        "C4",
+        261.63,
+        "3ª"
+       ],
+       [
+        "Mi",
+        "E4",
+        329.63,
+        "2ª"
+       ],
+       [
+        "La",
+        "A4",
+        440.0,
+        "1ª"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "El sonido se analiza en tu teléfono. No se graba ni se manda a ningún lado."
+    }
+   ]
+  },
+  {
+   "h2": "Las notas del ukulele",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Cuerda",
+       "Nota",
+       "En inglés",
+       "Frecuencia"
+      ],
+      "filas": [
+       [
+        "4ª, la de arriba",
+        "Sol",
+        "G4",
+        "392.00 Hz"
+       ],
+       [
+        "3ª",
+        "Do",
+        "C4",
+        "261.63 Hz"
+       ],
+       [
+        "2ª",
+        "Mi",
+        "E4",
+        "329.63 Hz"
+       ],
+       [
+        "1ª, la de abajo",
+        "La",
+        "A4",
+        "440.00 Hz"
+       ]
+      ]
+     }
+    },
+    "La cuerda Sol suena más aguda que la Do. Es la afinación más común del ukulele soprano, concierto y tenor."
+   ]
+  },
+  {
+   "h2": "Cómo usar el afinador",
+   "bloques": [
+    {
+     "pasos": [
+      "Acerca el teléfono a tu ukulele y busca un lugar sin ruido.",
+      "Toca el botón para encender el micrófono y da permiso.",
+      "Toca una sola cuerda al aire y déjala sonar.",
+      "Si la aguja va a la izquierda, aprieta la clavija. Si va a la derecha, aflójala.",
+      "Repite con las 4 cuerdas y da una segunda vuelta al final."
+     ]
+    },
+    "Si no quieres usar el micrófono, toca un botón de cuerda. Suena su nota y afinas de oído."
+   ]
+  },
+  {
+   "h2": "Ya afinado, ¿qué toco?",
+   "bloques": [
+    "Empieza con Do, Sol, La menor y Fa. Están en la tabla de [acordes de ukulele](/acordes-de-ukulele/) con el traste de cada cuerda."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo se afina un ukulele?",
+   "a": "Sol, Do, Mi, La, de la cuerda de arriba a la de abajo."
+  },
+  {
+   "q": "¿Por qué la cuerda de arriba suena aguda?",
+   "a": "Porque la cuerda Sol va una octava arriba de lo esperado. Así se afina el ukulele tradicional."
+  },
+  {
+   "q": "¿Es gratis?",
+   "a": "Sí. Funciona en el navegador, sin cuenta y sin descargar nada."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Ukulele, Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Ukulele"
+  },
+  {
+   "t": "Standard tuning, Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Standard_tuning"
+  },
+  {
+   "t": "Piano key frequencies, Wikipedia (frecuencias con La 440 Hz)",
+   "url": "https://en.wikipedia.org/wiki/Piano_key_frequencies"
+  }
+ ],
+ "hermanas": [
+  "acordes-de-ukulele",
+  "afinador-de-guitarra",
+  "afinador-de-bajo",
+  "afinador-de-violin",
+  "como-afinar-una-guitarra"
+ ]
 }

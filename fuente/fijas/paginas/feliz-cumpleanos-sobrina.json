@@ -1,10 +1,117 @@
 {
- "slug": "feliz-cumpleanos-sobrina",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 30000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "feliz-cumpleanos-sobrina",
  "tipo": "carta",
  "coleccion": "cumpleanos",
  "cabeza": "cumpleaños feliz sobrina",
- "variantes": [],
- "volumen": 30000
+ "title": "Feliz cumpleaños sobrina: mensajes de tía y tío",
+ "description": "Feliz cumpleaños, sobrina: mensajes de tía o tío para niña, adolescente o adulta, cortos y largos. Cámbialos y mándalos como postal por WhatsApp. Gratis.",
+ "h1": "Feliz cumpleaños, sobrina",
+ "resumen": "Mensajes de cumpleaños de tía o tío para tu sobrina.",
+ "respuesta": "Para felicitar a tu sobrina, piensa en su edad. A una niña le gusta un mensaje alegre y a una adulta uno que la haga sentir orgullosa. Aquí tienes mensajes para cada etapa, listos para mandar como postal.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "cumple-sobrina",
+      "para": "Sobrina",
+      "firma": "Tu tía",
+      "texto": "Feliz cumpleaños, sobrina hermosa.\n\nVerte crecer es de las cosas más bonitas que me ha dado la vida. Que este año esté lleno de risas y sueños.\n\nTe quiero mucho."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Para una sobrina niña",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Mi sobrinita,",
+      "texto": "Hoy cumples años y ya estás más grande que la última vez que te vi. Que tu pastel sea enorme y tus regalos también.\n\nTe quiero hasta la luna.",
+      "firma": "Tu tía"
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz cumpleaños a la princesa más valiente de la familia. Te quiero mucho.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para una sobrina adolescente",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Sobrina,",
+      "texto": "Ya no eres la niña que cargaba, y me encanta la persona que estás siendo. Sigue siendo tú, aunque a veces cueste.\n\nAquí tienes una tía para lo que necesites. Feliz cumpleaños.",
+      "firma": "Tu tía"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para una sobrina adulta",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Sobrina,",
+      "texto": "Verte convertida en una mujer tan fuerte me llena de orgullo. Que este año te traiga todo lo que estás construyendo.\n\nFeliz cumpleaños.",
+      "firma": "Tu tío"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Mensajes cortos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz cumpleaños, sobrina. Eres el orgullo de la familia.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Que cumplas muchos más, sobrina querida. Un abrazo grande.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir la tuya",
+   "bloques": [
+    "Agrega un recuerdo de cuando era chica. A las sobrinas les encanta saber cómo las ve la familia."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué le escribo a mi sobrina en su cumpleaños?",
+   "a": "Un recuerdo de cuando era chica, algo que admires de ella hoy y un deseo para su año."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "feliz-cumpleanos-amiga",
+  "feliz-cumpleanos-madrina",
+  "feliz-cumpleanos-para-dedicar",
+  "feliz-cumpleanos-en-letra-bonita",
+  "las-mananitas"
+ ]
 }

@@ -1,10 +1,122 @@
 {
- "slug": "la-llorona",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 30000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "la-llorona",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "la llorona",
- "variantes": [],
- "volumen": 30000
+ "title": "La llorona: de dónde es la canción y mi cover",
+ "description": "La llorona es un son istmeño tradicional de Tehuantepec, Oaxaca. Su origen, las coplas de Andrés Henestrosa, la versión de Chavela Vargas y mi cover.",
+ "h1": "La llorona",
+ "resumen": "El son istmeño de Tehuantepec que cantó Chavela Vargas.",
+ "respuesta": "La llorona es una canción popular mexicana del istmo de Tehuantepec, en Oaxaca. Es un son istmeño en compás de tres tiempos y no tiene un autor fijo. La versión de Chavela Vargas la llevó a todo el mundo.",
+ "cover": {
+  "cancion": "La llorona",
+  "artista": "",
+  "compositor": [],
+  "credito": "Canción tradicional del istmo de Tehuantepec. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "La llorona"
+      ],
+      "filas": [
+       [
+        "Origen",
+        "Istmo de Tehuantepec, Oaxaca"
+       ],
+       [
+        "Género",
+        "Son istmeño, en compás de 3/4"
+       ],
+       [
+        "Autor",
+        "Tradicional, sin autor fijo"
+       ],
+       [
+        "Año",
+        "Desconocido"
+       ],
+       [
+        "Versión más famosa",
+        "Chavela Vargas"
+       ],
+       [
+        "En el cine",
+        "Frida (2002), Hasta los huesos (2001) y Coco (2017)"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "Una canción con cientos de coplas",
+   "bloques": [
+    "No hay una sola versión. Las coplas, los versos cortos que se cantan, se cuentan por cientos.",
+    "La investigadora Flora Botton-Burlá juntó 121 coplas en 1992. El escritor oaxaqueño Andrés Henestrosa publicó las que oyó de niño y otras escritas por él.",
+    "Su relación con la leyenda de La Llorona, la mujer que llora a sus hijos, no está clara. La canción y la leyenda son cosas distintas."
+   ]
+  },
+  {
+   "h2": "Las versiones más famosas",
+   "bloques": [
+    {
+     "lista": [
+      "Chavela Vargas, la que la volvió conocida fuera de México.",
+      "Lila Downs, Lola Beltrán, Lucha Villa y Eugenia León.",
+      "Ely Guerra, Susana Harp y Ángela Aguilar.",
+      "Joan Baez, Nana Mouskouri y Rosalía, fuera de México."
+     ]
+    },
+    "En la película Coco la cantan, en español, Angélica Vale y Marco Antonio Solís."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Si te gustan las canciones de siempre, mira también [Cielito lindo](/cielito-lindo/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién escribió La llorona?",
+   "a": "Nadie en particular. Es una canción tradicional del istmo de Tehuantepec, con coplas de muchos autores."
+  },
+  {
+   "q": "¿La llorona es de Oaxaca?",
+   "a": "Sí. Nació en el istmo de Tehuantepec, Oaxaca, como son istmeño."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "La Llorona (canción), Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/La_Llorona_(canci%C3%B3n)"
+  }
+ ],
+ "hermanas": [
+  "cielito-lindo",
+  "amor-eterno",
+  "la-bikina",
+  "historia-de-un-amor",
+  "besame-mucho"
+ ]
 }

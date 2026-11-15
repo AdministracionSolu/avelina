@@ -1,15 +1,129 @@
 {
- "slug": "canciones-para-mama",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "canciones para mama",
  "variantes": [
   "cancion para dedicar a mama",
   "canciones para el dia de las madres",
   "canciones para la mama",
   "cancion para mamá"
  ],
- "volumen": 15000
+ "volumen": 15000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-para-mama",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "canciones para mama",
+ "title": "Canciones para mamá: las más dedicadas cada 10 de mayo",
+ "description": "Canciones para mamá: las que más se dedican cada 10 de mayo en México, de Señora, señora a Amor eterno, con artista y para qué momento va cada una. Escoge.",
+ "h1": "Canciones para mamá",
+ "resumen": "Las canciones que más se dedican a mamá, con artista y momento.",
+ "respuesta": "La canción más dedicada a mamá en México es Señora, señora, de Denisse de Kalafe. Le siguen clásicos como Madrecita querida y Amor eterno. Abajo está la lista con su artista y para qué momento va cada una.",
+ "secciones": [
+  {
+   "h2": "Las más dedicadas el 10 de mayo",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Para cuándo"
+      ],
+      "filas": [
+       [
+        "Señora, señora",
+        "Denisse de Kalafe",
+        "El 10 de mayo, la de siempre"
+       ],
+       [
+        "Madrecita querida",
+        "Vicente Fernández",
+        "Con mariachi, en la fiesta"
+       ],
+       [
+        "Mamá",
+        "Timbiriche",
+        "Para las que crecieron en los ochenta"
+       ],
+       [
+        "A la madre",
+        "El Tri",
+        "Para mamás rockeras"
+       ],
+       [
+        "Mi novia se me está poniendo vieja",
+        "Ricardo Arjona",
+        "De hijo a mamá, para emocionarla"
+       ],
+       [
+        "[Amor eterno](/amor-eterno/)",
+        "Juan Gabriel",
+        "Para recordar a una mamá que ya no está"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Lista hecha con las que repiten N+, Vanguardia y El Universal en sus notas del Día de las Madres."
+    }
+   ]
+  },
+  {
+   "h2": "Para mandar por WhatsApp",
+   "bloques": [
+    "Una canción sola se pierde entre mensajes. Mándala con una carta corta y se vuelve un regalo.",
+    {
+     "pasos": [
+      "Escoge la canción de la lista.",
+      "Escribe una carta en la [postal para mamá](/carta-para-mi-mama/).",
+      "Manda primero la postal y luego la canción."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Para su cumpleaños",
+   "bloques": [
+    "En su cumpleaños van mejor las mañanitas. Mira [las mañanitas para mamá](/mananitas-para-mama/) y los [mensajes de feliz cumpleaños, mamá](/feliz-cumpleanos-mama/)."
+   ]
+  },
+  {
+   "h2": "Si la extrañas",
+   "bloques": [
+    "Vivo lejos de mi familia, en Monterrey. Para quien está lejos, una canción y una carta acortan los kilómetros.",
+    "Si tú también eres foránea, te escribo las [cartas de una foránea](/foranea/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cuál es la canción más famosa para mamá?",
+   "a": "Señora, señora, de Denisse de Kalafe. Es la que más se canta cada 10 de mayo en México."
+  },
+  {
+   "q": "¿Amor eterno es para mamá?",
+   "a": "Juan Gabriel la escribió por la muerte de su madre. Se dedica sobre todo para recordar a una mamá que ya no está."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Las 10 mejores canciones para el Día de las Madres, N+",
+   "url": "https://www.nmas.com.mx/tendencias/mejores-canciones-dia-de-las-madres-lista-baladas-rancheras-pop-para-dedicar-10-de-mayo/"
+  },
+  {
+   "t": "Canciones emotivas para el Día de la Madre, Vanguardia",
+   "url": "https://vanguardia.com.mx/vida/canciones-emotivas-para-celebrar-el-dia-de-la-madre-y-tocarle-el-corazon-NL15875686"
+  },
+  {
+   "t": "Otras canciones para el 10 de mayo que no son Señora, señora, El Universal",
+   "url": "https://www.eluniversal.com.mx/espectaculos/otras-canciones-para-celebrar-tu-mama-el-10-de-mayo-que-no-son-senora-senora/"
+  }
+ ],
+ "hermanas": [
+  "carta-para-mi-mama",
+  "feliz-cumpleanos-mama",
+  "mananitas-para-mama",
+  "amor-eterno",
+  "canciones-para-papa",
+  "canciones-para-dedicar"
+ ]
 }

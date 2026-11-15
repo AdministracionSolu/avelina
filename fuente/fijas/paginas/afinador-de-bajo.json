@@ -1,13 +1,168 @@
 {
- "slug": "afinador-de-bajo",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "herramienta",
- "coleccion": "afinador",
- "cabeza": "afinador de bajo",
  "variantes": [
   "afinar el bajo",
   "afinador bajo"
  ],
- "volumen": 9000
+ "volumen": 9000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "afinador-de-bajo",
+ "tipo": "herramienta",
+ "coleccion": "afinador",
+ "cabeza": "afinador de bajo",
+ "title": "Afinador de bajo online gratis: Mi, La, Re, Sol",
+ "description": "Afinador de bajo eléctrico de 4 cuerdas, online y gratis: Mi, La, Re, Sol con el micrófono del celular o de oído. Te dice si cada cuerda está alta o baja.",
+ "h1": "Afinador de bajo",
+ "resumen": "Afina tu bajo con el micrófono del celular o de oído.",
+ "respuesta": "El bajo de cuatro cuerdas se afina Mi, La, Re, Sol, de la más gruesa a la más delgada. Suena una octava abajo de las cuatro cuerdas graves de la guitarra. Toca una cuerda y sigue la aguja.",
+ "secciones": [
+  {
+   "h2": "Afina aquí",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "afinador",
+      "nombre": "bajo",
+      "cuerdas": [
+       [
+        "Mi",
+        "E1",
+        41.2,
+        "4ª"
+       ],
+       [
+        "La",
+        "A1",
+        55.0,
+        "3ª"
+       ],
+       [
+        "Re",
+        "D2",
+        73.42,
+        "2ª"
+       ],
+       [
+        "Sol",
+        "G2",
+        98.0,
+        "1ª"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "El sonido se analiza en tu teléfono. No se graba ni se manda a ningún lado."
+    }
+   ]
+  },
+  {
+   "h2": "Las notas del bajo",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Cuerda",
+       "Nota",
+       "En inglés",
+       "Frecuencia"
+      ],
+      "filas": [
+       [
+        "4ª, la más gruesa",
+        "Mi",
+        "E1",
+        "41.20 Hz"
+       ],
+       [
+        "3ª",
+        "La",
+        "A1",
+        "55.00 Hz"
+       ],
+       [
+        "2ª",
+        "Re",
+        "D2",
+        "73.42 Hz"
+       ],
+       [
+        "1ª, la más delgada",
+        "Sol",
+        "G2",
+        "98.00 Hz"
+       ]
+      ]
+     }
+    },
+    "Un bajo de cinco cuerdas suma una cuerda Si grave, B0, de unos 30.87 Hz."
+   ]
+  },
+  {
+   "h2": "Cómo usar el afinador",
+   "bloques": [
+    {
+     "pasos": [
+      "Acerca el teléfono a tu bajo y busca un lugar sin ruido.",
+      "Toca el botón para encender el micrófono y da permiso.",
+      "Toca una sola cuerda al aire y déjala sonar.",
+      "Si la aguja va a la izquierda, aprieta la clavija. Si va a la derecha, aflójala.",
+      "Repite con las 4 cuerdas y da una segunda vuelta al final."
+     ]
+    },
+    "Si no quieres usar el micrófono, toca un botón de cuerda. Suena su nota y afinas de oído."
+   ]
+  },
+  {
+   "h2": "Si el micrófono no capta el bajo",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Las notas graves cuestan más a los celulares.",
+       "Acerca el teléfono a la bocina del amplificador o al cuerpo del bajo."
+      ],
+      [
+       "Toca con fuerza media y deja sonar.",
+       "Lee la aguja uno o dos segundos después del golpe."
+      ],
+      [
+       "Usa el armónico del traste 12.",
+       "Suena una octava arriba y el micrófono lo capta mejor. Compáralo con el botón de la cuerda."
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo se afina un bajo de 4 cuerdas?",
+   "a": "Mi, La, Re, Sol, de la cuerda más gruesa a la más delgada."
+  },
+  {
+   "q": "¿El bajo se afina igual que la guitarra?",
+   "a": "Sí, con las mismas notas que las cuatro cuerdas graves de la guitarra, pero una octava abajo."
+  },
+  {
+   "q": "¿Es gratis?",
+   "a": "Sí. Funciona en el navegador, sin cuenta y sin descargar nada."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Bass guitar, Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Bass_guitar"
+  },
+  {
+   "t": "Piano key frequencies, Wikipedia (frecuencias con La 440 Hz)",
+   "url": "https://en.wikipedia.org/wiki/Piano_key_frequencies"
+  }
+ ],
+ "hermanas": [
+  "afinador-de-guitarra",
+  "afinador-de-bajo-quinto",
+  "afinador-de-ukulele",
+  "como-afinar-una-guitarra"
+ ]
 }

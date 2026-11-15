@@ -24,10 +24,10 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 13 | Covers de Ed Maverick | ed maverick | 33,000 | /ed-maverick/ | sí |
 | 14 | Covers de Kevin Kaarl | kevin kaarl | 33,000 | /kevin-kaarl/ | sí |
 | 15 | mañanitas vicente fernández | mañanitas vicente fernández | 33,000 | /las-mananitas-vicente-fernandez/ | no (esqueleto) |
-| 16 | cualquier canción de caloncho | caloncho | 30,000 | /caloncho/ | no (esqueleto) |
-| 17 | la llorona | la llorona | 30,000 | /la-llorona/ | no (esqueleto) |
+| 16 | Covers de Caloncho | caloncho | 30,000 | /caloncho/ | sí |
+| 17 | La llorona | la llorona | 30,000 | /la-llorona/ | sí |
 | 18 | cualquier canción de marcos witt | marcos witt | 30,000 | /marcos-witt/ | no (esqueleto) |
-| 19 | cualquier canción de silvana estrada | silvana estrada | 30,000 | /silvana-estrada/ | no (esqueleto) |
+| 19 | Covers de Silvana Estrada | silvana estrada | 30,000 | /silvana-estrada/ | sí |
 | 20 | nunca es suficiente | nunca es suficiente | 12,000 | /nunca-es-suficiente/ | no (esqueleto) |
 | 21 | amarrame mon laferte | amarrame mon laferte | 9,000 | /amarrame-mon-laferte/ | no (esqueleto) |
 | 22 | cualquier canción de christine d clario | christine d clario | 9,000 | /christine-d-clario/ | no (esqueleto) |

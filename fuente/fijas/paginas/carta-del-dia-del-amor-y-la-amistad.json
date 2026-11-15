@@ -1,15 +1,129 @@
 {
- "slug": "carta-del-dia-del-amor-y-la-amistad",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "carta",
- "coleccion": "cartas",
- "cabeza": "carta para el dia del amor y la amistad",
  "variantes": [
   "carta de san valentin para una amiga",
   "cartas para el 14 de febrero amistad",
   "cartas de la amistad",
   "carta del dia del amor y la amistad"
  ],
- "volumen": 15000
+ "volumen": 15000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "carta-del-dia-del-amor-y-la-amistad",
+ "tipo": "carta",
+ "coleccion": "cartas",
+ "cabeza": "carta para el dia del amor y la amistad",
+ "title": "Carta para el día del amor y la amistad: 6 para amigas",
+ "description": "Carta para el día del amor y la amistad: seis cartas para tu amiga, tu mejor amiga o tu grupo, para el 14 de febrero. Cámbiala y mándala como postal gratis.",
+ "h1": "Carta para el día del amor y la amistad",
+ "resumen": "Seis cartas de amistad para el 14 de febrero.",
+ "respuesta": "El 14 de febrero en México también es de la amistad. Aquí tienes seis cartas para tu amiga, tu mejor amiga o tu grupo. Cámbialas y mándalas como postal desde el celular.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "amistad",
+      "para": "Amiga",
+      "firma": "Tu amiga",
+      "texto": "Feliz día del amor y la amistad.\n\nEste 14 de febrero te escribo a ti, que me quieres sin pedir nada a cambio.\n\nGracias por ser mi amiga."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Para tu amiga",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Amiga,",
+      "texto": "Hoy celebran a las parejas, pero yo celebro lo nuestro. Una amistad que aguanta horarios, cambios y malas rachas.\n\nFeliz día del amor y la amistad.",
+      "firma": "Tu amiga"
+     }
+    },
+    {
+     "carta": {
+      "para": "Amiga,",
+      "texto": "Gracias por las tardes de chisme, los consejos que no pedí y los abrazos que sí necesitaba.\n\nEste 14 de febrero es tuyo.",
+      "firma": "Con cariño"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para tu grupo de amigas",
+   "bloques": [
+    {
+     "carta": {
+      "para": "A mis amigas,",
+      "texto": "Somos un desastre organizado y no las cambiaría por nada.\n\nGracias por ser mi casa cuando estoy lejos de la mía. Feliz 14 de febrero.",
+      "firma": "Su amiga"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para tu amigo secreto",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Para ti,",
+      "texto": "No sabes quién soy y eso lo hace divertido. Sólo sé que mereces un día bonito.\n\nFeliz día del amor y la amistad.",
+      "firma": "Tu amiga secreta"
+     }
+    },
+    "Hay más ideas en [cartas para amiga secreta](/cartas-para-amiga-secreta/)."
+   ]
+  },
+  {
+   "h2": "Cortitas",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Las amigas como tú se cuentan con una mano. Feliz 14.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Gracias por quererme en mis peores días. Feliz día de la amistad.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir la tuya",
+   "bloques": [
+    {
+     "pasos": [
+      "Recuerda un momento de su amistad.",
+      "Dile una cualidad suya con ejemplo.",
+      "Cierra con un plan para celebrar juntas."
+     ]
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿El 14 de febrero también es de la amistad?",
+   "a": "Sí. En México se celebra como día del amor y la amistad."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "carta-para-una-amiga",
+  "carta-para-mi-mejor-amiga",
+  "cartas-para-amiga-secreta",
+  "carta-de-san-valentin",
+  "canciones-para-una-amiga"
+ ]
 }

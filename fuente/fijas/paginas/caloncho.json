@@ -1,10 +1,154 @@
 {
- "slug": "caloncho",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 30000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "caloncho",
+ "espera_video": true,
  "tipo": "artista",
  "coleccion": "covers",
  "cabeza": "caloncho",
- "variantes": [],
- "volumen": 30000
+ "title": "Caloncho: canciones, discos y covers a guitarra",
+ "description": "Caloncho: el cantautor de Ciudad Obregón, Sonora, sus discos de 2011 a 2024 y canciones como Palmar, Optimista y Bolita de pan. Con mis covers a guitarra.",
+ "h1": "Caloncho",
+ "resumen": "El cantautor sonorense: sus discos y sus canciones más conocidas.",
+ "respuesta": "Caloncho es un cantautor mexicano nacido en Ciudad Obregón, Sonora, el 20 de diciembre de 1986. Mezcla pop, reggae, música tropical y folclórica. Sus canciones más conocidas son Palmar, Optimista y Bolita de pan.",
+ "cover": {
+  "cancion": "Covers de Caloncho",
+  "artista": "Caloncho",
+  "credito": "Las canciones son de Caloncho y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Caloncho, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Caloncho",
+   "bloques": [
+    "Su nombre es Óscar Alfonso Castro Valenzuela. Su nombre artístico junta Óscar, Alfonso y un apodo que le dio su abuelo.",
+    "Estudió Relaciones Internacionales en el Tecnológico de Monterrey, en Guadalajara. Canta en español, inglés y portugués.",
+    "Lleva cuatro nominaciones al Latin Grammy, entre ellas mejor nuevo artista en 2014."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "El derroche",
+        "2015",
+        "Sencillo de Fruta II"
+       ],
+       [
+        "Palmar",
+        "2015",
+        "De Fruta II, con una versión junto a Mon Laferte"
+       ],
+       [
+        "Optimista",
+        "2017",
+        "Sencillo de Bálsamo"
+       ],
+       [
+        "Brillo mío",
+        "2017",
+        "De Bálsamo"
+       ],
+       [
+        "Bolita de pan",
+        "2019",
+        "Del EP PA"
+       ],
+       [
+        "China chula",
+        "2019",
+        "Del EP PA"
+       ],
+       [
+        "Adolescentes",
+        "2020",
+        "De Malvadisco"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Homeotermo (2011)",
+       "EP."
+      ],
+      [
+       "Fruta (2013)",
+       "EP. Ganó dos Indie-O Music Awards."
+      ],
+      [
+       "Fruta II (2015)",
+       "Su primer disco largo."
+      ],
+      [
+       "Bálsamo (2017)",
+       ""
+      ],
+      [
+       "Tiempo compartido (2019)",
+       "Con David Aguilar, como Vacación."
+      ],
+      [
+       "Malvadisco (2021)",
+       ""
+      ],
+      [
+       "Buen pez (2022)",
+       ""
+      ],
+      [
+       "Tofu (2024)",
+       "Su disco más reciente al revisar esta página."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Caloncho nació en Sonora, igual que yo. Sus canciones son luminosas y caben muy bien a guitarra y voz.",
+    "Si te gusta su lado tranquilo, mira también a [Ed Maverick](/ed-maverick/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De dónde es Caloncho?",
+   "a": "De Ciudad Obregón, Sonora. Nació el 20 de diciembre de 1986."
+  },
+  {
+   "q": "¿Caloncho cantó con Mon Laferte?",
+   "a": "Sí. Hay una versión de Palmar con Mon Laferte, de 2015."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Caloncho, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Caloncho"
+  }
+ ],
+ "hermanas": [
+  "ed-maverick",
+  "kevin-kaarl",
+  "mon-laferte",
+  "julieta-venegas",
+  "foranea"
+ ]
 }
