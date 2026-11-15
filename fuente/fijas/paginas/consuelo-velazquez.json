@@ -1,10 +1,93 @@
 {
- "slug": "consuelo-velazquez",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "consuelo-velazquez",
+ "espera_video": true,
  "tipo": "artista",
  "coleccion": "covers",
  "cabeza": "consuelo velázquez",
- "variantes": [],
- "volumen": 3000
+ "title": "Consuelo Velázquez: quién fue la autora de Bésame mucho",
+ "description": "Consuelo Velázquez, la pianista y compositora mexicana que escribió Bésame mucho de adolescente. Su vida, su canción más famosa y mi cover a guitarra.",
+ "h1": "Consuelo Velázquez",
+ "resumen": "La pianista mexicana que escribió Bésame mucho.",
+ "respuesta": "Consuelo Velázquez fue una pianista y compositora mexicana, nacida en 1916 y muerta en 2005. Escribió Bésame mucho hacia 1932, todavía adolescente. Esa canción es la más grabada en español.",
+ "cover": {
+  "cancion": "Covers de Consuelo Velázquez",
+  "artista": "Consuelo Velázquez",
+  "credito": "Las canciones son de Consuelo Velázquez y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Consuelo Velázquez, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Consuelo Velázquez",
+   "bloques": [
+    "Le decían Consuelito. Fue pianista y compositora de boleros.",
+    "Su canción más famosa la escribió muy joven, hacia 1932. Se publicó en 1940 y la cantó primero Emilio Tuero."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "[Bésame mucho](/besame-mucho/)",
+        "1940",
+        "La canción más grabada en español"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Bésame mucho (publicada en 1940)",
+       "Su obra más conocida, grabada en decenas de idiomas."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Mi cover de Bésame mucho va a guitarra y voz. Cuando lo suba, aparece aquí y en la [página de la canción](/besame-mucho/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién fue Consuelo Velázquez?",
+   "a": "Una pianista y compositora mexicana, autora de Bésame mucho."
+  },
+  {
+   "q": "¿A qué edad escribió Bésame mucho?",
+   "a": "Hacia los 16 años, alrededor de 1932."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Bésame mucho, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/B%C3%A9same_mucho"
+  }
+ ],
+ "hermanas": [
+  "besame-mucho",
+  "sabor-a-mi",
+  "historia-de-un-amor",
+  "contigo-aprendi"
+ ]
 }

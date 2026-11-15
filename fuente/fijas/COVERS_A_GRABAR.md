@@ -28,26 +28,26 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 17 | La llorona | la llorona | 30,000 | /la-llorona/ | sí |
 | 18 | cualquier canción de marcos witt | marcos witt | 30,000 | /marcos-witt/ | no (esqueleto) |
 | 19 | Covers de Silvana Estrada | silvana estrada | 30,000 | /silvana-estrada/ | sí |
-| 20 | nunca es suficiente | nunca es suficiente | 12,000 | /nunca-es-suficiente/ | no (esqueleto) |
-| 21 | amarrame mon laferte | amarrame mon laferte | 9,000 | /amarrame-mon-laferte/ | no (esqueleto) |
+| 20 | Nunca es suficiente | nunca es suficiente | 12,000 | /nunca-es-suficiente/ | sí |
+| 21 | Amárrame | amarrame mon laferte | 9,000 | /amarrame-mon-laferte/ | sí |
 | 22 | cualquier canción de christine d clario | christine d clario | 9,000 | /christine-d-clario/ | no (esqueleto) |
 | 23 | cualquier canción de ha ash | canciones de ha ash | 9,000 | /ha-ash/ | no (esqueleto) |
-| 24 | historia de un amor | historia de un amor | 9,000 | /historia-de-un-amor/ | no (esqueleto) |
+| 24 | Historia de un amor | historia de un amor | 9,000 | /historia-de-un-amor/ | sí |
 | 25 | mi buen amor mon laferte | mi buen amor mon laferte | 9,000 | /mi-buen-amor-mon-laferte/ | no (esqueleto) |
-| 26 | si no te hubieras ido | si no te hubieras ido | 9,000 | /si-no-te-hubieras-ido/ | no (esqueleto) |
+| 26 | Si no te hubieras ido | si no te hubieras ido | 9,000 | /si-no-te-hubieras-ido/ | sí |
 | 27 | mon laferte si tu me quisieras | mon laferte si tu me quisieras | 9,000 | /si-tu-me-quisieras-mon-laferte/ | no (esqueleto) |
 | 28 | cualquier canción de sin bandera | canciones de sin bandera | 9,000 | /sin-bandera/ | no (esqueleto) |
 | 29 | jesús adrián romero sumérgeme | jesús adrián romero sumérgeme | 9,000 | /sumergeme-jesus-adrian-romero/ | no (esqueleto) |
-| 30 | el sol no regresa la quinta estación | el sol no regresa la quinta estación | 6,300 | /el-sol-no-regresa-la-quinta-estacion/ | no (esqueleto) |
-| 31 | besame mucho | besame mucho | 6,000 | /besame-mucho/ | no (esqueleto) |
+| 30 | El sol no regresa | el sol no regresa la quinta estación | 6,300 | /el-sol-no-regresa-la-quinta-estacion/ | sí |
+| 31 | Bésame mucho | besame mucho | 6,000 | /besame-mucho/ | sí |
 | 32 | como la flor | como la flor | 6,000 | /como-la-flor-selena/ | no (esqueleto) |
 | 33 | contigo carla morrison | contigo carla morrison | 6,000 | /contigo-carla-morrison/ | no (esqueleto) |
 | 34 | alabanza el alfarero | alabanza el alfarero | 6,000 | /el-alfarero-alabanza/ | no (esqueleto) |
 | 35 | eres tu carla morrison | eres tu carla morrison | 6,000 | /eres-tu-carla-morrison/ | no (esqueleto) |
 | 36 | ex de verdad | ex de verdad | 6,000 | /ex-de-verdad-ha-ash/ | no (esqueleto) |
-| 37 | hasta la raiz | hasta la raiz | 6,000 | /hasta-la-raiz-natalia-lafourcade/ | no (esqueleto) |
+| 37 | Hasta la raíz | hasta la raiz | 6,000 | /hasta-la-raiz-natalia-lafourcade/ | sí |
 | 38 | cualquier canción de jesse y joy | canciones de jesse y joy | 6,000 | /jesse-y-joy/ | no (esqueleto) |
-| 39 | cualquier canción de la quinta estacion | la quinta estacion | 6,000 | /la-quinta-estacion/ | no (esqueleto) |
+| 39 | Covers de La Quinta Estación | la quinta estacion | 6,000 | /la-quinta-estacion/ | sí |
 | 40 | julieta venegas limon y sal | julieta venegas limon y sal | 6,000 | /limon-y-sal-julieta-venegas/ | no (esqueleto) |
 | 41 | lo que construimos | lo que construimos | 6,000 | /lo-que-construimos-natalia-lafourcade/ | no (esqueleto) |
 | 42 | las mañanitas feliz cumpleaños para whatsapp | las mañanitas feliz cumpleaños para whatsapp | 6,000 | /mananitas-para-whatsapp/ | no (esqueleto) |
@@ -61,8 +61,8 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 50 | antes de ti mon laferte | antes de ti mon laferte | 3,000 | /antes-de-ti-mon-laferte/ | no (esqueleto) |
 | 51 | como un pajaro silvana estrada | como un pajaro silvana estrada | 3,000 | /como-un-pajaro-silvana-estrada/ | no (esqueleto) |
 | 52 | compartir carla morrison | compartir carla morrison | 3,000 | /compartir-carla-morrison/ | no (esqueleto) |
-| 53 | cualquier canción de consuelo velázquez | consuelo velázquez | 3,000 | /consuelo-velazquez/ | no (esqueleto) |
-| 54 | contigo aprendi | contigo aprendi | 3,000 | /contigo-aprendi/ | no (esqueleto) |
+| 53 | Covers de Consuelo Velázquez | consuelo velázquez | 3,000 | /consuelo-velazquez/ | sí |
+| 54 | Contigo aprendí | contigo aprendi | 3,000 | /contigo-aprendi/ | sí |
 | 55 | curame mon laferte | curame mon laferte | 3,000 | /curame-mon-laferte/ | no (esqueleto) |
 | 56 | cualquier canción de daniela spalla | daniela spalla | 3,000 | /daniela-spalla/ | no (esqueleto) |
 | 57 | carla morrison dejenme llorar | carla morrison dejenme llorar | 3,000 | /dejenme-llorar-carla-morrison/ | no (esqueleto) |

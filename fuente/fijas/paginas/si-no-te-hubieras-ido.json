@@ -1,13 +1,111 @@
 {
- "slug": "si-no-te-hubieras-ido",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "si no te hubieras ido",
  "variantes": [
   "marco antonio solís si no te hubieras ido",
   "sino te hubieras ido"
  ],
- "volumen": 9000
+ "volumen": 9000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "si-no-te-hubieras-ido",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "si no te hubieras ido",
+ "title": "Si no te hubieras ido: quién la cantó primero y mi cover",
+ "description": "Si no te hubieras ido es de Marco Antonio Solís, pero la grabó primero Marisela en 1984. Su versión de 1999, la de Maná en vivo y mi cover a guitarra.",
+ "h1": "Si no te hubieras ido, de Marco Antonio Solís",
+ "resumen": "La canción de Marco Antonio Solís que grabó primero Marisela.",
+ "respuesta": "Si no te hubieras ido es una canción de Marco Antonio Solís. La primera en grabarla fue Marisela, en 1984. Solís la grabó en 1999 y Maná la llevó al número uno en 2008.",
+ "cover": {
+  "cancion": "Si no te hubieras ido",
+  "artista": "Marco Antonio Solís",
+  "compositor": [
+   "Marco Antonio Solís"
+  ],
+  "credito": "Canción de Marco Antonio Solís. Aquí no va la letra: es de su autor.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Si no te hubieras ido"
+      ],
+      "filas": [
+       [
+        "Autor",
+        "Marco Antonio Solís"
+       ],
+       [
+        "Primera grabación",
+        "Marisela, disco Sin él (1984)"
+       ],
+       [
+        "Versión de Solís",
+        "Trozos de mi alma (1999), número 4 en Billboard"
+       ],
+       [
+        "Versión de Maná",
+        "Arde el cielo (2008), número 1 en Billboard Hot Latin Songs"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "La grabó primero Marisela",
+   "bloques": [
+    "Marco Antonio Solís coescribió y coprodujo el disco Sin él, de Marisela, en 1984. Ahí salió esta canción por primera vez.",
+    "Quince años después la grabó él mismo para Trozos de mi alma. Su versión sonó en la película Y tu mamá también."
+   ]
+  },
+  {
+   "h2": "Otras versiones",
+   "bloques": [
+    {
+     "lista": [
+      "Maná, en vivo, en 2008.",
+      "David Bisbal y Juan Luis Guerra, en 2017.",
+      "Bruno e Marrone, en portugués, en 2003.",
+      "Yuridia, Reik y Chiquis Rivera, entre otros."
+     ]
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién escribió Si no te hubieras ido?",
+   "a": "Marco Antonio Solís."
+  },
+  {
+   "q": "¿Quién la cantó primero?",
+   "a": "Marisela, en su disco Sin él, de 1984."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Si no te hubieras ido, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Si_no_te_hubieras_ido"
+  }
+ ],
+ "hermanas": [
+  "historia-de-un-amor",
+  "amor-eterno",
+  "canciones-tristes-para-llorar",
+  "canciones-de-desamor",
+  "tu-falta-de-querer-mon-laferte"
+ ]
 }

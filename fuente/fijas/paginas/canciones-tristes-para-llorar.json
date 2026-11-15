@@ -1,10 +1,4 @@
 {
- "slug": "canciones-tristes-para-llorar",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "playlist spotify tristes",
  "variantes": [
   "canciones tristes",
   "canciones para llorar",
@@ -13,5 +7,103 @@
   "playlist de spotify para llorar",
   "playlist tristes spotify"
  ],
- "volumen": 21000
+ "volumen": 21000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-tristes-para-llorar",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "playlist spotify tristes",
+ "title": "Canciones tristes para llorar: playlist en español",
+ "description": "Canciones tristes para llorar en español, de boleros a Mon Laferte, con artista y de qué duelen. Para armar tu playlist en Spotify o escucharlas a guitarra.",
+ "h1": "Canciones tristes para llorar",
+ "resumen": "Canciones tristes en español, con artista y de qué duele cada una.",
+ "respuesta": "Una buena canción triste dice en voz alta lo que uno no puede. Aquí van las tristes en español que estoy grabando a guitarra y voz, con su artista. Cada una tiene su página con su historia.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Para cuándo"
+      ],
+      "filas": [
+       [
+        "[Tu falta de querer](/tu-falta-de-querer-mon-laferte/)",
+        "Mon Laferte",
+        "Una infidelidad que no se supera"
+       ],
+       [
+        "[Amor eterno](/amor-eterno/)",
+        "Juan Gabriel",
+        "Un duelo por una madre"
+       ],
+       [
+        "[Historia de un amor](/historia-de-un-amor/)",
+        "Carlos Eleta Almarán",
+        "Un amor que se fue para siempre"
+       ],
+       [
+        "[Si no te hubieras ido](/si-no-te-hubieras-ido/)",
+        "Marco Antonio Solís",
+        "Extrañar a quien se fue"
+       ],
+       [
+        "[Déjenme llorar](/dejenme-llorar-carla-morrison/)",
+        "Carla Morrison",
+        "Pedir permiso para estar triste"
+       ],
+       [
+        "[El sol no regresa](/el-sol-no-regresa-la-quinta-estacion/)",
+        "La Quinta Estación",
+        "Un desamor que oscurece todo"
+       ],
+       [
+        "[Por qué me haces llorar](/por-que-me-haces-llorar-juan-gabriel/)",
+        "Juan Gabriel",
+        "Un amor que lastima"
+       ],
+       [
+        "[La llorona](/la-llorona/)",
+        "Tradicional de Tehuantepec",
+        "Para llorar a lo mexicano"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Cómo armar tu playlist",
+   "bloques": [
+    {
+     "pasos": [
+      "Empieza con dos o tres canciones que te gusten de verdad.",
+      "Agrega una que te haga llorar fuerte, para soltarlo.",
+      "Cierra con una más calmada. Llorar también es para sentirse mejor después."
+     ]
+    },
+    "Si quieres escribir lo que sientes, una carta ayuda. Mira la [carta de despedida](/carta-de-despedida/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cuál es la canción más triste en español?",
+   "a": "Depende de qué duela. Para un duelo, Amor eterno. Para una infidelidad, Tu falta de querer."
+  }
+ ],
+ "hermanas": [
+  "canciones-de-desamor",
+  "carta-de-despedida",
+  "tu-falta-de-querer-mon-laferte",
+  "amor-eterno",
+  "canciones-de-amor-en-espanol"
+ ]
 }

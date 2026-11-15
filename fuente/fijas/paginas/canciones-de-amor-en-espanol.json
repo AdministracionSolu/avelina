@@ -1,10 +1,4 @@
 {
- "slug": "canciones-de-amor-en-espanol",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "musica romantica en español",
  "variantes": [
   "canciones romanticas en español",
   "baladas en español",
@@ -14,5 +8,97 @@
   "cancion romantica español",
   "balada en español"
  ],
- "volumen": 24000
+ "volumen": 24000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-de-amor-en-espanol",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "musica romantica en español",
+ "title": "Música romántica en español: boleros y canciones de amor",
+ "description": "Música romántica en español, de los boleros de siempre a Natalia Lafourcade y Carla Morrison, con artista y para qué momento. Las que estoy grabando a guitarra.",
+ "h1": "Música romántica en español",
+ "resumen": "Canciones de amor en español, de boleros a cantautoras de hoy.",
+ "respuesta": "La música romántica en español va del bolero a las cantautoras de hoy. Aquí juntamos las dos épocas, con su artista y para qué momento va cada canción. Todas las estoy grabando a guitarra y voz.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Para cuándo"
+      ],
+      "filas": [
+       [
+        "[Bésame mucho](/besame-mucho/)",
+        "Consuelo Velázquez",
+        "El bolero más grabado del español"
+       ],
+       [
+        "[Sabor a mí](/sabor-a-mi/)",
+        "Álvaro Carrillo",
+        "Para una cena de dos"
+       ],
+       [
+        "[Contigo aprendí](/contigo-aprendi/)",
+        "Armando Manzanero",
+        "Para dedicar en una boda"
+       ],
+       [
+        "[Historia de un amor](/historia-de-un-amor/)",
+        "Carlos Eleta Almarán",
+        "Para los nostálgicos"
+       ],
+       [
+        "[Hasta la raíz](/hasta-la-raiz-natalia-lafourcade/)",
+        "Natalia Lafourcade",
+        "Para un amor que se queda"
+       ],
+       [
+        "[Nunca es suficiente](/nunca-es-suficiente/)",
+        "Natalia Lafourcade",
+        "Para bailar despacio"
+       ],
+       [
+        "[Te regalo](/te-regalo-carla-morrison/)",
+        "Carla Morrison",
+        "Para una dedicatoria íntima"
+       ],
+       [
+        "[Eres para mí](/eres-para-mi-julieta-venegas/)",
+        "Julieta Venegas",
+        "Para una pareja alegre"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Baladas y boleros",
+   "bloques": [
+    "El bolero es la raíz de casi toda la balada romántica en español. Si te gustan los de siempre, mira también las [canciones románticas de los 80](/canciones-romanticas-de-los-80-en-espanol/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cuál es la canción de amor más famosa en español?",
+   "a": "Bésame mucho, de Consuelo Velázquez. En 1999 se reconoció como la más grabada del idioma."
+  }
+ ],
+ "hermanas": [
+  "canciones-para-dedicar",
+  "canciones-para-boda",
+  "besame-mucho",
+  "sabor-a-mi",
+  "cartas-de-amor",
+  "canciones-romanticas-de-los-80-en-espanol"
+ ]
 }

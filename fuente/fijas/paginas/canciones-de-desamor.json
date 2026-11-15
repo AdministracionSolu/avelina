@@ -1,10 +1,85 @@
 {
- "slug": "canciones-de-desamor",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-de-desamor",
  "tipo": "lista",
  "coleccion": "canciones-para",
  "cabeza": "canciones de desamor",
- "variantes": [],
- "volumen": 3000
+ "title": "Canciones de desamor en español para soltar a alguien",
+ "description": "Canciones de desamor en español, de Mon Laferte a La Quinta Estación y Ha*Ash, con artista y momento. Las que estoy grabando a guitarra y voz, sin letra.",
+ "h1": "Canciones de desamor",
+ "resumen": "Canciones de desamor en español, por etapa de la ruptura.",
+ "respuesta": "Las canciones de desamor acompañan cada etapa de una ruptura. Aquí van por momento, de la tristeza al enojo y a soltar. Son las que estoy grabando a guitarra y voz.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Para cuándo"
+      ],
+      "filas": [
+       [
+        "[Tu falta de querer](/tu-falta-de-querer-mon-laferte/)",
+        "Mon Laferte",
+        "Cuando todavía duele"
+       ],
+       [
+        "[Me muero](/me-muero-la-quinta-estacion/)",
+        "La Quinta Estación",
+        "Cuando lo extrañas"
+       ],
+       [
+        "[Ex de verdad](/ex-de-verdad-ha-ash/)",
+        "Ha*Ash",
+        "Cuando ya decidiste soltar"
+       ],
+       [
+        "[Perdón, perdón](/perdon-perdon-ha-ash/)",
+        "Ha*Ash",
+        "Cuando te toca reconocer tu parte"
+       ],
+       [
+        "[Kilómetros](/kilometros-sin-bandera/)",
+        "Sin Bandera",
+        "Cuando la distancia rompió todo"
+       ],
+       [
+        "[Si tú me quisieras](/si-tu-me-quisieras-mon-laferte/)",
+        "Mon Laferte",
+        "Cuando no te quisieron igual"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Después de la canción",
+   "bloques": [
+    "A veces ayuda escribir lo que no dijiste. Una carta que no se manda también sirve. Mira la [carta de despedida](/carta-de-despedida/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué canción escucho después de una ruptura?",
+   "a": "Una que diga lo que sientes hoy. Al principio, una triste. Después, una para soltar."
+  }
+ ],
+ "hermanas": [
+  "canciones-tristes-para-llorar",
+  "carta-de-despedida",
+  "tu-falta-de-querer-mon-laferte",
+  "la-quinta-estacion",
+  "ha-ash"
+ ]
 }

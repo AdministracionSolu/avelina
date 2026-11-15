@@ -1,15 +1,110 @@
 {
- "slug": "canciones-para-karaoke-mujer",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "cancion para karaoke mujer",
  "variantes": [
   "canciones karaoke para mujeres",
   "cancion karaoke mujer",
   "karaoke canciones mujer",
   "karaoke canciones mujeres"
  ],
- "volumen": 6900
+ "volumen": 6900,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-para-karaoke-mujer",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "cancion para karaoke mujer",
+ "title": "Canciones para karaoke de mujer en español",
+ "description": "Canciones para karaoke de mujer en español, de Mon Laferte a La Quinta Estación y Ha*Ash, con artista y qué tan difícil es cada una. Escoge la tuya y canta.",
+ "h1": "Canciones para karaoke de mujer",
+ "resumen": "Canciones de karaoke para voz de mujer, con su nivel.",
+ "respuesta": "Para el karaoke conviene una canción que conozcas completa y que no suba demasiado. Aquí van canciones en español para voz de mujer, con su nivel. Son de las que estoy grabando a guitarra.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Nivel"
+      ],
+      "filas": [
+       [
+        "[Tu falta de querer](/tu-falta-de-querer-mon-laferte/)",
+        "Mon Laferte",
+        "Difícil, pide fuerza"
+       ],
+       [
+        "[Me muero](/me-muero-la-quinta-estacion/)",
+        "La Quinta Estación",
+        "Media"
+       ],
+       [
+        "[El sol no regresa](/el-sol-no-regresa-la-quinta-estacion/)",
+        "La Quinta Estación",
+        "Media"
+       ],
+       [
+        "[Ex de verdad](/ex-de-verdad-ha-ash/)",
+        "Ha*Ash",
+        "Fácil, ideal a dúo"
+       ],
+       [
+        "[Amárrame](/amarrame-mon-laferte/)",
+        "Mon Laferte",
+        "Fácil, para que bailen"
+       ],
+       [
+        "[Limón y sal](/limon-y-sal-julieta-venegas/)",
+        "Julieta Venegas",
+        "Fácil"
+       ],
+       [
+        "[La bikina](/la-bikina/)",
+        "Rubén Fuentes",
+        "Media, para el final"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Cómo no quedarte sin voz",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Calienta antes.",
+       "Unos minutos de ejercicios bastan. Mira los de [vocalización](/vocalizacion/)."
+      ],
+      [
+       "Escoge tu tono.",
+       "Si la máquina deja bajar el tono, bájalo uno o dos."
+      ],
+      [
+       "Toma agua al tiempo.",
+       "Lo frío y el alcohol secan la garganta."
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué canción canto en el karaoke si no canto bien?",
+   "a": "Una fácil y conocida, como Ex de verdad o Limón y sal. Que la gente la cante contigo."
+  }
+ ],
+ "hermanas": [
+  "canciones-para-karaoke",
+  "vocalizacion",
+  "tu-falta-de-querer-mon-laferte",
+  "la-quinta-estacion",
+  "ha-ash"
+ ]
 }

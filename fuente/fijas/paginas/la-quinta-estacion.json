@@ -1,12 +1,122 @@
 {
- "slug": "la-quinta-estacion",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "artista",
- "coleccion": "covers",
- "cabeza": "la quinta estacion",
  "variantes": [
   "canciones de la quinta estacion"
  ],
- "volumen": 6000
+ "volumen": 6000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "la-quinta-estacion",
+ "espera_video": true,
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "la quinta estacion",
+ "title": "La Quinta Estación: canciones, discos y covers a guitarra",
+ "description": "La Quinta Estación: el grupo de Madrid de Natalia Jiménez, sus discos de 2002 a 2009 y canciones como El sol no regresa y Me muero. Con mis covers.",
+ "h1": "La Quinta Estación",
+ "resumen": "El grupo de Natalia Jiménez: sus discos y sus canciones.",
+ "respuesta": "La Quinta Estación es un grupo de pop rock formado en Madrid en 2000. Su voz era Natalia Jiménez. Sus canciones más buscadas en México son El sol no regresa y Me muero.",
+ "cover": {
+  "cancion": "Covers de La Quinta Estación",
+  "artista": "La Quinta Estación",
+  "credito": "Las canciones son de La Quinta Estación y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de La Quinta Estación, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es La Quinta Estación",
+   "bloques": [
+    "La formaron en Madrid Natalia Jiménez, Ángel Reyero y Pablo Domínguez. Natalia cantaba y tocaba la armónica.",
+    "Ganó un Latin Grammy en 2007 y un Grammy en 2010. Anunció su separación en febrero de 2010 y volvió a juntarse años después."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "[El sol no regresa](/el-sol-no-regresa-la-quinta-estacion/)",
+        "2004",
+        "Sencillo de Flores de alquiler"
+       ],
+       [
+        "[Me muero](/me-muero-la-quinta-estacion/)",
+        "2006",
+        "Sencillo de El mundo se equivoca"
+       ],
+       [
+        "Tu peor error",
+        "2006",
+        "De El mundo se equivoca"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Primera toma (2002)",
+       "Su primer disco."
+      ],
+      [
+       "Flores de alquiler (2004)",
+       "El de El sol no regresa."
+      ],
+      [
+       "Acústico (2005)",
+       "En vivo."
+      ],
+      [
+       "El mundo se equivoca (2006)",
+       "Latin Grammy a mejor álbum vocal pop de dúo o grupo."
+      ],
+      [
+       "Sin frenos (2009)",
+       "Grammy a mejor álbum de pop latino."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Uno de mis covers que más se escuchó en TikTok fue El sol no regresa. Cada canción tiene su página."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De dónde es La Quinta Estación?",
+   "a": "De Madrid, España. Se formó en 2000."
+  },
+  {
+   "q": "¿Quién era la cantante de La Quinta Estación?",
+   "a": "Natalia Jiménez."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "La Quinta Estación, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/La_Quinta_Estaci%C3%B3n"
+  }
+ ],
+ "hermanas": [
+  "el-sol-no-regresa-la-quinta-estacion",
+  "me-muero-la-quinta-estacion",
+  "ha-ash",
+  "canciones-para-karaoke-mujer",
+  "canciones-de-desamor"
+ ]
 }

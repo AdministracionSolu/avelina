@@ -1,13 +1,102 @@
 {
- "slug": "el-sol-no-regresa-la-quinta-estacion",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "el sol no regresa la quinta estación",
  "variantes": [
   "el sol no regresa",
   "la quinta estacion el sol no regresa"
  ],
- "volumen": 6300
+ "volumen": 6300,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "el-sol-no-regresa-la-quinta-estacion",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "el sol no regresa la quinta estación",
+ "title": "El sol no regresa, de La Quinta Estación: historia y cover",
+ "description": "El sol no regresa es de La Quinta Estación y salió en 2004 en Flores de alquiler. Quiénes eran, qué logró su disco y mi cover a guitarra y voz. Léela aquí.",
+ "h1": "El sol no regresa, de La Quinta Estación",
+ "resumen": "La canción de La Quinta Estación de 2004, con la voz de Natalia Jiménez.",
+ "respuesta": "El sol no regresa es una canción de La Quinta Estación, el grupo madrileño de Natalia Jiménez. Salió como sencillo en 2004, del disco Flores de alquiler. Es de los covers míos que más se escucharon en TikTok.",
+ "cover": {
+  "cancion": "El sol no regresa",
+  "artista": "La Quinta Estación",
+  "compositor": [],
+  "credito": "Canción de La Quinta Estación. Aquí no va la letra: es de sus autores.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "El sol no regresa"
+      ],
+      "filas": [
+       [
+        "Grupo",
+        "La Quinta Estación"
+       ],
+       [
+        "Voz",
+        "Natalia Jiménez"
+       ],
+       [
+        "Año",
+        "2004"
+       ],
+       [
+        "Disco",
+        "Flores de alquiler (2004)"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "El grupo",
+   "bloques": [
+    "La Quinta Estación se formó en Madrid en 2000. Natalia Jiménez cantaba, Ángel Reyero tocaba la guitarra y Pablo Domínguez guitarra y bajo.",
+    "Mira sus discos y premios en [La Quinta Estación](/la-quinta-estacion/)."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi cover de esta canción fue de los que más se escucharon en TikTok. La versión para el sitio va a guitarra y voz."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién canta El sol no regresa?",
+   "a": "La Quinta Estación, con Natalia Jiménez en la voz."
+  },
+  {
+   "q": "¿De qué disco es?",
+   "a": "De Flores de alquiler, de 2004."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "La Quinta Estación, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/La_Quinta_Estaci%C3%B3n"
+  }
+ ],
+ "hermanas": [
+  "la-quinta-estacion",
+  "me-muero-la-quinta-estacion",
+  "canciones-de-desamor",
+  "canciones-tristes-para-llorar",
+  "canciones-para-karaoke-mujer"
+ ]
 }

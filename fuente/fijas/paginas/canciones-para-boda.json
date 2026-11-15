@@ -1,15 +1,97 @@
 {
- "slug": "canciones-para-boda",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "canciones para boda",
  "variantes": [
   "canciones de boda",
   "canciones para bodas",
   "canciones boda",
   "boda canciones"
  ],
- "volumen": 9600
+ "volumen": 9600,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-para-boda",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "canciones para boda",
+ "title": "Canciones para boda en español, momento por momento",
+ "description": "Canciones para boda en español: para la entrada, el primer baile y la cena, con artista. Boleros y canciones de hoy que estoy grabando a guitarra y voz.",
+ "h1": "Canciones para boda",
+ "resumen": "Canciones de boda en español por momento de la fiesta.",
+ "respuesta": "Para una boda conviene escoger una canción por momento. Una para la entrada, otra para el primer baile y varias para la cena. Aquí van en español, con su artista.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Momento"
+      ],
+      "filas": [
+       [
+        "[Contigo aprendí](/contigo-aprendi/)",
+        "Armando Manzanero",
+        "Entrada de la novia"
+       ],
+       [
+        "[Hasta la raíz](/hasta-la-raiz-natalia-lafourcade/)",
+        "Natalia Lafourcade",
+        "Entrada o ceremonia civil"
+       ],
+       [
+        "[Nunca es suficiente](/nunca-es-suficiente/)",
+        "Natalia Lafourcade",
+        "Primer baile"
+       ],
+       [
+        "[Bésame mucho](/besame-mucho/)",
+        "Consuelo Velázquez",
+        "Primer baile clásico"
+       ],
+       [
+        "[Sabor a mí](/sabor-a-mi/)",
+        "Álvaro Carrillo",
+        "Cena"
+       ],
+       [
+        "[Eres para mí](/eres-para-mi-julieta-venegas/)",
+        "Julieta Venegas",
+        "Salida de los novios"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escogerlas",
+   "bloques": [
+    {
+     "pasos": [
+      "Haz una lista de los momentos de la boda.",
+      "Escoge una canción por momento, con calma.",
+      "Escucha la canción completa antes de decidir.",
+      "Pásale la lista a quien toque o ponga la música, con el orden y los tiempos."
+     ]
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué canción va para el primer baile?",
+   "a": "Una que los dos sientan suya. Entre las clásicas en español, Bésame mucho y Nunca es suficiente."
+  }
+ ],
+ "hermanas": [
+  "canciones-de-amor-en-espanol",
+  "contigo-aprendi",
+  "nunca-es-suficiente",
+  "carta-para-mi-novio",
+  "carta-para-mi-novia"
+ ]
 }

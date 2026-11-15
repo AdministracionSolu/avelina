@@ -1,12 +1,116 @@
 {
- "slug": "besame-mucho",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "besame mucho",
  "variantes": [
   "be same mucho"
  ],
- "volumen": 6000
+ "volumen": 6000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "besame-mucho",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "besame mucho",
+ "title": "Bésame mucho: quién la escribió, su historia y mi cover",
+ "description": "Bésame mucho la escribió Consuelo Velázquez muy joven y es la canción más grabada del español. Su historia, sus versiones famosas y mi cover a guitarra.",
+ "h1": "Bésame mucho, de Consuelo Velázquez",
+ "resumen": "El bolero de Consuelo Velázquez, la canción más grabada del español.",
+ "respuesta": "Bésame mucho es un bolero de la compositora mexicana Consuelo Velázquez. La escribió hacia 1932, cuando tenía unos 16 años, y se publicó en 1940. En 1999 se le reconoció como la canción más grabada en español.",
+ "cover": {
+  "cancion": "Bésame mucho",
+  "artista": "Consuelo Velázquez",
+  "compositor": [
+   "Consuelo Velázquez"
+  ],
+  "credito": "Bolero de Consuelo Velázquez. Aquí no va la letra: es de su autora.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Bésame mucho"
+      ],
+      "filas": [
+       [
+        "Autora",
+        "Consuelo Velázquez (1916 a 2005)"
+       ],
+       [
+        "Escrita",
+        "Hacia 1932"
+       ],
+       [
+        "Publicada",
+        "1940"
+       ],
+       [
+        "Primer intérprete",
+        "Emilio Tuero"
+       ],
+       [
+        "Récord",
+        "La canción más grabada en español, reconocida en 1999"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "La escribió una adolescente",
+   "bloques": [
+    "Consuelo Velázquez era pianista. Escribió Bésame mucho hacia 1932, cuando tenía unos 16 años.",
+    "Se dice que la melodía se inspiró en Quejas, o la maja y el ruiseñor, una pieza para piano de Enrique Granados.",
+    "Para conocer más de ella, mira la página de [Consuelo Velázquez](/consuelo-velazquez/)."
+   ]
+  },
+  {
+   "h2": "Las versiones que la hicieron mundial",
+   "bloques": [
+    {
+     "lista": [
+      "Andy Russell la llevó al lugar 8 de Billboard en Estados Unidos, en 1944.",
+      "Lucho Gatica y Pedro Infante grabaron dos de las versiones más conocidas en español.",
+      "Ray Conniff la hizo instrumental en 1960.",
+      "The Beatles la grabaron en 1962. Salió hasta 1995, en Anthology 1."
+     ]
+    },
+    "También sale en la película de Disney Los tres caballeros, de 1944."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién escribió Bésame mucho?",
+   "a": "La compositora mexicana Consuelo Velázquez, hacia 1932."
+  },
+  {
+   "q": "¿Cuál es la canción más grabada en español?",
+   "a": "Bésame mucho. Se le reconoció así en 1999."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Bésame mucho, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/B%C3%A9same_mucho"
+  }
+ ],
+ "hermanas": [
+  "consuelo-velazquez",
+  "sabor-a-mi",
+  "historia-de-un-amor",
+  "contigo-aprendi",
+  "canciones-de-amor-en-espanol"
+ ]
 }

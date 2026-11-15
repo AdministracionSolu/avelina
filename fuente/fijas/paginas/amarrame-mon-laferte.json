@@ -1,13 +1,114 @@
 {
- "slug": "amarrame-mon-laferte",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "amarrame mon laferte",
  "variantes": [
   "amarrame",
   "mon laferte amarrame"
  ],
- "volumen": 9000
+ "volumen": 9000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "amarrame-mon-laferte",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "amarrame mon laferte",
+ "title": "Amárrame de Mon Laferte y Juanes: historia y mi cover",
+ "description": "Amárrame, de Mon Laferte con Juanes, salió en 2017 y ganó el Latin Grammy a mejor canción alternativa. Su disco, su premio y mi cover a guitarra. Léela.",
+ "h1": "Amárrame, de Mon Laferte",
+ "resumen": "La cumbia de Mon Laferte con Juanes que ganó un Latin Grammy.",
+ "respuesta": "Amárrame es una cumbia de Mon Laferte con Juanes que salió el 10 de febrero de 2017. Fue el primer sencillo del disco La trenza. Ganó el Latin Grammy a mejor canción alternativa.",
+ "cover": {
+  "cancion": "Amárrame",
+  "artista": "Mon Laferte",
+  "compositor": [
+   "Mon Laferte",
+   "Anthony López"
+  ],
+  "credito": "Canción de Mon Laferte. Aquí no va la letra: es de su autor.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Amárrame"
+      ],
+      "filas": [
+       [
+        "Artistas",
+        "Mon Laferte con Juanes"
+       ],
+       [
+        "Autores",
+        "Mon Laferte y Anthony López"
+       ],
+       [
+        "Salida",
+        "10 de febrero de 2017"
+       ],
+       [
+        "Disco",
+        "La trenza (2017), pista 5"
+       ],
+       [
+        "Premio",
+        "Latin Grammy a mejor canción alternativa"
+       ],
+       [
+        "Certificación en México",
+        "Diamante más doble platino y oro (AMPROFON)"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "La canción",
+   "bloques": [
+    "Es una cumbia, con Juanes como invitado. Abrió el camino del disco La trenza, que salió el 28 de abril de 2017.",
+    "Estuvo nominada a tres Latin Grammy, grabación del año, canción del año y canción alternativa. Ganó la última."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz.",
+    "Mira las demás de ella en [Mon Laferte](/mon-laferte/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién canta Amárrame con Mon Laferte?",
+   "a": "Juanes, el cantante colombiano."
+  },
+  {
+   "q": "¿De qué disco es Amárrame?",
+   "a": "De La trenza, de 2017."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Amárrame, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Am%C3%A1rrame"
+  }
+ ],
+ "hermanas": [
+  "mon-laferte",
+  "tu-falta-de-querer-mon-laferte",
+  "mi-buen-amor-mon-laferte",
+  "si-tu-me-quisieras-mon-laferte",
+  "canciones-para-karaoke-mujer"
+ ]
 }

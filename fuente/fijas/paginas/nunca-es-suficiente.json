@@ -1,14 +1,109 @@
 {
- "slug": "nunca-es-suficiente",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "nunca es suficiente",
  "variantes": [
   "natalia lafourcade nunca es suficiente",
   "los ángeles azules nunca es suficiente",
   "nunca es sufi"
  ],
- "volumen": 12000
+ "volumen": 12000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "nunca-es-suficiente",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "nunca es suficiente",
+ "title": "Nunca es suficiente: de Natalia Lafourcade a la cumbia",
+ "description": "Nunca es suficiente es de Natalia Lafourcade y salió en 2015. Cómo llegó a la cumbia de Los Ángeles Azules, sus 2,000 millones de vistas y mi cover a guitarra.",
+ "h1": "Nunca es suficiente, de Natalia Lafourcade",
+ "resumen": "La canción de Natalia que se volvió cumbia con Los Ángeles Azules.",
+ "respuesta": "Nunca es suficiente es una canción de Natalia Lafourcade, de su disco Hasta la raíz de 2015. En 2018 salió en cumbia con Los Ángeles Azules. Ese video fue el primero mexicano en pasar los 2,000 millones de vistas en YouTube.",
+ "cover": {
+  "cancion": "Nunca es suficiente",
+  "artista": "Natalia Lafourcade",
+  "compositor": [
+   "Natalia Lafourcade",
+   "Anthony López",
+   "Daniela Azpiazu"
+  ],
+  "credito": "Canción de Natalia Lafourcade. Aquí no va la letra: es de su autor.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Nunca es suficiente"
+      ],
+      "filas": [
+       [
+        "Autores",
+        "Natalia Lafourcade, Anthony López y Daniela Azpiazu"
+       ],
+       [
+        "Versión original",
+        "Hasta la raíz (2015), segundo sencillo"
+       ],
+       [
+        "Versión en cumbia",
+        "Los Ángeles Azules con Natalia, Esto sí es cumbia (2018)"
+       ],
+       [
+        "Certificación en México",
+        "Diamante más platino (AMPROFON)"
+       ],
+       [
+        "Récord",
+        "Primer video mexicano con 2,000 millones de vistas en YouTube"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "Dos canciones en una",
+   "bloques": [
+    "La versión original es una balada del disco Hasta la raíz. Salió como segundo sencillo en 2015.",
+    "La versión en cumbia se grabó en 2016 en Puerto Progreso, Yucatán, y salió el 20 de abril de 2018.",
+    "Por eso unos la buscan como de Natalia y otros como de Los Ángeles Azules. Es la misma canción."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz, más cerca de la balada que de la cumbia.",
+    "Mira otras de ella en [Natalia Lafourcade](/natalia-lafourcade/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Nunca es suficiente es de Natalia Lafourcade o de Los Ángeles Azules?",
+   "a": "La escribió Natalia Lafourcade con Anthony López y Daniela Azpiazu. Los Ángeles Azules la grabaron en cumbia con ella en 2018."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Nunca es suficiente, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Nunca_es_suficiente"
+  }
+ ],
+ "hermanas": [
+  "natalia-lafourcade",
+  "hasta-la-raiz-natalia-lafourcade",
+  "lo-que-construimos-natalia-lafourcade",
+  "canciones-para-dedicar",
+  "canciones-para-boda"
+ ]
 }

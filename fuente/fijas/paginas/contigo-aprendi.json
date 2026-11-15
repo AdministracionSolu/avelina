@@ -1,10 +1,106 @@
 {
- "slug": "contigo-aprendi",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "contigo-aprendi",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "contigo aprendi",
- "variantes": [],
- "volumen": 3000
+ "title": "Contigo aprendí, de Armando Manzanero: historia y cover",
+ "description": "Contigo aprendí es de Armando Manzanero, el compositor yucateco de Somos novios y Esta tarde vi llover. Quién fue, sus canciones y mi cover a guitarra.",
+ "h1": "Contigo aprendí, de Armando Manzanero",
+ "resumen": "Una de las canciones de Armando Manzanero que se conocen en todo el mundo.",
+ "respuesta": "Contigo aprendí es una de las canciones más conocidas de Armando Manzanero. Manzanero fue un compositor y cantante mexicano nacido en Mérida, Yucatán, en 1935. Murió en la Ciudad de México en 2020.",
+ "cover": {
+  "cancion": "Contigo aprendí",
+  "artista": "Armando Manzanero",
+  "compositor": [
+   "Armando Manzanero"
+  ],
+  "credito": "Canción de Armando Manzanero. Aquí no va la letra: es de su autor.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Contigo aprendí"
+      ],
+      "filas": [
+       [
+        "Autor",
+        "Armando Manzanero"
+       ],
+       [
+        "Nacimiento del autor",
+        "7 de diciembre de 1935, Mérida, Yucatán"
+       ],
+       [
+        "Muerte del autor",
+        "28 de diciembre de 2020, Ciudad de México"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "Quién fue Armando Manzanero",
+   "bloques": [
+    "Fue compositor, pianista y cantante. Sus canciones las grabaron cantantes de todo el mundo.",
+    "Wikipedia en español pone Contigo aprendí junto a sus otras canciones más conocidas fuera de México."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "lista": [
+      "Contigo aprendí",
+      "Somos novios",
+      "Esta tarde vi llover",
+      "Adoro"
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Es una canción para dedicar, de esas que caben en una boda. Mira [canciones para boda](/canciones-para-boda/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién escribió Contigo aprendí?",
+   "a": "Armando Manzanero, compositor mexicano de Mérida, Yucatán."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Armando Manzanero, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Armando_Manzanero"
+  }
+ ],
+ "hermanas": [
+  "besame-mucho",
+  "sabor-a-mi",
+  "historia-de-un-amor",
+  "canciones-para-boda",
+  "canciones-de-amor-en-espanol"
+ ]
 }

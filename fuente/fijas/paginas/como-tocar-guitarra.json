@@ -1,14 +1,116 @@
 {
- "slug": "como-tocar-guitarra",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "guia",
- "coleccion": "guitarra",
- "cabeza": "como tocar guitarra",
  "variantes": [
   "como aprender a tocar guitarra",
   "tocar una guitarra",
   "como tocar un guitarra"
  ],
- "volumen": 12000
+ "volumen": 12000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "como-tocar-guitarra",
+ "tipo": "guia",
+ "coleccion": "guitarra",
+ "cabeza": "como tocar guitarra",
+ "title": "Cómo tocar guitarra desde cero: plan de 4 semanas",
+ "description": "Cómo tocar guitarra desde cero: qué guitarra usar, cómo afinarla, los primeros acordes y un plan de cuatro semanas con 15 minutos al día. Empieza hoy.",
+ "h1": "Cómo tocar guitarra",
+ "resumen": "Un plan de cuatro semanas para aprender guitarra desde cero.",
+ "respuesta": "Para aprender guitarra desde cero, practica 15 minutos al día y empieza por afinar y cuatro acordes. En cuatro semanas puedes acompañar tu primera canción. Abajo está el plan, semana por semana.",
+ "secciones": [
+  {
+   "h2": "Lo que necesitas",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Una guitarra acústica o clásica.",
+       "La clásica tiene cuerdas de nailon, más suaves para los dedos."
+      ],
+      [
+       "Un afinador.",
+       "El [afinador de guitarra](/afinador-de-guitarra/) de este sitio usa el micrófono del celular."
+      ],
+      [
+       "Una púa, si quieres.",
+       "También puedes rasguear con los dedos."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Plan de cuatro semanas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Semana",
+       "Qué practicar",
+       "Meta"
+      ],
+      "filas": [
+       [
+        "1",
+        "Afinar, postura y los acordes Mi menor y La menor",
+        "Cambiar entre los dos sin mirar"
+       ],
+       [
+        "2",
+        "Re y Do, y un rasgueo abajo, abajo, arriba",
+        "Cuatro acordes con ritmo"
+       ],
+       [
+        "3",
+        "Sol y cambios de dos en dos",
+        "Sol, Re, Mi menor, Do sin parar"
+       ],
+       [
+        "4",
+        "Tu primera canción completa",
+        "Tocarla de inicio a fin"
+       ]
+      ]
+     }
+    },
+    "Los dedos duelen la primera semana. Es normal y se pasa cuando se forma el callo."
+   ]
+  },
+  {
+   "h2": "Postura",
+   "bloques": [
+    {
+     "pasos": [
+      "Siéntate derecho y apoya la guitarra en la pierna.",
+      "El pulgar de la mano izquierda va detrás del mástil, no encima.",
+      "Pisa la cuerda cerca del traste, con la punta del dedo.",
+      "Rasguea sobre la boca de la guitarra, con la muñeca suelta."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Cómo aprendí yo",
+   "bloques": [
+    "La guitarra me acompaña desde niña. Mis momentos favoritos son sola con ella, improvisando y dejando salir lo que siento.",
+    "Puedes verme así en mi video [Improvisando](/videos/), intentando componer una canción antes de dormir."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto tiempo tarda en aprender guitarra?",
+   "a": "Con 15 minutos al día, en unas cuatro semanas acompañas tu primera canción sencilla."
+  },
+  {
+   "q": "¿Puedo aprender solo?",
+   "a": "Sí. Con constancia, un afinador y canciones fáciles se avanza mucho."
+  }
+ ],
+ "hermanas": [
+  "acordes-de-guitarra-para-principiantes",
+  "canciones-faciles-en-guitarra",
+  "afinador-de-guitarra",
+  "como-afinar-una-guitarra",
+  "acordes-de-ukulele"
+ ]
 }

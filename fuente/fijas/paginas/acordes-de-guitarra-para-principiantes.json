@@ -1,13 +1,194 @@
 {
- "slug": "acordes-de-guitarra-para-principiantes",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "guia",
- "coleccion": "guitarra",
- "cabeza": "acordes de guitarra para principiantes",
  "variantes": [
   "notas de musica guitarra",
   "guitarra facil"
  ],
- "volumen": 9000
+ "volumen": 9000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "acordes-de-guitarra-para-principiantes",
+ "tipo": "guia",
+ "coleccion": "guitarra",
+ "cabeza": "acordes de guitarra para principiantes",
+ "title": "Acordes de guitarra para principiantes: los 15 básicos",
+ "description": "Acordes de guitarra para principiantes: tabla con los 15 básicos, qué cuerda pisar en qué traste, el orden para aprenderlos y cómo cambiar sin parar.",
+ "h1": "Acordes de guitarra para principiantes",
+ "resumen": "Los 15 acordes básicos de la guitarra y en qué orden aprenderlos.",
+ "respuesta": "Para empezar en la guitarra bastan unos pocos acordes abiertos. Con Sol, Re, Mi menor y Do ya se tocan muchísimas canciones. Abajo están los 15 básicos con el traste de cada cuerda.",
+ "secciones": [
+  {
+   "h2": "Cómo leer la tabla",
+   "bloques": [
+    "Los seis números van de la sexta cuerda, la más gruesa, a la primera, la más delgada. Cada número es el traste que pisas.",
+    "El 0 es cuerda al aire. La x es cuerda que no se toca. Por ejemplo, Do es x 3 2 0 1 0."
+   ]
+  },
+  {
+   "h2": "Los 15 acordes básicos",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Acorde",
+       "Cifrado",
+       "Trastes de la 6ª a la 1ª",
+       "Dificultad"
+      ],
+      "filas": [
+       [
+        "Mi menor",
+        "Em",
+        "0 2 2 0 0 0",
+        "Muy fácil"
+       ],
+       [
+        "La menor",
+        "Am",
+        "x 0 2 2 1 0",
+        "Fácil"
+       ],
+       [
+        "Mi",
+        "E",
+        "0 2 2 1 0 0",
+        "Fácil"
+       ],
+       [
+        "La",
+        "A",
+        "x 0 2 2 2 0",
+        "Fácil"
+       ],
+       [
+        "Re",
+        "D",
+        "x x 0 2 3 2",
+        "Fácil"
+       ],
+       [
+        "Re menor",
+        "Dm",
+        "x x 0 2 3 1",
+        "Fácil"
+       ],
+       [
+        "Do",
+        "C",
+        "x 3 2 0 1 0",
+        "Media"
+       ],
+       [
+        "Sol",
+        "G",
+        "3 2 0 0 0 3",
+        "Media"
+       ],
+       [
+        "Mi séptima",
+        "E7",
+        "0 2 0 1 0 0",
+        "Fácil"
+       ],
+       [
+        "La séptima",
+        "A7",
+        "x 0 2 0 2 0",
+        "Fácil"
+       ],
+       [
+        "Re séptima",
+        "D7",
+        "x x 0 2 1 2",
+        "Fácil"
+       ],
+       [
+        "Sol séptima",
+        "G7",
+        "3 2 0 0 0 1",
+        "Media"
+       ],
+       [
+        "Do séptima",
+        "C7",
+        "x 3 2 3 1 0",
+        "Media"
+       ],
+       [
+        "Si séptima",
+        "B7",
+        "x 2 1 2 0 2",
+        "Media"
+       ],
+       [
+        "Fa",
+        "F",
+        "1 3 3 2 1 1",
+        "Difícil, lleva cejilla"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "En qué orden aprenderlos",
+   "bloques": [
+    {
+     "pasos": [
+      "Mi menor y La menor. Usan dos y tres dedos y suenan bonito desde el primer día.",
+      "Mi y La. Son primos de los anteriores.",
+      "Re y Do. Aquí los dedos empiezan a estirarse.",
+      "Sol. Con Sol, Re, Mi menor y Do ya tocas cientos de canciones.",
+      "Los séptimos, para canciones rancheras y boleros.",
+      "Fa al final, cuando tengas fuerza para la cejilla."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Cómo cambiar de acorde sin parar",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Practica de dos en dos.",
+       "Mi menor a Do, Do a Sol, Sol a Re. Un minuto cada par."
+      ],
+      [
+       "Mueve todos los dedos juntos.",
+       "No pongas un dedo a la vez. Piensa en la forma completa."
+      ],
+      [
+       "Rasguea aunque no salga perfecto.",
+       "El ritmo importa más que un acorde limpio al principio."
+      ]
+     ]
+    },
+    "Antes de tocar, afina con el [afinador de guitarra](/afinador-de-guitarra/). Una guitarra desafinada hace que todo suene mal."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cuál es el acorde más fácil de la guitarra?",
+   "a": "Mi menor. Se pisa con dos dedos en el traste 2."
+  },
+  {
+   "q": "¿Cuántos acordes necesito para tocar canciones?",
+   "a": "Con cuatro, Sol, Re, Mi menor y Do, ya tocas muchísimas canciones."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Guitar chord, Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Guitar_chord"
+  }
+ ],
+ "hermanas": [
+  "como-tocar-guitarra",
+  "canciones-faciles-en-guitarra",
+  "afinador-de-guitarra",
+  "acordes-de-ukulele",
+  "como-afinar-una-guitarra"
+ ]
 }

@@ -5,24 +5,24 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 
 | Estado | Páginas |
 |---|---|
-| esqueleto | 105 |
-| borrador | 21 |
-| espera video | 16 |
+| esqueleto | 88 |
+| borrador | 28 |
+| espera video | 26 |
 
 | Tipo | Estado | Páginas |
 |---|---|---|
-| artista | espera video | 9 |
-| artista | esqueleto | 9 |
+| artista | espera video | 11 |
+| artista | esqueleto | 7 |
 | carta | borrador | 12 |
 | carta | esqueleto | 8 |
-| cover | espera video | 7 |
-| cover | esqueleto | 43 |
+| cover | espera video | 15 |
+| cover | esqueleto | 35 |
 | fe | esqueleto | 17 |
-| guia | borrador | 1 |
-| guia | esqueleto | 6 |
+| guia | borrador | 3 |
+| guia | esqueleto | 4 |
 | herramienta | borrador | 7 |
-| lista | borrador | 1 |
-| lista | esqueleto | 21 |
+| lista | borrador | 6 |
+| lista | esqueleto | 16 |
 | marca | esqueleto | 1 |
 
 ## Esqueletos por escribir (de mayor a menor volumen)
@@ -43,8 +43,6 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - marcos-witt (artista, 30,000)
 - reflexiones-cristianas (fe, 30,000)
 - canciones-para-karaoke (lista, 27,600)
-- canciones-de-amor-en-espanol (lista, 24,000)
-- canciones-tristes-para-llorar (lista, 21,000)
 - reflexiones-de-amor (fe, 21,000)
 - frases-de-fe (fe, 18,000)
 - canciones-para-cumpleanos (lista, 15,000)
@@ -53,28 +51,18 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - canciones-para-dedicar-a-mi-novio (lista, 12,000)
 - canciones-para-dedicar-a-un-hijo (lista, 12,000)
 - canciones-para-dedicar (lista, 12,000)
-- como-tocar-guitarra (guia, 12,000)
-- nunca-es-suficiente (cover, 12,000)
 - proposito-de-vida (fe, 12,000)
 - reflexion-del-evangelio-de-hoy (fe, 12,000)
-- canciones-para-boda (lista, 9,600)
-- acordes-de-guitarra-para-principiantes (guia, 9,000)
-- amarrame-mon-laferte (cover, 9,000)
 - carta-de-amor-a-mano (carta, 9,000)
 - christine-d-clario (artista, 9,000)
 - feliz-cumpleanos-cristiano-para-mujer (fe, 9,000)
 - frases-de-fin-de-ano (fe, 9,000)
 - ha-ash (artista, 9,000)
-- historia-de-un-amor (cover, 9,000)
 - mi-buen-amor-mon-laferte (cover, 9,000)
-- si-no-te-hubieras-ido (cover, 9,000)
 - si-tu-me-quisieras-mon-laferte (cover, 9,000)
 - sin-bandera (artista, 9,000)
 - sumergeme-jesus-adrian-romero (cover, 9,000)
-- canciones-para-karaoke-mujer (lista, 6,900)
-- el-sol-no-regresa-la-quinta-estacion (cover, 6,300)
 - alabanzas-de-adoracion-viejitas (lista, 6,000)
-- besame-mucho (cover, 6,000)
 - canciones-para-dedicar-a-mi-hija (lista, 6,000)
 - canciones-para-una-amiga (lista, 6,000)
 - canciones-romanticas-de-los-80-en-espanol (lista, 6,000)
@@ -86,9 +74,7 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - ex-de-verdad-ha-ash (cover, 6,000)
 - feliz-cumpleanos-para-hombre (carta, 6,000)
 - foranea (marca, 6,000)
-- hasta-la-raiz-natalia-lafourcade (cover, 6,000)
 - jesse-y-joy (artista, 6,000)
-- la-quinta-estacion (artista, 6,000)
 - limon-y-sal-julieta-venegas (cover, 6,000)
 - lo-que-construimos-natalia-lafourcade (cover, 6,000)
 - mananitas-para-whatsapp (cover, 6,000)
@@ -101,7 +87,6 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - amor-amor-carla-morrison (cover, 3,000)
 - amor-de-mis-amores (cover, 3,000)
 - antes-de-ti-mon-laferte (cover, 3,000)
-- canciones-de-desamor (lista, 3,000)
 - canciones-para-dedicar-a-mi-novia (lista, 3,000)
 - canciones-para-papa (lista, 3,000)
 - carta-de-despedida (carta, 3,000)
@@ -109,8 +94,6 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - cartas-para-amiga-secreta (carta, 3,000)
 - como-un-pajaro-silvana-estrada (cover, 3,000)
 - compartir-carla-morrison (cover, 3,000)
-- consuelo-velazquez (artista, 3,000)
-- contigo-aprendi (cover, 3,000)
 - curame-mon-laferte (cover, 3,000)
 - daniela-spalla (artista, 3,000)
 - dejenme-llorar-carla-morrison (cover, 3,000)
