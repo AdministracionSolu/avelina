@@ -1,12 +1,87 @@
 {
- "slug": "ex-de-verdad-ha-ash",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "ex de verdad",
  "variantes": [
   "ha * ash ex de verdad"
  ],
- "volumen": 6000
+ "volumen": 6000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "ex-de-verdad-ha-ash",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "ex de verdad",
+ "title": "Ex de verdad de Ha*Ash: historia y mi cover",
+ "description": "Ex de verdad, de Ha*Ash: cuándo salió, de qué disco es y su historia, sin la letra. Con mi cover a guitarra y voz y más canciones del dúo Ha*Ash.",
+ "h1": "Ex de verdad, de Ha*Ash",
+ "resumen": "La canción de Ha*Ash, su disco y su historia.",
+ "respuesta": "Ex de verdad es una canción del dúo Ha*Ash, de las hermanas Hanna y Ashley Pérez. Ex de verdad es la versión a dúo con el cantante Axel de No te quiero nada, de Ha*Ash. Aquí está su historia y mi versión a guitarra.",
+ "cover": {
+  "cancion": "Ex de verdad",
+  "artista": "Ha*Ash",
+  "compositor": [],
+  "credito": "Canción de Ha*Ash. Aquí no va la letra: es de sus autores.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Ex de verdad"
+      ],
+      "filas": [
+       [
+        "Dúo",
+        "Ha*Ash"
+       ],
+       [
+        "Invitado",
+        "Axel"
+       ],
+       [
+        "Origen",
+        "Versión a dúo de su canción No te quiero nada"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "La canción",
+   "bloques": [
+    "Salió después del disco Primera fila, hecho realidad.",
+    "Mira el resto en [Ha*Ash](/ha-ash/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Con quién canta Ha*Ash Ex de verdad?",
+   "a": "Con el cantante Axel."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Ha*Ash, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Ha*Ash"
+  }
+ ],
+ "hermanas": [
+  "ha-ash",
+  "perdon-perdon-ha-ash",
+  "canciones-de-desamor",
+  "canciones-para-karaoke-mujer",
+  "la-quinta-estacion"
+ ]
 }

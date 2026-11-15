@@ -1,12 +1,118 @@
 {
- "slug": "como-la-flor-selena",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "como la flor",
  "variantes": [
   "selena como la flor"
  ],
- "volumen": 6000
+ "volumen": 6000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "como-la-flor-selena",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "como la flor",
+ "title": "Como la flor de Selena: su historia y mi cover",
+ "description": "Como la flor de Selena: quién la escribió, cómo nació en 20 minutos en un hotel de Texas y por qué cerró su último concierto. Con mi cover a guitarra. Léela.",
+ "h1": "Como la flor, de Selena",
+ "resumen": "La cumbia de Selena que cerró su último concierto.",
+ "respuesta": "Como la flor es una cumbia tejana de Selena que salió como sencillo el 2 de octubre de 1992. La escribieron su hermano AB Quintanilla y Pete Astudillo. Fue la última canción de su último concierto, en 1995.",
+ "cover": {
+  "cancion": "Como la flor",
+  "artista": "Selena",
+  "compositor": [
+   "A. B. Quintanilla",
+   "Pete Astudillo"
+  ],
+  "credito": "Canción de A. B. Quintanilla y Pete Astudillo. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Como la flor"
+      ],
+      "filas": [
+       [
+        "Intérprete",
+        "Selena"
+       ],
+       [
+        "Autores",
+        "A. B. Quintanilla y Pete Astudillo"
+       ],
+       [
+        "Salida",
+        "2 de octubre de 1992"
+       ],
+       [
+        "Disco",
+        "Entre a mi mundo, segundo sencillo"
+       ],
+       [
+        "Género",
+        "Cumbia tejana, con toques de reggae y pop"
+       ],
+       [
+        "Certificación",
+        "Nueve veces platino latino (RIAA)"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "Cómo nació",
+   "bloques": [
+    "A. B. Quintanilla tuvo la idea en 1982, al ver a una familia vender flores de plástico iluminadas en Sacramento.",
+    "La melodía salió en 1992 en un hotel de Bryan, Texas. La música se compuso en unos 20 minutos."
+   ]
+  },
+  {
+   "h2": "Lo que logró",
+   "bloques": [
+    {
+     "lista": [
+      "Canción del año regional mexicano en Premios Lo Nuestro 1993.",
+      "Lugar 6 en Hot Latin Songs de Billboard.",
+      "Cerró su último concierto, en Bryan, Texas, el 19 de marzo de 1995.",
+      "Jennifer Lopez la cantó en la película Selena, de 1997."
+     ]
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién escribió Como la flor?",
+   "a": "A. B. Quintanilla y Pete Astudillo."
+  },
+  {
+   "q": "¿Cuándo salió Como la flor?",
+   "a": "El 2 de octubre de 1992."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Como la flor, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Como_la_flor"
+  }
+ ],
+ "hermanas": [
+  "canciones-tristes-para-llorar",
+  "canciones-de-desamor",
+  "canciones-para-karaoke-mujer",
+  "la-bikina"
+ ]
 }

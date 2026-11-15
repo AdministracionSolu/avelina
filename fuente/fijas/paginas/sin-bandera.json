@@ -1,13 +1,137 @@
 {
- "slug": "sin-bandera",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "artista",
- "coleccion": "covers",
- "cabeza": "canciones de sin bandera",
  "variantes": [
   "canciones sin bandera",
   "canciones sin banderas"
  ],
- "volumen": 9000
+ "volumen": 9000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "sin-bandera",
+ "espera_video": true,
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "canciones de sin bandera",
+ "title": "Canciones de Sin Bandera: discos, éxitos y covers",
+ "description": "Canciones de Sin Bandera: el dúo de Noel Schajris y Leonel García, sus discos de 2001 a 2026 y éxitos como Entra en mi vida y Kilómetros. Con mis covers.",
+ "h1": "Sin Bandera",
+ "resumen": "El dúo de Noel Schajris y Leonel García: discos y éxitos.",
+ "respuesta": "Sin Bandera es el dúo del argentino Noel Schajris y el mexicano Leonel García, formado en la Ciudad de México en 2000. Su primer sencillo fue Entra en mi vida, en 2001. Ganaron dos Latin Grammy a mejor álbum de dúo o grupo vocal.",
+ "cover": {
+  "cancion": "Covers de Sin Bandera",
+  "artista": "Sin Bandera",
+  "credito": "Las canciones son de Sin Bandera y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Sin Bandera, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Sin Bandera",
+   "bloques": [
+    "Se separaron en 2007 y volvieron en noviembre de 2015, con gira y disco nuevo.",
+    "Leonel García también escribió con Natalia Lafourcade [Hasta la raíz](/hasta-la-raiz-natalia-lafourcade/)."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "Entra en mi vida",
+        "2001",
+        "Primer sencillo"
+       ],
+       [
+        "[Kilómetros](/kilometros-sin-bandera/)",
+        "",
+        "Segundo sencillo del primer disco"
+       ],
+       [
+        "Sirena",
+        "",
+        "Tercer sencillo del primer disco"
+       ],
+       [
+        "Amor real",
+        "2003",
+        "Tema de la telenovela del mismo nombre"
+       ],
+       [
+        "En ésta no",
+        "2016",
+        "Primer sencillo de su regreso"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Sin Bandera (2001)",
+       "Latin Grammy a mejor álbum de dúo o grupo vocal."
+      ],
+      [
+       "De viaje (2003)",
+       "Otro Latin Grammy en la misma categoría."
+      ],
+      [
+       "Mañana (2005)",
+       ""
+      ],
+      [
+       "Pasado (2006)",
+       ""
+      ],
+      [
+       "Una última vez (2016)",
+       "El de su regreso."
+      ],
+      [
+       "Frecuencia (2022)",
+       ""
+      ],
+      [
+       "Escenas (2026)",
+       "Su disco más reciente al revisar esta página."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Sus baladas caben a guitarra y voz. Mis covers de ellos van a ir apareciendo aquí."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quiénes son Sin Bandera?",
+   "a": "Noel Schajris, de Argentina, y Leonel García, de México."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Sin Bandera, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Sin_Bandera"
+  }
+ ],
+ "hermanas": [
+  "kilometros-sin-bandera",
+  "jesse-y-joy",
+  "ha-ash",
+  "canciones-de-amor-en-espanol",
+  "hasta-la-raiz-natalia-lafourcade"
+ ]
 }

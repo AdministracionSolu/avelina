@@ -1,10 +1,84 @@
 {
- "slug": "kilometros-sin-bandera",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "kilometros-sin-bandera",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "sin bandera kilómetros",
- "variantes": [],
- "volumen": 3000
+ "title": "Kilómetros de Sin Bandera: historia y mi cover",
+ "description": "Kilómetros, de Sin Bandera: de qué disco es, quiénes son Noel Schajris y Leonel García y por qué se dedica a amores a distancia. Con mi cover a guitarra.",
+ "h1": "Kilómetros, de Sin Bandera",
+ "resumen": "La balada de Sin Bandera para amores a distancia.",
+ "respuesta": "Kilómetros es una balada de Sin Bandera, el dúo de Noel Schajris y Leonel García. Fue el segundo sencillo de su primer disco, Sin Bandera. Su título habla de distancia.",
+ "cover": {
+  "cancion": "Kilómetros",
+  "artista": "Sin Bandera",
+  "compositor": [],
+  "credito": "Canción de Sin Bandera. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Kilómetros"
+      ],
+      "filas": [
+       [
+        "Dúo",
+        "Sin Bandera"
+       ],
+       [
+        "Disco",
+        "Sin Bandera (2001)"
+       ],
+       [
+        "Lugar en el disco",
+        "Segundo sencillo"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "Para amores a distancia",
+   "bloques": [
+    "Mi versión va a guitarra y voz.",
+    "Si estás lejos de alguien, también te puede servir una [carta de amor](/cartas-de-amor/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De qué disco es Kilómetros?",
+   "a": "Del primer disco de Sin Bandera, de 2001."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Sin Bandera, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Sin_Bandera"
+  }
+ ],
+ "hermanas": [
+  "sin-bandera",
+  "canciones-de-desamor",
+  "cartas-de-amor",
+  "canciones-de-amor-en-espanol"
+ ]
 }

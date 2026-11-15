@@ -1,10 +1,89 @@
 {
- "slug": "lo-aprendi-de-ti-ha-ash",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "lo-aprendi-de-ti-ha-ash",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "ha * ash lo aprendí de ti",
- "variantes": [],
- "volumen": 3000
+ "title": "Lo aprendí de ti de Ha*Ash: historia y mi cover",
+ "description": "Lo aprendí de ti, de Ha*Ash: cuándo salió, de qué disco es y su historia, sin la letra. Con mi cover a guitarra y voz y más canciones del dúo Ha*Ash.",
+ "h1": "Lo aprendí de ti, de Ha*Ash",
+ "resumen": "La canción de Ha*Ash, su disco y su historia.",
+ "respuesta": "Lo aprendí de ti es una canción del dúo Ha*Ash, de las hermanas Hanna y Ashley Pérez. Salió después de Perdón, perdón, del mismo disco en vivo. Aquí está su historia y mi versión a guitarra.",
+ "cover": {
+  "cancion": "Lo aprendí de ti",
+  "artista": "Ha*Ash",
+  "compositor": [],
+  "credito": "Canción de Ha*Ash. Aquí no va la letra: es de sus autores.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Lo aprendí de ti"
+      ],
+      "filas": [
+       [
+        "Dúo",
+        "Ha*Ash"
+       ],
+       [
+        "Salida",
+        "6 de marzo de 2015"
+       ],
+       [
+        "Disco",
+        "Primera fila, hecho realidad (2014)"
+       ],
+       [
+        "Lugar en el disco",
+        "Segundo sencillo"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "La canción",
+   "bloques": [
+    "Mi versión va a guitarra y voz.",
+    "Mira el resto en [Ha*Ash](/ha-ash/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De qué disco es Lo aprendí de ti?",
+   "a": "De Primera fila, hecho realidad. Salió como sencillo el 6 de marzo de 2015."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Ha*Ash, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Ha*Ash"
+  }
+ ],
+ "hermanas": [
+  "ha-ash",
+  "perdon-perdon-ha-ash",
+  "canciones-de-desamor",
+  "canciones-para-karaoke-mujer",
+  "la-quinta-estacion"
+ ]
 }

@@ -1,10 +1,92 @@
 {
- "slug": "me-muero-la-quinta-estacion",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "me-muero-la-quinta-estacion",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "me muero la quinta estacion",
- "variantes": [],
- "volumen": 3000
+ "title": "Me muero de La Quinta Estación: historia y mi cover",
+ "description": "Me muero, de La Quinta Estación: de qué disco es, el Latin Grammy de El mundo se equivoca y quién es Natalia Jiménez. Con mi cover a guitarra y voz. Léela.",
+ "h1": "Me muero, de La Quinta Estación",
+ "resumen": "La canción de La Quinta Estación de 2006.",
+ "respuesta": "Me muero es una canción de La Quinta Estación que salió como sencillo en 2006. Es del disco El mundo se equivoca, que ganó el Latin Grammy en 2007. La canta Natalia Jiménez.",
+ "cover": {
+  "cancion": "Me muero",
+  "artista": "La Quinta Estación",
+  "compositor": [],
+  "credito": "Canción de La Quinta Estación. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Me muero"
+      ],
+      "filas": [
+       [
+        "Grupo",
+        "La Quinta Estación"
+       ],
+       [
+        "Voz",
+        "Natalia Jiménez"
+       ],
+       [
+        "Año",
+        "2006"
+       ],
+       [
+        "Disco",
+        "El mundo se equivoca (2006)"
+       ],
+       [
+        "Premio del disco",
+        "Latin Grammy a mejor álbum vocal pop de dúo o grupo (2007)"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "El disco",
+   "bloques": [
+    "El mundo se equivoca también trae Tu peor error. Ganó el Latin Grammy a mejor álbum vocal pop de dúo o grupo en 2007.",
+    "Mira el resto en [La Quinta Estación](/la-quinta-estacion/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De qué disco es Me muero?",
+   "a": "De El mundo se equivoca, de 2006."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "La Quinta Estación, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/La_Quinta_Estaci%C3%B3n"
+  }
+ ],
+ "hermanas": [
+  "la-quinta-estacion",
+  "el-sol-no-regresa-la-quinta-estacion",
+  "canciones-de-desamor",
+  "canciones-para-karaoke-mujer"
+ ]
 }

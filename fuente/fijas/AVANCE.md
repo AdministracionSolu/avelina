@@ -5,17 +5,17 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 
 | Estado | Páginas |
 |---|---|
-| esqueleto | 79 |
+| esqueleto | 69 |
 | borrador | 37 |
-| espera video | 26 |
+| espera video | 36 |
 
 | Tipo | Estado | Páginas |
 |---|---|---|
-| artista | espera video | 11 |
-| artista | esqueleto | 7 |
+| artista | espera video | 14 |
+| artista | esqueleto | 4 |
 | carta | borrador | 20 |
-| cover | espera video | 15 |
-| cover | esqueleto | 35 |
+| cover | espera video | 22 |
+| cover | esqueleto | 28 |
 | fe | esqueleto | 17 |
 | guia | borrador | 3 |
 | guia | esqueleto | 4 |
@@ -55,23 +55,17 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - christine-d-clario (artista, 9,000)
 - feliz-cumpleanos-cristiano-para-mujer (fe, 9,000)
 - frases-de-fin-de-ano (fe, 9,000)
-- ha-ash (artista, 9,000)
 - mi-buen-amor-mon-laferte (cover, 9,000)
 - si-tu-me-quisieras-mon-laferte (cover, 9,000)
-- sin-bandera (artista, 9,000)
 - sumergeme-jesus-adrian-romero (cover, 9,000)
 - alabanzas-de-adoracion-viejitas (lista, 6,000)
 - canciones-para-dedicar-a-mi-hija (lista, 6,000)
 - canciones-para-una-amiga (lista, 6,000)
 - canciones-romanticas-de-los-80-en-espanol (lista, 6,000)
 - cantautores (guia, 6,000)
-- como-la-flor-selena (cover, 6,000)
 - contigo-carla-morrison (cover, 6,000)
 - el-alfarero-alabanza (cover, 6,000)
 - eres-tu-carla-morrison (cover, 6,000)
-- ex-de-verdad-ha-ash (cover, 6,000)
-- jesse-y-joy (artista, 6,000)
-- limon-y-sal-julieta-venegas (cover, 6,000)
 - lo-que-construimos-natalia-lafourcade (cover, 6,000)
 - mananitas-para-whatsapp (cover, 6,000)
 - parabola-de-los-talentos (fe, 6,000)
@@ -92,15 +86,11 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - dejenme-llorar-carla-morrison (cover, 3,000)
 - dones-espirituales (fe, 3,000)
 - eres-para-mi-julieta-venegas (cover, 3,000)
-- kilometros-sin-bandera (cover, 3,000)
 - las-mananitas-en-guitarra (guia, 3,000)
-- lo-aprendi-de-ti-ha-ash (cover, 3,000)
 - mananitas-para-mama (cover, 3,000)
 - mas-alla-del-sol-alabanza (cover, 3,000)
-- me-muero-la-quinta-estacion (cover, 3,000)
 - musica-indie (guia, 3,000)
 - palabras-tristes-los-yonics (cover, 3,000)
-- perdon-perdon-ha-ash (cover, 3,000)
 - por-que-me-haces-llorar-juan-gabriel (cover, 3,000)
 - tristes-recuerdos-antonio-aguilar (cover, 3,000)
 - tu-estas-aqui-jesus-adrian-romero (cover, 3,000)

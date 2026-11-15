@@ -1,12 +1,103 @@
 {
- "slug": "limon-y-sal-julieta-venegas",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "julieta venegas limon y sal",
  "variantes": [
   "limon y sal"
  ],
- "volumen": 6000
+ "volumen": 6000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "limon-y-sal-julieta-venegas",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "julieta venegas limon y sal",
+ "title": "Limón y sal de Julieta Venegas: historia y mi cover",
+ "description": "Limón y sal de Julieta Venegas, escrita con Jorge Villamizar de Bacilos: cuándo salió, su número uno en Billboard y su video con un hombre lobo. Mi cover.",
+ "h1": "Limón y sal, de Julieta Venegas",
+ "resumen": "La canción de Julieta Venegas con Jorge Villamizar, número uno en Billboard.",
+ "respuesta": "Limón y sal es una canción de Julieta Venegas que escribió con Jorge Villamizar, de Bacilos. Salió el 30 de agosto de 2006 como segundo sencillo del disco del mismo nombre. Llegó al número uno de Latin Pop Songs de Billboard.",
+ "cover": {
+  "cancion": "Limón y sal",
+  "artista": "Julieta Venegas",
+  "compositor": [
+   "Julieta Venegas",
+   "Jorge Villamizar"
+  ],
+  "credito": "Canción de Julieta Venegas. Aquí no va la letra: es de su autor.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Limón y sal"
+      ],
+      "filas": [
+       [
+        "Autores",
+        "Julieta Venegas y Jorge Villamizar"
+       ],
+       [
+        "Producción",
+        "Cachorro López y Julieta Venegas"
+       ],
+       [
+        "Salida",
+        "30 de agosto de 2006"
+       ],
+       [
+        "Disco",
+        "Limón y sal (2006)"
+       ],
+       [
+        "Lugar en Billboard",
+        "Número 1 en Latin Pop Songs"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "El video",
+   "bloques": [
+    "Lo dirigió Picky Tallarico, el mismo de Me voy. Julieta es un personaje de cuento que se casa con un hombre lobo.",
+    "En 2008 la grabó otra vez en su MTV Unplugged."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira otras fáciles de cantar en [canciones para karaoke de mujer](/canciones-para-karaoke-mujer/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién escribió Limón y sal?",
+   "a": "Julieta Venegas y Jorge Villamizar, de Bacilos."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Limón y sal (canción), Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Lim%C3%B3n_y_sal_(canci%C3%B3n)"
+  }
+ ],
+ "hermanas": [
+  "julieta-venegas",
+  "eres-para-mi-julieta-venegas",
+  "canciones-para-karaoke-mujer",
+  "canciones-de-amor-en-espanol"
+ ]
 }

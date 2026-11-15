@@ -31,24 +31,24 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 20 | Nunca es suficiente | nunca es suficiente | 12,000 | /nunca-es-suficiente/ | sí |
 | 21 | Amárrame | amarrame mon laferte | 9,000 | /amarrame-mon-laferte/ | sí |
 | 22 | cualquier canción de christine d clario | christine d clario | 9,000 | /christine-d-clario/ | no (esqueleto) |
-| 23 | cualquier canción de ha ash | canciones de ha ash | 9,000 | /ha-ash/ | no (esqueleto) |
+| 23 | Covers de Ha*Ash | canciones de ha ash | 9,000 | /ha-ash/ | sí |
 | 24 | Historia de un amor | historia de un amor | 9,000 | /historia-de-un-amor/ | sí |
 | 25 | mi buen amor mon laferte | mi buen amor mon laferte | 9,000 | /mi-buen-amor-mon-laferte/ | no (esqueleto) |
 | 26 | Si no te hubieras ido | si no te hubieras ido | 9,000 | /si-no-te-hubieras-ido/ | sí |
 | 27 | mon laferte si tu me quisieras | mon laferte si tu me quisieras | 9,000 | /si-tu-me-quisieras-mon-laferte/ | no (esqueleto) |
-| 28 | cualquier canción de sin bandera | canciones de sin bandera | 9,000 | /sin-bandera/ | no (esqueleto) |
+| 28 | Covers de Sin Bandera | canciones de sin bandera | 9,000 | /sin-bandera/ | sí |
 | 29 | jesús adrián romero sumérgeme | jesús adrián romero sumérgeme | 9,000 | /sumergeme-jesus-adrian-romero/ | no (esqueleto) |
 | 30 | El sol no regresa | el sol no regresa la quinta estación | 6,300 | /el-sol-no-regresa-la-quinta-estacion/ | sí |
 | 31 | Bésame mucho | besame mucho | 6,000 | /besame-mucho/ | sí |
-| 32 | como la flor | como la flor | 6,000 | /como-la-flor-selena/ | no (esqueleto) |
+| 32 | Como la flor | como la flor | 6,000 | /como-la-flor-selena/ | sí |
 | 33 | contigo carla morrison | contigo carla morrison | 6,000 | /contigo-carla-morrison/ | no (esqueleto) |
 | 34 | alabanza el alfarero | alabanza el alfarero | 6,000 | /el-alfarero-alabanza/ | no (esqueleto) |
 | 35 | eres tu carla morrison | eres tu carla morrison | 6,000 | /eres-tu-carla-morrison/ | no (esqueleto) |
-| 36 | ex de verdad | ex de verdad | 6,000 | /ex-de-verdad-ha-ash/ | no (esqueleto) |
+| 36 | Ex de verdad | ex de verdad | 6,000 | /ex-de-verdad-ha-ash/ | sí |
 | 37 | Hasta la raíz | hasta la raiz | 6,000 | /hasta-la-raiz-natalia-lafourcade/ | sí |
-| 38 | cualquier canción de jesse y joy | canciones de jesse y joy | 6,000 | /jesse-y-joy/ | no (esqueleto) |
+| 38 | Covers de Jesse & Joy | canciones de jesse y joy | 6,000 | /jesse-y-joy/ | sí |
 | 39 | Covers de La Quinta Estación | la quinta estacion | 6,000 | /la-quinta-estacion/ | sí |
-| 40 | julieta venegas limon y sal | julieta venegas limon y sal | 6,000 | /limon-y-sal-julieta-venegas/ | no (esqueleto) |
+| 40 | Limón y sal | julieta venegas limon y sal | 6,000 | /limon-y-sal-julieta-venegas/ | sí |
 | 41 | lo que construimos | lo que construimos | 6,000 | /lo-que-construimos-natalia-lafourcade/ | no (esqueleto) |
 | 42 | las mañanitas feliz cumpleaños para whatsapp | las mañanitas feliz cumpleaños para whatsapp | 6,000 | /mananitas-para-whatsapp/ | no (esqueleto) |
 | 43 | san lucas kevin kaarl | san lucas kevin kaarl | 6,000 | /san-lucas-kevin-kaarl/ | no (esqueleto) |
@@ -67,13 +67,13 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 56 | cualquier canción de daniela spalla | daniela spalla | 3,000 | /daniela-spalla/ | no (esqueleto) |
 | 57 | carla morrison dejenme llorar | carla morrison dejenme llorar | 3,000 | /dejenme-llorar-carla-morrison/ | no (esqueleto) |
 | 58 | eres para mi julieta venegas | eres para mi julieta venegas | 3,000 | /eres-para-mi-julieta-venegas/ | no (esqueleto) |
-| 59 | sin bandera kilómetros | sin bandera kilómetros | 3,000 | /kilometros-sin-bandera/ | no (esqueleto) |
-| 60 | ha * ash lo aprendí de ti | ha * ash lo aprendí de ti | 3,000 | /lo-aprendi-de-ti-ha-ash/ | no (esqueleto) |
+| 59 | Kilómetros | sin bandera kilómetros | 3,000 | /kilometros-sin-bandera/ | sí |
+| 60 | Lo aprendí de ti | ha * ash lo aprendí de ti | 3,000 | /lo-aprendi-de-ti-ha-ash/ | sí |
 | 61 | mañanitas para mamá | mañanitas para mamá | 3,000 | /mananitas-para-mama/ | no (esqueleto) |
 | 62 | más allá del sol alabanza | más allá del sol alabanza | 3,000 | /mas-alla-del-sol-alabanza/ | no (esqueleto) |
-| 63 | me muero la quinta estacion | me muero la quinta estacion | 3,000 | /me-muero-la-quinta-estacion/ | no (esqueleto) |
+| 63 | Me muero | me muero la quinta estacion | 3,000 | /me-muero-la-quinta-estacion/ | sí |
 | 64 | los yonic's palabras tristes | los yonic's palabras tristes | 3,000 | /palabras-tristes-los-yonics/ | no (esqueleto) |
-| 65 | ha * ash perdón perdón | ha * ash perdón perdón | 3,000 | /perdon-perdon-ha-ash/ | no (esqueleto) |
+| 65 | Perdón, perdón | ha * ash perdón perdón | 3,000 | /perdon-perdon-ha-ash/ | sí |
 | 66 | juan gabriel porque me haces llorar | juan gabriel porque me haces llorar | 3,000 | /por-que-me-haces-llorar-juan-gabriel/ | no (esqueleto) |
 | 67 | tristes recuerdos antonio aguilar | tristes recuerdos antonio aguilar | 3,000 | /tristes-recuerdos-antonio-aguilar/ | no (esqueleto) |
 | 68 | jesús adrián romero tú estás aqui | jesús adrián romero tú estás aqui | 3,000 | /tu-estas-aqui-jesus-adrian-romero/ | no (esqueleto) |

@@ -1,13 +1,140 @@
 {
- "slug": "ha-ash",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "artista",
- "coleccion": "covers",
- "cabeza": "canciones de ha ash",
  "variantes": [
   "canciones de ha * ash",
   "ha ash canciones"
  ],
- "volumen": 9000
+ "volumen": 9000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "ha-ash",
+ "espera_video": true,
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "canciones de ha ash",
+ "title": "Canciones de Ha*Ash: discos, éxitos y covers a guitarra",
+ "description": "Canciones de Ha*Ash: el dúo de Hanna y Ashley, de Lake Charles, sus discos de 2003 a 2024 y éxitos como Perdón, perdón y Lo aprendí de ti. Con mis covers.",
+ "h1": "Ha*Ash",
+ "resumen": "El dúo de Hanna y Ashley: sus discos y sus canciones más buscadas.",
+ "respuesta": "Ha*Ash es el dúo de las hermanas Hanna y Ashley Pérez, de Lake Charles, Luisiana. Se formó en 2002. Sus canciones más buscadas son Perdón, perdón, Lo aprendí de ti y Ex de verdad.",
+ "cover": {
+  "cancion": "Covers de Ha*Ash",
+  "artista": "Ha*Ash",
+  "credito": "Las canciones son de Ha*Ash y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Ha*Ash, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Ha*Ash",
+   "bloques": [
+    "Hanna nació el 25 de junio de 1985 y Ashley el 27 de enero de 1987. El dúo nació en Lake Charles, Luisiana.",
+    "Su disco en vivo Primera fila, hecho realidad, de 2014, trajo varias de sus canciones más famosas."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "Te dejo en libertad",
+        "2011",
+        "La más importante del disco A tiempo"
+       ],
+       [
+        "[Perdón, perdón](/perdon-perdon-ha-ash/)",
+        "2014",
+        "Primer sencillo de Primera fila"
+       ],
+       [
+        "[Lo aprendí de ti](/lo-aprendi-de-ti-ha-ash/)",
+        "2015",
+        "Segundo sencillo de Primera fila"
+       ],
+       [
+        "[Ex de verdad](/ex-de-verdad-ha-ash/)",
+        "",
+        "Versión a dúo con Axel"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Ha*Ash (2003)",
+       "Su debut."
+      ],
+      [
+       "Mundos opuestos (2005)",
+       ""
+      ],
+      [
+       "Habitación doble (2008)",
+       ""
+      ],
+      [
+       "A tiempo (2011)",
+       ""
+      ],
+      [
+       "Primera fila, hecho realidad (2014)",
+       "En vivo."
+      ],
+      [
+       "30 de febrero (2017)",
+       ""
+      ],
+      [
+       "Haashtag (2022)",
+       ""
+      ],
+      [
+       "Haashville (2024)",
+       "Su disco más reciente al revisar esta página."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Mis covers de ellas van a guitarra y voz."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De dónde son Ha*Ash?",
+   "a": "De Lake Charles, Luisiana, Estados Unidos."
+  },
+  {
+   "q": "¿Cómo se llaman las de Ha*Ash?",
+   "a": "Hanna Nicole Pérez y Ashley Grace Pérez."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Ha*Ash, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Ha*Ash"
+  }
+ ],
+ "hermanas": [
+  "perdon-perdon-ha-ash",
+  "lo-aprendi-de-ti-ha-ash",
+  "ex-de-verdad-ha-ash",
+  "la-quinta-estacion",
+  "canciones-de-desamor"
+ ]
 }

@@ -1,12 +1,131 @@
 {
- "slug": "jesse-y-joy",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "artista",
- "coleccion": "covers",
- "cabeza": "canciones de jesse y joy",
  "variantes": [
   "jesse y joy canciones"
  ],
- "volumen": 6000
+ "volumen": 6000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "jesse-y-joy",
+ "espera_video": true,
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "canciones de jesse y joy",
+ "title": "Canciones de Jesse & Joy: discos, éxitos y covers",
+ "description": "Canciones de Jesse & Joy: los hermanos Huerta de la Ciudad de México, sus discos de 2006 a 2025 y éxitos como Espacio sideral, Llegaste tú y ¡Corre!. Covers.",
+ "h1": "Jesse & Joy",
+ "resumen": "El dúo de los hermanos Huerta: discos y éxitos.",
+ "respuesta": "Jesse & Joy es el dúo de los hermanos Jesse y Joy Huerta, formado en la Ciudad de México en 2005. Debutaron en 2006 con Espacio sideral. Tienen un Grammy y seis Latin Grammy.",
+ "cover": {
+  "cancion": "Covers de Jesse & Joy",
+  "artista": "Jesse & Joy",
+  "credito": "Las canciones son de Jesse & Joy y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Jesse & Joy, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Jesse & Joy",
+   "bloques": [
+    "Ganaron el Latin Grammy a mejor nuevo artista en 2007 y cuatro más en 2012.",
+    "En 2017 ganaron el Grammy a mejor álbum de pop latino por Un besito más.",
+    "Según Wikipedia en español, Jesse dejó el dúo en septiembre de 2026."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "Espacio sideral",
+        "2006",
+        "Primer sencillo"
+       ],
+       [
+        "Llegaste tú",
+        "2008",
+        "Del EP Esto es lo que soy"
+       ],
+       [
+        "¡Corre!",
+        "2011",
+        "De ¿Con quién se queda el perro?"
+       ],
+       [
+        "Me voy",
+        "2011",
+        "Del mismo disco"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Esta es mi vida (2006)",
+       ""
+      ],
+      [
+       "Electricidad (2009)",
+       ""
+      ],
+      [
+       "¿Con quién se queda el perro? (2011)",
+       ""
+      ],
+      [
+       "Un besito más (2015)",
+       "Grammy a mejor álbum de pop latino."
+      ],
+      [
+       "Aire (2020)",
+       ""
+      ],
+      [
+       "Clichés (2022)",
+       ""
+      ],
+      [
+       "Lo que nos faltó decir (2025)",
+       "Su disco más reciente al revisar esta página."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Mis covers de ellos van a ir apareciendo aquí."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quiénes son Jesse & Joy?",
+   "a": "Los hermanos Jesse y Joy Huerta, de la Ciudad de México."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Jesse & Joy, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Jesse_%26_Joy"
+  }
+ ],
+ "hermanas": [
+  "sin-bandera",
+  "ha-ash",
+  "julieta-venegas",
+  "canciones-de-desamor"
+ ]
 }
