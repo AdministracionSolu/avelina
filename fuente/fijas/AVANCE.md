@@ -5,16 +5,15 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 
 | Estado | Páginas |
 |---|---|
-| esqueleto | 88 |
-| borrador | 28 |
+| esqueleto | 79 |
+| borrador | 37 |
 | espera video | 26 |
 
 | Tipo | Estado | Páginas |
 |---|---|---|
 | artista | espera video | 11 |
 | artista | esqueleto | 7 |
-| carta | borrador | 12 |
-| carta | esqueleto | 8 |
+| carta | borrador | 20 |
 | cover | espera video | 15 |
 | cover | esqueleto | 35 |
 | fe | esqueleto | 17 |
@@ -23,7 +22,7 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 | herramienta | borrador | 7 |
 | lista | borrador | 6 |
 | lista | esqueleto | 16 |
-| marca | esqueleto | 1 |
+| marca | borrador | 1 |
 
 ## Esqueletos por escribir (de mayor a menor volumen)
 
@@ -53,7 +52,6 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - canciones-para-dedicar (lista, 12,000)
 - proposito-de-vida (fe, 12,000)
 - reflexion-del-evangelio-de-hoy (fe, 12,000)
-- carta-de-amor-a-mano (carta, 9,000)
 - christine-d-clario (artista, 9,000)
 - feliz-cumpleanos-cristiano-para-mujer (fe, 9,000)
 - frases-de-fin-de-ano (fe, 9,000)
@@ -72,8 +70,6 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - el-alfarero-alabanza (cover, 6,000)
 - eres-tu-carla-morrison (cover, 6,000)
 - ex-de-verdad-ha-ash (cover, 6,000)
-- feliz-cumpleanos-para-hombre (carta, 6,000)
-- foranea (marca, 6,000)
 - jesse-y-joy (artista, 6,000)
 - limon-y-sal-julieta-venegas (cover, 6,000)
 - lo-que-construimos-natalia-lafourcade (cover, 6,000)
@@ -89,9 +85,6 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - antes-de-ti-mon-laferte (cover, 3,000)
 - canciones-para-dedicar-a-mi-novia (lista, 3,000)
 - canciones-para-papa (lista, 3,000)
-- carta-de-despedida (carta, 3,000)
-- carta-para-mi-hija (carta, 3,000)
-- cartas-para-amiga-secreta (carta, 3,000)
 - como-un-pajaro-silvana-estrada (cover, 3,000)
 - compartir-carla-morrison (cover, 3,000)
 - curame-mon-laferte (cover, 3,000)
@@ -99,9 +92,6 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - dejenme-llorar-carla-morrison (cover, 3,000)
 - dones-espirituales (fe, 3,000)
 - eres-para-mi-julieta-venegas (cover, 3,000)
-- feliz-cumpleanos-madrina (carta, 3,000)
-- feliz-cumpleanos-para-dedicar (carta, 3,000)
-- feliz-cumpleanos-para-mi (carta, 3,000)
 - kilometros-sin-bandera (cover, 3,000)
 - las-mananitas-en-guitarra (guia, 3,000)
 - lo-aprendi-de-ti-ha-ash (cover, 3,000)

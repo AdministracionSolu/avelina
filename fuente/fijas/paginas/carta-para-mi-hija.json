@@ -1,10 +1,121 @@
 {
- "slug": "carta-para-mi-hija",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "carta-para-mi-hija",
  "tipo": "carta",
  "coleccion": "cartas",
  "cabeza": "la carta más bonita para mi hija",
- "variantes": [],
- "volumen": 3000
+ "title": "La carta más bonita para mi hija: 5 cartas de mamá o papá",
+ "description": "La carta más bonita para tu hija: cinco cartas de mamá o papá para su cumpleaños, sus 15 años, su graduación o un día difícil. Cámbiala y mándala como postal.",
+ "h1": "Carta para mi hija",
+ "resumen": "Cinco cartas de mamá o papá para tu hija.",
+ "respuesta": "La carta más bonita para una hija le dice lo que ve en ella y lo que le desea. Aquí tienes cinco para momentos distintos, de mamá o de papá. Cambia los detalles y dásela a mano o como postal.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "hija",
+      "para": "Hija",
+      "firma": "Mamá",
+      "texto": "Hija:\n\nVerte crecer es lo más bonito que me ha pasado. Eres valiente, buena y tuya.\n\nSiempre voy a estar aquí."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Para su cumpleaños",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Mi niña,",
+      "texto": "Hoy cumples años y yo vuelvo al día en que te cargué por primera vez. Desde entonces aprendí más de ti que tú de mí.\n\nFeliz cumpleaños. Te quiero con todo lo que soy.",
+      "firma": "Mamá"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para sus 15 años",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Hija,",
+      "texto": "Hoy empiezas una etapa nueva y te miro con orgullo. Vas a equivocarte y a acertar, y en las dos cosas te voy a acompañar.\n\nNunca dejes de ser tú.",
+      "firma": "Papá"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para su graduación",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Hija,",
+      "texto": "Lo lograste. Cada desvelo y cada duda valieron la pena.\n\nEste título es tuyo. El orgullo es mío.",
+      "firma": "Mamá"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para un día difícil",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Hija,",
+      "texto": "Hoy te duele algo y quisiera quitártelo. No puedo, pero puedo quedarme contigo mientras pasa.\n\nEres más fuerte de lo que crees.",
+      "firma": "Papá"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cortita",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "De todo lo que he hecho en la vida, lo mejor eres tú.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir la tuya",
+   "bloques": [
+    {
+     "pasos": [
+      "Recuerda un momento de cuando era chica.",
+      "Dile lo que ves en ella hoy, con un ejemplo.",
+      "Deséale algo para su camino."
+     ]
+    },
+    "Si quieres sumar música, mira [canciones para dedicar a mi hija](/canciones-para-dedicar-a-mi-hija/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué le escribo a mi hija?",
+   "a": "Un recuerdo de cuando era chica, lo que admiras de ella hoy y un deseo para su camino."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "canciones-para-dedicar-a-mi-hija",
+  "carta-para-mi-mama",
+  "feliz-cumpleanos-sobrina",
+  "cartas-de-amor"
+ ]
 }

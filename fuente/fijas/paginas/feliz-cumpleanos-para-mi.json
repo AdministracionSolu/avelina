@@ -1,10 +1,79 @@
 {
- "slug": "feliz-cumpleanos-para-mi",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "feliz-cumpleanos-para-mi",
  "tipo": "carta",
  "coleccion": "cumpleanos",
  "cabeza": "cumpleaños feliz para mi",
- "variantes": [],
- "volumen": 3000
+ "title": "Feliz cumpleaños para mí: frases para mi cumpleaños",
+ "description": "Feliz cumpleaños para mí: frases para tu propio cumpleaños, para una historia de Instagram o para escribirte una carta. Agradece tu año y empieza el que sigue.",
+ "h1": "Feliz cumpleaños para mí",
+ "resumen": "Frases y una carta para tu propio cumpleaños.",
+ "respuesta": "En tu cumpleaños también se vale escribirte a ti. Aquí tienes frases para una historia y una carta para leerte. Dale gracias a tu año y pide algo para el que empieza.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "cumple-yo",
+      "para": "Para mí",
+      "firma": "Yo",
+      "texto": "Feliz cumpleaños a mí.\n\nGracias por no rendirte este año, aunque hubo días en que quisiste.\n\nQue el que empieza te trate bonito."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Frases para tu historia",
+   "bloques": [
+    {
+     "lista": [
+      "Hoy cumplo años y me tengo cariño.",
+      "Un año más de aprender a quererme.",
+      "Gracias, vida, por un año más.",
+      "Hoy celebro a la persona que sobrevivió todo lo de este año."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Una carta para ti",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Querida yo,",
+      "texto": "Este año aprendiste a pedir ayuda, a decir que no y a empezar de nuevo. No fue poco.\n\nSigue así, con calma. Lo mejor todavía no llega.",
+      "firma": "Yo"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir la tuya",
+   "bloques": [
+    "Escríbete como le escribirías a tu mejor amiga. Para la imagen, pon tu nombre en [letra bonita](/feliz-cumpleanos-en-letra-bonita/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué pongo en mi cumpleaños en redes?",
+   "a": "Una frase corta de gratitud y una foto tuya. Con eso basta."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "feliz-cumpleanos-en-letra-bonita",
+  "feliz-cumpleanos-para-dedicar",
+  "canciones-para-cumpleanos",
+  "frases-de-fin-de-ano"
+ ]
 }

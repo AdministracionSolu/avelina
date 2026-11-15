@@ -1,10 +1,118 @@
 {
- "slug": "carta-de-despedida",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "carta-de-despedida",
  "tipo": "carta",
  "coleccion": "cartas",
  "cabeza": "carta de despedida",
- "variantes": [],
- "volumen": 3000
+ "title": "Carta de despedida: 5 cartas para decir adiós con cariño",
+ "description": "Carta de despedida para un amor que termina, una amiga que se va lejos o un compañero de trabajo. Cinco cartas para decir adiós con cariño. Mándala como postal.",
+ "h1": "Carta de despedida",
+ "resumen": "Cinco cartas para despedirte de alguien con cariño.",
+ "respuesta": "Una carta de despedida cierra algo con cariño, aunque duela. Aquí tienes cinco, para una pareja, una amiga que se muda o un compañero de trabajo. Cámbiala y mándala como postal.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "despedida",
+      "para": "",
+      "firma": "",
+      "texto": "Te escribo para decir adiós como se debe.\n\nGracias por lo que fuimos. Me llevo lo bonito y te deseo lo mejor.\n\nCuídate mucho."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Para un amor que termina",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "No te escribo para pedirte que te quedes. Te escribo para darte las gracias por lo que fuimos.\n\nAprendí mucho contigo, hasta en lo que dolió. Te deseo un camino bonito, aunque ya no sea a mi lado.\n\nAdiós, con cariño.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Nos quisimos mucho y no alcanzó. No es culpa de nadie.\n\nMe quedo con tu risa y con lo que me enseñaste. Lo demás lo dejo ir.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para una amiga que se va lejos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Amiga,",
+      "texto": "Te vas a otra ciudad y aquí se queda un hueco con tu forma. Me da gusto por ti y me duele por mí.\n\nVe y comete el mundo. Aquí te espero con café cuando vuelvas.",
+      "firma": "Tu amiga"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para un compañero de trabajo",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Fue un gusto trabajar contigo. Gracias por tu paciencia, tus ideas y tu buen humor en los días pesados.\n\nMucho éxito en lo que sigue.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "La que no se manda",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "A veces la carta de despedida es para una misma. Escribe todo lo que no dijiste, léelo en voz alta y guárdalo.\n\nNo hace falta mandarla para que sirva.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir la tuya",
+   "bloques": [
+    {
+     "pasos": [
+      "Agradece algo concreto.",
+      "Di lo que te llevas de esa persona.",
+      "Desea algo bueno para su camino.",
+      "Cierra corto, sin reproches."
+     ]
+    },
+    "Si estás en medio de una ruptura, mira también las [canciones de desamor](/canciones-de-desamor/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo escribo una carta de despedida?",
+   "a": "Agradece, di lo que te llevas y desea algo bueno. Sin reproches y corta."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "canciones-de-desamor",
+  "canciones-tristes-para-llorar",
+  "carta-para-una-amiga",
+  "cartas-de-amor",
+  "foranea"
+ ]
 }

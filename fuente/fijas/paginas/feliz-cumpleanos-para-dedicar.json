@@ -1,10 +1,127 @@
 {
- "slug": "feliz-cumpleanos-para-dedicar",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "feliz-cumpleanos-para-dedicar",
  "tipo": "carta",
  "coleccion": "cumpleanos",
  "cabeza": "feliz cumpleaños para dedicar",
- "variantes": [],
- "volumen": 3000
+ "title": "Feliz cumpleaños para dedicar: mensajes y postal gratis",
+ "description": "Feliz cumpleaños para dedicar a quien quieras: mensajes cortos, largos, cristianos y graciosos, más una postal para mandar por WhatsApp. Escoge y mándala.",
+ "h1": "Feliz cumpleaños para dedicar",
+ "resumen": "Mensajes de cumpleaños para cualquier persona y una postal.",
+ "respuesta": "Para dedicar un feliz cumpleaños, escoge un mensaje que suene a ti y agrégale su nombre. Aquí tienes cortos, largos y graciosos. Escríbelo en la postal y mándalo por WhatsApp.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "cumple",
+      "para": "",
+      "firma": "",
+      "texto": "Feliz cumpleaños.\n\nQue este año te traiga salud, risa y gente bonita alrededor.\n\nUn abrazo grande."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Cortos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz cumpleaños. Que este año sea tan bueno como tú.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Hoy se celebra que existes. Feliz cumple.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Que la vida te devuelva todo lo bueno que das.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Largos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz cumpleaños. Que este año traiga respuestas a lo que te preocupa y sorpresas a lo que ni imaginas.\n\nGracias por estar en mi vida. Celébralo en grande.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Graciosos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz cumpleaños. Ya no cuento tus años, cuento tus anécdotas, que son más.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Un año más sabio. Bueno, un año más.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Por persona",
+   "bloques": [
+    {
+     "lista": [
+      "[Feliz cumpleaños, mamá](/feliz-cumpleanos-mama/)",
+      "[Feliz cumpleaños, mi amor](/feliz-cumpleanos-mi-amor/)",
+      "[Feliz cumpleaños, amiga](/feliz-cumpleanos-amiga/)",
+      "[Feliz cumpleaños, sobrina](/feliz-cumpleanos-sobrina/)",
+      "[Feliz cumpleaños, madrina](/feliz-cumpleanos-madrina/)",
+      "[Feliz cumpleaños para hombre](/feliz-cumpleanos-para-hombre/)"
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir la tuya",
+   "bloques": [
+    "Agrega su nombre y un recuerdo del año. Para la imagen, usa el [feliz cumpleaños en letra bonita](/feliz-cumpleanos-en-letra-bonita/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué escribo para felicitar a alguien?",
+   "a": "Su nombre, un deseo para su año y un gracias. Con eso basta."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "feliz-cumpleanos-en-letra-bonita",
+  "feliz-cumpleanos-mama",
+  "feliz-cumpleanos-amiga",
+  "las-mananitas",
+  "canciones-para-cumpleanos"
+ ]
 }

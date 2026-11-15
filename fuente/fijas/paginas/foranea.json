@@ -1,12 +1,96 @@
 {
- "slug": "foranea",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "marca",
- "coleccion": "marca",
- "cabeza": "foranea",
  "variantes": [
   "foraneos"
  ],
- "volumen": 6000
+ "volumen": 6000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "foranea",
+ "tipo": "marca",
+ "coleccion": "marca",
+ "cabeza": "foranea",
+ "title": "Foránea: qué significa y cómo se vive lejos de casa",
+ "description": "Foránea o foráneo: qué significa, de dónde viene la palabra y por qué en México así se les dice a quienes estudian o trabajan lejos de casa. Mis cartas.",
+ "h1": "Foránea",
+ "resumen": "Qué significa foránea y por qué mis cartas se llaman así.",
+ "respuesta": "Foráneo quiere decir que es de fuera, de otro lugar. En México se les dice foráneos a quienes viven lejos de su ciudad para estudiar o trabajar. Yo soy foránea en Monterrey, y por eso mis cartas se llaman Cartas de una foránea.",
+ "secciones": [
+  {
+   "h2": "Qué significa foráneo",
+   "bloques": [
+    "Los diccionarios lo dan como forastero o extraño, alguien que es de fuera. Viene del latín forāneus, que sale de forās, afuera.",
+    "Es pariente de forastero. Wiktionary también la liga con huraño, que viene de la misma raíz."
+   ]
+  },
+  {
+   "h2": "Cómo se usa en México",
+   "bloques": [
+    "En México, foráneo es sobre todo el estudiante que llega de otra ciudad. Se dice en las universidades, en las casas de asistencia y entre amigos.",
+    {
+     "lista": [
+      "Ser foránea es rentar un cuarto, aprender a cocinar sola y llamar a casa cada noche.",
+      "Es volver en vacaciones y sentir que el pueblo cambió, o que una cambió.",
+      "Es hacer familia con otros foráneos."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis Cartas de una foránea",
+   "bloques": [
+    "Nací en un pueblo pequeño de Sonora, en una familia de campo, caballos y vacas. Hoy soy foránea en Monterrey.",
+    "En mi canción [Country girl](/musica/) cuento que no pertenezco a la ciudad, sino al campo. Las Cartas de una foránea son lo que escribo desde aquí.",
+    "Si te apuntas al final de esta página, te escribo cuando haya canción nueva."
+   ]
+  },
+  {
+   "h2": "Para quien está lejos de casa",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Escribe a tu familia.",
+       "Una carta pesa más que un mensaje. Mira la [carta para mi mamá](/carta-para-mi-mama/)."
+      ],
+      [
+       "Ten algo de tu tierra contigo.",
+       "Una canción, una receta o una foto en la pared."
+      ],
+      [
+       "Busca a otros foráneos.",
+       "Casi siempre hay más gente lejos de casa de lo que crees."
+      ]
+     ]
+    },
+    "Para los mexicanos lejos de casa hay una canción que funciona como himno. Mira [Cielito lindo](/cielito-lindo/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué significa foránea?",
+   "a": "Que es de fuera, de otro lugar. En México se dice de quien vive lejos de su ciudad para estudiar o trabajar."
+  },
+  {
+   "q": "¿Foráneo y forastero son lo mismo?",
+   "a": "Son muy parecidos. Los dos vienen de forās, que en latín quiere decir afuera."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Foráneo, Wiktionary",
+   "url": "https://es.wiktionary.org/wiki/for%C3%A1neo"
+  },
+  {
+   "t": "Foráneo, EcuRed",
+   "url": "https://www.ecured.cu/For%C3%A1neo"
+  }
+ ],
+ "hermanas": [
+  "carta-para-mi-mama",
+  "cielito-lindo",
+  "cartas-de-amor",
+  "caloncho",
+  "cantautores"
+ ]
 }

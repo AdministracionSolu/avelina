@@ -1,13 +1,140 @@
 {
- "slug": "carta-de-amor-a-mano",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "carta",
- "coleccion": "cartas",
- "cabeza": "carta de amor con dibujos",
  "variantes": [
   "carta de amor a mano",
   "dibujos para carta de amor"
  ],
- "volumen": 9000
+ "volumen": 9000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "carta-de-amor-a-mano",
+ "tipo": "carta",
+ "coleccion": "cartas",
+ "cabeza": "carta de amor con dibujos",
+ "title": "Carta de amor con dibujos: cómo hacerla a mano",
+ "description": "Carta de amor con dibujos hecha a mano: qué papel usar, cómo doblarla como sobre, dibujos fáciles para decorarla y textos cortos para escribir. Hazla hoy.",
+ "h1": "Carta de amor a mano, con dibujos",
+ "resumen": "Cómo hacer a mano una carta de amor con dibujos fáciles.",
+ "respuesta": "Una carta de amor a mano se guarda por años. Necesitas una hoja, una pluma y diez minutos. Abajo está cómo doblarla, qué dibujar y qué escribir.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "a-mano",
+      "para": "Amor",
+      "firma": "",
+      "texto": "Esta carta la escribí a mano para que la guardes.\n\nCada letra chueca es porque me temblaba la mano pensando en ti.\n\nTe quiero."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Lo que necesitas",
+   "bloques": [
+    {
+     "lista": [
+      "Una hoja blanca o de color, tamaño carta.",
+      "Una pluma de tinta oscura y un lápiz.",
+      "Plumones o colores para los dibujos.",
+      "Opcional, un sello, un listón o una flor seca."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Cómo doblarla como sobre",
+   "bloques": [
+    {
+     "pasos": [
+      "Pon la hoja horizontal y dobla las dos esquinas de abajo hacia el centro.",
+      "Dobla los lados hacia adentro, como un sobre.",
+      "Dobla la parte de arriba en triángulo, como la tapa.",
+      "Ciérrala con un corazón dibujado, una calcomanía o un listón."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Dibujos fáciles para decorarla",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Corazones en la esquina.",
+       "Dos curvas y una punta. Haz uno grande y dos chicos."
+      ],
+      [
+       "Una golondrina o una paloma.",
+       "Una curva como una m alargada. Es el ave que lleva cartas."
+      ],
+      [
+       "Estrellas pequeñas.",
+       "Cinco puntas sin levantar el lápiz."
+      ],
+      [
+       "Un timbre en la esquina.",
+       "Un cuadrito con bordes en zigzag y un dibujo adentro."
+      ],
+      [
+       "Una línea de olas abajo.",
+       "Como si la carta viniera desde el mar."
+      ]
+     ]
+    },
+    "Estas son las figuras de mis postales en este sitio. Las aves, las estrellas y el mar."
+   ]
+  },
+  {
+   "h2": "Textos cortos para escribir",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Esta carta tiene mi letra y mis dibujos porque quería que tuviera algo mío.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Guárdala. Un día la vamos a leer juntos y nos vamos a reír.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir la tuya",
+   "bloques": [
+    {
+     "pasos": [
+      "Escribe primero en borrador para no tachar.",
+      "Pasa el texto con pluma, despacio.",
+      "Dibuja al final, en los espacios que sobren."
+     ]
+    },
+    "Si no tienes papel a la mano, usa la postal de arriba y guárdala como imagen. Más textos en [cartas de amor](/cartas-de-amor/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué dibujo una carta de amor?",
+   "a": "Corazones, aves, estrellas o un timbre en la esquina. Cosas simples se ven bonitas hechas a mano."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "cartas-de-amor",
+  "carta-para-mi-novio",
+  "carta-para-mi-novia",
+  "carta-de-san-valentin",
+  "carta-para-mi-mama"
+ ]
 }

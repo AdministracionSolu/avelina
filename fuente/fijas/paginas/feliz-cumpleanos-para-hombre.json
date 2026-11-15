@@ -1,12 +1,117 @@
 {
- "slug": "feliz-cumpleanos-para-hombre",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "carta",
- "coleccion": "cumpleanos",
- "cabeza": "cumpleaños feliz para hombre",
  "variantes": [
   "cumpleaños feliz para adulto"
  ],
- "volumen": 6000
+ "volumen": 6000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "feliz-cumpleanos-para-hombre",
+ "tipo": "carta",
+ "coleccion": "cumpleanos",
+ "cabeza": "cumpleaños feliz para hombre",
+ "title": "Feliz cumpleaños para hombre: mensajes para él",
+ "description": "Feliz cumpleaños para hombre: mensajes para tu papá, tu hermano, tu amigo o un compañero, cortos y largos, serios y graciosos. Mándalos como postal por WhatsApp",
+ "h1": "Feliz cumpleaños para hombre",
+ "resumen": "Mensajes de cumpleaños para papá, hermano, amigo o compañero.",
+ "respuesta": "Para felicitar a un hombre, piensa quién es para ti. No es igual un papá que un compañero de trabajo. Aquí tienes mensajes por persona, para mandar como postal.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "cumple-hombre",
+      "para": "",
+      "firma": "",
+      "texto": "Feliz cumpleaños.\n\nQue este año te traiga buenas noticias, buena salud y buenos amigos alrededor.\n\nUn abrazo."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Para tu papá",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Papá,",
+      "texto": "Feliz cumpleaños al hombre que me enseñó a no rendirme. Gracias por cada sacrificio que nunca contaste.\n\nTe quiero mucho.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para tu hermano",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Hermano,",
+      "texto": "Feliz cumpleaños. Gracias por defenderme, aunque también me hayas molestado toda la vida.\n\nQue sea un gran año.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para un amigo",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz cumpleaños, amigo. Que este año te dé tantas buenas historias como las que ya nos debemos.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para un compañero de trabajo",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz cumpleaños. Que tengas un excelente día y un mejor año.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Graciosos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz cumpleaños. Tranquilo, las canas dan experiencia.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Un año más y sigues igual de guapo. Bueno, casi.",
+      "firma": ""
+     }
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué le escribo a un hombre en su cumpleaños?",
+   "a": "Depende de quién es para ti. A un papá, un gracias. A un amigo, un recuerdo. A un compañero, algo breve y amable."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "feliz-cumpleanos-para-dedicar",
+  "feliz-cumpleanos-mi-amor",
+  "canciones-para-papa",
+  "las-mananitas"
+ ]
 }

@@ -1,10 +1,86 @@
 {
- "slug": "feliz-cumpleanos-madrina",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "feliz-cumpleanos-madrina",
  "tipo": "carta",
  "coleccion": "cumpleanos",
  "cabeza": "feliz cumple madrina",
- "variantes": [],
- "volumen": 3000
+ "title": "Feliz cumpleaños madrina: mensajes de ahijada y ahijado",
+ "description": "Feliz cumpleaños, madrina: mensajes de ahijada o ahijado para agradecerle que te acompañe desde niño. Cortos y largos. Cámbialos y mándalos como postal.",
+ "h1": "Feliz cumpleaños, madrina",
+ "resumen": "Mensajes de ahijada o ahijado para tu madrina.",
+ "respuesta": "Una madrina es la familia que tus papás escogieron para ti. Para su cumpleaños, agradécele algo que hizo por ti. Aquí tienes mensajes cortos y largos para mandar como postal.",
+ "secciones": [
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "cumple-madrina",
+      "para": "Madrina",
+      "firma": "Tu ahijada",
+      "texto": "Feliz cumpleaños, madrina.\n\nGracias por estar desde el primer día, en las fotos y en las que no hay fotos.\n\nTe quiero mucho."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Cortos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz cumpleaños a mi madrina, mi segunda mamá.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Madrina, gracias por quererme como propia. Feliz cumpleaños.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Largos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Madrina,",
+      "texto": "Mis papás te escogieron hace años y no pudieron escoger mejor. Has estado en mis cumpleaños, en mis tropiezos y en mis logros.\n\nHoy es tu día. Que te llenen de cariño como tú me llenas a mí.",
+      "firma": "Tu ahijada"
+     }
+    },
+    {
+     "carta": {
+      "para": "Madrina,",
+      "texto": "Gracias por los consejos, los regaños a tiempo y los abrazos de siempre.\n\nFeliz cumpleaños. Te quiero mucho.",
+      "firma": "Tu ahijado"
+     }
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué le escribo a mi madrina en su cumpleaños?",
+   "a": "Un gracias por algo concreto que hizo por ti y un deseo para su año."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "feliz-cumpleanos-sobrina",
+  "feliz-cumpleanos-mama",
+  "feliz-cumpleanos-para-dedicar",
+  "las-mananitas"
+ ]
 }
