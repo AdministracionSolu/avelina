@@ -1,15 +1,158 @@
 {
- "slug": "julieta-venegas",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "artista",
- "coleccion": "covers",
- "cabeza": "julieta venegas",
  "variantes": [
   "canciones de julieta venegas",
   "venegas",
   "julieta venega",
   "cancion julieta venegas"
  ],
- "volumen": 69000
+ "volumen": 69000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "julieta-venegas",
+ "espera_video": true,
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "julieta venegas",
+ "title": "Julieta Venegas: canciones, discos y covers a guitarra",
+ "description": "Julieta Venegas: quién es, sus diez discos de 1997 a 2026 y sus canciones más conocidas como Me voy y Limón y sal. Con mis covers a guitarra y voz.",
+ "h1": "Julieta Venegas",
+ "resumen": "La cantautora de Tijuana: sus discos y sus canciones con año.",
+ "respuesta": "Julieta Venegas es una cantautora mexicana que creció en Tijuana. Nació en Long Beach, California, el 24 de noviembre de 1970. Tiene un Grammy y nueve Latin Grammy.",
+ "cover": {
+  "cancion": "Covers de Julieta Venegas",
+  "artista": "Julieta Venegas",
+  "credito": "Las canciones son de Julieta Venegas y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Julieta Venegas, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Julieta Venegas",
+   "bloques": [
+    "Creció en Tijuana, en la frontera de Baja California. Toca piano, acordeón, guitarra, ukulele y muchos instrumentos más.",
+    "Su primer disco, Aquí, salió en 1997. Desde entonces mezcla pop, rock y música del norte de México.",
+    "Tiene un Grammy y nueve Latin Grammy, según Wikipedia en español."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "Andar conmigo",
+        "2003",
+        "Primer sencillo del disco Sí"
+       ],
+       [
+        "Lento",
+        "2004",
+        "Segundo sencillo de Sí"
+       ],
+       [
+        "Algo está cambiando",
+        "2004",
+        "Tercer sencillo de Sí"
+       ],
+       [
+        "Me voy",
+        "2006",
+        "Llegó al número uno en varios países de América Latina"
+       ],
+       [
+        "[Limón y sal](/limon-y-sal-julieta-venegas/)",
+        "2007",
+        "Sencillo del disco del mismo nombre"
+       ],
+       [
+        "[Eres para mí](/eres-para-mi-julieta-venegas/)",
+        "2007",
+        "Del disco Limón y sal"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Aquí (1997)",
+       "Su primer disco."
+      ],
+      [
+       "Bueninvento (2000)",
+       "El segundo."
+      ],
+      [
+       "Sí (2003)",
+       "El de Andar conmigo, Lento y Algo está cambiando."
+      ],
+      [
+       "Limón y sal (2006)",
+       "El de Me voy."
+      ],
+      [
+       "Otra cosa (2010) y Los momentos (2013)",
+       "Dos discos de la misma década."
+      ],
+      [
+       "Algo sucede (2015)",
+       ""
+      ],
+      [
+       "La enamorada (2019)",
+       ""
+      ],
+      [
+       "Tu historia (2022)",
+       ""
+      ],
+      [
+       "Norteña (2026)",
+       "Su disco más reciente al revisar esta página."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Julieta canta con acordeón y yo con guitarra, pero sus canciones caben a guitarra y voz. Cada una va a tener su página.",
+    "Empieza por [Limón y sal](/limon-y-sal-julieta-venegas/) o [Eres para mí](/eres-para-mi-julieta-venegas/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De dónde es Julieta Venegas?",
+   "a": "Nació en Long Beach, California, y creció en Tijuana, Baja California."
+  },
+  {
+   "q": "¿Cuál es la canción más famosa de Julieta Venegas?",
+   "a": "Me voy, de 2006, llegó al número uno en varios países. Limón y sal y Andar conmigo también son de las más conocidas."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Julieta Venegas, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Julieta_Venegas"
+  }
+ ],
+ "hermanas": [
+  "limon-y-sal-julieta-venegas",
+  "eres-para-mi-julieta-venegas",
+  "ximena-sarinana",
+  "natalia-lafourcade",
+  "mon-laferte"
+ ]
 }

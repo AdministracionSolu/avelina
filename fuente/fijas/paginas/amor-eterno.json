@@ -1,17 +1,62 @@
 {
  "slug": "amor-eterno",
- "esqueleto": true,
  "estado": "borrador",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "amor eterno",
- "variantes": [
-  "juan gabriel amor eterno",
-  "rocío dúrcal amor eterno",
-  "amor interno",
-  "amor eterno juan gabriel",
-  "eterno amor juan gabriel",
-  "juan gabriel eterno amor"
+ "variantes": ["juan gabriel amor eterno", "rocío dúrcal amor eterno", "amor eterno juan gabriel", "eterno amor juan gabriel"],
+ "volumen": 75000,
+ "revisada": "2026-11-15",
+ "title": "Amor eterno de Juan Gabriel: su historia y mi cover",
+ "description": "Amor eterno: Juan Gabriel la escribió por la muerte de su madre y Rocío Dúrcal la grabó primero en 1984. Su historia, versiones y mi cover. Léela aquí.",
+ "h1": "Amor eterno, de Juan Gabriel",
+ "resumen": "La canción que Juan Gabriel escribió por su madre y que grabó primero Rocío Dúrcal.",
+ "respuesta": "Amor eterno es un bolero con mariachi de Juan Gabriel. Lo escribió por la muerte de su madre, en 1974. La primera en grabarlo fue Rocío Dúrcal, en 1984.",
+ "cover": {
+  "cancion": "Amor eterno",
+  "artista": "Juan Gabriel",
+  "compositor": ["Juan Gabriel"],
+  "credito": "Canción de Juan Gabriel (Alberto Aguilera Valadez). Aquí no va la letra: es de su autor.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {"h2": "Ficha de la canción", "bloques": [
+   {"tabla": {"cab": ["Dato", "Amor eterno"], "filas": [
+    ["Autor", "Juan Gabriel"],
+    ["Género", "Bolero con mariachi"],
+    ["Primera grabación", "Rocío Dúrcal, Canta a Juan Gabriel volumen 6 (1984)"],
+    ["Juan Gabriel en vivo", "Palacio de Bellas Artes, 1990"],
+    ["Reconocimiento", "Registro Nacional de Grabaciones de la Biblioteca del Congreso de Estados Unidos, 2024"]
+   ]}},
+   {"nota": "Datos de Wikipedia en español, revisados el 15 de noviembre de 2026."}
+  ]},
+  {"h2": "Por quién la escribió", "bloques": [
+   "Juan Gabriel contó que la escribió por su madre, que murió en 1974. Se enteró de la noticia mientras estaba de gira en Acapulco.",
+   "Es una canción de duelo, no de amor de pareja."
+  ]},
+  {"h2": "Rocío Dúrcal y Juan Gabriel", "bloques": [
+   "Rocío Dúrcal la grabó primero, en su sexto disco de canciones de Juan Gabriel. Para muchos es la canción más conocida de ella.",
+   "Juan Gabriel la cantó en 1990 en su primer concierto en el Palacio de Bellas Artes."
+  ]},
+  {"h2": "Otras versiones", "bloques": [
+   {"lista": [
+    "Pandora, en 1991.",
+    "Lucero, en 1999.",
+    "Il Divo con Juan Gabriel, en 2015.",
+    "Silvana Estrada, en 2018, una de las cantautoras que más me inspiran.",
+    "Belinda, en 2023, para una serie de Netflix."
+   ]},
+   "Si te gusta la versión de Silvana, mira su página: [Silvana Estrada](/silvana-estrada/)."
+  ]}
  ],
- "volumen": 75000
+ "faq": [
+  {"q": "¿Quién escribió Amor eterno?", "a": "Juan Gabriel. La escribió por la muerte de su madre, en 1974."},
+  {"q": "¿Quién cantó primero Amor eterno?", "a": "Rocío Dúrcal, en el disco Canta a Juan Gabriel volumen 6, de 1984."},
+  {"q": "¿Amor eterno es para una pareja?", "a": "No. Juan Gabriel la escribió por la muerte de su madre."}
+ ],
+ "fuentes": [
+  {"t": "Amor eterno (canción), Wikipedia en español", "url": "https://es.wikipedia.org/wiki/Amor_eterno_(canci%C3%B3n)"}
+ ],
+ "hermanas": ["por-que-me-haces-llorar-juan-gabriel", "cielito-lindo", "sabor-a-mi", "historia-de-un-amor", "silvana-estrada", "canciones-para-mama"]
 }

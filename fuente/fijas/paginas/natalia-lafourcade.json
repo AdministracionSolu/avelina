@@ -1,10 +1,4 @@
 {
- "slug": "natalia-lafourcade",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "artista",
- "coleccion": "covers",
- "cabeza": "natalia lafourcade",
  "variantes": [
   "canciones de natalia lafourcade",
   "lafourcade",
@@ -12,5 +6,152 @@
   "canciones natalia lafourcade",
   "natalia lafourcade canciones"
  ],
- "volumen": 42300
+ "volumen": 42300,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "natalia-lafourcade",
+ "espera_video": true,
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "natalia lafourcade",
+ "title": "Natalia Lafourcade: canciones, discos y covers a guitarra",
+ "description": "Natalia Lafourcade: quién es, sus discos de 2002 a 2025, la serie Musas y canciones como Hasta la raíz y Nunca es suficiente. Con mis covers a guitarra.",
+ "h1": "Natalia Lafourcade",
+ "resumen": "La cantautora de Coatepec: sus discos, Musas y sus canciones.",
+ "respuesta": "Natalia Lafourcade es una cantautora mexicana nacida en la Ciudad de México el 26 de febrero de 1984. Pasó buena parte de su infancia en Coatepec, Veracruz. Su disco Hasta la raíz, de 2015, es de los más queridos de su carrera.",
+ "cover": {
+  "cancion": "Covers de Natalia Lafourcade",
+  "artista": "Natalia Lafourcade",
+  "credito": "Las canciones son de Natalia Lafourcade y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Natalia Lafourcade, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Natalia Lafourcade",
+   "bloques": [
+    "Su nombre completo es María Natalia Lafourcade Silva. Creció entre Coatepec y la Ciudad de México.",
+    "Debutó en 2002 con un disco con su nombre, el de En el 2000. Luego vino Hu hu hu, en 2009.",
+    "Con Musas, en 2017, volvió a la música popular de América Latina junto a Los Macorinos.",
+    "Wikipedia en español da cifras distintas de sus premios. Habla de cuatro o cinco Grammy y de dieciocho a veinte Latin Grammy."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "[En el 2000](/en-el-2000-natalia-lafourcade/)",
+        "2002",
+        "Sencillo de su primer disco"
+       ],
+       [
+        "[Hasta la raíz](/hasta-la-raiz-natalia-lafourcade/)",
+        "2015",
+        "Canción que da nombre al disco"
+       ],
+       [
+        "[Nunca es suficiente](/nunca-es-suficiente/)",
+        "2015",
+        "Después la grabaron Los Ángeles Azules"
+       ],
+       [
+        "Tú sí sabes quererme",
+        "2017",
+        "Primer sencillo de Musas"
+       ],
+       [
+        "[Lo que construimos](/lo-que-construimos-natalia-lafourcade/)",
+        "",
+        "Una de sus canciones más buscadas"
+       ],
+       [
+        "Mi tierra veracruzana",
+        "",
+        "Una de sus canciones más buscadas"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Natalia Lafourcade (2002)",
+       "Su debut."
+      ],
+      [
+       "Hu hu hu (2009)",
+       ""
+      ],
+      [
+       "Mujer divina (2012)",
+       ""
+      ],
+      [
+       "Hasta la raíz (2015)",
+       ""
+      ],
+      [
+       "Musas (2017) y Musas vol. 2 (2018)",
+       "Con Los Macorinos, canciones de América Latina."
+      ],
+      [
+       "Un canto por México, vol. 1 y 2 (2020 y 2021)",
+       ""
+      ],
+      [
+       "De todas las flores (2022)",
+       ""
+      ],
+      [
+       "Cancionera (2025)",
+       "Su disco más reciente al revisar esta página."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Natalia está en mi lista de inspiraciones en [quién soy](/quien-soy/). Mis covers de ella van a guitarra y voz.",
+    "Cada canción tiene su página. Empieza por [Hasta la raíz](/hasta-la-raiz-natalia-lafourcade/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De dónde es Natalia Lafourcade?",
+   "a": "Nació en la Ciudad de México y pasó buena parte de su infancia en Coatepec, Veracruz."
+  },
+  {
+   "q": "¿Natalia Lafourcade escribió Nunca es suficiente?",
+   "a": "Sí. Salió en 2015 y después la hicieron famosa también Los Ángeles Azules."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Natalia Lafourcade, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Natalia_Lafourcade"
+  }
+ ],
+ "hermanas": [
+  "hasta-la-raiz-natalia-lafourcade",
+  "nunca-es-suficiente",
+  "lo-que-construimos-natalia-lafourcade",
+  "carla-morrison",
+  "silvana-estrada",
+  "julieta-venegas"
+ ]
 }

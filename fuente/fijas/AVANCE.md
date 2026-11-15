@@ -5,57 +5,40 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 
 | Estado | Páginas |
 |---|---|
-| esqueleto | 139 |
-| borrador | 2 |
-| espera video | 1 |
+| esqueleto | 120 |
+| espera video | 13 |
+| borrador | 9 |
 
 | Tipo | Estado | Páginas |
 |---|---|---|
-| artista | esqueleto | 18 |
-| carta | borrador | 1 |
-| carta | esqueleto | 19 |
-| cover | espera video | 1 |
-| cover | esqueleto | 49 |
+| artista | espera video | 7 |
+| artista | esqueleto | 11 |
+| carta | borrador | 6 |
+| carta | esqueleto | 14 |
+| cover | espera video | 6 |
+| cover | esqueleto | 44 |
 | fe | esqueleto | 17 |
-| guia | esqueleto | 7 |
-| herramienta | borrador | 1 |
-| herramienta | esqueleto | 6 |
+| guia | borrador | 1 |
+| guia | esqueleto | 6 |
+| herramienta | borrador | 2 |
+| herramienta | esqueleto | 5 |
 | lista | esqueleto | 22 |
 | marca | esqueleto | 1 |
 
 ## Esqueletos por escribir (de mayor a menor volumen)
 
-- mon-laferte (artista, 603,600)
 - jesus-adrian-romero (artista, 189,000)
-- carla-morrison (artista, 153,000)
 - canciones-cristianas (lista, 141,000)
 - reflexiones-de-la-vida (fe, 138,000)
 - alabanzas-cristianas (lista, 108,000)
-- cielito-lindo (cover, 93,000)
 - alabanzas-de-adoracion (lista, 90,000)
 - frases-de-dios (fe, 84,000)
-- cartas-de-amor (carta, 81,000)
 - frases-de-la-vida (fe, 81,000)
-- amor-eterno (cover, 75,000)
-- julieta-venegas (artista, 69,000)
-- sabor-a-mi (cover, 63,000)
-- carta-para-mi-novio (carta, 60,000)
-- feliz-cumpleanos-mama (carta, 60,000)
-- carta-para-una-amiga (carta, 48,000)
-- natalia-lafourcade (artista, 42,300)
 - buenos-dias-dios-te-bendiga (fe, 42,000)
-- las-mananitas (cover, 42,000)
-- acordes-de-ukulele (guia, 39,000)
-- feliz-cumpleanos-en-letra-bonita (herramienta, 39,000)
-- feliz-cumpleanos-mi-amor (carta, 36,000)
 - gracias-dios-por-todo (fe, 36,000)
-- la-bikina (cover, 36,000)
-- ximena-sarinana (artista, 36,000)
 - canciones-faciles-en-guitarra (lista, 33,000)
 - carta-para-mi-novia (carta, 33,000)
-- ed-maverick (artista, 33,000)
 - feliz-cumpleanos-amiga (carta, 33,000)
-- kevin-kaarl (artista, 33,000)
 - las-mananitas-vicente-fernandez (cover, 33,000)
 - oracion-cristiana-de-la-manana (fe, 33,000)
 - versiculos-de-la-biblia-para-reflexionar (fe, 33,000)

@@ -1,21 +1,59 @@
 {
  "slug": "carta-para-mi-novio",
- "esqueleto": true,
  "estado": "borrador",
  "tipo": "carta",
  "coleccion": "cartas",
  "cabeza": "carta para mi novio",
- "variantes": [
-  "carta bonita para mi novio",
-  "carta de amor para mi novio",
-  "cartas creativas para mi novio",
-  "cartas de amor para mi novio creativas",
-  "cartas para mi novio largas que hagan llorar",
-  "carta a mi novio",
-  "carta para el novio",
-  "carta para tu novio",
-  "cartas de amor para tu novio",
-  "novio cartas de amor"
+ "variantes": ["carta a mi novio", "carta bonita para mi novio", "carta de amor para mi novio", "cartas creativas para mi novio", "cartas para mi novio largas que hagan llorar"],
+ "volumen": 60000,
+ "revisada": "2026-11-15",
+ "title": "Carta para mi novio: 7 cartas bonitas, largas y cortas",
+ "description": "Carta para mi novio: siete cartas para aniversario, distancia, perdón o un día cualquiera, largas y cortas. Cámbiala y mándala como postal por WhatsApp.",
+ "h1": "Carta para mi novio",
+ "resumen": "Siete cartas para tu novio y tres formatos creativos.",
+ "respuesta": "Una buena carta para tu novio habla de algo que sólo ustedes dos vivieron. Abajo tienes siete cartas por ocasión, de largas a cortas. Cámbiales los detalles y mándala como postal desde el celular.",
+ "secciones": [
+  {"h2": "Escríbela y mándala como postal", "bloques": [
+   {"herramienta": {"tipo": "postal", "ocasion": "novio", "para": "Amor", "firma": "Tuya", "texto": "Hoy te escribo sin motivo, que es el mejor motivo.\n\nMe gusta quién soy cuando estoy contigo. Me río más, me preocupo menos y canto más fuerte.\n\nGracias por quedarte."}},
+   "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+  ]},
+  {"h2": "Para un aniversario", "bloques": [
+   {"carta": {"para": "Amor,", "texto": "Hoy cumplimos otro año y todavía me acuerdo de la primera vez que te vi. No sabía que esa tarde iba a cambiarme tanto.\n\nDesde entonces aprendí que querer también es quedarse en los días aburridos. Contigo hasta esos días tienen algo bonito.\n\nGracias por elegirme otra vez, todos los días.", "firma": "Tuya"}},
+   {"carta": {"para": "Mi vida,", "texto": "Un año más de tus chistes malos, de tus mensajes de buenos días y de tu mano buscando la mía.\n\nNo te prometo un amor perfecto. Te prometo uno de verdad.\n\nFeliz aniversario.", "firma": "Te amo"}}
+  ]},
+  {"h2": "Para cuando están lejos", "bloques": [
+   {"carta": {"para": "Amor,", "texto": "Aquí son las once y la ciudad no se calla. Yo sólo pienso en que mañana hablamos.\n\nLa distancia me enseñó a extrañar bonito. Te extraño en las canciones, en el café y en la mitad vacía de la cama.\n\nCuenta los días conmigo. Ya falta menos.", "firma": "Desde lejos, tuya"}}
+  ]},
+  {"h2": "Para pedir perdón", "bloques": [
+   {"carta": {"para": "Amor,", "texto": "Me equivoqué y lo sé. No te escribo para explicarme, te escribo para decirte que lo siento.\n\nTe dolió algo que yo dije, y eso me pesa más que tener la razón.\n\nQuiero hacerlo mejor. Contigo quiero hacerlo mejor.", "firma": "Perdóname"}}
+  ]},
+  {"h2": "Para un día cualquiera", "bloques": [
+   {"carta": {"para": "Oye,", "texto": "No es tu cumpleaños ni nuestro aniversario. Es martes y te quiero.\n\nEso es todo. Quería que lo tuvieras por escrito.", "firma": "Yo"}},
+   {"carta": {"para": "Amor,", "texto": "Gracias por cuidarme sin que te lo pida. Por preguntarme si ya comí y por acordarte de lo que me preocupa.\n\nNo siempre lo digo, pero lo noto todo.\n\nTe quiero mucho.", "firma": "Tuya"}},
+   {"carta": {"para": "Mi amor,", "texto": "Si un día dudas de lo que siento, lee esto. Te elegí cuando estabas bien y te elijo cuando estás mal.\n\nNo me voy a ir por un mal día. Me quedo por todos los buenos que vienen.", "firma": "Para siempre"}}
+  ]},
+  {"h2": "Tres formatos creativos", "bloques": [
+   {"lista": [
+    ["Carta en forma de receta.", "Ingredientes: tu risa, dos cafés y una tarde libre. Modo de preparación: tus pasos para hacerme feliz."],
+    ["Carta en pedacitos.", "Escribe diez razones por las que lo quieres, cada una en un papel doblado dentro de un frasco."],
+    ["Carta con una canción.", "Escribe por qué te recuerda a él y manda la canción junto. Mira [canciones para dedicar a mi novio](/canciones-para-dedicar-a-mi-novio/)."]
+   ]}
+  ]},
+  {"h2": "Cómo escribir la tuya", "bloques": [
+   {"pasos": [
+    "Empieza con un recuerdo que sólo ustedes conocen.",
+    "Di qué te gusta de él con un ejemplo, no con adjetivos.",
+    "Cuenta qué cambió en ti desde que están juntos.",
+    "Cierra con una promesa pequeña que sí puedas cumplir.",
+    "Fírmala como él te dice."
+   ]},
+   "Si la quieres larga, agrega un recuerdo por cada mes que llevan. Si la quieres para que llore, escribe lo que nunca le has dicho en voz alta."
+  ]}
  ],
- "volumen": 60000
+ "faq": [
+  {"q": "¿Qué le escribo a mi novio en una carta?", "a": "Un recuerdo de los dos, lo que te gusta de él con ejemplos y una promesa pequeña. Tres párrafos bastan."},
+  {"q": "¿Qué tan larga debe ser?", "a": "La que te salga sincera. Una carta corta y específica pesa más que una larga y genérica."},
+  {"q": "¿La postal se guarda en algún lado?", "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."}
+ ],
+ "hermanas": ["carta-para-mi-novia", "cartas-de-amor", "carta-de-amor-a-mano", "carta-de-san-valentin", "canciones-para-dedicar-a-mi-novio", "feliz-cumpleanos-mi-amor"]
 }

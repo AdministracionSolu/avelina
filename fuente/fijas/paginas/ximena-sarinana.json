@@ -1,13 +1,139 @@
 {
- "slug": "ximena-sarinana",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "artista",
- "coleccion": "covers",
- "cabeza": "ximena sariñana",
  "variantes": [
   "canciones de ximena sariñana",
   "sariñana"
  ],
- "volumen": 36000
+ "volumen": 36000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "ximena-sarinana",
+ "espera_video": true,
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "ximena sariñana",
+ "title": "Ximena Sariñana: canciones, discos y covers a guitarra",
+ "description": "Ximena Sariñana: quién es, de la actuación a la música, sus discos de 2008 a 2025 y canciones como Vidas paralelas y Normal. Con mis covers a guitarra.",
+ "h1": "Ximena Sariñana",
+ "resumen": "La cantautora tapatía: de las telenovelas a sus discos.",
+ "respuesta": "Ximena Sariñana es una cantautora y actriz nacida en Guadalajara el 29 de octubre de 1985. Debutó en la música en 2008 con el disco Mediocre. Antes actuó en telenovelas desde los 11 años.",
+ "cover": {
+  "cancion": "Covers de Ximena Sariñana",
+  "artista": "Ximena Sariñana",
+  "credito": "Las canciones son de Ximena Sariñana y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Ximena Sariñana, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Ximena Sariñana",
+   "bloques": [
+    "Empezó a actuar a los 11 años en la telenovela Luz Clarita. También salió en cine y en la serie La casa de las flores.",
+    "Su primer disco, Mediocre, la llevó a una nominación al Grammy en 2009.",
+    "Ha tenido varias nominaciones al Latin Grammy, entre ellas grabación y álbum del año en 2019."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "Vidas paralelas",
+        "2008",
+        "Sencillo de Mediocre"
+       ],
+       [
+        "Mediocre",
+        "2008",
+        "Canción que da nombre al disco"
+       ],
+       [
+        "Normal",
+        "2008",
+        "Nominada al Latin Grammy a mejor canción alternativa"
+       ],
+       [
+        "Si tú te vas",
+        "2019",
+        "Del disco ¿Dónde bailarán las niñas?"
+       ],
+       [
+        "Cobarde",
+        "2019",
+        "Nominada a grabación del año"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Mediocre (2008)",
+       "Su debut, nominado al Grammy."
+      ],
+      [
+       "Ximena Sariñana (2011)",
+       ""
+      ],
+      [
+       "No todo lo puedes dar (2014)",
+       ""
+      ],
+      [
+       "¿Dónde bailarán las niñas? (2019)",
+       "Nominado a álbum del año en los Latin Grammy."
+      ],
+      [
+       "Amor adolescente (2021)",
+       ""
+      ],
+      [
+       "Existencia kamikaze (2025)",
+       "Su disco más reciente al revisar esta página."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Sus canciones de piano también caben en guitarra. Mis covers de ella van a guitarra y voz.",
+    "Si te gusta Ximena, también te puede gustar [Julieta Venegas](/julieta-venegas/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De dónde es Ximena Sariñana?",
+   "a": "De Guadalajara, Jalisco. Nació el 29 de octubre de 1985."
+  },
+  {
+   "q": "¿Ximena Sariñana fue actriz?",
+   "a": "Sí. Empezó a los 11 años en Luz Clarita y salió en películas como Amarte duele."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Ximena Sariñana, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Ximena_Sari%C3%B1ana"
+  }
+ ],
+ "hermanas": [
+  "julieta-venegas",
+  "natalia-lafourcade",
+  "carla-morrison",
+  "mon-laferte",
+  "daniela-spalla"
+ ]
 }

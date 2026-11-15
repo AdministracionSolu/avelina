@@ -1,12 +1,129 @@
 {
- "slug": "ed-maverick",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "artista",
- "coleccion": "covers",
- "cabeza": "ed maverick",
  "variantes": [
   "canciones de ed maverick"
  ],
- "volumen": 33000
+ "volumen": 33000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "ed-maverick",
+ "espera_video": true,
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "ed maverick",
+ "title": "Ed Maverick: canciones, discos y covers a guitarra",
+ "description": "Ed Maverick: quién es, sus discos de 2018 a 2024 y sus canciones más conocidas como Fuentes de Ortiz y Acurrucar, con certificaciones. Con mis covers.",
+ "h1": "Ed Maverick",
+ "resumen": "El cantautor de Delicias: sus discos y sus canciones con certificación.",
+ "respuesta": "Ed Maverick es un cantautor mexicano nacido en Delicias, Chihuahua, el 19 de enero de 2001. Aprendió guitarra solo y se hizo conocido con Fuentes de Ortiz, en 2018. Esa canción tiene certificación de diamante en México.",
+ "cover": {
+  "cancion": "Covers de Ed Maverick",
+  "artista": "Ed Maverick",
+  "credito": "Las canciones son de Ed Maverick y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Ed Maverick, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Ed Maverick",
+   "bloques": [
+    "Su nombre es Eduardo Hernández Saucedo. Hace folk, música alternativa y rock latino.",
+    "Aprendió guitarra solo. Su primer disco, Mix pa' llorar en tu cuarto, salió en 2018 con un sello independiente.",
+    "En 2019 llenó el Teatro Metropólitan de la Ciudad de México más rápido que ningún otro artista mexicano. En 2022 tocó en Coachella."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "Fuentes de Ortiz",
+        "2018",
+        "Certificación de diamante en México"
+       ],
+       [
+        "Acurrucar",
+        "2019",
+        "Doble platino"
+       ],
+       [
+        "Del río",
+        "",
+        "Platino y oro"
+       ],
+       [
+        "Párteme la cara",
+        "2021",
+        "Con C. Tangana, platino en España"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Kasero (2017)",
+       "EP."
+      ],
+      [
+       "Mix pa' llorar en tu cuarto (2018)",
+       "Su primer disco."
+      ],
+      [
+       "Transiciones (2019)",
+       "Con Universal Music México."
+      ],
+      [
+       "eduardo (2021)",
+       ""
+      ],
+      [
+       "La nube en el jardín (2024)",
+       "Un disco hecho como una sola pista de 53 minutos."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Ed Maverick está en mi lista de inspiraciones en [quién soy](/quien-soy/). Como él, toco sola con mi guitarra.",
+    "Sus canciones viven a guitarra y voz, y así van mis covers."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De dónde es Ed Maverick?",
+   "a": "De Delicias, Chihuahua. Nació el 19 de enero de 2001."
+  },
+  {
+   "q": "¿Cuál es la canción más famosa de Ed Maverick?",
+   "a": "Fuentes de Ortiz, de 2018. Tiene certificación de diamante en México."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Ed Maverick, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Ed_Maverick"
+  }
+ ],
+ "hermanas": [
+  "kevin-kaarl",
+  "caloncho",
+  "silvana-estrada",
+  "carla-morrison",
+  "cantautores"
+ ]
 }

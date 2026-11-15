@@ -1,13 +1,130 @@
 {
- "slug": "feliz-cumpleanos-mi-amor",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "carta",
- "coleccion": "cumpleanos",
- "cabeza": "cumpleaños feliz mi amor",
  "variantes": [
   "feliz cumpleaños mi amor letras bonitas",
   "cartas de amor de feliz cumpleaños"
  ],
- "volumen": 36000
+ "volumen": 36000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "feliz-cumpleanos-mi-amor",
+ "tipo": "carta",
+ "coleccion": "cumpleanos",
+ "cabeza": "cumpleaños feliz mi amor",
+ "title": "Feliz cumpleaños mi amor: mensajes y carta para mandar",
+ "description": "Feliz cumpleaños, mi amor: mensajes cortos, cartas largas y frases para su día, de novia, novio o esposa. Cámbialos y mándalos como postal por WhatsApp.",
+ "h1": "Feliz cumpleaños, mi amor",
+ "resumen": "Mensajes y cartas de cumpleaños para tu pareja, listos para mandar.",
+ "respuesta": "Para el cumpleaños de tu pareja, junta un recuerdo de este año y un deseo para el que empieza. Aquí tienes mensajes cortos y cartas largas. Escoge uno, cámbialo y mándalo como postal.",
+ "secciones": [
+  {
+   "h2": "Mándale una postal de cumpleaños",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "cumple-amor",
+      "para": "Mi amor",
+      "firma": "Tuya",
+      "texto": "Feliz cumpleaños, mi amor.\n\nGracias por otro año a tu lado. Que el tuyo venga lleno de lo que sueñas y que yo esté cerca para verlo.\n\nTe amo."
+     }
+    },
+    "Toca «Usar esta carta» en cualquier mensaje de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Mensajes cortos",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Feliz cumpleaños a la persona que hace bonito hasta el lunes.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Hoy celebro que naciste y que me encontraste. Feliz cumpleaños, amor.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Que este año te dé tantas razones para sonreír como tú me das a mí.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cartas de cumpleaños para tu pareja",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Mi amor,",
+      "texto": "Hoy cumples años y yo quiero darte las gracias. Por tu paciencia, por tus abrazos largos y por quedarte en mis días difíciles.\n\nEste año aprendí que contigo todo es más ligero. Te deseo un año que te trate como tú me tratas a mí.\n\nFeliz cumpleaños.",
+      "firma": "Te amo"
+     }
+    },
+    {
+     "carta": {
+      "para": "Amor,",
+      "texto": "Otro año de verte crecer, de reírnos de lo mismo y de planear viajes que a veces sí hacemos.\n\nNo sé qué traiga este año. Sí sé que lo quiero vivir contigo.\n\nFeliz cumpleaños, mi vida.",
+      "firma": "Tuyo"
+     }
+    },
+    {
+     "carta": {
+      "para": "Mi amor,",
+      "texto": "Estamos lejos en tu cumpleaños y me pesa. Te mando esta carta para que la leas antes de dormir.\n\nCierra los ojos y piensa que estoy ahí cantándote. Pronto lo hago en persona.",
+      "firma": "Desde lejos"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Ideas para su día",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Despiértale con las mañanitas.",
+       "Mira [las mañanitas de cumpleaños](/las-mananitas/)."
+      ],
+      [
+       "Escribe su nombre en letra bonita.",
+       "Usa el [feliz cumpleaños en letra bonita](/feliz-cumpleanos-en-letra-bonita/)."
+      ],
+      [
+       "Junta la carta con canciones.",
+       "Mira [canciones para cumpleaños](/canciones-para-cumpleanos/)."
+      ],
+      [
+       "Escóndele notas de amor.",
+       "Hay ideas de una línea en [cartas de amor](/cartas-de-amor/)."
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué le escribo a mi pareja en su cumpleaños?",
+   "a": "Un gracias concreto de este año, un recuerdo de los dos y un deseo para su nuevo año."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
+ ],
+ "hermanas": [
+  "cartas-de-amor",
+  "carta-para-mi-novio",
+  "carta-para-mi-novia",
+  "feliz-cumpleanos-en-letra-bonita",
+  "las-mananitas",
+  "canciones-para-cumpleanos"
+ ]
 }

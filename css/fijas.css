@@ -70,3 +70,6 @@
 .f-arriba.primera{min-height:0;padding-bottom:clamp(48px,7vw,80px)}
 .f-cover .postal-dorso h2{font:italic 500 clamp(1.9rem,3.4vw,2.6rem)/1.1 var(--texto)}
 .f-cover .postal-dorso{min-height:0;padding-top:96px}
+.f-texto{min-width:0}.f-texto canvas,.f-texto img{max-width:100%}
+.lg-papel input{width:auto;padding:0;border:0;background:none}
+.f-h1{overflow-wrap:anywhere}

@@ -9,20 +9,20 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 
 | # | Qué grabar | Artista o canción | Búsquedas al mes | Página | Escrita |
 |---|---|---|---|---|---|
-| 1 | cualquier canción de mon laferte | mon laferte | 603,600 | /mon-laferte/ | no (esqueleto) |
+| 1 | Covers de Mon Laferte | mon laferte | 603,600 | /mon-laferte/ | sí |
 | 2 | cualquier canción de jesus adrian romero | jesus adrian romero | 189,000 | /jesus-adrian-romero/ | no (esqueleto) |
-| 3 | cualquier canción de carla morrison | carla morrison | 153,000 | /carla-morrison/ | no (esqueleto) |
+| 3 | Covers de Carla Morrison | carla morrison | 153,000 | /carla-morrison/ | sí |
 | 4 | Tu falta de querer | mon laferte tu falta de querer | 96,000 | /tu-falta-de-querer-mon-laferte/ | sí |
-| 5 | cielito lindo | cielito lindo | 93,000 | /cielito-lindo/ | no (esqueleto) |
-| 6 | amor eterno | amor eterno | 75,000 | /amor-eterno/ | no (esqueleto) |
-| 7 | cualquier canción de julieta venegas | julieta venegas | 69,000 | /julieta-venegas/ | no (esqueleto) |
-| 8 | sabor a mi | sabor a mi | 63,000 | /sabor-a-mi/ | no (esqueleto) |
-| 9 | cualquier canción de natalia lafourcade | natalia lafourcade | 42,300 | /natalia-lafourcade/ | no (esqueleto) |
-| 10 | mañanitas de cunpleaños | mañanitas de cunpleaños | 42,000 | /las-mananitas/ | no (esqueleto) |
-| 11 | la bikina | la bikina | 36,000 | /la-bikina/ | no (esqueleto) |
-| 12 | cualquier canción de ximena sariñana | ximena sariñana | 36,000 | /ximena-sarinana/ | no (esqueleto) |
-| 13 | cualquier canción de ed maverick | ed maverick | 33,000 | /ed-maverick/ | no (esqueleto) |
-| 14 | cualquier canción de kevin kaarl | kevin kaarl | 33,000 | /kevin-kaarl/ | no (esqueleto) |
+| 5 | Cielito lindo | cielito lindo | 93,000 | /cielito-lindo/ | sí |
+| 6 | Amor eterno | amor eterno | 75,000 | /amor-eterno/ | sí |
+| 7 | Covers de Julieta Venegas | julieta venegas | 69,000 | /julieta-venegas/ | sí |
+| 8 | Sabor a mí | sabor a mi | 63,000 | /sabor-a-mi/ | sí |
+| 9 | Covers de Natalia Lafourcade | natalia lafourcade | 42,300 | /natalia-lafourcade/ | sí |
+| 10 | Las mañanitas | mañanitas de cunpleaños | 42,000 | /las-mananitas/ | sí |
+| 11 | La bikina | la bikina | 36,000 | /la-bikina/ | sí |
+| 12 | Covers de Ximena Sariñana | ximena sariñana | 36,000 | /ximena-sarinana/ | sí |
+| 13 | Covers de Ed Maverick | ed maverick | 33,000 | /ed-maverick/ | sí |
+| 14 | Covers de Kevin Kaarl | kevin kaarl | 33,000 | /kevin-kaarl/ | sí |
 | 15 | mañanitas vicente fernández | mañanitas vicente fernández | 33,000 | /las-mananitas-vicente-fernandez/ | no (esqueleto) |
 | 16 | cualquier canción de caloncho | caloncho | 30,000 | /caloncho/ | no (esqueleto) |
 | 17 | la llorona | la llorona | 30,000 | /la-llorona/ | no (esqueleto) |

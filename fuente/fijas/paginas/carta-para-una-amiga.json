@@ -1,17 +1,50 @@
 {
  "slug": "carta-para-una-amiga",
- "esqueleto": true,
  "estado": "borrador",
  "tipo": "carta",
  "coleccion": "cartas",
  "cabeza": "carta para una amiga",
- "variantes": [
-  "carta de amistad para una amiga",
-  "carta especial para una amiga",
-  "bonitas cartas para amigas",
-  "carta a una amiga",
-  "carta para mi amiga",
-  "carta amiga"
+ "variantes": ["carta a una amiga", "carta para mi amiga", "carta amiga", "carta de amistad para una amiga", "carta especial para una amiga", "bonitas cartas para amigas"],
+ "volumen": 48000,
+ "revisada": "2026-11-15",
+ "title": "Carta para una amiga: 6 cartas de amistad para mandar",
+ "description": "Carta para una amiga: seis cartas de amistad para darle las gracias, felicitarla, pedirle perdón o decirle que la extrañas. Mándala como postal gratis.",
+ "h1": "Carta para una amiga",
+ "resumen": "Seis cartas de amistad para gracias, cumpleaños, perdón o distancia.",
+ "respuesta": "Una carta para una amiga se escribe con recuerdos de las dos. Aquí tienes seis cartas de amistad para distintos momentos. Cambia los detalles y mándala como postal desde el celular.",
+ "secciones": [
+  {"h2": "Escribe tu carta de amistad", "bloques": [
+   {"herramienta": {"tipo": "postal", "ocasion": "amiga", "para": "Amiga", "firma": "Tu amiga de siempre", "texto": "Hoy me acordé de ti y me reí sola en la calle.\n\nGracias por estar en mis días buenos y en los que no supe explicar.\n\nTe quiero mucho."}},
+   "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+  ]},
+  {"h2": "Para darle las gracias", "bloques": [
+   {"carta": {"para": "Amiga,", "texto": "Nunca te di las gracias como se debe. Por las llamadas largas, por las risas a deshoras y por no juzgarme.\n\nHay personas que llegan y se quedan. Tú eres de esas.\n\nGracias por existir en mi vida.", "firma": "Tu amiga"}},
+   {"carta": {"para": "Amiga,", "texto": "Me acuerdo del día que me ayudaste sin que te lo pidiera. Yo no sabía cómo decirlo y tú ya lo sabías.\n\nEso es amistad. Saber sin que te expliquen.", "firma": "Con cariño"}}
+  ]},
+  {"h2": "Para cuando están lejos", "bloques": [
+   {"carta": {"para": "Amiga,", "texto": "Nos separan muchas horas de carretera, pero no se nota cuando hablamos.\n\nExtraño nuestras tardes, tus audios eternos y que me digas la verdad aunque duela.\n\nGuárdame un lugar en tu sillón. Pronto voy.", "firma": "Desde lejos"}}
+  ]},
+  {"h2": "Para pedirle perdón", "bloques": [
+   {"carta": {"para": "Amiga,", "texto": "Te fallé y lo sé. No quiero perder lo que tenemos por mi orgullo.\n\nTe extraño y lo siento. Cuando quieras, aquí estoy.", "firma": "Tu amiga"}}
+  ]},
+  {"h2": "Para un día especial", "bloques": [
+   {"carta": {"para": "Amiga,", "texto": "Hoy es tu día y quiero que sepas lo que vales. Eres valiente, divertida y leal.\n\nQue este año te trate como tú tratas a los demás.\n\nTe quiero.", "firma": "Tu amiga"}},
+   {"carta": {"para": "Para mi amiga,", "texto": "Una carta cortita para decirte algo grande. Contigo todo pesa menos.", "firma": ""}}
+  ]},
+  {"h2": "Cómo escribir la tuya", "bloques": [
+   {"pasos": [
+    "Empieza con un recuerdo de las dos. Un viaje, una tontería o una noche de plática.",
+    "Dile una cualidad suya con un ejemplo de cuándo la viste.",
+    "Agradécele algo concreto.",
+    "Cierra con un plan para verse pronto."
+   ]},
+   "Si es tu amiga de toda la vida, mira las cartas para [mi mejor amiga](/carta-para-mi-mejor-amiga/)."
+  ]}
  ],
- "volumen": 48000
+ "faq": [
+  {"q": "¿Qué le escribo a una amiga en una carta?", "a": "Un recuerdo de las dos, una cualidad suya con ejemplo y un gracias concreto."},
+  {"q": "¿Puedo usar estas cartas tal cual?", "a": "Sí. Son para copiar, cambiar y mandar."},
+  {"q": "¿La postal se guarda en algún lado?", "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."}
+ ],
+ "hermanas": ["carta-para-mi-mejor-amiga", "carta-del-dia-del-amor-y-la-amistad", "feliz-cumpleanos-amiga", "canciones-para-una-amiga", "cartas-para-amiga-secreta"]
 }

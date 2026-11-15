@@ -1,16 +1,175 @@
 {
  "slug": "carla-morrison",
- "esqueleto": true,
  "estado": "borrador",
+ "espera_video": true,
  "tipo": "artista",
  "coleccion": "covers",
  "cabeza": "carla morrison",
  "variantes": [
   "canciones de carla morrison",
-  "carla morrison carla morrison",
   "carla carla morrison",
-  "morrison carla",
-  "carla korrison"
+  "morrison carla"
  ],
- "volumen": 153000
+ "volumen": 153000,
+ "revisada": "2026-11-15",
+ "title": "Carla Morrison: canciones, discos y covers a guitarra",
+ "description": "Carla Morrison: quién es, sus discos de 2009 a 2022 y sus canciones más conocidas con año y premio. Con mis covers a guitarra y voz. Empieza por aquí.",
+ "h1": "Carla Morrison",
+ "resumen": "La cantautora de Tecate: sus discos, sus premios y sus canciones.",
+ "respuesta": "Carla Morrison es una cantautora mexicana nacida en Tecate, Baja California, el 19 de julio de 1986. Su disco Déjenme llorar ganó dos Latin Grammy en 2012. Es una de las voces que más me inspiran.",
+ "cover": {
+  "cancion": "Covers de Carla Morrison",
+  "artista": "Carla Morrison",
+  "credito": "Las canciones son de Carla Morrison y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Carla Morrison, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Carla Morrison",
+   "bloques": [
+    "Su nombre completo es Carla Patricia Morrison Flores. Es de Tecate, en la frontera de Baja California.",
+    "Empezó con discos cortos, de pocas canciones. El primero fue Aprendiendo a aprender, en 2009.",
+    "Lleva tres Latin Grammy. Dos fueron en 2012 por Déjenme llorar y uno en 2016 por la canción Vez primera."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "[Compartir](/compartir-carla-morrison/)",
+        "2010",
+        "Del EP Mientras tú dormías, que produjo Natalia Lafourcade"
+       ],
+       [
+        "[Déjenme llorar](/dejenme-llorar-carla-morrison/)",
+        "2012",
+        "Latin Grammy a mejor canción alternativa"
+       ],
+       [
+        "[Eres tú](/eres-tu-carla-morrison/)",
+        "2012",
+        "Una de sus canciones más escuchadas"
+       ],
+       [
+        "Un beso",
+        "2015",
+        "De la época de Amor supremo"
+       ],
+       [
+        "Vez primera",
+        "2015",
+        "Latin Grammy a mejor canción alternativa en 2016"
+       ],
+       [
+        "[Te regalo](/te-regalo-carla-morrison/)",
+        "2017",
+        "Una de sus canciones más escuchadas"
+       ],
+       [
+        "[Contigo](/contigo-carla-morrison/)",
+        "2021",
+        "Sencillo antes de El renacimiento"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Aprendiendo a aprender (2009)",
+       "EP."
+      ],
+      [
+       "Mientras tú dormías (2010)",
+       "EP producido por Natalia Lafourcade."
+      ],
+      [
+       "Déjenme llorar (2012)",
+       "Latin Grammy a mejor álbum alternativo."
+      ],
+      [
+       "Jugando en serio (2013)",
+       "EP."
+      ],
+      [
+       "Amor supremo (2015)",
+       "Su segundo disco de estudio."
+      ],
+      [
+       "La niña del tambor (2016)",
+       "EP."
+      ],
+      [
+       "Amor supremo desnudo (2017)",
+       "Las mismas canciones, en versión acústica."
+      ],
+      [
+       "El renacimiento (2022)",
+       "Siete años después de Amor supremo."
+      ],
+      [
+       "Los cuatro actos acústicos (2022)",
+       "EP."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Por qué está en mi lista",
+   "bloques": [
+    "En [quién soy](/quien-soy/) cuento que me inspiran Kevin Kaarl, Ed Maverick, Carla Morrison, Natalia Lafourcade y Silvana Estrada.",
+    "Uno de mis covers que más se escucharon fue Amor amor, de Carla Morrison. Lo cuento en la página de [Amor amor](/amor-amor-carla-morrison/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De dónde es Carla Morrison?",
+   "a": "De Tecate, Baja California, México. Nació el 19 de julio de 1986."
+  },
+  {
+   "q": "¿Cuántos Latin Grammy tiene Carla Morrison?",
+   "a": "Tres. Dos en 2012 por Déjenme llorar y uno en 2016 por Vez primera."
+  },
+  {
+   "q": "¿Cuál es su disco más famoso?",
+   "a": "Déjenme llorar, de 2012. Ganó el Latin Grammy a mejor álbum alternativo."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Carla Morrison, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Carla_Morrison"
+  },
+  {
+   "t": "Compartir, ficha en Shazam",
+   "url": "https://www.shazam.com/song/1862918828/compartir"
+  },
+  {
+   "t": "Carla Morrison, Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Carla_Morrison"
+  }
+ ],
+ "hermanas": [
+  "amor-amor-carla-morrison",
+  "dejenme-llorar-carla-morrison",
+  "te-regalo-carla-morrison",
+  "mon-laferte",
+  "natalia-lafourcade",
+  "silvana-estrada"
+ ]
 }

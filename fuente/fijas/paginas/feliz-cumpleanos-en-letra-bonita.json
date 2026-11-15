@@ -1,14 +1,101 @@
 {
- "slug": "feliz-cumpleanos-en-letra-bonita",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "herramienta",
- "coleccion": "cumpleanos",
- "cabeza": "cumpleaños feliz en letras",
  "variantes": [
   "feliz cumpleaños en letra bonita",
   "happy birthday letra bonita",
   "letras de feliz cumpleaños"
  ],
- "volumen": 39000
+ "volumen": 39000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "feliz-cumpleanos-en-letra-bonita",
+ "tipo": "herramienta",
+ "coleccion": "cumpleanos",
+ "cabeza": "cumpleaños feliz en letras",
+ "title": "Feliz cumpleaños en letra bonita: hazlo con su nombre",
+ "description": "Escribe feliz cumpleaños en letra bonita con el nombre que quieras y guárdalo como imagen. Tres papeles de color, gratis y sin registrarte. Hazlo aquí.",
+ "h1": "Feliz cumpleaños en letra bonita",
+ "resumen": "Escribe feliz cumpleaños con su nombre en letra bonita y guárdalo como imagen.",
+ "respuesta": "Escribe el nombre de quien cumple años y el texto aparece en letra bonita, hecha a mano. Escoge el papel y guárdalo como imagen. Sirve para historias, estados de WhatsApp o para imprimir.",
+ "secciones": [
+  {
+   "h2": "Escríbelo aquí",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "letra-bonita",
+      "texto": "Feliz cumpleaños"
+     }
+    },
+    {
+     "nota": "La imagen se hace en tu teléfono. No se sube a ningún lado."
+    }
+   ]
+  },
+  {
+   "h2": "Cómo usarlo",
+   "bloques": [
+    {
+     "pasos": [
+      "Deja el texto como está o cámbialo. Por ejemplo, Feliz cumple o Happy birthday.",
+      "Escribe el nombre de la persona.",
+      "Escoge el papel crema, azul noche o durazno.",
+      "Toca Guardar como imagen y compártela donde quieras."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Ideas para usar la imagen",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "En una historia de Instagram.",
+       "La imagen es cuadrada, de 1080 por 1080."
+      ],
+      [
+       "En el estado de WhatsApp.",
+       "Mándala temprano, como las mañanitas."
+      ],
+      [
+       "Impresa en una tarjeta.",
+       "Pégala y escribe una carta abajo. Hay ideas en [feliz cumpleaños para dedicar](/feliz-cumpleanos-para-dedicar/)."
+      ],
+      [
+       "Con una canción.",
+       "Mira [canciones para cumpleaños](/canciones-para-cumpleanos/)."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir feliz cumpleaños a mano",
+   "bloques": [
+    "Si lo quieres hacer tú con pluma, escribe primero con lápiz y muy suave. Luego repasa las bajadas de cada letra más gruesas y las subidas más delgadas.",
+    "Une las letras sin levantar la pluma dentro de cada palabra. Deja aire entre palabras. Si sale un poco chueco, se ve más hecho a mano."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Es gratis?",
+   "a": "Sí. No pide cuenta ni descarga."
+  },
+  {
+   "q": "¿Qué letra usa?",
+   "a": "Oooh Baby, una letra manuscrita de licencia libre (SIL Open Font License)."
+  },
+  {
+   "q": "¿Puedo escribir otro texto?",
+   "a": "Sí. Cambia Feliz cumpleaños por lo que quieras, hasta 40 letras."
+  }
+ ],
+ "hermanas": [
+  "feliz-cumpleanos-mama",
+  "feliz-cumpleanos-mi-amor",
+  "feliz-cumpleanos-amiga",
+  "feliz-cumpleanos-para-dedicar",
+  "las-mananitas"
+ ]
 }

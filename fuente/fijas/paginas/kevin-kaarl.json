@@ -1,12 +1,135 @@
 {
- "slug": "kevin-kaarl",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "artista",
- "coleccion": "covers",
- "cabeza": "kevin kaarl",
  "variantes": [
   "canciones de kevin kaarl"
  ],
- "volumen": 33000
+ "volumen": 33000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "kevin-kaarl",
+ "espera_video": true,
+ "tipo": "artista",
+ "coleccion": "covers",
+ "cabeza": "kevin kaarl",
+ "title": "Kevin Kaarl: canciones, discos y covers a guitarra",
+ "description": "Kevin Kaarl: quién es, sus discos de 2019 a 2025 y sus canciones más conocidas como San Lucas, Colapso y Vámonos a marte. Con mis covers a guitarra y voz.",
+ "h1": "Kevin Kaarl",
+ "resumen": "El cantautor de Chihuahua: sus discos y sus canciones más buscadas.",
+ "respuesta": "Kevin Kaarl es un cantautor de folk nacido en Meoqui, Chihuahua, el 15 de mayo de 2000. Su canción San Lucas llegó al número uno del top de YouTube en México. Es de los artistas que más me inspiran.",
+ "cover": {
+  "cancion": "Covers de Kevin Kaarl",
+  "artista": "Kevin Kaarl",
+  "credito": "Las canciones son de Kevin Kaarl y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Kevin Kaarl, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Kevin Kaarl",
+   "bloques": [
+    "Su nombre es Kevin Eduardo Hernández Carlos. Hace folk e indie folk, muy de guitarra y voz.",
+    "Su hermano gemelo, Bryan Kaarl, toca la trompeta y hace segunda voz en sus conciertos.",
+    "Su primer sencillo, Amor viejo, salió el 18 de septiembre de 2018. En 2023 ganó el Premio Rolling Stone en Español como artista promesa."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "Amor viejo",
+        "2018",
+        "Su primer sencillo"
+       ],
+       [
+        "Vámonos a marte",
+        "2018",
+        "Número uno del Top 40 de Chile"
+       ],
+       [
+        "[Colapso](/colapso-kevin-kaarl/)",
+        "2019",
+        "Del disco Hasta el fin del mundo"
+       ],
+       [
+        "[San Lucas](/san-lucas-kevin-kaarl/)",
+        "2019",
+        "Del EP San Lucas, número uno del top de YouTube en México"
+       ],
+       [
+        "Es que yo te quiero a ti",
+        "2020",
+        ""
+       ],
+       [
+        "Toda esta ciudad",
+        "2021",
+        ""
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Hasta el fin del mundo (2019)",
+       "Su primer disco."
+      ],
+      [
+       "San Lucas (2019)",
+       "EP."
+      ],
+      [
+       "París, Texas (2022)",
+       ""
+      ],
+      [
+       "Ultra Sodade (2025)",
+       "Su disco más reciente al revisar esta página."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Kevin Kaarl está en mi lista de inspiraciones en [quién soy](/quien-soy/). Su música es de guitarra y voz, como la mía.",
+    "Cada canción tiene su página. Empieza por [San Lucas](/san-lucas-kevin-kaarl/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De dónde es Kevin Kaarl?",
+   "a": "De Meoqui, Chihuahua. Nació el 15 de mayo de 2000."
+  },
+  {
+   "q": "¿Cuál es la canción más famosa de Kevin Kaarl?",
+   "a": "San Lucas, que llegó al número uno del top de YouTube en México."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Kevin Kaarl, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Kevin_Kaarl"
+  }
+ ],
+ "hermanas": [
+  "san-lucas-kevin-kaarl",
+  "colapso-kevin-kaarl",
+  "ed-maverick",
+  "silvana-estrada",
+  "carla-morrison"
+ ]
 }

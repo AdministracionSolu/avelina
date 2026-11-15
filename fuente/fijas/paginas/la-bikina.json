@@ -1,13 +1,68 @@
 {
  "slug": "la-bikina",
- "esqueleto": true,
  "estado": "borrador",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "la bikina",
- "variantes": [
-  "la bikina luis miguel",
-  "luis miguel la bikina"
+ "variantes": ["la bikina luis miguel", "luis miguel la bikina"],
+ "volumen": 36000,
+ "revisada": "2026-11-15",
+ "title": "La bikina: quién la escribió, su historia y mi cover",
+ "description": "La bikina es de Rubén Fuentes, de 1964. Las tres historias de su nombre, la versión en vivo de Luis Miguel grabada en Monterrey y mi cover. Léela aquí.",
+ "h1": "La bikina",
+ "resumen": "La canción de Rubén Fuentes y las tres historias de su nombre.",
+ "respuesta": "La bikina es una canción del compositor mexicano Rubén Fuentes, de 1964. Luis Miguel la grabó en vivo en Monterrey en abril de 2000. Salió como sencillo de su disco Vivo ese mismo año.",
+ "cover": {
+  "cancion": "La bikina",
+  "artista": "Rubén Fuentes",
+  "compositor": ["Rubén Fuentes"],
+  "credito": "Canción de Rubén Fuentes (1964). Aquí no va la letra: es de su autor.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {"h2": "Ficha de la canción", "bloques": [
+   {"tabla": {"cab": ["Dato", "La bikina"], "filas": [
+    ["Autor de la música", "Rubén Fuentes"],
+    ["Año", "1964"],
+    ["Versión de Luis Miguel", "En vivo en el Auditorio Coca-Cola de Monterrey, abril de 2000"],
+    ["Disco", "Vivo (2000)"],
+    ["En el cine", "Coco, en la voz de Karol Sevilla"]
+   ]}},
+   {"nota": "Datos de Wikipedia en español y en inglés, revisados el 15 de noviembre de 2026."}
+  ]},
+  {"h2": "Tres historias para un nombre", "bloques": [
+   "Nadie cuenta igual de dónde salió el nombre. Wikipedia junta tres versiones.",
+   {"pasos": [
+    "Fuentes caminaba por la playa y su hijo propuso llamar bikinas a las mujeres en bikini.",
+    "Otra versión la liga con la época de la Guerra Cristera.",
+    "Fuentes contó otra. Hizo una pieza instrumental para Juan García Esquivel, que la llamó The Beginning, y de ahí se deformó en La bikina."
+   ]},
+   "Tampoco hay acuerdo sobre quién escribió la letra. Unos la dan a Alexandro F. Roth, hijo de Fuentes, y otros a Imelda Miller. Fuentes decía que la escribió él."
+  ]},
+  {"h2": "La versión de Luis Miguel", "bloques": [
+   "Luis Miguel la grabó en vivo en abril de 2000, en el Auditorio Coca-Cola de Monterrey. Salió como sencillo de Vivo en septiembre de ese año.",
+   "Vivo en Monterrey y esa grabación es parte de la ciudad. Por eso esta canción está en mi lista."
+  ]},
+  {"h2": "Otras versiones", "bloques": [
+   {"lista": [
+    "Celia Cruz.",
+    "Las orquestas de Paul Mauriat y Ray Conniff.",
+    "Yanni, en instrumental.",
+    "Julio Iglesias, en francés.",
+    "Karol Sevilla, para la película Coco."
+   ]},
+   "También fue el tema de la caricatura Cantinflas Show, en los años setenta y ochenta."
+  ]}
  ],
- "volumen": 36000
+ "faq": [
+  {"q": "¿Quién escribió La bikina?", "a": "Rubén Fuentes compuso la música en 1964. La autoría de la letra tiene varias versiones."},
+  {"q": "¿Dónde grabó Luis Miguel La bikina?", "a": "En vivo en el Auditorio Coca-Cola de Monterrey, en abril de 2000."},
+  {"q": "¿Qué significa bikina?", "a": "No tiene un significado fijo. Hay tres historias del nombre y ninguna está confirmada."}
+ ],
+ "fuentes": [
+  {"t": "La bikina, Wikipedia en español", "url": "https://es.wikipedia.org/wiki/La_bikina"},
+  {"t": "La Bikina, Wikipedia en inglés", "url": "https://en.wikipedia.org/wiki/La_Bikina"}
+ ],
+ "hermanas": ["sabor-a-mi", "cielito-lindo", "amor-eterno", "la-llorona", "historia-de-un-amor"]
 }
