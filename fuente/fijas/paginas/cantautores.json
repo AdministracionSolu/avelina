@@ -1,12 +1,109 @@
 {
- "slug": "cantautores",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "guia",
- "coleccion": "marca",
- "cabeza": "cantautores",
  "variantes": [
   "cantantes mexicanas"
  ],
- "volumen": 6000
+ "volumen": 6000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "cantautores",
+ "tipo": "guia",
+ "coleccion": "marca",
+ "cabeza": "cantautores",
+ "title": "Cantautores: qué es y cantautoras mexicanas de hoy",
+ "description": "Qué es un cantautor y quiénes son las cantautoras y cantautores mexicanos de hoy, de Natalia Lafourcade a Kevin Kaarl, con sus discos. Y por qué yo soy una.",
+ "h1": "Cantautores y cantautoras mexicanas",
+ "resumen": "Qué es un cantautor y las cantautoras mexicanas que me inspiran.",
+ "respuesta": "Un cantautor es quien canta las canciones que escribe. En México hay una generación fuerte de cantautoras y cantautores, de Natalia Lafourcade a Silvana Estrada. Yo también soy cantautora: canto lo que escribo.",
+ "secciones": [
+  {
+   "h2": "Qué es un cantautor",
+   "bloques": [
+    "La palabra junta cantante y autor. Es quien escribe la letra y la música de sus canciones y además las canta.",
+    "Muchos tocan su propio instrumento, casi siempre guitarra o piano."
+   ]
+  },
+  {
+   "h2": "Cantautoras y cantautores mexicanos de hoy",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Artista",
+       "De dónde es",
+       "Para empezar"
+      ],
+      "filas": [
+       [
+        "[Natalia Lafourcade](/natalia-lafourcade/)",
+        "Ciudad de México y Coatepec",
+        "Hasta la raíz (2015)"
+       ],
+       [
+        "[Carla Morrison](/carla-morrison/)",
+        "Tecate, Baja California",
+        "Déjenme llorar (2012)"
+       ],
+       [
+        "[Silvana Estrada](/silvana-estrada/)",
+        "Veracruz",
+        "Marchita (2022)"
+       ],
+       [
+        "[Julieta Venegas](/julieta-venegas/)",
+        "Tijuana",
+        "Sí (2003)"
+       ],
+       [
+        "[Kevin Kaarl](/kevin-kaarl/)",
+        "Meoqui, Chihuahua",
+        "San Lucas (2019)"
+       ],
+       [
+        "[Ed Maverick](/ed-maverick/)",
+        "Delicias, Chihuahua",
+        "Mix pa' llorar en tu cuarto (2018)"
+       ],
+       [
+        "[Caloncho](/caloncho/)",
+        "Ciudad Obregón, Sonora",
+        "Fruta II (2015)"
+       ],
+       [
+        "[Ximena Sariñana](/ximena-sarinana/)",
+        "Guadalajara",
+        "Mediocre (2008)"
+       ]
+      ]
+     }
+    },
+    "También vive en México la cantautora chilena [Mon Laferte](/mon-laferte/), desde 2007."
+   ]
+  },
+  {
+   "h2": "Yo, cantautora",
+   "bloques": [
+    "Me llamo Avelina Martinet Molina. Nací en un pueblo pequeño de Sonora y hoy soy foránea en Monterrey.",
+    "Mis canciones nacen improvisando, sola con mi guitarra. Me inspiran Kevin Kaarl, Ed Maverick, Carla Morrison, Sleeping At Last, Natalia Lafourcade y Silvana Estrada.",
+    "Escúchalas en [música](/musica/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué es un cantautor?",
+   "a": "Quien canta las canciones que él mismo escribe."
+  },
+  {
+   "q": "¿Quiénes son las cantautoras mexicanas más conocidas?",
+   "a": "Entre las de hoy, Natalia Lafourcade, Julieta Venegas, Carla Morrison y Silvana Estrada."
+  }
+ ],
+ "hermanas": [
+  "natalia-lafourcade",
+  "carla-morrison",
+  "silvana-estrada",
+  "kevin-kaarl",
+  "musica-indie",
+  "foranea"
+ ]
 }

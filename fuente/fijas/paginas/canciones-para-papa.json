@@ -1,10 +1,98 @@
 {
- "slug": "canciones-para-papa",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-para-papa",
  "tipo": "lista",
  "coleccion": "canciones-para",
  "cabeza": "canciones para papá",
- "variantes": [],
- "volumen": 3000
+ "title": "Canciones para papá: las más dedicadas en el Día del Padre",
+ "description": "Canciones para papá en español: Mi viejo, Ese que me dio la vida y otras que más se dedican en el Día del Padre, con artista y año. Escoge y dedícala.",
+ "h1": "Canciones para papá",
+ "resumen": "Las canciones para papá que más se dedican en el Día del Padre.",
+ "respuesta": "La canción para papá más dedicada en español es Mi viejo, de Piero, de 1969. Le siguen Ese que me dio la vida, de Alejandro Sanz, y La meta de mi viaje, de Laura Pausini. Abajo está la lista con su artista.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Para cuándo"
+      ],
+      "filas": [
+       [
+        "Mi viejo",
+        "Piero",
+        "El clásico, salió en 1969"
+       ],
+       [
+        "Ese que me dio la vida",
+        "Alejandro Sanz",
+        "De hijo a papá, de 1995"
+       ],
+       [
+        "La meta de mi viaje",
+        "Laura Pausini",
+        "Para agradecerle el camino"
+       ],
+       [
+        "Papá cuéntame otra vez",
+        "Ismael Serrano",
+        "Para papás con historias"
+       ],
+       [
+        "Cuando yo quería ser grande",
+        "Alejandro Fernández",
+        "Con mariachi"
+       ],
+       [
+        "Padre mío",
+        "Julio Jaramillo",
+        "Para los nostálgicos"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Para mandársela",
+   "bloques": [
+    "Junta la canción con unas palabras tuyas. Hay mensajes para papá en [feliz cumpleaños para hombre](/feliz-cumpleanos-para-hombre/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cuál es la canción más famosa para papá?",
+   "a": "Mi viejo, de Piero, de 1969. Es la que más se repite en las listas del Día del Padre."
+  }
+ ],
+ "hermanas": [
+  "canciones-para-mama",
+  "feliz-cumpleanos-para-hombre",
+  "canciones-para-dedicar",
+  "canciones-para-dedicar-a-un-hijo"
+ ],
+ "fuentes": [
+  {
+   "t": "Canciones para el Día del Padre, El Imparcial",
+   "url": "https://www.elimparcial.com/espectaculos/2026/06/21/canciones-para-el-dia-del-padre-15-temas-para-dedicar-y-celebrar-a-papa-este-2026/"
+  },
+  {
+   "t": "Canciones del Día del Padre, Canal Trece",
+   "url": "https://canaltrece.com.co/noticias/canciones-del-dia-del-padre-letra/"
+  },
+  {
+   "t": "Canciones para el Día del Padre, Billboard",
+   "url": "https://www.billboard.com/lists/canciones-dia-del-padre-lista/alejandro-fernandez-cuando-yo-queria-ser-grande-2"
+  }
+ ]
 }

@@ -1,10 +1,57 @@
 {
- "slug": "mananitas-para-mama",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "mananitas-para-mama",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "cumpleanos",
  "cabeza": "mañanitas para mamá",
- "variantes": [],
- "volumen": 3000
+ "title": "Mañanitas para mamá: mi versión y una postal",
+ "description": "Mañanitas para mamá en su cumpleaños o el 10 de mayo: mi versión a guitarra y voz y una postal con tu mensaje para despertarla cantando. Mándaselas temprano.",
+ "h1": "Mañanitas para mamá",
+ "resumen": "Mañanitas para mamá en su cumpleaños o el 10 de mayo: mi versión a guitarra y…",
+ "respuesta": "Las mañanitas para mamá se cantan temprano, para despertarla en su cumpleaños o el 10 de mayo. Aquí va a estar mi versión a guitarra y voz para mandársela. Junto escríbele una postal.",
+ "cover": {
+  "cancion": "Las mañanitas",
+  "artista": "Canción tradicional mexicana",
+  "credito": "La versión más popular está registrada en la SACM. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino."
+ },
+ "secciones": [
+  {
+   "h2": "Escríbele una postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "mananitas-mama",
+      "para": "Mamá",
+      "firma": "",
+      "texto": "Buenos días, mamá.\n\nHoy te despierto con las mañanitas porque te lo mereces todo.\n\nTe quiero mucho."
+     }
+    },
+    "Más mensajes en [feliz cumpleaños, mamá](/feliz-cumpleanos-mama/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Aquí está la letra de Las mañanitas?",
+   "a": "No. Aquí va mi versión en video y su historia."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Las mañanitas, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Las_ma%C3%B1anitas"
+  }
+ ],
+ "hermanas": [
+  "las-mananitas",
+  "feliz-cumpleanos-mama",
+  "canciones-para-mama",
+  "carta-para-mi-mama"
+ ]
 }

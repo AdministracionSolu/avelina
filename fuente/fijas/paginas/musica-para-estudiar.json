@@ -1,15 +1,112 @@
 {
- "slug": "musica-para-estudiar",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "musica para estudiar",
  "variantes": [
   "music para estudiar y concentrarse",
   "musica para concentrarse",
   "musica para concentrarse en el trabajo",
   "music para estudiar"
  ],
- "volumen": 15000
+ "volumen": 15000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "musica-para-estudiar",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "musica para estudiar",
+ "title": "Música para estudiar: canciones tranquilas a guitarra",
+ "description": "Música para estudiar y concentrarte: canciones tranquilas a guitarra y voz, sin batería, para leer o trabajar. Mis videos en orden, uno detrás de otro.",
+ "h1": "Música para estudiar",
+ "resumen": "Canciones tranquilas a guitarra y voz para estudiar o trabajar.",
+ "respuesta": "Para estudiar ayuda la música tranquila, sin batería ni cambios bruscos. Aquí van mis videos a guitarra y voz, en orden para escucharlos uno detrás de otro.",
+ "secciones": [
+  {
+   "h2": "Mis canciones tranquilas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Dónde está"
+      ],
+      "filas": [
+       [
+        "Improvisando",
+        "[Videos](/videos/)"
+       ],
+       [
+        "Country girl",
+        "[Música](/musica/)"
+       ],
+       [
+        "corazón",
+        "[Música](/musica/)"
+       ],
+       [
+        "Dos almas",
+        "[Música](/musica/)"
+       ],
+       [
+        "Valentina",
+        "[Música](/musica/)"
+       ],
+       [
+        "estrellas y mar",
+        "[Música](/musica/)"
+       ],
+       [
+        "Renunciación",
+        "[Música](/musica/)"
+       ],
+       [
+        "Eso y más",
+        "[Música](/musica/)"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Todos están en mi canal de YouTube, @AvelinaMartinetMolina."
+    }
+   ]
+  },
+  {
+   "h2": "Cómo usar la música para concentrarte",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Pon el volumen bajo.",
+       "Que acompañe, no que te jale."
+      ],
+      [
+       "Prueba bloques de 25 minutos.",
+       "Una lista de unas seis canciones dura más o menos eso."
+      ],
+      [
+       "Para leer, mejor sin letra o con letra suave.",
+       "Las canciones a guitarra y voz cansan menos que las de mucha producción."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Improvisando",
+   "bloques": [
+    "Improvisando lo grabé una noche, ya cansada, antes de dormir. Estaba terminando el semestre.",
+    "Lo puedes ver en [videos](/videos/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué música es buena para estudiar?",
+   "a": "Música tranquila y sin cambios bruscos, a volumen bajo. La acústica, de guitarra y voz, suele funcionar bien."
+  }
+ ],
+ "hermanas": [
+  "canciones-de-amor-en-espanol",
+  "cantautores",
+  "musica-indie",
+  "foranea"
+ ]
 }

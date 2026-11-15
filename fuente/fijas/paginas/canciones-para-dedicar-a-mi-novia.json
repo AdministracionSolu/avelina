@@ -1,10 +1,85 @@
 {
- "slug": "canciones-para-dedicar-a-mi-novia",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-para-dedicar-a-mi-novia",
  "tipo": "lista",
  "coleccion": "canciones-para",
  "cabeza": "cancion para dedicar a mi novia",
- "variantes": [],
- "volumen": 3000
+ "title": "Canciones para dedicar a mi novia: por momento",
+ "description": "Canciones para dedicar a tu novia en español: para decirle que la quieres, para un aniversario, para bailar o si están lejos. Con artista. Escoge y dedícala.",
+ "h1": "Canciones para dedicar a mi novia",
+ "resumen": "Canciones para dedicar a tu novia, por momento.",
+ "respuesta": "Para dedicarle una canción a tu novia, escoge la que diga lo que tú no te atreves. Aquí van por momento, con su artista. Mándala con una carta corta y se vuelve un regalo.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Para cuándo"
+      ],
+      "filas": [
+       [
+        "[Bésame mucho](/besame-mucho/)",
+        "Consuelo Velázquez",
+        "Para una cena de los dos"
+       ],
+       [
+        "[Sabor a mí](/sabor-a-mi/)",
+        "Álvaro Carrillo",
+        "Para decirle que se queda en ti"
+       ],
+       [
+        "[Contigo aprendí](/contigo-aprendi/)",
+        "Armando Manzanero",
+        "Para agradecerle lo que te enseñó"
+       ],
+       [
+        "[Nunca es suficiente](/nunca-es-suficiente/)",
+        "Natalia Lafourcade",
+        "Para bailar"
+       ],
+       [
+        "[Limón y sal](/limon-y-sal-julieta-venegas/)",
+        "Julieta Venegas",
+        "Para quererla como es"
+       ],
+       [
+        "[Kilómetros](/kilometros-sin-bandera/)",
+        "Sin Bandera",
+        "Si están lejos"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Con una carta",
+   "bloques": [
+    "Escribe por qué esa canción te recuerda a ella. Hay ejemplos en [carta para mi novia](/carta-para-mi-novia/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué canción le dedico a mi novia?",
+   "a": "Para algo clásico, Bésame mucho. Para bailar, Nunca es suficiente."
+  }
+ ],
+ "hermanas": [
+  "carta-para-mi-novia",
+  "canciones-para-dedicar-a-mi-novio",
+  "canciones-para-dedicar",
+  "cartas-de-amor",
+  "canciones-para-boda"
+ ]
 }

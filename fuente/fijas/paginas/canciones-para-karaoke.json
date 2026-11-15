@@ -1,10 +1,4 @@
 {
- "slug": "canciones-para-karaoke",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "canciones para karaoke",
  "variantes": [
   "cancion para cantar en karaoke",
   "karaoke para cantar",
@@ -17,5 +11,90 @@
   "cantar con karaoke",
   "karaoke cantar"
  ],
- "volumen": 27600
+ "volumen": 27600,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-para-karaoke",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "canciones para karaoke",
+ "title": "Canciones para karaoke en español: fáciles y en grupo",
+ "description": "Canciones para karaoke en español, fáciles y para cantar en grupo, de boleros a pop, con su nivel. Las que estoy grabando a guitarra. Escoge la tuya.",
+ "h1": "Canciones para karaoke",
+ "resumen": "Canciones de karaoke en español, con su nivel.",
+ "respuesta": "Para el karaoke, escoge una canción que conozcas completa y que todos puedan corear. Aquí van en español, con su nivel. Hay una lista aparte para [voz de mujer](/canciones-para-karaoke-mujer/).",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Nivel"
+      ],
+      "filas": [
+       [
+        "[Cielito lindo](/cielito-lindo/)",
+        "Quirino Mendoza y Cortés",
+        "Fácil, la corea todo el mundo"
+       ],
+       [
+        "[La bikina](/la-bikina/)",
+        "Rubén Fuentes",
+        "Media"
+       ],
+       [
+        "[Amárrame](/amarrame-mon-laferte/)",
+        "Mon Laferte con Juanes",
+        "Fácil, a dúo"
+       ],
+       [
+        "[Como la flor](/como-la-flor-selena/)",
+        "Selena",
+        "Fácil"
+       ],
+       [
+        "[Ex de verdad](/ex-de-verdad-ha-ash/)",
+        "Ha*Ash con Axel",
+        "Fácil, a dúo"
+       ],
+       [
+        "[Si no te hubieras ido](/si-no-te-hubieras-ido/)",
+        "Marco Antonio Solís",
+        "Media"
+       ],
+       [
+        "[Amor eterno](/amor-eterno/)",
+        "Juan Gabriel",
+        "Difícil, pide mucha voz"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Antes de cantar",
+   "bloques": [
+    "Calienta la voz unos minutos. Hay ejercicios en [vocalización](/vocalizacion/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué canción canto en el karaoke si nunca he cantado?",
+   "a": "Una que todos coreen, como Cielito lindo. Así no cantas solo."
+  }
+ ],
+ "hermanas": [
+  "canciones-para-karaoke-mujer",
+  "vocalizacion",
+  "cielito-lindo",
+  "la-bikina"
+ ]
 }

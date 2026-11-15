@@ -1,10 +1,81 @@
 {
- "slug": "vocalizacion",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "vocalizacion",
  "tipo": "guia",
  "coleccion": "guitarra",
  "cabeza": "vocalizacion",
- "variantes": [],
- "volumen": 3000
+ "title": "Vocalización: 8 ejercicios para calentar la voz",
+ "description": "Vocalización para principiantes: ocho ejercicios para calentar la voz antes de cantar, en diez minutos, y cuidados para no lastimar la garganta. Empieza hoy.",
+ "h1": "Vocalización",
+ "resumen": "Ocho ejercicios para calentar la voz en diez minutos.",
+ "respuesta": "Vocalizar es calentar la voz antes de cantar, como se estira antes de correr. Con diez minutos de ejercicios suaves basta. Abajo están ocho, en orden, de lo más fácil a lo más difícil.",
+ "secciones": [
+  {
+   "h2": "Los 8 ejercicios, en orden",
+   "bloques": [
+    {
+     "pasos": [
+      "Respira por la nariz en cuatro tiempos y saca el aire en ocho con una s larga. Repite cinco veces.",
+      "Haz vibrar los labios, como un motorcito, subiendo y bajando de tono.",
+      "Tararea con la boca cerrada, una m larga, sintiendo cosquillas en la cara.",
+      "Haz una sirena suave con la u, de grave a agudo y de regreso.",
+      "Canta cinco notas que suben y bajan con la vocal a.",
+      "Repite las cinco notas con i, e, o y u.",
+      "Canta mi, me, ma, mo, mu en una sola nota, articulando bien.",
+      "Termina con una canción suave que conozcas, a media voz."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Cuidados para la voz",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Toma agua a temperatura ambiente.",
+       "Lo muy frío y el alcohol resecan la garganta."
+      ],
+      [
+       "No fuerces las notas altas.",
+       "Si duele o raspa, para."
+      ],
+      [
+       "Duerme bien.",
+       "La voz cansada se nota primero en los agudos."
+      ],
+      [
+       "Calienta siempre.",
+       "Antes de un ensayo, del karaoke o de grabar."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Para después",
+   "bloques": [
+    "Cuando ya calentaste, prueba una de las [canciones para karaoke](/canciones-para-karaoke/). Si tocas guitarra, afina antes con el [afinador](/afinador-de-guitarra/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué es vocalizar?",
+   "a": "Calentar la voz con ejercicios suaves antes de cantar."
+  },
+  {
+   "q": "¿Cuánto tiempo hay que vocalizar?",
+   "a": "Unos diez minutos antes de cantar."
+  }
+ ],
+ "hermanas": [
+  "canciones-para-karaoke",
+  "canciones-para-karaoke-mujer",
+  "como-tocar-guitarra",
+  "afinador-de-guitarra"
+ ]
 }

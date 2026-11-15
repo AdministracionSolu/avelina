@@ -1,12 +1,57 @@
 {
- "slug": "las-mananitas-vicente-fernandez",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "cumpleanos",
- "cabeza": "mañanitas vicente fernández",
  "variantes": [
   "mañanitas con alejandro fernandez"
  ],
- "volumen": 33000
+ "volumen": 33000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "las-mananitas-vicente-fernandez",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "cumpleanos",
+ "cabeza": "mañanitas vicente fernández",
+ "title": "Las mañanitas de Vicente Fernández y otras versiones",
+ "description": "Las mañanitas de Vicente Fernández, Alejandro Fernández y Pedro Infante: quiénes las grabaron, de dónde viene la canción y mi versión a guitarra y voz.",
+ "h1": "Las mañanitas de Vicente Fernández y otras versiones",
+ "resumen": "Las mañanitas de Vicente Fernández, Alejandro Fernández y Pedro Infante:…",
+ "respuesta": "Vicente Fernández y Alejandro Fernández están entre los intérpretes más conocidos de Las mañanitas, con mariachi. Pedro Infante grabó la versión atribuida a Alejandro Manzo Salceda. Aquí va a estar también mi versión a guitarra y voz.",
+ "cover": {
+  "cancion": "Las mañanitas",
+  "artista": "Canción tradicional mexicana",
+  "credito": "La versión más popular está registrada en la SACM. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino."
+ },
+ "secciones": [
+  {
+   "h2": "Quiénes las grabaron",
+   "bloques": [
+    {
+     "lista": [
+      "Pedro Infante, con la versión atribuida a Manzo. Es de las más populares.",
+      "Vicente Fernández y Alejandro Fernández, con mariachi.",
+      "Jorge Negrete, Javier Solís y José Alfredo Jiménez."
+     ]
+    },
+    "La historia completa está en [las mañanitas](/las-mananitas/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Aquí está la letra de Las mañanitas?",
+   "a": "No. Aquí va mi versión en video y su historia."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Las mañanitas, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Las_ma%C3%B1anitas"
+  }
+ ],
+ "hermanas": [
+  "las-mananitas",
+  "mananitas-para-whatsapp",
+  "cielito-lindo",
+  "canciones-para-cumpleanos"
+ ]
 }

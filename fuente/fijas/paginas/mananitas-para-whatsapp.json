@@ -1,12 +1,70 @@
 {
- "slug": "mananitas-para-whatsapp",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "cumpleanos",
- "cabeza": "las mañanitas feliz cumpleaños para whatsapp",
  "variantes": [
   "mañanitas de cumpleaños para enviar por whatsapp"
  ],
- "volumen": 6000
+ "volumen": 6000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "mananitas-para-whatsapp",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "cumpleanos",
+ "cabeza": "las mañanitas feliz cumpleaños para whatsapp",
+ "title": "Mañanitas para WhatsApp: mándalas con una postal",
+ "description": "Mañanitas de cumpleaños para mandar por WhatsApp: mi versión a guitarra y voz y una postal con tu felicitación, listas para compartir desde el celular.",
+ "h1": "Mañanitas para WhatsApp",
+ "resumen": "Mañanitas de cumpleaños para mandar por WhatsApp: mi versión a guitarra y voz y…",
+ "respuesta": "Para mandar las mañanitas por WhatsApp, comparte un video con la canción y agrega una felicitación tuya. Aquí va a estar mi versión a guitarra y voz. Escribe tu mensaje en la postal y mándalo junto.",
+ "cover": {
+  "cancion": "Las mañanitas",
+  "artista": "Canción tradicional mexicana",
+  "credito": "La versión más popular está registrada en la SACM. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino."
+ },
+ "secciones": [
+  {
+   "h2": "Escribe tu felicitación",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "mananitas",
+      "para": "",
+      "firma": "",
+      "texto": "Feliz cumpleaños.\n\nTe mando las mañanitas para que empieces tu día cantado.\n\nUn abrazo grande."
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo mandarlas",
+   "bloques": [
+    {
+     "pasos": [
+      "Escribe tu felicitación en la postal.",
+      "Toca Mandar por WhatsApp y escoge a la persona.",
+      "Manda después el enlace de mi versión, temprano en la mañana."
+     ]
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Aquí está la letra de Las mañanitas?",
+   "a": "No. Aquí va mi versión en video y su historia."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Las mañanitas, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Las_ma%C3%B1anitas"
+  }
+ ],
+ "hermanas": [
+  "las-mananitas",
+  "mananitas-para-mama",
+  "feliz-cumpleanos-para-dedicar",
+  "feliz-cumpleanos-en-letra-bonita"
+ ]
 }

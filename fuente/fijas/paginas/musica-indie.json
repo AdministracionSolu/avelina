@@ -1,10 +1,84 @@
 {
- "slug": "musica-indie",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "musica-indie",
  "tipo": "guia",
  "coleccion": "marca",
  "cabeza": "musica indie",
- "variantes": [],
- "volumen": 3000
+ "title": "Música indie: qué es y artistas mexicanos para empezar",
+ "description": "Qué es la música indie, de dónde viene la palabra y artistas mexicanos de folk e indie para empezar, de Kevin Kaarl a Ed Maverick, con su disco más conocido.",
+ "h1": "Música indie",
+ "resumen": "Qué es la música indie y artistas mexicanos para empezar.",
+ "respuesta": "Indie viene de independiente. Al principio era la música que salía sin una disquera grande, y hoy también nombra un sonido íntimo y hecho a mano. En México hay una escena fuerte de folk indie, de Kevin Kaarl a Ed Maverick.",
+ "secciones": [
+  {
+   "h2": "Qué es la música indie",
+   "bloques": [
+    "La palabra viene del inglés independent. Nació para la música que se graba y se publica sin una disquera grande detrás.",
+    "Con el tiempo se volvió también un estilo. Canciones sencillas, voces cercanas, guitarras y grabaciones caseras."
+   ]
+  },
+  {
+   "h2": "Folk indie mexicano para empezar",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Artista",
+       "Para empezar",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "[Kevin Kaarl](/kevin-kaarl/)",
+        "San Lucas",
+        "Folk e indie folk de Chihuahua"
+       ],
+       [
+        "[Ed Maverick](/ed-maverick/)",
+        "Fuentes de Ortiz",
+        "Su primer disco salió con un sello independiente"
+       ],
+       [
+        "[Caloncho](/caloncho/)",
+        "Palmar",
+        "Pop con reggae y música tropical"
+       ],
+       [
+        "[Silvana Estrada](/silvana-estrada/)",
+        "Marchita",
+        "Canción con cuatro venezolano"
+       ],
+       [
+        "[Carla Morrison](/carla-morrison/)",
+        "Déjenme llorar",
+        "Latin Grammy a mejor álbum alternativo"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Mi música",
+   "bloques": [
+    "Toco a guitarra y voz y subo mis canciones a mi canal. Mira mi [baúl de videos](/videos/) o escucha mis canciones en [música](/musica/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué significa indie?",
+   "a": "Viene de independiente. Es la música que se publica sin una disquera grande, y por extensión un estilo íntimo."
+  }
+ ],
+ "hermanas": [
+  "cantautores",
+  "kevin-kaarl",
+  "ed-maverick",
+  "caloncho",
+  "musica-para-estudiar"
+ ]
 }

@@ -1,14 +1,107 @@
 {
- "slug": "canciones-para-dedicar",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "canciones para dedicar",
  "variantes": [
   "cancion bonita para dedicar",
   "canciones de amor para dedicar",
   "cancion para dedicar"
  ],
- "volumen": 12000
+ "volumen": 12000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-para-dedicar",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "canciones para dedicar",
+ "title": "Canciones para dedicar: de amor, amistad y familia",
+ "description": "Canciones para dedicar a tu pareja, a una amiga o a tu familia, en español, con artista y para qué momento. Clásicos y cantautoras a guitarra.",
+ "h1": "Canciones para dedicar",
+ "resumen": "Canciones para dedicar por persona y por momento.",
+ "respuesta": "Una canción para dedicar funciona cuando dice algo que tú no sabes decir. Aquí van por persona, para pareja, mamá o un amor que terminó. Todas las estoy grabando a guitarra y voz.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Para cuándo"
+      ],
+      "filas": [
+       [
+        "[Te regalo](/te-regalo-carla-morrison/)",
+        "Carla Morrison",
+        "Para tu pareja"
+       ],
+       [
+        "[Hasta la raíz](/hasta-la-raiz-natalia-lafourcade/)",
+        "Natalia Lafourcade",
+        "Para un amor que se queda"
+       ],
+       [
+        "[Eres para mí](/eres-para-mi-julieta-venegas/)",
+        "Julieta Venegas",
+        "Para tu pareja, alegre"
+       ],
+       [
+        "[Bésame mucho](/besame-mucho/)",
+        "Consuelo Velázquez",
+        "Para tu pareja, clásica"
+       ],
+       [
+        "[Amor eterno](/amor-eterno/)",
+        "Juan Gabriel",
+        "Para recordar a mamá"
+       ],
+       [
+        "[Kilómetros](/kilometros-sin-bandera/)",
+        "Sin Bandera",
+        "Para un amor a distancia"
+       ],
+       [
+        "[Tu falta de querer](/tu-falta-de-querer-mon-laferte/)",
+        "Mon Laferte",
+        "Para un amor que terminó"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Por persona",
+   "bloques": [
+    {
+     "lista": [
+      "[Para mi novio](/canciones-para-dedicar-a-mi-novio/)",
+      "[Para mi novia](/canciones-para-dedicar-a-mi-novia/)",
+      "[Para mamá](/canciones-para-mama/)",
+      "[Para papá](/canciones-para-papa/)"
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Dedícala con una carta",
+   "bloques": [
+    "Una canción sola se pierde entre mensajes. Con una [carta de amor](/cartas-de-amor/) se vuelve un regalo."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué canción le dedico a alguien?",
+   "a": "Una que diga lo que sientes hoy. Piensa en la persona y en el momento, y escoge de la lista."
+  }
+ ],
+ "hermanas": [
+  "canciones-para-dedicar-a-mi-novio",
+  "canciones-para-dedicar-a-mi-novia",
+  "canciones-para-mama",
+  "cartas-de-amor",
+  "canciones-de-amor-en-espanol"
+ ]
 }

@@ -23,7 +23,7 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 12 | Covers de Ximena Sariñana | ximena sariñana | 36,000 | /ximena-sarinana/ | sí |
 | 13 | Covers de Ed Maverick | ed maverick | 33,000 | /ed-maverick/ | sí |
 | 14 | Covers de Kevin Kaarl | kevin kaarl | 33,000 | /kevin-kaarl/ | sí |
-| 15 | mañanitas vicente fernández | mañanitas vicente fernández | 33,000 | /las-mananitas-vicente-fernandez/ | no (esqueleto) |
+| 15 | Las mañanitas | mañanitas vicente fernández | 33,000 | /las-mananitas-vicente-fernandez/ | sí |
 | 16 | Covers de Caloncho | caloncho | 30,000 | /caloncho/ | sí |
 | 17 | La llorona | la llorona | 30,000 | /la-llorona/ | sí |
 | 18 | cualquier canción de marcos witt | marcos witt | 30,000 | /marcos-witt/ | no (esqueleto) |
@@ -50,7 +50,7 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 39 | Covers de La Quinta Estación | la quinta estacion | 6,000 | /la-quinta-estacion/ | sí |
 | 40 | Limón y sal | julieta venegas limon y sal | 6,000 | /limon-y-sal-julieta-venegas/ | sí |
 | 41 | lo que construimos | lo que construimos | 6,000 | /lo-que-construimos-natalia-lafourcade/ | no (esqueleto) |
-| 42 | las mañanitas feliz cumpleaños para whatsapp | las mañanitas feliz cumpleaños para whatsapp | 6,000 | /mananitas-para-whatsapp/ | no (esqueleto) |
+| 42 | Las mañanitas | las mañanitas feliz cumpleaños para whatsapp | 6,000 | /mananitas-para-whatsapp/ | sí |
 | 43 | san lucas kevin kaarl | san lucas kevin kaarl | 6,000 | /san-lucas-kevin-kaarl/ | no (esqueleto) |
 | 44 | te regalo carla morrison | te regalo carla morrison | 6,000 | /te-regalo-carla-morrison/ | no (esqueleto) |
 | 45 | kevin kaarl colapso | kevin kaarl colapso | 3,300 | /colapso-kevin-kaarl/ | no (esqueleto) |
@@ -69,7 +69,7 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 58 | eres para mi julieta venegas | eres para mi julieta venegas | 3,000 | /eres-para-mi-julieta-venegas/ | no (esqueleto) |
 | 59 | Kilómetros | sin bandera kilómetros | 3,000 | /kilometros-sin-bandera/ | sí |
 | 60 | Lo aprendí de ti | ha * ash lo aprendí de ti | 3,000 | /lo-aprendi-de-ti-ha-ash/ | sí |
-| 61 | mañanitas para mamá | mañanitas para mamá | 3,000 | /mananitas-para-mama/ | no (esqueleto) |
+| 61 | Las mañanitas | mañanitas para mamá | 3,000 | /mananitas-para-mama/ | sí |
 | 62 | más allá del sol alabanza | más allá del sol alabanza | 3,000 | /mas-alla-del-sol-alabanza/ | no (esqueleto) |
 | 63 | Me muero | me muero la quinta estacion | 3,000 | /me-muero-la-quinta-estacion/ | sí |
 | 64 | los yonic's palabras tristes | los yonic's palabras tristes | 3,000 | /palabras-tristes-los-yonics/ | no (esqueleto) |

@@ -1,14 +1,89 @@
 {
- "slug": "canciones-para-dedicar-a-mi-novio",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "cancion para dedicar a un hombre",
  "variantes": [
   "canciones para dedicar a mi novio",
   "cancion de amor para dedicar a un hombre",
   "canciones para dedicar a un hombre"
  ],
- "volumen": 12000
+ "volumen": 12000,
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-para-dedicar-a-mi-novio",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "cancion para dedicar a un hombre",
+ "title": "Canciones para dedicar a mi novio o a un hombre",
+ "description": "Canciones para dedicar a tu novio o a un hombre, en español: para enamorarlo, para un aniversario o para la distancia. Con artista y para qué momento. Escoge.",
+ "h1": "Canciones para dedicar a mi novio",
+ "resumen": "Canciones para dedicar a tu novio, por momento.",
+ "respuesta": "Para dedicarle una canción a tu novio, piensa en qué quieres decirle hoy. Aquí van por momento, del aniversario a la distancia, con su artista. Mándala junto con una carta y pesa más.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Para cuándo"
+      ],
+      "filas": [
+       [
+        "[Te regalo](/te-regalo-carla-morrison/)",
+        "Carla Morrison",
+        "Para decirle te quiero"
+       ],
+       [
+        "[Eres tú](/eres-tu-carla-morrison/)",
+        "Carla Morrison",
+        "Para un aniversario"
+       ],
+       [
+        "[Hasta la raíz](/hasta-la-raiz-natalia-lafourcade/)",
+        "Natalia Lafourcade",
+        "Para un amor que echó raíz"
+       ],
+       [
+        "[Nunca es suficiente](/nunca-es-suficiente/)",
+        "Natalia Lafourcade",
+        "Para bailar con él"
+       ],
+       [
+        "[Eres para mí](/eres-para-mi-julieta-venegas/)",
+        "Julieta Venegas",
+        "Para un amor alegre"
+       ],
+       [
+        "[Kilómetros](/kilometros-sin-bandera/)",
+        "Sin Bandera",
+        "Si están lejos"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Con una carta",
+   "bloques": [
+    "Escribe dos líneas sobre por qué esa canción te recuerda a él. Hay ejemplos en [carta para mi novio](/carta-para-mi-novio/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué canción le dedico a mi novio?",
+   "a": "Una que diga lo que sientes hoy. Para un aniversario, Eres tú. Para la distancia, Kilómetros."
+  }
+ ],
+ "hermanas": [
+  "carta-para-mi-novio",
+  "canciones-para-dedicar-a-mi-novia",
+  "canciones-para-dedicar",
+  "cartas-de-amor",
+  "feliz-cumpleanos-mi-amor"
+ ]
 }
