@@ -34,8 +34,8 @@ COLECCIONES = {  # índice de cada colección: se publica solo cuando tiene 3 o 
     "afinador": ("afinadores", "Afinadores", "Afinadores con el micrófono del celular, sin descargar nada."),
     "guitarra": ("guitarra", "Guitarra y canto", "Acordes, canciones y ejercicios para empezar."),
     "canciones-para": ("canciones-para", "Canciones para cada momento", "Listas de canciones para dedicar, llorar o celebrar."),
-    "marca": ("cartas-de-una-foranea", "Cartas de una foránea", "Lo que escribo lejos de casa."),
-    "fe": ("fe", "Fe", "Reflexiones y alabanzas."),
+    "marca": ("cartas-de-una-foranea", "Cartas de una foránea", "Lo que escribo lejos de casa, la escena de cantautores y la música indie de México."),
+    "fe": ("fe", "Fe", "Reflexiones de fe y alabanzas a guitarra y voz, con sus textos y videos."),
 }
 
 def bi(t):
@@ -53,9 +53,14 @@ def ver(ruta):
 
 # ---------- texto: [ligas](/ruta/), **negritas** y nada más
 LIGA = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+NO_PUBLICADAS = set()  # slugs de fijas sin publicar: en el sitio real su liga se vuelve texto (no se liga a un 404)
+def _liga(m):
+    u, x = m.group(2), m.group(1)
+    if u.split("#")[0].strip("/") in NO_PUBLICADAS: return x
+    return f'<a href="{u}"{" target=_blank rel=noopener" if u.startswith("http") else ""}>{x}</a>'
 def md(t):
     t = e(t, quote=False)
-    t = LIGA.sub(lambda m: f'<a href="{m.group(2)}"{" target=_blank rel=noopener" if m.group(2).startswith("http") else ""}>{m.group(1)}</a>', t)
+    t = LIGA.sub(_liga, t)
     return re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", t)
 def plano(t): return re.sub(r"\*\*", "", LIGA.sub(lambda m: m.group(1), t))
 
@@ -166,8 +171,7 @@ def probar(ps):
             if p.get("espera_video"): err("no se publica: espera el video de Ave")
             if p.get("espera_texto"): err("no se publica: espera texto de Ave")
             if not p.get("fuentes") and p.get("tipo") in ("cover", "artista", "fe"): err("no se publica sin fuentes")
-            for h in hs:
-                if h not in pubs: err(f"publicada con liga a una hermana sin publicar «{h}» (daría 404)")
+            if len([h for h in hs if h in pubs]) < 3: err("publicada con menos de 3 hermanas publicadas (1.7 pide de 3 a 6)")
         for f in p.get("fuentes", []):
             if not f.get("url", "").startswith("https://"): err(f"fuente sin URL https «{f.get('t')}»")
     return errores, avisos
@@ -240,6 +244,7 @@ def bloque_cover(p):
 def hermanas(p, porslug, vista):
     cards = []
     for h in p["hermanas"]:
+        if not vista and h in NO_PUBLICADAS: continue
         q = porslug[h]
         if q.get("esqueleto"): cards.append(f'<a class="f-hermana" href="{ruta(h, vista)}"><b>{e(q["cabeza"].capitalize())}</b><span>(por escribir)</span></a>'); continue
         cards.append(f'<a class="f-hermana" href="{ruta(h, vista)}"><b>{e(q["h1"])}</b><span>{e(q.get("resumen") or q["description"][:90].rsplit(" ", 1)[0] + "…")}</span></a>')
@@ -322,7 +327,8 @@ def indice(col, miembros):
     """Página índice de una colección, armada con sus fijas publicadas."""
     slug, nombre, txt = COLECCIONES[col]
     lista = [[f"[{m['h1']}](/{m['slug']}/)", m.get("resumen") or m["description"]] for m in miembros]
-    return {"slug": slug, "estado": "publicada", "tipo": "indice", "coleccion": col, "cabeza": nombre.lower(), "title": nombre, "description": txt,
+    desc = (txt + " Todo lo escribe o lo prepara Avelina, cantautora de Monterrey que canta lo que escribe. Escoge y empieza.")[:160].rsplit(" ", 1)[0]
+    return {"slug": slug, "estado": "publicada", "tipo": "indice", "coleccion": col, "cabeza": nombre.lower(), "title": f"{nombre} · Avelina", "description": desc,
             "h1": nombre, "respuesta": txt + " Todas las escribo o las preparo yo.", "secciones": [{"h2": "Todas", "bloques": [{"lista": lista}]}],
             "hermanas": [m["slug"] for m in miembros[:6]], "_archivo": slug}
 
@@ -346,6 +352,7 @@ def main():
             i = indice(col, m); porslug[i["slug"]] = i; pubs.append(i)
     # publicadas: HTML real; borradores: se borra cualquier HTML generado que hubiera quedado
     vivos = {p["slug"] for p in pubs}
+    NO_PUBLICADAS.update(s for s in porslug if s not in vivos)
     for d in glob.glob(os.path.join(RAIZ, "*", "index.html")):
         s = os.path.basename(os.path.dirname(d))
         if s not in vivos and MARCA_GEN in open(d, encoding="utf-8").read(200):
@@ -362,6 +369,7 @@ def main():
     if VISTA:
         import shutil
         shutil.rmtree(os.path.join(AQUI, "_vista"), ignore_errors=True)
+        NO_PUBLICADAS.clear()
         for p in [q for q in ps if not q.get("esqueleto")]: escribe(f"fuente/fijas/_vista/{p['slug']}/index.html", pagina(p, porslug, vista=True).replace('href="/', 'href="/').replace(f'href="{BASE}', 'href="'))
         print(f"vista previa: {len(ps)} en fuente/fijas/_vista/ · python3 -m http.server -d {RAIZ} 8765 → http://localhost:8765/fuente/fijas/_vista/<slug>/")
 

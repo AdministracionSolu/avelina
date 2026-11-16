@@ -9,34 +9,34 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 
 | # | Qué grabar | Artista o canción | Búsquedas al mes | Página | Escrita |
 |---|---|---|---|---|---|
-| 1 | Covers de Mon Laferte | mon laferte | 603,600 | /mon-laferte/ | sí |
-| 2 | cualquier canción de jesus adrian romero | jesus adrian romero | 189,000 | /jesus-adrian-romero/ | no (esqueleto) |
-| 3 | Covers de Carla Morrison | carla morrison | 153,000 | /carla-morrison/ | sí |
+| 1 | Una canción de Mon Laferte | mon laferte | 603,600 | /mon-laferte/ | sí |
+| 2 | Una canción de Jesus Adrian Romero | jesus adrian romero | 189,000 | /jesus-adrian-romero/ | no (esqueleto) |
+| 3 | Una canción de Carla Morrison | carla morrison | 153,000 | /carla-morrison/ | sí |
 | 4 | Tu falta de querer | mon laferte tu falta de querer | 96,000 | /tu-falta-de-querer-mon-laferte/ | sí |
 | 5 | Cielito lindo | cielito lindo | 93,000 | /cielito-lindo/ | sí |
 | 6 | Amor eterno | amor eterno | 75,000 | /amor-eterno/ | sí |
-| 7 | Covers de Julieta Venegas | julieta venegas | 69,000 | /julieta-venegas/ | sí |
+| 7 | Una canción de Julieta Venegas | julieta venegas | 69,000 | /julieta-venegas/ | sí |
 | 8 | Sabor a mí | sabor a mi | 63,000 | /sabor-a-mi/ | sí |
-| 9 | Covers de Natalia Lafourcade | natalia lafourcade | 42,300 | /natalia-lafourcade/ | sí |
+| 9 | Una canción de Natalia Lafourcade | natalia lafourcade | 42,300 | /natalia-lafourcade/ | sí |
 | 10 | Las mañanitas | mañanitas de cunpleaños | 42,000 | /las-mananitas/ | sí |
 | 11 | La bikina | la bikina | 36,000 | /la-bikina/ | sí |
-| 12 | Covers de Ximena Sariñana | ximena sariñana | 36,000 | /ximena-sarinana/ | sí |
-| 13 | Covers de Ed Maverick | ed maverick | 33,000 | /ed-maverick/ | sí |
-| 14 | Covers de Kevin Kaarl | kevin kaarl | 33,000 | /kevin-kaarl/ | sí |
+| 12 | Una canción de Ximena Sariñana | ximena sariñana | 36,000 | /ximena-sarinana/ | sí |
+| 13 | Una canción de Ed Maverick | ed maverick | 33,000 | /ed-maverick/ | sí |
+| 14 | Una canción de Kevin Kaarl | kevin kaarl | 33,000 | /kevin-kaarl/ | sí |
 | 15 | Las mañanitas | mañanitas vicente fernández | 33,000 | /las-mananitas-vicente-fernandez/ | sí |
-| 16 | Covers de Caloncho | caloncho | 30,000 | /caloncho/ | sí |
+| 16 | Una canción de Caloncho | caloncho | 30,000 | /caloncho/ | sí |
 | 17 | La llorona | la llorona | 30,000 | /la-llorona/ | sí |
-| 18 | cualquier canción de marcos witt | marcos witt | 30,000 | /marcos-witt/ | no (esqueleto) |
-| 19 | Covers de Silvana Estrada | silvana estrada | 30,000 | /silvana-estrada/ | sí |
+| 18 | Una canción de Marcos Witt | marcos witt | 30,000 | /marcos-witt/ | no (esqueleto) |
+| 19 | Una canción de Silvana Estrada | silvana estrada | 30,000 | /silvana-estrada/ | sí |
 | 20 | Nunca es suficiente | nunca es suficiente | 12,000 | /nunca-es-suficiente/ | sí |
 | 21 | Amárrame | amarrame mon laferte | 9,000 | /amarrame-mon-laferte/ | sí |
-| 22 | cualquier canción de christine d clario | christine d clario | 9,000 | /christine-d-clario/ | no (esqueleto) |
-| 23 | Covers de Ha*Ash | canciones de ha ash | 9,000 | /ha-ash/ | sí |
+| 22 | Una canción de Christine D Clario | christine d clario | 9,000 | /christine-d-clario/ | no (esqueleto) |
+| 23 | Una canción de Ha*Ash | canciones de ha ash | 9,000 | /ha-ash/ | sí |
 | 24 | Historia de un amor | historia de un amor | 9,000 | /historia-de-un-amor/ | sí |
 | 25 | mi buen amor mon laferte | mi buen amor mon laferte | 9,000 | /mi-buen-amor-mon-laferte/ | no (esqueleto) |
 | 26 | Si no te hubieras ido | si no te hubieras ido | 9,000 | /si-no-te-hubieras-ido/ | sí |
 | 27 | mon laferte si tu me quisieras | mon laferte si tu me quisieras | 9,000 | /si-tu-me-quisieras-mon-laferte/ | no (esqueleto) |
-| 28 | Covers de Sin Bandera | canciones de sin bandera | 9,000 | /sin-bandera/ | sí |
+| 28 | Una canción de Sin Bandera | canciones de sin bandera | 9,000 | /sin-bandera/ | sí |
 | 29 | jesús adrián romero sumérgeme | jesús adrián romero sumérgeme | 9,000 | /sumergeme-jesus-adrian-romero/ | no (esqueleto) |
 | 30 | El sol no regresa | el sol no regresa la quinta estación | 6,300 | /el-sol-no-regresa-la-quinta-estacion/ | sí |
 | 31 | Bésame mucho | besame mucho | 6,000 | /besame-mucho/ | sí |
@@ -46,8 +46,8 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 35 | eres tu carla morrison | eres tu carla morrison | 6,000 | /eres-tu-carla-morrison/ | no (esqueleto) |
 | 36 | Ex de verdad | ex de verdad | 6,000 | /ex-de-verdad-ha-ash/ | sí |
 | 37 | Hasta la raíz | hasta la raiz | 6,000 | /hasta-la-raiz-natalia-lafourcade/ | sí |
-| 38 | Covers de Jesse & Joy | canciones de jesse y joy | 6,000 | /jesse-y-joy/ | sí |
-| 39 | Covers de La Quinta Estación | la quinta estacion | 6,000 | /la-quinta-estacion/ | sí |
+| 38 | Una canción de Jesse & Joy | canciones de jesse y joy | 6,000 | /jesse-y-joy/ | sí |
+| 39 | Una canción de La Quinta Estación | la quinta estacion | 6,000 | /la-quinta-estacion/ | sí |
 | 40 | Limón y sal | julieta venegas limon y sal | 6,000 | /limon-y-sal-julieta-venegas/ | sí |
 | 41 | lo que construimos | lo que construimos | 6,000 | /lo-que-construimos-natalia-lafourcade/ | no (esqueleto) |
 | 42 | Las mañanitas | las mañanitas feliz cumpleaños para whatsapp | 6,000 | /mananitas-para-whatsapp/ | sí |
@@ -61,10 +61,10 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 50 | antes de ti mon laferte | antes de ti mon laferte | 3,000 | /antes-de-ti-mon-laferte/ | no (esqueleto) |
 | 51 | como un pajaro silvana estrada | como un pajaro silvana estrada | 3,000 | /como-un-pajaro-silvana-estrada/ | no (esqueleto) |
 | 52 | compartir carla morrison | compartir carla morrison | 3,000 | /compartir-carla-morrison/ | no (esqueleto) |
-| 53 | Covers de Consuelo Velázquez | consuelo velázquez | 3,000 | /consuelo-velazquez/ | sí |
+| 53 | Una canción de Consuelo Velázquez | consuelo velázquez | 3,000 | /consuelo-velazquez/ | sí |
 | 54 | Contigo aprendí | contigo aprendi | 3,000 | /contigo-aprendi/ | sí |
 | 55 | curame mon laferte | curame mon laferte | 3,000 | /curame-mon-laferte/ | no (esqueleto) |
-| 56 | cualquier canción de daniela spalla | daniela spalla | 3,000 | /daniela-spalla/ | no (esqueleto) |
+| 56 | Una canción de Daniela Spalla | daniela spalla | 3,000 | /daniela-spalla/ | no (esqueleto) |
 | 57 | carla morrison dejenme llorar | carla morrison dejenme llorar | 3,000 | /dejenme-llorar-carla-morrison/ | no (esqueleto) |
 | 58 | eres para mi julieta venegas | eres para mi julieta venegas | 3,000 | /eres-para-mi-julieta-venegas/ | no (esqueleto) |
 | 59 | Kilómetros | sin bandera kilómetros | 3,000 | /kilometros-sin-bandera/ | sí |

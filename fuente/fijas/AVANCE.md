@@ -26,60 +26,60 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 
 ## Esqueletos por escribir (de mayor a menor volumen)
 
-- jesus-adrian-romero (artista, 189,000)
-- canciones-cristianas (lista, 141,000)
-- reflexiones-de-la-vida (fe, 138,000)
-- alabanzas-cristianas (lista, 108,000)
-- alabanzas-de-adoracion (lista, 90,000)
-- frases-de-dios (fe, 84,000)
-- frases-de-la-vida (fe, 81,000)
-- buenos-dias-dios-te-bendiga (fe, 42,000)
-- gracias-dios-por-todo (fe, 36,000)
-- canciones-faciles-en-guitarra (lista, 33,000)
-- oracion-cristiana-de-la-manana (fe, 33,000)
-- versiculos-de-la-biblia-para-reflexionar (fe, 33,000)
-- marcos-witt (artista, 30,000)
-- reflexiones-cristianas (fe, 30,000)
-- reflexiones-de-amor (fe, 21,000)
-- frases-de-fe (fe, 18,000)
-- canciones-para-cumpleanos (lista, 15,000)
-- devocional-diario (fe, 15,000)
-- canciones-para-dedicar-a-un-hijo (lista, 12,000)
-- proposito-de-vida (fe, 12,000)
-- reflexion-del-evangelio-de-hoy (fe, 12,000)
-- christine-d-clario (artista, 9,000)
-- feliz-cumpleanos-cristiano-para-mujer (fe, 9,000)
-- frases-de-fin-de-ano (fe, 9,000)
-- mi-buen-amor-mon-laferte (cover, 9,000)
-- si-tu-me-quisieras-mon-laferte (cover, 9,000)
-- sumergeme-jesus-adrian-romero (cover, 9,000)
-- alabanzas-de-adoracion-viejitas (lista, 6,000)
-- canciones-para-dedicar-a-mi-hija (lista, 6,000)
-- canciones-para-una-amiga (lista, 6,000)
-- canciones-romanticas-de-los-80-en-espanol (lista, 6,000)
-- contigo-carla-morrison (cover, 6,000)
-- el-alfarero-alabanza (cover, 6,000)
-- eres-tu-carla-morrison (cover, 6,000)
-- lo-que-construimos-natalia-lafourcade (cover, 6,000)
-- parabola-de-los-talentos (fe, 6,000)
-- san-lucas-kevin-kaarl (cover, 6,000)
-- te-regalo-carla-morrison (cover, 6,000)
-- colapso-kevin-kaarl (cover, 3,300)
-- disfruto-carla-morrison (cover, 3,300)
-- en-el-2000-natalia-lafourcade (cover, 3,300)
-- amor-amor-carla-morrison (cover, 3,000)
-- amor-de-mis-amores (cover, 3,000)
-- antes-de-ti-mon-laferte (cover, 3,000)
-- como-un-pajaro-silvana-estrada (cover, 3,000)
-- compartir-carla-morrison (cover, 3,000)
-- curame-mon-laferte (cover, 3,000)
-- daniela-spalla (artista, 3,000)
-- dejenme-llorar-carla-morrison (cover, 3,000)
-- dones-espirituales (fe, 3,000)
-- eres-para-mi-julieta-venegas (cover, 3,000)
-- las-mananitas-en-guitarra (guia, 3,000)
-- mas-alla-del-sol-alabanza (cover, 3,000)
-- palabras-tristes-los-yonics (cover, 3,000)
-- por-que-me-haces-llorar-juan-gabriel (cover, 3,000)
-- tristes-recuerdos-antonio-aguilar (cover, 3,000)
-- tu-estas-aqui-jesus-adrian-romero (cover, 3,000)
+- jesus-adrian-romero (artista, 189,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.
+- canciones-cristianas (lista, 141,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.
+- reflexiones-de-la-vida (fe, 138,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- alabanzas-cristianas (lista, 108,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.
+- alabanzas-de-adoracion (lista, 90,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.
+- frases-de-dios (fe, 84,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- frases-de-la-vida (fe, 81,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- buenos-dias-dios-te-bendiga (fe, 42,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- gracias-dios-por-todo (fe, 36,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- canciones-faciles-en-guitarra (lista, 33,000): Siguiente lote: cancionero con acordes verificados por canción (sin letra). Mejor con las canciones que Ave toque en video.
+- oracion-cristiana-de-la-manana (fe, 33,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- versiculos-de-la-biblia-para-reflexionar (fe, 33,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- marcos-witt (artista, 30,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.
+- reflexiones-cristianas (fe, 30,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- reflexiones-de-amor (fe, 21,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- frases-de-fe (fe, 18,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- canciones-para-cumpleanos (lista, 15,000): Siguiente lote: armar la lista con fuentes verificadas (títulos y artistas, nunca letra).
+- devocional-diario (fe, 15,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- canciones-para-dedicar-a-un-hijo (lista, 12,000): Siguiente lote: armar la lista con fuentes verificadas (títulos y artistas, nunca letra).
+- proposito-de-vida (fe, 12,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- reflexion-del-evangelio-de-hoy (fe, 12,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- christine-d-clario (artista, 9,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.
+- feliz-cumpleanos-cristiano-para-mujer (fe, 9,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- frases-de-fin-de-ano (fe, 9,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- mi-buen-amor-mon-laferte (cover, 9,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- si-tu-me-quisieras-mon-laferte (cover, 9,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- sumergeme-jesus-adrian-romero (cover, 9,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.
+- alabanzas-de-adoracion-viejitas (lista, 6,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.
+- canciones-para-dedicar-a-mi-hija (lista, 6,000): Siguiente lote: armar la lista con fuentes verificadas (títulos y artistas, nunca letra).
+- canciones-para-una-amiga (lista, 6,000): Siguiente lote: armar la lista con fuentes verificadas (títulos y artistas, nunca letra).
+- canciones-romanticas-de-los-80-en-espanol (lista, 6,000): Siguiente lote: armar la lista con fuentes verificadas (títulos y artistas, nunca letra).
+- contigo-carla-morrison (cover, 6,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- el-alfarero-alabanza (cover, 6,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.
+- eres-tu-carla-morrison (cover, 6,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- lo-que-construimos-natalia-lafourcade (cover, 6,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- parabola-de-los-talentos (fe, 6,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- san-lucas-kevin-kaarl (cover, 6,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- te-regalo-carla-morrison (cover, 6,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- colapso-kevin-kaarl (cover, 3,300): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- disfruto-carla-morrison (cover, 3,300): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- en-el-2000-natalia-lafourcade (cover, 3,300): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- amor-amor-carla-morrison (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- amor-de-mis-amores (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- antes-de-ti-mon-laferte (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- como-un-pajaro-silvana-estrada (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- compartir-carla-morrison (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- curame-mon-laferte (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- daniela-spalla (artista, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- dejenme-llorar-carla-morrison (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- dones-espirituales (fe, 3,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
+- eres-para-mi-julieta-venegas (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- las-mananitas-en-guitarra (guia, 3,000): Decide Diego: sin letra (la versión popular está registrada en la SACM). Se arma con los acordes que toque Ave en su video.
+- mas-alla-del-sol-alabanza (cover, 3,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.
+- palabras-tristes-los-yonics (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- por-que-me-haces-llorar-juan-gabriel (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- tristes-recuerdos-antonio-aguilar (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
+- tu-estas-aqui-jesus-adrian-romero (cover, 3,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.

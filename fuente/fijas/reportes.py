@@ -15,7 +15,8 @@ L = ["# Covers que Ave tiene que grabar", "",
      "la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fuente/fijas/generar.py`.", "",
      "| # | Qué grabar | Artista o canción | Búsquedas al mes | Página | Escrita |", "|---|---|---|---|---|---|"]
 for i, p in enumerate(cv, 1):
-    que = (p.get("cover") or {}).get("cancion") or ("cualquier canción de " + p["cabeza"].replace("canciones de ", "")) if p["tipo"] == "artista" else (p.get("cover") or {}).get("cancion", p["cabeza"])
+    if p["tipo"] == "artista": que = "Una canción de " + ((p.get("cover") or {}).get("artista") or p["cabeza"].replace("canciones de ", "").title())
+    else: que = (p.get("cover") or {}).get("cancion", p["cabeza"])
     L.append(f"| {i} | {que} | {p['cabeza']} | {p.get('volumen', 0):,} | /{p['slug']}/ | {'no (esqueleto)' if p.get('esqueleto') else 'sí'} |")
 open(os.path.join(AQUI, "COVERS_A_GRABAR.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
 
@@ -27,6 +28,6 @@ A = ["# Avance de las fijas de Avelina", "", "Se rehace con `python3 fuente/fija
      "(tabla de abajo), lee el top 3 si la cabeza es de 10K o más, escribe su JSON y corre `generar.py --vista`.", "",
      "| Estado | Páginas |", "|---|---|"] + [f"| {k} | {v} |" for k, v in c.most_common()] + ["", "| Tipo | Estado | Páginas |", "|---|---|---|"] + \
     [f"| {a} | {b} | {v} |" for (a, b), v in sorted(t.items())] + ["", "## Esqueletos por escribir (de mayor a menor volumen)", ""] + \
-    [f"- {p['slug']} ({p['tipo']}, {p.get('volumen', 0):,})" for p in ps if p.get("esqueleto")]
+    [f"- {p['slug']} ({p['tipo']}, {p.get('volumen', 0):,}): {p.get('pendiente', '')}" for p in ps if p.get("esqueleto")]
 open(os.path.join(AQUI, "AVANCE.md"), "w", encoding="utf-8").write("\n".join(A) + "\n")
 print(f"covers por grabar: {len(cv)} · " + ", ".join(f"{k}: {v}" for k, v in c.items()))

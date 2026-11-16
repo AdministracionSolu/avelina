@@ -73,3 +73,4 @@
 .f-texto{min-width:0}.f-texto canvas,.f-texto img{max-width:100%}
 .lg-papel input{width:auto;padding:0;border:0;background:none}
 .f-h1{overflow-wrap:anywhere}
+.f-texto .f-venta a.boton{color:var(--luz)}.f-texto .f-venta a.boton:hover{color:var(--luz)}
