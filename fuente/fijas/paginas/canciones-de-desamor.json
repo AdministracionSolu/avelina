@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-de-desamor",
  "tipo": "lista",
@@ -81,5 +81,6 @@
   "tu-falta-de-querer-mon-laferte",
   "la-quinta-estacion",
   "ha-ash"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

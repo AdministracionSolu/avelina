@@ -6,7 +6,7 @@
   "ukelele afinador"
  ],
  "volumen": 15000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "afinador-de-ukulele",
  "tipo": "herramienta",
@@ -156,5 +156,6 @@
   "afinador-de-bajo",
   "afinador-de-violin",
   "como-afinar-una-guitarra"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

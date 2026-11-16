@@ -5,7 +5,7 @@
   "cancion para dedicar"
  ],
  "volumen": 12000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-para-dedicar",
  "tipo": "lista",
@@ -103,5 +103,6 @@
   "canciones-para-mama",
   "cartas-de-amor",
   "canciones-de-amor-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

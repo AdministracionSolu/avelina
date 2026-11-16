@@ -1,10 +1,19 @@
 {
  "slug": "afinador-de-guitarra",
- "estado": "borrador",
+ "estado": "publicada",
  "tipo": "herramienta",
  "coleccion": "afinador",
  "cabeza": "afinador de guitarra online",
- "variantes": ["afinador", "afinador de guitarra", "afinador guitarra", "afinador de guitarra gratis", "afinador de guitarra acústica", "afinador cromático", "afinador de google", "guitar tuner afinador"],
+ "variantes": [
+  "afinador",
+  "afinador de guitarra",
+  "afinador guitarra",
+  "afinador de guitarra gratis",
+  "afinador de guitarra acústica",
+  "afinador cromático",
+  "afinador de google",
+  "guitar tuner afinador"
+ ],
  "volumen": 210000,
  "revisada": "2026-11-15",
  "title": "Afinador de guitarra online gratis con tu micrófono",
@@ -13,52 +22,200 @@
  "resumen": "Afina con el micrófono del celular o de oído, cuerda por cuerda.",
  "respuesta": "Enciende el micrófono, toca una cuerda al aire y mira la aguja. Si se va a la izquierda, aprieta la clavija. Si se va a la derecha, aflójala hasta que diga afinada.",
  "secciones": [
-  {"h2": "Afina aquí", "bloques": [
-   {"herramienta": {"tipo": "afinador", "nombre": "guitarra", "cuerdas": [
-    ["Mi", "E2", 82.41, "6ª"], ["La", "A2", 110.0, "5ª"], ["Re", "D3", 146.83, "4ª"], ["Sol", "G3", 196.0, "3ª"], ["Si", "B3", 246.94, "2ª"], ["Mi", "E4", 329.63, "1ª"]]}},
-   {"nota": "El sonido se analiza en tu teléfono. No se graba ni se manda a ningún lado."}
-  ]},
-  {"h2": "Las notas de cada cuerda", "bloques": [
-   "La afinación estándar va de la cuerda más gruesa a la más delgada. Mi, La, Re, Sol, Si, Mi.",
-   {"tabla": {"cab": ["Cuerda", "Nota", "Nombre en inglés", "Frecuencia"], "filas": [
-    ["6ª, la más gruesa", "Mi", "E2", "82.41 Hz"], ["5ª", "La", "A2", "110.00 Hz"], ["4ª", "Re", "D3", "146.83 Hz"],
-    ["3ª", "Sol", "G3", "196.00 Hz"], ["2ª", "Si", "B3", "246.94 Hz"], ["1ª, la más delgada", "Mi", "E4", "329.63 Hz"]]}},
-   {"nota": "Frecuencias con el La de referencia en 440 Hz, el estándar internacional."}
-  ]},
-  {"h2": "Cómo usar el afinador", "bloques": [
-   {"pasos": [
-    "Busca un lugar sin ruido y acerca el teléfono a la guitarra.",
-    "Toca el botón para encender el micrófono y da permiso.",
-    "Toca una sola cuerda al aire, sin pisar ningún traste.",
-    "Mira la nota y la aguja. Al centro y en verde, está afinada.",
-    "Gira la clavija poco a poco y vuelve a tocar la cuerda.",
-    "Repite con las seis cuerdas y da una segunda vuelta al final."
-   ]},
-   "Si no quieres usar el micrófono, toca un botón de cuerda. Suena su nota y afinas de oído hasta que las dos suenen igual."
-  ]},
-  {"h2": "Si la aguja no se queda quieta", "bloques": [
-   {"lista": [
-    ["Toca más suave y deja sonar la cuerda.", "El primer golpe trae ruido. Lee la aguja uno o dos segundos después."],
-    ["Calla las demás cuerdas.", "Apoya la mano sobre las otras para que no vibren al mismo tiempo."],
-    ["Cuerdas nuevas se desafinan solas.", "Estiran durante los primeros días. Afina varias veces antes de tocar."],
-    ["Una cuerda muy floja marca otra nota.", "Si sale una octava abajo o una nota rara, aprieta un poco y vuelve a medir."]
-   ]}
-  ]},
-  {"h2": "Sirve para guitarra acústica y eléctrica", "bloques": [
-   "Las dos usan las mismas notas. En la eléctrica conectada al amplificador, acerca el teléfono a la bocina.",
-   "Para otros instrumentos hay afinadores con sus propias cuerdas. Mira el de [ukulele](/afinador-de-ukulele/), el de [bajo](/afinador-de-bajo/) y el de [bajo quinto](/afinador-de-bajo-quinto/).",
-   "Si apenas empiezas, lee [cómo afinar una guitarra](/como-afinar-una-guitarra/) paso a paso."
-  ]}
+  {
+   "h2": "Afina aquí",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "afinador",
+      "nombre": "guitarra",
+      "cuerdas": [
+       [
+        "Mi",
+        "E2",
+        82.41,
+        "6ª"
+       ],
+       [
+        "La",
+        "A2",
+        110.0,
+        "5ª"
+       ],
+       [
+        "Re",
+        "D3",
+        146.83,
+        "4ª"
+       ],
+       [
+        "Sol",
+        "G3",
+        196.0,
+        "3ª"
+       ],
+       [
+        "Si",
+        "B3",
+        246.94,
+        "2ª"
+       ],
+       [
+        "Mi",
+        "E4",
+        329.63,
+        "1ª"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "El sonido se analiza en tu teléfono. No se graba ni se manda a ningún lado."
+    }
+   ]
+  },
+  {
+   "h2": "Las notas de cada cuerda",
+   "bloques": [
+    "La afinación estándar va de la cuerda más gruesa a la más delgada. Mi, La, Re, Sol, Si, Mi.",
+    {
+     "tabla": {
+      "cab": [
+       "Cuerda",
+       "Nota",
+       "Nombre en inglés",
+       "Frecuencia"
+      ],
+      "filas": [
+       [
+        "6ª, la más gruesa",
+        "Mi",
+        "E2",
+        "82.41 Hz"
+       ],
+       [
+        "5ª",
+        "La",
+        "A2",
+        "110.00 Hz"
+       ],
+       [
+        "4ª",
+        "Re",
+        "D3",
+        "146.83 Hz"
+       ],
+       [
+        "3ª",
+        "Sol",
+        "G3",
+        "196.00 Hz"
+       ],
+       [
+        "2ª",
+        "Si",
+        "B3",
+        "246.94 Hz"
+       ],
+       [
+        "1ª, la más delgada",
+        "Mi",
+        "E4",
+        "329.63 Hz"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Frecuencias con el La de referencia en 440 Hz, el estándar internacional."
+    }
+   ]
+  },
+  {
+   "h2": "Cómo usar el afinador",
+   "bloques": [
+    {
+     "pasos": [
+      "Busca un lugar sin ruido y acerca el teléfono a la guitarra.",
+      "Toca el botón para encender el micrófono y da permiso.",
+      "Toca una sola cuerda al aire, sin pisar ningún traste.",
+      "Mira la nota y la aguja. Al centro y en verde, está afinada.",
+      "Gira la clavija poco a poco y vuelve a tocar la cuerda.",
+      "Repite con las seis cuerdas y da una segunda vuelta al final."
+     ]
+    },
+    "Si no quieres usar el micrófono, toca un botón de cuerda. Suena su nota y afinas de oído hasta que las dos suenen igual."
+   ]
+  },
+  {
+   "h2": "Si la aguja no se queda quieta",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Toca más suave y deja sonar la cuerda.",
+       "El primer golpe trae ruido. Lee la aguja uno o dos segundos después."
+      ],
+      [
+       "Calla las demás cuerdas.",
+       "Apoya la mano sobre las otras para que no vibren al mismo tiempo."
+      ],
+      [
+       "Cuerdas nuevas se desafinan solas.",
+       "Estiran durante los primeros días. Afina varias veces antes de tocar."
+      ],
+      [
+       "Una cuerda muy floja marca otra nota.",
+       "Si sale una octava abajo o una nota rara, aprieta un poco y vuelve a medir."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Sirve para guitarra acústica y eléctrica",
+   "bloques": [
+    "Las dos usan las mismas notas. En la eléctrica conectada al amplificador, acerca el teléfono a la bocina.",
+    "Para otros instrumentos hay afinadores con sus propias cuerdas. Mira el de [ukulele](/afinador-de-ukulele/), el de [bajo](/afinador-de-bajo/) y el de [bajo quinto](/afinador-de-bajo-quinto/).",
+    "Si apenas empiezas, lee [cómo afinar una guitarra](/como-afinar-una-guitarra/) paso a paso."
+   ]
+  }
  ],
  "faq": [
-  {"q": "¿El afinador es gratis?", "a": "Sí. Funciona en el navegador del celular o la computadora, sin cuenta y sin descargar nada."},
-  {"q": "¿Por qué me pide el micrófono?", "a": "Para escuchar la cuerda. El sonido se analiza en tu equipo y no se graba."},
-  {"q": "¿Funciona en iPhone?", "a": "Sí, en Safari y en Chrome. Si no responde, revisa que el navegador tenga permiso de micrófono en los ajustes."},
-  {"q": "¿Qué es un afinador cromático?", "a": "Uno que reconoce las doce notas, no sólo las de la guitarra. Este muestra la nota más cercana y la cuerda que le toca."}
+  {
+   "q": "¿El afinador es gratis?",
+   "a": "Sí. Funciona en el navegador del celular o la computadora, sin cuenta y sin descargar nada."
+  },
+  {
+   "q": "¿Por qué me pide el micrófono?",
+   "a": "Para escuchar la cuerda. El sonido se analiza en tu equipo y no se graba."
+  },
+  {
+   "q": "¿Funciona en iPhone?",
+   "a": "Sí, en Safari y en Chrome. Si no responde, revisa que el navegador tenga permiso de micrófono en los ajustes."
+  },
+  {
+   "q": "¿Qué es un afinador cromático?",
+   "a": "Uno que reconoce las doce notas, no sólo las de la guitarra. Este muestra la nota más cercana y la cuerda que le toca."
+  }
  ],
  "fuentes": [
-  {"t": "Standard tuning, Wikipedia", "url": "https://en.wikipedia.org/wiki/Standard_tuning"},
-  {"t": "Piano key frequencies, Wikipedia (frecuencias con La 440 Hz)", "url": "https://en.wikipedia.org/wiki/Piano_key_frequencies"}
+  {
+   "t": "Standard tuning, Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Standard_tuning"
+  },
+  {
+   "t": "Piano key frequencies, Wikipedia (frecuencias con La 440 Hz)",
+   "url": "https://en.wikipedia.org/wiki/Piano_key_frequencies"
+  }
  ],
- "hermanas": ["como-afinar-una-guitarra", "afinador-de-ukulele", "afinador-de-bajo", "afinador-de-bajo-quinto", "acordes-de-guitarra-para-principiantes", "canciones-faciles-en-guitarra"]
+ "hermanas": [
+  "como-afinar-una-guitarra",
+  "afinador-de-ukulele",
+  "afinador-de-bajo",
+  "afinador-de-bajo-quinto",
+  "acordes-de-guitarra-para-principiantes",
+  "canciones-faciles-en-guitarra"
+ ],
+ "publicada_el": "2026-11-15"
 }

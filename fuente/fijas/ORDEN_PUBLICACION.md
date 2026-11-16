@@ -1,6 +1,6 @@
 # Orden de publicación · fijas de Avelina
 
-Nada está publicado. Todo espera el «publica» de Diego. Para publicar una ola: cambia `"estado": "publicada"` en sus JSON,
+**15-nov-2026: Diego dijo «sube todas las fijas que ya hiciste».** Se publicaron las 112 escritas (olas 1 y 2, las que esperaban hermanas y los 60 covers y artistas, que salen con «mi versión viene pronto») más 7 índices. Sólo quedan sin publicar los esqueletos de abajo. Para publicar una ola: cambia `"estado": "publicada"` en sus JSON,
 corre `python3 fuente/fijas/generar.py`, revisa el HTML servido (molde 1.9) y haz commit + push a `main`.
 Una fija sólo se publica con 3 o más hermanas publicadas. Las ligas a páginas sin publicar salen como texto, nunca como 404.
 Los índices de colección (`/cartas/`, `/afinadores/`, `/guitarra/`…) se publican solos al llegar a 3 fijas publicadas.

@@ -5,7 +5,7 @@
   "como tocar un guitarra"
  ],
  "volumen": 12000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "como-tocar-guitarra",
  "tipo": "guia",
@@ -112,5 +112,6 @@
   "afinador-de-guitarra",
   "como-afinar-una-guitarra",
   "acordes-de-ukulele"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

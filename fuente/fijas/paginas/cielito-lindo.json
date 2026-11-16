@@ -1,11 +1,15 @@
 {
  "slug": "cielito-lindo",
- "estado": "borrador",
+ "estado": "publicada",
  "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "cielito lindo",
- "variantes": ["cielito lindo pedro infante", "lindo cielito", "cielito li"],
+ "variantes": [
+  "cielito lindo pedro infante",
+  "lindo cielito",
+  "cielito li"
+ ],
  "volumen": 93000,
  "revisada": "2026-11-15",
  "title": "Cielito lindo: quién la escribió, su historia y mi cover",
@@ -16,50 +20,117 @@
  "cover": {
   "cancion": "Cielito lindo",
   "artista": "Quirino Mendoza y Cortés",
-  "compositor": ["Quirino Mendoza y Cortés"],
+  "compositor": [
+   "Quirino Mendoza y Cortés"
+  ],
   "credito": "Canción de Quirino Mendoza y Cortés (1882), registrada en la Sociedad de Autores y Compositores de México.",
   "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
  },
  "secciones": [
-  {"h2": "Ficha de la canción", "bloques": [
-   {"tabla": {"cab": ["Dato", "Cielito lindo"], "filas": [
-    ["Autor", "Quirino Mendoza y Cortés"],
-    ["Año", "1882"],
-    ["Otro nombre", "Canta y no llores"],
-    ["Primera grabación", "1918"],
-    ["En el cine", "Los tres García (1947)"],
-    ["Derechos", "Registrada en la SACM. Sus herederos cobran regalías."]
-   ]}},
-   {"nota": "Datos de Wikipedia en español, revisados el 15 de noviembre de 2026."}
-  ]},
-  {"h2": "De dónde viene", "bloques": [
-   "La música es de Quirino Mendoza. La letra tiene raíces más viejas, y los estudiosos no se ponen de acuerdo.",
-   "Arturo Ortega Morán dice que la Sierra Morena de la canción es la cordillera de España. Para él, los versos vienen de coplas andaluzas.",
-   "Margit Frenk Alatorre la ligó en 1936 con una seguidilla atribuida a Lope de Vega. Otros hablan de origen cubano, argentino o alemán.",
-   "Pavel Granados, investigador de la canción mexicana, sostiene que con todo eso sigue siendo una canción de México."
-  ]},
-  {"h2": "Las versiones más famosas", "bloques": [
-   {"lista": [
-    "Pedro Infante, una de las más buscadas en México.",
-    "Pedro Vargas, Luis Aguilar y Tito Guízar, en la época de oro.",
-    "Vicente Fernández, Lola Beltrán y Ana Gabriel, con mariachi.",
-    "Luciano Pavarotti, Plácido Domingo y José Carreras, como tenores.",
-    "Divididos, la banda argentina de rock."
-   ]}
-  ]},
-  {"h2": "El himno de los que están lejos", "bloques": [
-   "Los mexicanos que viven fuera la cantan para reconocerse. Se oye en mundiales, en olimpiadas y en cada 15 de septiembre.",
-   "Yo soy foránea en Monterrey, lejos de mi pueblo en Sonora. Por eso esta canción tiene lugar en mis [cartas de una foránea](/foranea/)."
-  ]}
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Cielito lindo"
+      ],
+      "filas": [
+       [
+        "Autor",
+        "Quirino Mendoza y Cortés"
+       ],
+       [
+        "Año",
+        "1882"
+       ],
+       [
+        "Otro nombre",
+        "Canta y no llores"
+       ],
+       [
+        "Primera grabación",
+        "1918"
+       ],
+       [
+        "En el cine",
+        "Los tres García (1947)"
+       ],
+       [
+        "Derechos",
+        "Registrada en la SACM. Sus herederos cobran regalías."
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de Wikipedia en español, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "De dónde viene",
+   "bloques": [
+    "La música es de Quirino Mendoza. La letra tiene raíces más viejas, y los estudiosos no se ponen de acuerdo.",
+    "Arturo Ortega Morán dice que la Sierra Morena de la canción es la cordillera de España. Para él, los versos vienen de coplas andaluzas.",
+    "Margit Frenk Alatorre la ligó en 1936 con una seguidilla atribuida a Lope de Vega. Otros hablan de origen cubano, argentino o alemán.",
+    "Pavel Granados, investigador de la canción mexicana, sostiene que con todo eso sigue siendo una canción de México."
+   ]
+  },
+  {
+   "h2": "Las versiones más famosas",
+   "bloques": [
+    {
+     "lista": [
+      "Pedro Infante, una de las más buscadas en México.",
+      "Pedro Vargas, Luis Aguilar y Tito Guízar, en la época de oro.",
+      "Vicente Fernández, Lola Beltrán y Ana Gabriel, con mariachi.",
+      "Luciano Pavarotti, Plácido Domingo y José Carreras, como tenores.",
+      "Divididos, la banda argentina de rock."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "El himno de los que están lejos",
+   "bloques": [
+    "Los mexicanos que viven fuera la cantan para reconocerse. Se oye en mundiales, en olimpiadas y en cada 15 de septiembre.",
+    "Yo soy foránea en Monterrey, lejos de mi pueblo en Sonora. Por eso esta canción tiene lugar en mis [cartas de una foránea](/foranea/)."
+   ]
+  }
  ],
  "faq": [
-  {"q": "¿Quién escribió Cielito lindo?", "a": "Quirino Mendoza y Cortés, en 1882. Parte de la letra viene de coplas españolas más antiguas."},
-  {"q": "¿Cielito lindo es de dominio público?", "a": "No. Está registrada en la Sociedad de Autores y Compositores de México y sus herederos cobran regalías."},
-  {"q": "¿Qué es la Sierra Morena de la canción?", "a": "Una cordillera del sur de España, según Arturo Ortega Morán."},
-  {"q": "¿Aquí está la letra?", "a": "No. Esta página cuenta su historia y lleva mi versión en video."}
+  {
+   "q": "¿Quién escribió Cielito lindo?",
+   "a": "Quirino Mendoza y Cortés, en 1882. Parte de la letra viene de coplas españolas más antiguas."
+  },
+  {
+   "q": "¿Cielito lindo es de dominio público?",
+   "a": "No. Está registrada en la Sociedad de Autores y Compositores de México y sus herederos cobran regalías."
+  },
+  {
+   "q": "¿Qué es la Sierra Morena de la canción?",
+   "a": "Una cordillera del sur de España, según Arturo Ortega Morán."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
  ],
  "fuentes": [
-  {"t": "Cielito lindo, Wikipedia en español", "url": "https://es.wikipedia.org/wiki/Cielito_lindo"}
+  {
+   "t": "Cielito lindo, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Cielito_lindo"
+  }
  ],
- "hermanas": ["la-llorona", "amor-eterno", "la-bikina", "sabor-a-mi", "besame-mucho", "foranea"]
+ "hermanas": [
+  "la-llorona",
+  "amor-eterno",
+  "la-bikina",
+  "sabor-a-mi",
+  "besame-mucho",
+  "foranea"
+ ],
+ "publicada_el": "2026-11-15"
 }

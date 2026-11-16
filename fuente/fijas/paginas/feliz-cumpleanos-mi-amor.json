@@ -4,7 +4,7 @@
   "cartas de amor de feliz cumpleaños"
  ],
  "volumen": 36000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "feliz-cumpleanos-mi-amor",
  "tipo": "carta",
@@ -126,5 +126,6 @@
   "feliz-cumpleanos-en-letra-bonita",
   "las-mananitas",
   "canciones-para-cumpleanos"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

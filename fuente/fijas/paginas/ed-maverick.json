@@ -3,7 +3,7 @@
   "canciones de ed maverick"
  ],
  "volumen": 33000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "ed-maverick",
  "espera_video": true,
@@ -125,5 +125,6 @@
   "silvana-estrada",
   "carla-morrison",
   "cantautores"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

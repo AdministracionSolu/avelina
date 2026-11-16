@@ -3,7 +3,7 @@
   "disfruto carla morrison"
  ],
  "volumen": 3300,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "disfruto-carla-morrison",
  "espera_video": true,
@@ -97,5 +97,6 @@
   "dejenme-llorar-carla-morrison",
   "eres-tu-carla-morrison",
   "canciones-de-amor-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

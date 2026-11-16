@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-para-papa",
  "tipo": "lista",
@@ -94,5 +94,6 @@
    "t": "Canciones para el Día del Padre, Billboard",
    "url": "https://www.billboard.com/lists/canciones-dia-del-padre-lista/alejandro-fernandez-cuando-yo-queria-ser-grande-2"
   }
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

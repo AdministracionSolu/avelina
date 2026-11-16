@@ -1,11 +1,14 @@
 {
  "slug": "sabor-a-mi",
- "estado": "borrador",
+ "estado": "publicada",
  "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "sabor a mi",
- "variantes": ["luis miguel sabor a mí", "sabor mi"],
+ "variantes": [
+  "luis miguel sabor a mí",
+  "sabor mi"
+ ],
  "volumen": 63000,
  "revisada": "2026-11-15",
  "title": "Sabor a mí: quién la escribió, su historia y mi cover",
@@ -16,43 +19,108 @@
  "cover": {
   "cancion": "Sabor a mí",
   "artista": "Álvaro Carrillo",
-  "compositor": ["Álvaro Carrillo"],
+  "compositor": [
+   "Álvaro Carrillo"
+  ],
   "credito": "Bolero de Álvaro Carrillo (1959). Aquí no va la letra: es de su autor.",
   "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
  },
  "secciones": [
-  {"h2": "Ficha de la canción", "bloques": [
-   {"tabla": {"cab": ["Dato", "Sabor a mí"], "filas": [
-    ["Autor", "Álvaro Carrillo (1921 a 1969)"],
-    ["Año", "1959"],
-    ["Género", "Bolero"],
-    ["Versión de Luis Miguel", "Disco Romances (WEA, 1997)"],
-    ["Lugar en Billboard", "6 en Hot Latin Songs, con Luis Miguel"]
-   ]}},
-   {"nota": "Datos de Wikipedia en inglés y en español, revisados el 15 de noviembre de 2026."}
-  ]},
-  {"h2": "Quién fue Álvaro Carrillo", "bloques": [
-   "Álvaro Carrillo fue un compositor mexicano de boleros. Murió en 1969, diez años después de escribir esta canción.",
-   "Su vida se volvió película en 1988. La cinta se llama igual que la canción, Sabor a mí."
-  ]},
-  {"h2": "La versión de Luis Miguel", "bloques": [
-   "Luis Miguel la incluyó en Romances, su disco de boleros de 1997 con WEA Latina.",
-   "Su versión llegó al lugar 6 de Hot Latin Songs de Billboard."
-  ]},
-  {"h2": "Por qué sigue viva", "bloques": [
-   "Se ha grabado muchas veces en más de seis décadas. Excélsior cuenta que hasta un grupo de k-pop tiene su versión.",
-   "Mi versión va a guitarra y voz, como toco todo lo mío."
-  ]}
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Sabor a mí"
+      ],
+      "filas": [
+       [
+        "Autor",
+        "Álvaro Carrillo (1921 a 1969)"
+       ],
+       [
+        "Año",
+        "1959"
+       ],
+       [
+        "Género",
+        "Bolero"
+       ],
+       [
+        "Versión de Luis Miguel",
+        "Disco Romances (WEA, 1997)"
+       ],
+       [
+        "Lugar en Billboard",
+        "6 en Hot Latin Songs, con Luis Miguel"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de Wikipedia en inglés y en español, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "Quién fue Álvaro Carrillo",
+   "bloques": [
+    "Álvaro Carrillo fue un compositor mexicano de boleros. Murió en 1969, diez años después de escribir esta canción.",
+    "Su vida se volvió película en 1988. La cinta se llama igual que la canción, Sabor a mí."
+   ]
+  },
+  {
+   "h2": "La versión de Luis Miguel",
+   "bloques": [
+    "Luis Miguel la incluyó en Romances, su disco de boleros de 1997 con WEA Latina.",
+    "Su versión llegó al lugar 6 de Hot Latin Songs de Billboard."
+   ]
+  },
+  {
+   "h2": "Por qué sigue viva",
+   "bloques": [
+    "Se ha grabado muchas veces en más de seis décadas. Excélsior cuenta que hasta un grupo de k-pop tiene su versión.",
+    "Mi versión va a guitarra y voz, como toco todo lo mío."
+   ]
+  }
  ],
  "faq": [
-  {"q": "¿Quién escribió Sabor a mí?", "a": "Álvaro Carrillo, compositor mexicano, en 1959."},
-  {"q": "¿En qué disco viene Sabor a mí de Luis Miguel?", "a": "En Romances, de 1997."},
-  {"q": "¿Aquí está la letra?", "a": "No. Esta página cuenta su historia y lleva mi versión en video."}
+  {
+   "q": "¿Quién escribió Sabor a mí?",
+   "a": "Álvaro Carrillo, compositor mexicano, en 1959."
+  },
+  {
+   "q": "¿En qué disco viene Sabor a mí de Luis Miguel?",
+   "a": "En Romances, de 1997."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
  ],
  "fuentes": [
-  {"t": "Sabor a mí, Wikipedia en inglés", "url": "https://en.wikipedia.org/wiki/Sabor_a_M%C3%AD"},
-  {"t": "Sabor a mí, Wikipedia en español", "url": "https://es.wikipedia.org/wiki/Sabor_a_m%C3%AD"},
-  {"t": "¿Quién escribió Sabor a mí?, Excélsior", "url": "https://www.excelsior.com.mx/funcion/sabor-a-mi-quien-es-el-autor-de-la-cancion-con-una-version-hasta-en-kpop/1678245"}
+  {
+   "t": "Sabor a mí, Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Sabor_a_M%C3%AD"
+  },
+  {
+   "t": "Sabor a mí, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Sabor_a_m%C3%AD"
+  },
+  {
+   "t": "¿Quién escribió Sabor a mí?, Excélsior",
+   "url": "https://www.excelsior.com.mx/funcion/sabor-a-mi-quien-es-el-autor-de-la-cancion-con-una-version-hasta-en-kpop/1678245"
+  }
  ],
- "hermanas": ["besame-mucho", "historia-de-un-amor", "contigo-aprendi", "la-bikina", "amor-eterno", "canciones-de-amor-en-espanol"]
+ "hermanas": [
+  "besame-mucho",
+  "historia-de-un-amor",
+  "contigo-aprendi",
+  "la-bikina",
+  "amor-eterno",
+  "canciones-de-amor-en-espanol"
+ ],
+ "publicada_el": "2026-11-15"
 }

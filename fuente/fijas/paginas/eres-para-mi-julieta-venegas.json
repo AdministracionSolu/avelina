@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "eres-para-mi-julieta-venegas",
  "espera_video": true,
@@ -97,5 +97,6 @@
   "limon-y-sal-julieta-venegas",
   "canciones-para-dedicar-a-mi-novio",
   "canciones-de-amor-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

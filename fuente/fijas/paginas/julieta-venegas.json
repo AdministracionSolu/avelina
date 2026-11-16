@@ -6,7 +6,7 @@
   "cancion julieta venegas"
  ],
  "volumen": 69000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "julieta-venegas",
  "espera_video": true,
@@ -154,5 +154,6 @@
   "ximena-sarinana",
   "natalia-lafourcade",
   "mon-laferte"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

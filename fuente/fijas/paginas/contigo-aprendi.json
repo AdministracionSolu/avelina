@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "contigo-aprendi",
  "espera_video": true,
@@ -102,5 +102,6 @@
   "historia-de-un-amor",
   "canciones-para-boda",
   "canciones-de-amor-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

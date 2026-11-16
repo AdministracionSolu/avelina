@@ -6,20 +6,20 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 | Estado | Páginas |
 |---|---|
 | espera video | 60 |
-| borrador | 52 |
+| publicada | 52 |
 | esqueleto | 18 |
 
 | Tipo | Estado | Páginas |
 |---|---|---|
 | artista | espera video | 15 |
-| carta | borrador | 20 |
+| carta | publicada | 20 |
 | cover | espera video | 45 |
 | fe | esqueleto | 17 |
-| guia | borrador | 6 |
 | guia | esqueleto | 1 |
-| herramienta | borrador | 7 |
-| lista | borrador | 18 |
-| marca | borrador | 1 |
+| guia | publicada | 6 |
+| herramienta | publicada | 7 |
+| lista | publicada | 18 |
+| marca | publicada | 1 |
 
 ## Esqueletos por escribir (de mayor a menor volumen)
 

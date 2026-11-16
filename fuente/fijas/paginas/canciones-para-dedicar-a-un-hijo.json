@@ -5,7 +5,7 @@
   "cancion para dedicar a un hijo"
  ],
  "volumen": 12000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-para-dedicar-a-un-hijo",
  "tipo": "lista",
@@ -95,5 +95,6 @@
    "t": "Canciones para dedicar a tu hijo o hija, Canal Trece",
    "url": "https://canaltrece.com.co/noticias/canciones-para-dedicar-a-tu-hijo-o-hija-melodias-que-hablan-de-amor-infinito/"
   }
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

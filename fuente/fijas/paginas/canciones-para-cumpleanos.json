@@ -6,7 +6,7 @@
   "canciones de cumpleaños"
  ],
  "volumen": 15000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-para-cumpleanos",
  "tipo": "lista",
@@ -107,5 +107,6 @@
    "t": "Happy birthday in Spanish, Don Quijote",
    "url": "https://www.donquijote.org/spanish-culture/traditions/happy-birthday-in-spanish/"
   }
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

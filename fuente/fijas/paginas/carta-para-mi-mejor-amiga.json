@@ -6,7 +6,7 @@
   "cartas de mejores amigas"
  ],
  "volumen": 15000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "carta-para-mi-mejor-amiga",
  "tipo": "carta",
@@ -131,5 +131,6 @@
   "carta-del-dia-del-amor-y-la-amistad",
   "canciones-para-una-amiga",
   "cartas-para-amiga-secreta"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

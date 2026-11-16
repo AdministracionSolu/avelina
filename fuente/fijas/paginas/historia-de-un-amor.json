@@ -4,7 +4,7 @@
   "historia de amor"
  ],
  "volumen": 9000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "historia-de-un-amor",
  "espera_video": true,
@@ -112,5 +112,6 @@
   "amor-eterno",
   "contigo-aprendi",
   "canciones-tristes-para-llorar"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

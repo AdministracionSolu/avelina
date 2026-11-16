@@ -12,7 +12,7 @@
   "cancion guitarra"
  ],
  "volumen": 33000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-faciles-en-guitarra",
  "tipo": "lista",
@@ -135,5 +135,6 @@
    "t": "Como un pájaro, acordes en LaCuerda",
    "url": "https://acordes.lacuerda.net/silvana_estrada/como_un_pajaro"
   }
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

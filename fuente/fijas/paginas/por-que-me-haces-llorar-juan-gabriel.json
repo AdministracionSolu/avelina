@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "por-que-me-haces-llorar-juan-gabriel",
  "espera_video": true,
@@ -96,5 +96,6 @@
   "canciones-tristes-para-llorar",
   "canciones-de-desamor",
   "si-no-te-hubieras-ido"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

@@ -3,7 +3,7 @@
   "cantantes mexicanas"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "cantautores",
  "tipo": "guia",
@@ -105,5 +105,6 @@
   "kevin-kaarl",
   "musica-indie",
   "foranea"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

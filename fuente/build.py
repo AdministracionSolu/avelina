@@ -348,7 +348,7 @@ def inicio(l):
 <section class="lienzo"><div class="ancho"><h2>{bi(t['musica'])}</h2><p class="lead">{t['musica_txt']}</p>{mosaico(l, t)}</div></section>
 <section class="papel pared-sec"><span class="vuelo" aria-hidden="true"></span><div class="ancho"><h2>{bi(t['pared'])}</h2><p class="lead">{t['pared_txt']}</p>{pared(l, pv)}<p class="centro"><a class="boton" href="{url(l,'videos')}">{bi(t['ver_pared'])}</a></p></div></section>
 <section class="lienzo cielo"><div class="ancho"><h2>{bi(t['diario'])}</h2><p class="sub">{bi(t['diario_sub'])}</p>{diario_lista(l, t, VIDEOS[:3], False)}<p class="centro"><a class="boton boton-luz" href="{url(l,'diario')}">{bi(t['diario_mas'])}</a></p></div></section>
-{puertas.portada() if l == "es" else ""}
+{puertas.portada(bi("Cartas y más")) if l == "es" else ""}
 {cartas(t)}{redes(t)}'''
     return pagina(l, "inicio", "Avelina", c, ld=ld)
 

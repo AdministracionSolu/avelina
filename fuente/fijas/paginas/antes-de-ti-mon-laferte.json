@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "antes-de-ti-mon-laferte",
  "espera_video": true,
@@ -95,5 +95,6 @@
   "tu-falta-de-querer-mon-laferte",
   "mi-buen-amor-mon-laferte",
   "canciones-de-desamor"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

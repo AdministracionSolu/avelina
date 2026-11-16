@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "carta-para-mi-hija",
  "tipo": "carta",
@@ -117,5 +117,6 @@
   "carta-para-mi-mama",
   "feliz-cumpleanos-sobrina",
   "cartas-de-amor"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

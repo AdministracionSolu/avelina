@@ -3,7 +3,7 @@
   "musica romantica de los 80 y 90 en español completas"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-romanticas-de-los-80-en-espanol",
  "tipo": "lista",
@@ -108,5 +108,6 @@
    "t": "Palabras tristes, LOS40 México",
    "url": "https://los40.com.mx/los40/2016/10/18/musicanueva/1476825292_072959.html"
   }
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

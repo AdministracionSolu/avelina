@@ -4,7 +4,7 @@
   "afinación de guitarra acustica"
  ],
  "volumen": 9000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "como-afinar-una-guitarra",
  "tipo": "herramienta",
@@ -176,5 +176,6 @@
   "como-tocar-guitarra",
   "canciones-faciles-en-guitarra",
   "afinador-de-ukulele"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

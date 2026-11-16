@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "vocalizacion",
  "tipo": "guia",
@@ -77,5 +77,6 @@
   "canciones-para-karaoke-mujer",
   "como-tocar-guitarra",
   "afinador-de-guitarra"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

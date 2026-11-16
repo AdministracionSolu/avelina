@@ -4,7 +4,7 @@
   "si tu me quisieras mon laferte"
  ],
  "volumen": 9000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "si-tu-me-quisieras-mon-laferte",
  "espera_video": true,
@@ -96,5 +96,6 @@
   "amarrame-mon-laferte",
   "canciones-de-desamor",
   "canciones-tristes-para-llorar"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

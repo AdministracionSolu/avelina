@@ -3,7 +3,7 @@
   "canciones de kevin kaarl"
  ],
  "volumen": 33000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "kevin-kaarl",
  "espera_video": true,
@@ -131,5 +131,6 @@
   "ed-maverick",
   "silvana-estrada",
   "carla-morrison"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

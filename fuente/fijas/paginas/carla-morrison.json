@@ -1,6 +1,6 @@
 {
  "slug": "carla-morrison",
- "estado": "borrador",
+ "estado": "publicada",
  "espera_video": true,
  "tipo": "artista",
  "coleccion": "covers",
@@ -171,5 +171,6 @@
   "mon-laferte",
   "natalia-lafourcade",
   "silvana-estrada"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

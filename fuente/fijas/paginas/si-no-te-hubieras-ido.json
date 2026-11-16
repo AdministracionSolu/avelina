@@ -4,7 +4,7 @@
   "sino te hubieras ido"
  ],
  "volumen": 9000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "si-no-te-hubieras-ido",
  "espera_video": true,
@@ -107,5 +107,6 @@
   "canciones-tristes-para-llorar",
   "canciones-de-desamor",
   "tu-falta-de-querer-mon-laferte"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

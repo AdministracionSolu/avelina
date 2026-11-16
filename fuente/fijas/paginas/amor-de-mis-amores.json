@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "amor-de-mis-amores",
  "espera_video": true,
@@ -103,5 +103,6 @@
   "besame-mucho",
   "historia-de-un-amor",
   "canciones-de-amor-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

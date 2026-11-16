@@ -3,7 +3,7 @@
   "canciones para dedicar a una amiga"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-para-una-amiga",
  "tipo": "lista",
@@ -88,5 +88,6 @@
    "t": "Canciones sobre la amistad, Bodas.net",
    "url": "https://www.bodas.net/articulos/canciones-sobre-la-amistad--c9545"
   }
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

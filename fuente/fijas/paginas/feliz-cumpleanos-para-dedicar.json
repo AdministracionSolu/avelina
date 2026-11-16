@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "feliz-cumpleanos-para-dedicar",
  "tipo": "carta",
@@ -123,5 +123,6 @@
   "feliz-cumpleanos-amiga",
   "las-mananitas",
   "canciones-para-cumpleanos"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

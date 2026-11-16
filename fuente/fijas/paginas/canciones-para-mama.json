@@ -6,7 +6,7 @@
   "cancion para mamá"
  ],
  "volumen": 15000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-para-mama",
  "tipo": "lista",
@@ -125,5 +125,6 @@
   "amor-eterno",
   "canciones-para-papa",
   "canciones-para-dedicar"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

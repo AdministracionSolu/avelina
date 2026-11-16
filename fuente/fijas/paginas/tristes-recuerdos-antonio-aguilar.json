@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "tristes-recuerdos-antonio-aguilar",
  "espera_video": true,
@@ -95,5 +95,6 @@
   "amor-eterno",
   "si-no-te-hubieras-ido",
   "canciones-de-desamor"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

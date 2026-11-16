@@ -1,10 +1,19 @@
 {
  "slug": "cartas-de-amor",
- "estado": "borrador",
+ "estado": "publicada",
  "tipo": "carta",
  "coleccion": "cartas",
  "cabeza": "cartas de amor",
- "variantes": ["una carta de amor", "carta de amores", "carta de amor profundo", "cartas de amor para enamorar", "cartas de besos", "notas de amor", "tarjeta de amor", "palabra de amor bonita"],
+ "variantes": [
+  "una carta de amor",
+  "carta de amores",
+  "carta de amor profundo",
+  "cartas de amor para enamorar",
+  "cartas de besos",
+  "notas de amor",
+  "tarjeta de amor",
+  "palabra de amor bonita"
+ ],
  "volumen": 81000,
  "revisada": "2026-11-15",
  "title": "Cartas de amor: 8 cartas bonitas para copiar o mandar",
@@ -13,55 +22,156 @@
  "resumen": "Ocho cartas de amor, notas cortas y cómo escribir la tuya.",
  "respuesta": "Una carta de amor dice algo que en voz alta cuesta. Aquí tienes ocho para copiar, de profundas a cortitas, y notas de una línea. Escoge una, ponle tu recuerdo y mándala como postal.",
  "secciones": [
-  {"h2": "Escribe tu carta de amor", "bloques": [
-   {"herramienta": {"tipo": "postal", "ocasion": "amor", "para": "Amor", "firma": "", "texto": "Te escribo porque hay cosas que se dicen mejor despacio.\n\nContigo aprendí que el amor no hace ruido. Se nota en los detalles, en quedarse y en volver.\n\nTe quiero hoy y mañana también."}},
-   "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
-  ]},
-  {"h2": "Cartas de amor profundas", "bloques": [
-   {"carta": {"para": "Amor,", "texto": "Antes de ti pensaba que el amor era una tormenta. Contigo descubrí que también puede ser calma.\n\nMe quieres en mis días grises sin pedirme que me pinte de colores. Eso no lo había vivido nunca.\n\nGracias por quererme así, entera.", "firma": ""}},
-   {"carta": {"para": "Mi amor,", "texto": "Si algún día me pierdo, búscame en las cosas pequeñas. En el primer café, en la canción del coche y en tu nombre escrito en mis libretas.\n\nAhí estoy siempre.", "firma": ""}},
-   {"carta": {"para": "A ti,", "texto": "No sé escribir poemas, pero sé lo que siento cuando llegas. Se me acomoda todo.\n\nTe quiero de una forma que todavía no tiene nombre. Mientras lo encuentro, te lo digo así.", "firma": ""}}
-  ]},
-  {"h2": "Para enamorar", "bloques": [
-   {"carta": {"para": "Hola,", "texto": "Esto lo escribo yo, que normalmente no me atrevo. Me gusta cómo hablas de lo que te importa.\n\nMe gustaría escucharte más. Un café, una tarde y ya veremos.", "firma": ""}},
-   {"carta": {"para": "Tú,", "texto": "Me haces reír sin intentarlo y me pones nerviosa sin saberlo.\n\nNo te pido nada. Sólo quería que lo supieras.", "firma": ""}}
-  ]},
-  {"h2": "Para la distancia", "bloques": [
-   {"carta": {"para": "Amor,", "texto": "Hoy te extrañé en una canción que no era nuestra. Así me pasa ahora, te encuentro en todo.\n\nLos kilómetros no me asustan. Me asusta un día sin saber de ti, y ese día no ha llegado.\n\nNos vemos pronto.", "firma": ""}}
-  ]},
-  {"h2": "Cartas cortitas", "bloques": [
-   {"carta": {"para": "", "texto": "Eres mi lugar favorito sin ser un lugar.", "firma": ""}},
-   {"carta": {"para": "", "texto": "Si me preguntan qué es la paz, voy a decir tu nombre.", "firma": ""}}
-  ]},
-  {"h2": "Notas de amor de una línea", "bloques": [
-   "Para un post-it, una servilleta o el reverso de un boleto.",
-   {"lista": [
-    "Te quise antes de saber tu nombre completo.",
-    "Gracias por el café y por todo lo demás.",
-    "Hoy también te elijo.",
-    "Contigo hasta el lunes es bonito.",
-    "Me debes un beso. Cóbramelo pronto.",
-    "Eres la mejor parte de mi día."
-   ]}
-  ]},
-  {"h2": "Cómo escribir una carta de amor", "bloques": [
-   {"pasos": [
-    "Escribe a mano o en voz baja, como si la persona estuviera enfrente.",
-    "Usa un detalle real. Un lugar, una fecha, una frase suya.",
-    "Di lo que sientes con un ejemplo, no con una lista de adjetivos.",
-    "Deja algo abierto al final. Una invitación o una promesa pequeña."
-   ]},
-   "Si la quieres en papel, mira cómo hacer una [carta de amor a mano con dibujos](/carta-de-amor-a-mano/)."
-  ]},
-  {"h2": "Escribo cartas, por eso esta página", "bloques": [
-   "Me llamo Avelina y canto lo que escribo. Mis canciones nacen improvisando, sola con mi guitarra.",
-   "A la gente que me escucha le escribo las [Cartas de una foránea](/foranea/). Si quieres recibirlas, deja tu correo al final de esta página."
-  ]}
+  {
+   "h2": "Escribe tu carta de amor",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "amor",
+      "para": "Amor",
+      "firma": "",
+      "texto": "Te escribo porque hay cosas que se dicen mejor despacio.\n\nContigo aprendí que el amor no hace ruido. Se nota en los detalles, en quedarse y en volver.\n\nTe quiero hoy y mañana también."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal."
+   ]
+  },
+  {
+   "h2": "Cartas de amor profundas",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Amor,",
+      "texto": "Antes de ti pensaba que el amor era una tormenta. Contigo descubrí que también puede ser calma.\n\nMe quieres en mis días grises sin pedirme que me pinte de colores. Eso no lo había vivido nunca.\n\nGracias por quererme así, entera.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "Mi amor,",
+      "texto": "Si algún día me pierdo, búscame en las cosas pequeñas. En el primer café, en la canción del coche y en tu nombre escrito en mis libretas.\n\nAhí estoy siempre.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "A ti,",
+      "texto": "No sé escribir poemas, pero sé lo que siento cuando llegas. Se me acomoda todo.\n\nTe quiero de una forma que todavía no tiene nombre. Mientras lo encuentro, te lo digo así.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para enamorar",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Hola,",
+      "texto": "Esto lo escribo yo, que normalmente no me atrevo. Me gusta cómo hablas de lo que te importa.\n\nMe gustaría escucharte más. Un café, una tarde y ya veremos.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "Tú,",
+      "texto": "Me haces reír sin intentarlo y me pones nerviosa sin saberlo.\n\nNo te pido nada. Sólo quería que lo supieras.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para la distancia",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Amor,",
+      "texto": "Hoy te extrañé en una canción que no era nuestra. Así me pasa ahora, te encuentro en todo.\n\nLos kilómetros no me asustan. Me asusta un día sin saber de ti, y ese día no ha llegado.\n\nNos vemos pronto.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cartas cortitas",
+   "bloques": [
+    {
+     "carta": {
+      "para": "",
+      "texto": "Eres mi lugar favorito sin ser un lugar.",
+      "firma": ""
+     }
+    },
+    {
+     "carta": {
+      "para": "",
+      "texto": "Si me preguntan qué es la paz, voy a decir tu nombre.",
+      "firma": ""
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Notas de amor de una línea",
+   "bloques": [
+    "Para un post-it, una servilleta o el reverso de un boleto.",
+    {
+     "lista": [
+      "Te quise antes de saber tu nombre completo.",
+      "Gracias por el café y por todo lo demás.",
+      "Hoy también te elijo.",
+      "Contigo hasta el lunes es bonito.",
+      "Me debes un beso. Cóbramelo pronto.",
+      "Eres la mejor parte de mi día."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir una carta de amor",
+   "bloques": [
+    {
+     "pasos": [
+      "Escribe a mano o en voz baja, como si la persona estuviera enfrente.",
+      "Usa un detalle real. Un lugar, una fecha, una frase suya.",
+      "Di lo que sientes con un ejemplo, no con una lista de adjetivos.",
+      "Deja algo abierto al final. Una invitación o una promesa pequeña."
+     ]
+    },
+    "Si la quieres en papel, mira cómo hacer una [carta de amor a mano con dibujos](/carta-de-amor-a-mano/)."
+   ]
+  },
+  {
+   "h2": "Escribo cartas, por eso esta página",
+   "bloques": [
+    "Me llamo Avelina y canto lo que escribo. Mis canciones nacen improvisando, sola con mi guitarra.",
+    "A la gente que me escucha le escribo las [Cartas de una foránea](/foranea/). Si quieres recibirlas, deja tu correo al final de esta página."
+   ]
+  }
  ],
  "faq": [
-  {"q": "¿Cómo empiezo una carta de amor?", "a": "Con su nombre o como le dices de cariño, y luego un recuerdo concreto. Así suena tuya desde la primera línea."},
-  {"q": "¿Puedo usar estas cartas tal cual?", "a": "Sí. Son para copiar, cambiar y mandar. Con un detalle tuyo se vuelven tuyas."},
-  {"q": "¿La postal se guarda en algún lado?", "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."}
+  {
+   "q": "¿Cómo empiezo una carta de amor?",
+   "a": "Con su nombre o como le dices de cariño, y luego un recuerdo concreto. Así suena tuya desde la primera línea."
+  },
+  {
+   "q": "¿Puedo usar estas cartas tal cual?",
+   "a": "Sí. Son para copiar, cambiar y mandar. Con un detalle tuyo se vuelven tuyas."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
  ],
- "hermanas": ["carta-para-mi-novio", "carta-para-mi-novia", "carta-de-amor-a-mano", "carta-de-san-valentin", "feliz-cumpleanos-mi-amor", "canciones-para-dedicar"]
+ "hermanas": [
+  "carta-para-mi-novio",
+  "carta-para-mi-novia",
+  "carta-de-amor-a-mano",
+  "carta-de-san-valentin",
+  "feliz-cumpleanos-mi-amor",
+  "canciones-para-dedicar"
+ ],
+ "publicada_el": "2026-11-15"
 }

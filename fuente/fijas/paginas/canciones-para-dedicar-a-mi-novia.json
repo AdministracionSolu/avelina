@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-para-dedicar-a-mi-novia",
  "tipo": "lista",
@@ -81,5 +81,6 @@
   "canciones-para-dedicar",
   "cartas-de-amor",
   "canciones-para-boda"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 30000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "feliz-cumpleanos-sobrina",
  "tipo": "carta",
@@ -113,5 +113,6 @@
   "feliz-cumpleanos-para-dedicar",
   "feliz-cumpleanos-en-letra-bonita",
   "las-mananitas"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

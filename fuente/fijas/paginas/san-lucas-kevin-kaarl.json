@@ -3,7 +3,7 @@
   "kevin kaarl san lucas"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "san-lucas-kevin-kaarl",
  "espera_video": true,
@@ -99,5 +99,6 @@
   "ed-maverick",
   "musica-indie",
   "canciones-de-desamor"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

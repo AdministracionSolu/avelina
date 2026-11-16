@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 30000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "silvana-estrada",
  "espera_video": true,
@@ -124,5 +124,6 @@
   "carla-morrison",
   "kevin-kaarl",
   "amor-eterno"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

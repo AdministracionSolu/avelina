@@ -4,7 +4,7 @@
   "la quinta estacion el sol no regresa"
  ],
  "volumen": 6300,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "el-sol-no-regresa-la-quinta-estacion",
  "espera_video": true,
@@ -98,5 +98,6 @@
   "canciones-de-desamor",
   "canciones-tristes-para-llorar",
   "canciones-para-karaoke-mujer"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

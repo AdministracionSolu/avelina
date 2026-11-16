@@ -4,7 +4,7 @@
   "mon laferte mi buen amor"
  ],
  "volumen": 9000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "mi-buen-amor-mon-laferte",
  "espera_video": true,
@@ -108,5 +108,6 @@
   "amarrame-mon-laferte",
   "tu-falta-de-querer-mon-laferte",
   "canciones-de-desamor"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

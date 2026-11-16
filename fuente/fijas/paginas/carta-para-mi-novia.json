@@ -12,7 +12,7 @@
   "carta de amor para tu novia"
  ],
  "volumen": 33000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "carta-para-mi-novia",
  "tipo": "carta",
@@ -143,5 +143,6 @@
   "carta-de-san-valentin",
   "canciones-para-dedicar-a-mi-novia",
   "feliz-cumpleanos-mi-amor"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

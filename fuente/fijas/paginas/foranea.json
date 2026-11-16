@@ -3,7 +3,7 @@
   "foraneos"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "foranea",
  "tipo": "marca",
@@ -92,5 +92,6 @@
   "cartas-de-amor",
   "caloncho",
   "cantautores"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

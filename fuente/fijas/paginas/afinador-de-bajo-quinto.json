@@ -4,7 +4,7 @@
   "afinando bajo quinto"
  ],
  "volumen": 9000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "afinador-de-bajo-quinto",
  "tipo": "herramienta",
@@ -185,5 +185,6 @@
   "afinador-de-guitarra",
   "como-afinar-una-guitarra",
   "afinador-de-ukulele"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

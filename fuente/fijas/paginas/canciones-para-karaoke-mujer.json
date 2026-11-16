@@ -6,7 +6,7 @@
   "karaoke canciones mujeres"
  ],
  "volumen": 6900,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-para-karaoke-mujer",
  "tipo": "lista",
@@ -106,5 +106,6 @@
   "tu-falta-de-querer-mon-laferte",
   "la-quinta-estacion",
   "ha-ash"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

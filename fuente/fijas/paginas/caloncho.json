@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 30000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "caloncho",
  "espera_video": true,
@@ -150,5 +150,6 @@
   "mon-laferte",
   "julieta-venegas",
   "foranea"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

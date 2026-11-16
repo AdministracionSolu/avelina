@@ -1,10 +1,15 @@
 {
  "slug": "carta-para-mi-mama",
- "estado": "borrador",
+ "estado": "publicada",
  "tipo": "carta",
  "coleccion": "cartas",
  "cabeza": "carta para la mamá",
- "variantes": ["carta para mi mamá", "una carta para mamá", "carta para mam", "carta para día de la madre"],
+ "variantes": [
+  "carta para mi mamá",
+  "una carta para mamá",
+  "carta para mam",
+  "carta para día de la madre"
+ ],
  "volumen": 69000,
  "revisada": "2026-11-15",
  "title": "Carta para mi mamá: 6 cartas bonitas para copiar o mandar",
@@ -13,45 +18,137 @@
  "resumen": "Seis cartas para mamá y un generador de postales para mandarlas.",
  "respuesta": "Para una carta a tu mamá, junta un recuerdo, un gracias y algo que nunca le has dicho. Abajo tienes seis cartas para copiar y una postal para mandarla desde el celular.",
  "secciones": [
-  {"h2": "Escríbela y mándala como postal", "bloques": [
-   {"herramienta": {"tipo": "postal", "ocasion": "mama", "para": "Mamá", "firma": "Tu hija", "texto": "Hoy me acordé de ti sin razón, y eso ya dice mucho.\n\nGracias por enseñarme a seguir aunque me tiemble la voz. Todo lo bueno que hago tiene algo tuyo.\n\nTe quiero más de lo que sé decir."}},
-   "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal. Cambia el nombre y la firma, y listo."
-  ]},
-  {"h2": "Seis cartas para mamá", "bloques": [
-   {"carta": {"para": "Mamá,", "texto": "Gracias por las mañanas en que te levantaste antes que todos. Nunca te vi cansada, y ahora sé que sí lo estabas.\n\nNo te lo digo seguido, pero me acuerdo de todo. Del café, de tus manos y de tu voz llamándome a desayunar.\n\nTe quiero con todo lo que soy.", "firma": "Tu hija"}},
-   {"carta": {"para": "Ma,", "texto": "Hoy cumples años y yo estoy lejos. Te mando esta carta como si fuera un abrazo largo.\n\nAcá aprendí que la casa no es un lugar. Es tu voz cuando me contestas el teléfono.\n\nFeliz cumpleaños. Pronto te lo digo en persona.", "firma": "Con todo mi cariño"}},
-   {"carta": {"para": "Mamá,", "texto": "Este 10 de mayo no quiero darte sólo flores. Quiero darte las gracias por cada vez que confiaste en mí antes que yo.\n\nMe enseñaste a pedir perdón, a dar las gracias y a no rendirme. Lo uso todos los días.\n\nFeliz día, mamá.", "firma": "Tu hijo"}},
-   {"carta": {"para": "Mamita,", "texto": "Perdón por las veces que no te escuché. Ahora entiendo tus consejos, aunque llegaron antes de tiempo.\n\nGracias por no soltarme cuando yo sí quería soltarme.\n\nTe quiero mucho.", "firma": "Tu hija"}},
-   {"carta": {"para": "Mamá,", "texto": "Si un día me preguntan de dónde saco la fuerza, voy a decir tu nombre.\n\nTú no te rendiste cuando todo pesaba. Yo aprendí mirándote.\n\nGracias por ser mi casa.", "firma": "Tu hijo"}},
-   {"carta": {"para": "Ma,", "texto": "Una carta corta, porque las cosas importantes caben en poco.\n\nGracias. Te quiero. Me haces falta.", "firma": "Siempre tuya"}}
-  ]},
-  {"h2": "Cómo escribir tu propia carta", "bloques": [
-   {"pasos": [
-    "Empieza con un recuerdo concreto. Una comida, un viaje o una frase suya.",
-    "Dale las gracias por algo que nadie más vio.",
-    "Dile algo que nunca le has dicho en voz alta.",
-    "Cierra con lo que sientes hoy, en una sola frase.",
-    "Fírmala como ella te dice de cariño."
-   ]},
-   "Si te cuesta empezar, toma una de las cartas de arriba y cámbiale el recuerdo por uno tuyo. Con eso ya es tuya."
-  ]},
-  {"h2": "Para cuando estás lejos de casa", "bloques": [
-   "Soy de un pueblo de Sonora y hoy vivo en Monterrey. En mi canción [Country girl](/musica/) canto que cada vez que le escribo a mi mamá le pregunto cómo está.",
-   "Por eso mis cartas se llaman Cartas de una foránea. Si también estás lejos, lee [qué significa ser foránea](/foranea/)."
-  ]},
-  {"h2": "Ideas para entregarla", "bloques": [
-   {"lista": [
-    ["A mano, en papel bonito.", "Mira cómo hacer una [carta a mano con dibujos](/carta-de-amor-a-mano/)."],
-    ["Como postal por WhatsApp.", "Usa el generador de arriba y guarda la imagen."],
-    ["Con una canción.", "Junta la carta con una de las [canciones para mamá](/canciones-para-mama/)."],
-    ["Dentro de su bolsa o su libro.", "Que la encuentre sola, en un día cualquiera."]
-   ]}
-  ]}
+  {
+   "h2": "Escríbela y mándala como postal",
+   "bloques": [
+    {
+     "herramienta": {
+      "tipo": "postal",
+      "ocasion": "mama",
+      "para": "Mamá",
+      "firma": "Tu hija",
+      "texto": "Hoy me acordé de ti sin razón, y eso ya dice mucho.\n\nGracias por enseñarme a seguir aunque me tiemble la voz. Todo lo bueno que hago tiene algo tuyo.\n\nTe quiero más de lo que sé decir."
+     }
+    },
+    "Toca «Usar esta carta» en cualquiera de abajo y se pasa a la postal. Cambia el nombre y la firma, y listo."
+   ]
+  },
+  {
+   "h2": "Seis cartas para mamá",
+   "bloques": [
+    {
+     "carta": {
+      "para": "Mamá,",
+      "texto": "Gracias por las mañanas en que te levantaste antes que todos. Nunca te vi cansada, y ahora sé que sí lo estabas.\n\nNo te lo digo seguido, pero me acuerdo de todo. Del café, de tus manos y de tu voz llamándome a desayunar.\n\nTe quiero con todo lo que soy.",
+      "firma": "Tu hija"
+     }
+    },
+    {
+     "carta": {
+      "para": "Ma,",
+      "texto": "Hoy cumples años y yo estoy lejos. Te mando esta carta como si fuera un abrazo largo.\n\nAcá aprendí que la casa no es un lugar. Es tu voz cuando me contestas el teléfono.\n\nFeliz cumpleaños. Pronto te lo digo en persona.",
+      "firma": "Con todo mi cariño"
+     }
+    },
+    {
+     "carta": {
+      "para": "Mamá,",
+      "texto": "Este 10 de mayo no quiero darte sólo flores. Quiero darte las gracias por cada vez que confiaste en mí antes que yo.\n\nMe enseñaste a pedir perdón, a dar las gracias y a no rendirme. Lo uso todos los días.\n\nFeliz día, mamá.",
+      "firma": "Tu hijo"
+     }
+    },
+    {
+     "carta": {
+      "para": "Mamita,",
+      "texto": "Perdón por las veces que no te escuché. Ahora entiendo tus consejos, aunque llegaron antes de tiempo.\n\nGracias por no soltarme cuando yo sí quería soltarme.\n\nTe quiero mucho.",
+      "firma": "Tu hija"
+     }
+    },
+    {
+     "carta": {
+      "para": "Mamá,",
+      "texto": "Si un día me preguntan de dónde saco la fuerza, voy a decir tu nombre.\n\nTú no te rendiste cuando todo pesaba. Yo aprendí mirándote.\n\nGracias por ser mi casa.",
+      "firma": "Tu hijo"
+     }
+    },
+    {
+     "carta": {
+      "para": "Ma,",
+      "texto": "Una carta corta, porque las cosas importantes caben en poco.\n\nGracias. Te quiero. Me haces falta.",
+      "firma": "Siempre tuya"
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escribir tu propia carta",
+   "bloques": [
+    {
+     "pasos": [
+      "Empieza con un recuerdo concreto. Una comida, un viaje o una frase suya.",
+      "Dale las gracias por algo que nadie más vio.",
+      "Dile algo que nunca le has dicho en voz alta.",
+      "Cierra con lo que sientes hoy, en una sola frase.",
+      "Fírmala como ella te dice de cariño."
+     ]
+    },
+    "Si te cuesta empezar, toma una de las cartas de arriba y cámbiale el recuerdo por uno tuyo. Con eso ya es tuya."
+   ]
+  },
+  {
+   "h2": "Para cuando estás lejos de casa",
+   "bloques": [
+    "Soy de un pueblo de Sonora y hoy vivo en Monterrey. En mi canción [Country girl](/musica/) canto que cada vez que le escribo a mi mamá le pregunto cómo está.",
+    "Por eso mis cartas se llaman Cartas de una foránea. Si también estás lejos, lee [qué significa ser foránea](/foranea/)."
+   ]
+  },
+  {
+   "h2": "Ideas para entregarla",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "A mano, en papel bonito.",
+       "Mira cómo hacer una [carta a mano con dibujos](/carta-de-amor-a-mano/)."
+      ],
+      [
+       "Como postal por WhatsApp.",
+       "Usa el generador de arriba y guarda la imagen."
+      ],
+      [
+       "Con una canción.",
+       "Junta la carta con una de las [canciones para mamá](/canciones-para-mama/)."
+      ],
+      [
+       "Dentro de su bolsa o su libro.",
+       "Que la encuentre sola, en un día cualquiera."
+      ]
+     ]
+    }
+   ]
+  }
  ],
  "faq": [
-  {"q": "¿Qué le escribo a mi mamá en una carta?", "a": "Un recuerdo, un gracias y lo que sientes hoy. Con tres párrafos cortos es suficiente."},
-  {"q": "¿Puedo usar estas cartas tal cual?", "a": "Sí. Son para copiar, cambiar y mandar. Lo mejor es agregarle un recuerdo tuyo."},
-  {"q": "¿La postal se guarda en algún lado?", "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."}
+  {
+   "q": "¿Qué le escribo a mi mamá en una carta?",
+   "a": "Un recuerdo, un gracias y lo que sientes hoy. Con tres párrafos cortos es suficiente."
+  },
+  {
+   "q": "¿Puedo usar estas cartas tal cual?",
+   "a": "Sí. Son para copiar, cambiar y mandar. Lo mejor es agregarle un recuerdo tuyo."
+  },
+  {
+   "q": "¿La postal se guarda en algún lado?",
+   "a": "No. Se arma en tu teléfono y sólo sale si tú la mandas."
+  }
  ],
- "hermanas": ["feliz-cumpleanos-mama", "canciones-para-mama", "carta-para-mi-hija", "cartas-de-amor", "carta-de-amor-a-mano", "mananitas-para-mama"]
+ "hermanas": [
+  "feliz-cumpleanos-mama",
+  "canciones-para-mama",
+  "carta-para-mi-hija",
+  "cartas-de-amor",
+  "carta-de-amor-a-mano",
+  "mananitas-para-mama"
+ ],
+ "publicada_el": "2026-11-15"
 }

@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "palabras-tristes-los-yonics",
  "espera_video": true,
@@ -100,5 +100,6 @@
   "canciones-de-desamor",
   "mon-laferte",
   "canciones-romanticas-de-los-80-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

@@ -5,7 +5,7 @@
   "nunca es sufi"
  ],
  "volumen": 12000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "nunca-es-suficiente",
  "espera_video": true,
@@ -105,5 +105,6 @@
   "lo-que-construimos-natalia-lafourcade",
   "canciones-para-dedicar",
   "canciones-para-boda"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

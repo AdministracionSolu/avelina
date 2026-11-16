@@ -4,7 +4,7 @@
   "guitarra facil"
  ],
  "volumen": 9000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "acordes-de-guitarra-para-principiantes",
  "tipo": "guia",
@@ -190,5 +190,6 @@
   "afinador-de-guitarra",
   "acordes-de-ukulele",
   "como-afinar-una-guitarra"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

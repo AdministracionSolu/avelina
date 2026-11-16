@@ -3,7 +3,7 @@
   "colapso kevin kaarl"
  ],
  "volumen": 3300,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "colapso-kevin-kaarl",
  "espera_video": true,
@@ -95,5 +95,6 @@
   "ed-maverick",
   "musica-indie",
   "canciones-tristes-para-llorar"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

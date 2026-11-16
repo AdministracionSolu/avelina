@@ -3,7 +3,7 @@
   "cumpleaños feliz para adulto"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "feliz-cumpleanos-para-hombre",
  "tipo": "carta",
@@ -113,5 +113,6 @@
   "feliz-cumpleanos-mi-amor",
   "canciones-para-papa",
   "las-mananitas"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

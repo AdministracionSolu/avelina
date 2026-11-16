@@ -7,7 +7,7 @@
   "carta 14 de febrero"
  ],
  "volumen": 18000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "carta-de-san-valentin",
  "tipo": "carta",
@@ -126,5 +126,6 @@
   "carta-para-mi-novia",
   "carta-del-dia-del-amor-y-la-amistad",
   "carta-de-amor-a-mano"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

@@ -4,7 +4,7 @@
   "canciones sin banderas"
  ],
  "volumen": 9000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "sin-bandera",
  "espera_video": true,
@@ -133,5 +133,6 @@
   "ha-ash",
   "canciones-de-amor-en-espanol",
   "hasta-la-raiz-natalia-lafourcade"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

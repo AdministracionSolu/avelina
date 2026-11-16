@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "compartir-carla-morrison",
  "espera_video": true,
@@ -100,5 +100,6 @@
   "natalia-lafourcade",
   "eres-tu-carla-morrison",
   "canciones-de-amor-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

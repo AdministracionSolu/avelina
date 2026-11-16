@@ -3,7 +3,7 @@
   "be same mucho"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "besame-mucho",
  "espera_video": true,
@@ -112,5 +112,6 @@
   "historia-de-un-amor",
   "contigo-aprendi",
   "canciones-de-amor-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

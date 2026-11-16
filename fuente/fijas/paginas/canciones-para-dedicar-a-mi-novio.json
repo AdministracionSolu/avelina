@@ -5,7 +5,7 @@
   "canciones para dedicar a un hombre"
  ],
  "volumen": 12000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-para-dedicar-a-mi-novio",
  "tipo": "lista",
@@ -85,5 +85,6 @@
   "canciones-para-dedicar",
   "cartas-de-amor",
   "feliz-cumpleanos-mi-amor"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

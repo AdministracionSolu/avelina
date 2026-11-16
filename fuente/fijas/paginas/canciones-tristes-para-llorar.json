@@ -8,7 +8,7 @@
   "playlist tristes spotify"
  ],
  "volumen": 21000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-tristes-para-llorar",
  "tipo": "lista",
@@ -105,5 +105,6 @@
   "tu-falta-de-querer-mon-laferte",
   "amor-eterno",
   "canciones-de-amor-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

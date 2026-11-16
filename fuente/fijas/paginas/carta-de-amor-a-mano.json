@@ -4,7 +4,7 @@
   "dibujos para carta de amor"
  ],
  "volumen": 9000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "carta-de-amor-a-mano",
  "tipo": "carta",
@@ -136,5 +136,6 @@
   "carta-para-mi-novia",
   "carta-de-san-valentin",
   "carta-para-mi-mama"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

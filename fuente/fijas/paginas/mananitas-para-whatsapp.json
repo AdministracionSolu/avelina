@@ -3,7 +3,7 @@
   "mañanitas de cumpleaños para enviar por whatsapp"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "mananitas-para-whatsapp",
  "espera_video": true,
@@ -66,5 +66,6 @@
   "mananitas-para-mama",
   "feliz-cumpleanos-para-dedicar",
   "feliz-cumpleanos-en-letra-bonita"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

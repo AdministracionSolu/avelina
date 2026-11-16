@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "feliz-cumpleanos-madrina",
  "tipo": "carta",
@@ -82,5 +82,6 @@
   "feliz-cumpleanos-mama",
   "feliz-cumpleanos-para-dedicar",
   "las-mananitas"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

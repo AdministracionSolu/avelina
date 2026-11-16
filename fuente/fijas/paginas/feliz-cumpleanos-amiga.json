@@ -3,7 +3,7 @@
   "cumpleaños feliz para amiga"
  ],
  "volumen": 33000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "feliz-cumpleanos-amiga",
  "tipo": "carta",
@@ -118,5 +118,6 @@
   "feliz-cumpleanos-en-letra-bonita",
   "las-mananitas",
   "canciones-para-cumpleanos"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

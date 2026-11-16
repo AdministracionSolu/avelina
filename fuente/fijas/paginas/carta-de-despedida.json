@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "carta-de-despedida",
  "tipo": "carta",
@@ -114,5 +114,6 @@
   "carta-para-una-amiga",
   "cartas-de-amor",
   "foranea"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

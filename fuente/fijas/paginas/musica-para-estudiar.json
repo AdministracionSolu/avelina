@@ -6,7 +6,7 @@
   "music para estudiar"
  ],
  "volumen": 15000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "musica-para-estudiar",
  "tipo": "lista",
@@ -100,5 +100,6 @@
   "cantautores",
   "musica-indie",
   "foranea"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

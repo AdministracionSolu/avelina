@@ -6,7 +6,7 @@
   "boda canciones"
  ],
  "volumen": 9600,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-para-boda",
  "tipo": "lista",
@@ -93,5 +93,6 @@
   "nunca-es-suficiente",
   "carta-para-mi-novio",
   "carta-para-mi-novia"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

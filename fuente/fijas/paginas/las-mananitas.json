@@ -1,11 +1,17 @@
 {
  "slug": "las-mananitas",
- "estado": "borrador",
+ "estado": "publicada",
  "espera_video": true,
  "tipo": "cover",
  "coleccion": "cumpleanos",
  "cabeza": "mañanitas de cunpleaños",
- "variantes": ["mañanitas de cumpleaños", "mañanitas para cumpleaños", "las mañanitas para felicitar", "las mañanitas feliz feliz cumpleaños", "las mañanitas para una persona muy especial"],
+ "variantes": [
+  "mañanitas de cumpleaños",
+  "mañanitas para cumpleaños",
+  "las mañanitas para felicitar",
+  "las mañanitas feliz feliz cumpleaños",
+  "las mañanitas para una persona muy especial"
+ ],
  "volumen": 42000,
  "revisada": "2026-11-15",
  "title": "Mañanitas de cumpleaños: su historia y mi versión",
@@ -20,41 +26,93 @@
   "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, la puedes mandar desde aquí."
  },
  "secciones": [
-  {"h2": "De dónde vienen las mañanitas", "bloques": [
-   "Son parte del cancionero tradicional de México. Vienen de los saludos al amanecer, las albas y alboradas, que podían ser religiosos o de fiesta.",
-   "Cada región de México tenía las suyas. Desde aquí la costumbre pasó a otros países de América."
-  ]},
-  {"h2": "Quién las escribió", "bloques": [
-   {"tabla": {"cab": ["Versión", "Qué dice"], "filas": [
-    ["Alejandro Manzo Salceda (1851 a 1950)", "La versión más antigua lo da como autor. Era músico de Michoacán y vivió en Tepic desde 1894."],
-    ["Manuel M. Ponce (1882 a 1948)", "Habría juntado varias versiones, las arregló y las registró en la SACM. La suya es la más cantada."],
-    ["Alfonso Esparza Oteo", "Se le atribuye el arreglo musical. Fue alumno de Ponce."]
-   ]}},
-   "El debate sigue abierto. Por eso esta página no copia la letra."
-  ]},
-  {"h2": "Quiénes las grabaron", "bloques": [
-   {"lista": [
-    "Pedro Infante, con la versión atribuida a Manzo. Es de las más populares.",
-    "Jorge Negrete, Javier Solís y José Alfredo Jiménez.",
-    "Vicente Fernández y Alejandro Fernández, con mariachi. Mira [las mañanitas de Vicente Fernández](/las-mananitas-vicente-fernandez/)."
-   ]}
-  ]},
-  {"h2": "Cómo mandar las mañanitas", "bloques": [
-   {"pasos": [
-    "Dale play a mi versión de arriba cuando esté lista.",
-    "Escribe una felicitación corta en la [postal de cumpleaños](/feliz-cumpleanos-para-dedicar/).",
-    "Mándale las dos cosas por WhatsApp temprano, como se cantan las mañanitas."
-   ]},
-   "Si la quieres tocar tú, mira [las mañanitas en guitarra](/las-mananitas-en-guitarra/)."
-  ]}
+  {
+   "h2": "De dónde vienen las mañanitas",
+   "bloques": [
+    "Son parte del cancionero tradicional de México. Vienen de los saludos al amanecer, las albas y alboradas, que podían ser religiosos o de fiesta.",
+    "Cada región de México tenía las suyas. Desde aquí la costumbre pasó a otros países de América."
+   ]
+  },
+  {
+   "h2": "Quién las escribió",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Versión",
+       "Qué dice"
+      ],
+      "filas": [
+       [
+        "Alejandro Manzo Salceda (1851 a 1950)",
+        "La versión más antigua lo da como autor. Era músico de Michoacán y vivió en Tepic desde 1894."
+       ],
+       [
+        "Manuel M. Ponce (1882 a 1948)",
+        "Habría juntado varias versiones, las arregló y las registró en la SACM. La suya es la más cantada."
+       ],
+       [
+        "Alfonso Esparza Oteo",
+        "Se le atribuye el arreglo musical. Fue alumno de Ponce."
+       ]
+      ]
+     }
+    },
+    "El debate sigue abierto. Por eso esta página no copia la letra."
+   ]
+  },
+  {
+   "h2": "Quiénes las grabaron",
+   "bloques": [
+    {
+     "lista": [
+      "Pedro Infante, con la versión atribuida a Manzo. Es de las más populares.",
+      "Jorge Negrete, Javier Solís y José Alfredo Jiménez.",
+      "Vicente Fernández y Alejandro Fernández, con mariachi. Mira [las mañanitas de Vicente Fernández](/las-mananitas-vicente-fernandez/)."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Cómo mandar las mañanitas",
+   "bloques": [
+    {
+     "pasos": [
+      "Dale play a mi versión de arriba cuando esté lista.",
+      "Escribe una felicitación corta en la [postal de cumpleaños](/feliz-cumpleanos-para-dedicar/).",
+      "Mándale las dos cosas por WhatsApp temprano, como se cantan las mañanitas."
+     ]
+    },
+    "Si la quieres tocar tú, mira [las mañanitas en guitarra](/las-mananitas-en-guitarra/)."
+   ]
+  }
  ],
  "faq": [
-  {"q": "¿Quién escribió Las mañanitas?", "a": "No hay acuerdo. Unos la dan a Alejandro Manzo Salceda y otros a Manuel M. Ponce, que la registró en la SACM."},
-  {"q": "¿Cuándo se cantan Las mañanitas?", "a": "En cumpleaños y santos, al despertar a la persona o antes de partir el pastel."},
-  {"q": "¿Aquí está la letra?", "a": "No. Esta página cuenta su historia y lleva mi versión en video."}
+  {
+   "q": "¿Quién escribió Las mañanitas?",
+   "a": "No hay acuerdo. Unos la dan a Alejandro Manzo Salceda y otros a Manuel M. Ponce, que la registró en la SACM."
+  },
+  {
+   "q": "¿Cuándo se cantan Las mañanitas?",
+   "a": "En cumpleaños y santos, al despertar a la persona o antes de partir el pastel."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
  ],
  "fuentes": [
-  {"t": "Las mañanitas, Wikipedia en español", "url": "https://es.wikipedia.org/wiki/Las_ma%C3%B1anitas"}
+  {
+   "t": "Las mañanitas, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Las_ma%C3%B1anitas"
+  }
  ],
- "hermanas": ["mananitas-para-whatsapp", "las-mananitas-vicente-fernandez", "mananitas-para-mama", "feliz-cumpleanos-para-dedicar", "canciones-para-cumpleanos"]
+ "hermanas": [
+  "mananitas-para-whatsapp",
+  "las-mananitas-vicente-fernandez",
+  "mananitas-para-mama",
+  "feliz-cumpleanos-para-dedicar",
+  "canciones-para-cumpleanos"
+ ],
+ "publicada_el": "2026-11-15"
 }

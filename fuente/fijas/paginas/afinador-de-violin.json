@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "afinador-de-violin",
  "tipo": "herramienta",
@@ -143,5 +143,6 @@
   "afinador-de-ukulele",
   "afinador-de-bajo",
   "como-afinar-una-guitarra"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

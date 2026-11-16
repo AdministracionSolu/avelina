@@ -7,7 +7,7 @@
   "natalia lafourcade canciones"
  ],
  "volumen": 42300,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "natalia-lafourcade",
  "espera_video": true,
@@ -153,5 +153,6 @@
   "carla-morrison",
   "silvana-estrada",
   "julieta-venegas"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

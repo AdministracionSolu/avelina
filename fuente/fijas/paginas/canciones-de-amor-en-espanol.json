@@ -9,7 +9,7 @@
   "balada en español"
  ],
  "volumen": 24000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-de-amor-en-espanol",
  "tipo": "lista",
@@ -100,5 +100,6 @@
   "sabor-a-mi",
   "cartas-de-amor",
   "canciones-romanticas-de-los-80-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

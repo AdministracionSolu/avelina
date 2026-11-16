@@ -3,7 +3,7 @@
   "carla morrison contigo"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "contigo-carla-morrison",
  "espera_video": true,
@@ -94,5 +94,6 @@
   "te-regalo-carla-morrison",
   "canciones-de-amor-en-espanol",
   "canciones-para-dedicar-a-mi-novia"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

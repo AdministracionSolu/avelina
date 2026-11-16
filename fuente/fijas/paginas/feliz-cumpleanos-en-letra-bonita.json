@@ -5,7 +5,7 @@
   "letras de feliz cumpleaños"
  ],
  "volumen": 39000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "feliz-cumpleanos-en-letra-bonita",
  "tipo": "herramienta",
@@ -97,5 +97,6 @@
   "feliz-cumpleanos-amiga",
   "feliz-cumpleanos-para-dedicar",
   "las-mananitas"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

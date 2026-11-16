@@ -3,7 +3,7 @@
   "hasta raiz"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "hasta-la-raiz-natalia-lafourcade",
  "espera_video": true,
@@ -106,5 +106,6 @@
   "lo-que-construimos-natalia-lafourcade",
   "canciones-para-boda",
   "foranea"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

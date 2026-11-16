@@ -50,7 +50,7 @@ def pie(hoy=None):
     return '<nav class="pie-puertas" aria-label="Cartas, canciones y afinadores">' + "".join(f'<a href="{r}">{e(n)}</a>' for r, n, _, _ in v) + "</nav>"
 
 
-def portada(titulo="Cartas, canciones y afinadores", sub="Lo que escribo y preparo para que lo uses: cartas, listas, covers y afinadores.", hoy=None):
+def portada(titulo_html="Cartas y más", sub="Cartas, listas de canciones, covers y afinadores que escribo y preparo para que los uses.", hoy=None):
     """Postales de la portada hacia cada índice."""
     v = vivas(hoy)
     if not v: return ""
@@ -58,4 +58,4 @@ def portada(titulo="Cartas, canciones y afinadores", sub="Lo que escribo y prepa
         f'<a class="puerta" href="{r}"><span class="puerta-timbre" style="background-image:url({TIMBRES[i % 2]})" aria-hidden="true"></span>'
         f'<span class="puerta-sello" style="background-image:url({SELLOS[i % 3]})" aria-hidden="true"></span>'
         f'<b>{e(n)}</b><span>{e(f)}</span></a>' for i, (r, n, f, _) in enumerate(v))
-    return f'<section class="papel puertas-sec"><div class="ancho"><h2>{e(titulo)}</h2><p class="lead">{e(sub)}</p><div class="puertas">{tarjetas}</div></div></section>'
+    return f'<section class="papel puertas-sec"><div class="ancho"><h2>{titulo_html}</h2><p class="lead">{e(sub)}</p><div class="puertas">{tarjetas}</div></div></section>'

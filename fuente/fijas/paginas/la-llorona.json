@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 30000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "la-llorona",
  "espera_video": true,
@@ -118,5 +118,6 @@
   "la-bikina",
   "historia-de-un-amor",
   "besame-mucho"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

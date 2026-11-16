@@ -3,7 +3,7 @@
   "jesse y joy canciones"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "jesse-y-joy",
  "espera_video": true,
@@ -127,5 +127,6 @@
   "ha-ash",
   "julieta-venegas",
   "canciones-de-desamor"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

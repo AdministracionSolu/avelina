@@ -3,7 +3,7 @@
   "mañanitas con alejandro fernandez"
  ],
  "volumen": 33000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "las-mananitas-vicente-fernandez",
  "espera_video": true,
@@ -53,5 +53,6 @@
   "mananitas-para-whatsapp",
   "cielito-lindo",
   "canciones-para-cumpleanos"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

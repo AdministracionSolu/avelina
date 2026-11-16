@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "kilometros-sin-bandera",
  "espera_video": true,
@@ -80,5 +80,6 @@
   "canciones-de-desamor",
   "cartas-de-amor",
   "canciones-de-amor-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

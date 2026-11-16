@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "mananitas-para-mama",
  "espera_video": true,
@@ -53,5 +53,6 @@
   "feliz-cumpleanos-mama",
   "canciones-para-mama",
   "carta-para-mi-mama"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

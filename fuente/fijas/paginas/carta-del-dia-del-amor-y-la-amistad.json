@@ -6,7 +6,7 @@
   "carta del dia del amor y la amistad"
  ],
  "volumen": 15000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "carta-del-dia-del-amor-y-la-amistad",
  "tipo": "carta",
@@ -125,5 +125,6 @@
   "cartas-para-amiga-secreta",
   "carta-de-san-valentin",
   "canciones-para-una-amiga"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

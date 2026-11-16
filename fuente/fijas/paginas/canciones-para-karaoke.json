@@ -12,7 +12,7 @@
   "karaoke cantar"
  ],
  "volumen": 27600,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "canciones-para-karaoke",
  "tipo": "lista",
@@ -96,5 +96,6 @@
   "vocalizacion",
   "cielito-lindo",
   "la-bikina"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

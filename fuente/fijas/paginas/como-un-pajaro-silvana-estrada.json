@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "como-un-pajaro-silvana-estrada",
  "espera_video": true,
@@ -100,5 +100,6 @@
   "natalia-lafourcade",
   "cantautores",
   "canciones-tristes-para-llorar"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

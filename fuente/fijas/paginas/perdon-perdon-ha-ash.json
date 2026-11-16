@@ -1,7 +1,7 @@
 {
  "variantes": [],
  "volumen": 3000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "perdon-perdon-ha-ash",
  "espera_video": true,
@@ -85,5 +85,6 @@
   "canciones-de-desamor",
   "canciones-para-karaoke-mujer",
   "la-quinta-estacion"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

@@ -3,7 +3,7 @@
   "en el 2000 natalia lafourcade"
  ],
  "volumen": 3300,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "en-el-2000-natalia-lafourcade",
  "espera_video": true,
@@ -98,5 +98,6 @@
   "lo-que-construimos-natalia-lafourcade",
   "nunca-es-suficiente",
   "canciones-para-karaoke-mujer"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

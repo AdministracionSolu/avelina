@@ -4,7 +4,7 @@
   "sariñana"
  ],
  "volumen": 36000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "ximena-sarinana",
  "espera_video": true,
@@ -135,5 +135,6 @@
   "carla-morrison",
   "mon-laferte",
   "daniela-spalla"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

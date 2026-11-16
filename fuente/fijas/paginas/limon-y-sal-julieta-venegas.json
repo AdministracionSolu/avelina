@@ -3,7 +3,7 @@
   "limon y sal"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "limon-y-sal-julieta-venegas",
  "espera_video": true,
@@ -99,5 +99,6 @@
   "eres-para-mi-julieta-venegas",
   "canciones-para-karaoke-mujer",
   "canciones-de-amor-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

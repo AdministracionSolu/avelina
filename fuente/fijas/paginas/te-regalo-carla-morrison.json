@@ -3,7 +3,7 @@
   "carla morrison te regalo"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "te-regalo-carla-morrison",
  "espera_video": true,
@@ -104,5 +104,6 @@
   "canciones-para-dedicar",
   "canciones-para-dedicar-a-mi-novio",
   "canciones-de-amor-en-espanol"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

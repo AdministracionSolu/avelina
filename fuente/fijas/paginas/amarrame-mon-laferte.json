@@ -5,7 +5,7 @@
   "curame mon laferte"
  ],
  "volumen": 12000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "amarrame-mon-laferte",
  "espera_video": true,
@@ -111,5 +111,6 @@
   "mi-buen-amor-mon-laferte",
   "si-tu-me-quisieras-mon-laferte",
   "canciones-para-karaoke-mujer"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

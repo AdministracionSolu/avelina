@@ -14,7 +14,7 @@
   "tablaturas ukulele"
  ],
  "volumen": 39000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "acordes-de-ukulele",
  "tipo": "guia",
@@ -262,5 +262,6 @@
   "como-tocar-guitarra",
   "canciones-faciles-en-guitarra",
   "afinador-de-guitarra"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }

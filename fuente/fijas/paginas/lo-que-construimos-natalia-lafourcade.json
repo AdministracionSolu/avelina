@@ -3,7 +3,7 @@
   "natalia lafourcade lo que construimos"
  ],
  "volumen": 6000,
- "estado": "borrador",
+ "estado": "publicada",
  "revisada": "2026-11-15",
  "slug": "lo-que-construimos-natalia-lafourcade",
  "espera_video": true,
@@ -112,5 +112,6 @@
   "nunca-es-suficiente",
   "canciones-de-desamor",
   "canciones-tristes-para-llorar"
- ]
+ ],
+ "publicada_el": "2026-11-15"
 }
