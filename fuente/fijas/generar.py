@@ -35,7 +35,7 @@ COLECCIONES = {  # índice de cada colección: se publica solo cuando tiene 3 o 
     "guitarra": ("guitarra", "Guitarra y canto", "Acordes, canciones y ejercicios para empezar."),
     "canciones-para": ("canciones-para", "Canciones para cada momento", "Listas de canciones para dedicar, llorar o celebrar."),
     "marca": ("cartas-de-una-foranea", "Cartas de una foránea", "Lo que escribo lejos de casa, la escena de cantautores y la música indie de México."),
-    "fe": ("fe", "Fe", "Reflexiones de fe y alabanzas a guitarra y voz, con sus textos y videos."),
+    "fe": ("fe", "Fe", "Reflexiones de fe con sus textos y videos."),
 }
 
 def bi(t):

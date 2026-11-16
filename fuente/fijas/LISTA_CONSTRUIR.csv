@@ -1,142 +1,131 @@
 orden,slug,cabeza,volumen,tipo,coleccion,familia,n_cabezas,variantes
 1,mon-laferte,mon laferte,603600,artista,covers,covers-mon-laferte,2,canciones de mon laferte ; la mon laferte ; mon laferte youtube ; cancion mon laferte
 2,afinador-de-guitarra,afinador de guitarra online,216000,herramienta,afinador,afinador,8,afinador ; afinadores de guitarra acustica ; afinador cromatico ; afinador de google ; afinador guitar tuner ; afinador onlime ; ador de guitarra ; afinador de guitarra ; afinador de guitarra+ ; afinador guitarra ; afinador para la guitarra ; afinador de guitarra gratis ; afinador para guitarra ; afinador guitarra online ; online afinador guitarra ; afinador de guitarra acústica ; guitar tuner afinador
-3,jesus-adrian-romero,jesus adrian romero,189000,artista,fe,fe-musica,5,jesus adrian ; jesus a romero ; adrian romero ; jesus adrian romero canciones ; adrian jesus romero ; jesus romero adrian ; jesúsadrianromero ; canciones jesus adrian romero
-4,carla-morrison,carla morrison,153000,artista,covers,covers-carla-morrison,2,canciones de carla morrison ; carla morrison carla morrison ; carla carla morrison ; morrison carla ; carla korrison
-5,canciones-cristianas,canciones cristianas,141000,lista,fe,fe-musica,7,musica cristiana ; cantos cristianos ; himnos cristianos ; cristianos ; coro cristianos ; coros de avivamientos ; cancion es cristianas ; musica cristiana gratis ; youtube musica cristiana ; cantos cristiano
-6,reflexiones-de-la-vida,reflexion de vida,138000,fe,fe,fe-reflexiones-y-frases,10,reflecciones de la vida ; reflexion sobre la vida ; reflexiones cortas de la vida ; reflexiones de la vida cortos ; reflexiones cortas ; reflexiones de vida para seguir adelante ; reflexiones de la vida diaria con moraleja ; reflexiones positivas ; pensamientos de la vida ; reflexiones de la vid ; reflexiones de vida ; reflexion de la vida ; reflexiónes de la vida ; reflexiones sobre la vida ; sobre la vida reflexiones ; cortas reflexiones de la vida ; reflexion corta de vida ; reflexiones de vida cortos
-7,alabanzas-cristianas,alabanzas cristianas,108000,lista,fe,fe-musica,14,alabanzas ; alabanzas a dios ; alabanzas al rey ; alabanzas cristianas hermosas ; alabanzas cristianas alegres ; musica cristiana alegre ; musica cristianas alegres ; cancion de alabanza ; cancion cristiana alabanza ; cántico de alabanza ; salmos de alabanza ; musicas de dios ; canción de diosito ; alabanza de dios ; alabanzas de dios ; alabanzas adios ; canticos de alabanzas
-8,tu-falta-de-querer-mon-laferte,mon laferte tu falta de querer,96000,cover,covers,covers-mon-laferte,2,tu falta de querer ; falta de querer mon laferte ; mon laferte tu tanta falta de querer ; tu tanta falta de querer
-9,cielito-lindo,cielito lindo,93000,cover,covers,covers-clasicos,2,cielito lindo pedro infante ; lindo cielito ; cielito li
-10,alabanzas-de-adoracion,alabanzas de adoración,90000,lista,fe,fe-musica,11,musica cristiana de adoracion ; canciones cristianas de adoración ; canto cristiano de adoración ; alabanzas cristianas de adoración ; alabanzas cristianas hermosas de adoracion ; las mejores canciones cristianas de adoración ; cantos de adoracion ; coro de adoracion ; adoraciones cristianas ; musica para orar ; cristiana musica de adoracion ; musicas cristiana de adoración ; música cristianas de adoracion ; musica cristianade adoracion ; cancion de adoración cristiana ; canciones cristianos de adoracion ; canto de adoracion cristiano ; cantos de adoracion cristianos ; las mejores canciones de adoracion cristianas ; coros de adoración
-11,frases-de-dios,frases de dios,84000,fe,fe,fe-reflexiones-y-frases,10,frases de diosito ; frases de dios bonitas ; frases de dios cortas ; amor frases de dios ; fortaleza frases de dios ; mensajes de dios ; mensajes de jesus ; palabras de dios de hoy ; dios te ama
-12,cartas-de-amor,cartas de amor,81000,carta,cartas,cartas,7,carta de amor profundo ; cartas de amor para enamorar ; cartas de besos ; notas de amor ; tarjeta de amor ; palabra de amor bonita ; carta de amores ; una carta de amor
-13,frases-de-la-vida,frases sabias de la vida,81000,fe,fe,fe-reflexiones-y-frases,11,frases bonitas de la vida ; frases cortas de la vida ; frases sobre la vida ; frases de la vida para reflexionar ; frases para la vida de reflexion ; frases de reflexion ; frases sabias de reflexión ; bonitas frases de reflexión ; frase corta de reflexion ; fraces de reflecion ; frases bonitas dela vida ; frases sobre la vid ; reflexionar frases de la vida ; reflexion frases de la vida ; frases para la reflexión ; frases sabias y reflexiones ; frases bonitas reflexion
-14,amor-eterno,amor eterno,75000,cover,covers,covers-clasicos,3,juan gabriel amor eterno ; rocío dúrcal amor eterno ; amor interno ; amor eterno juan gabriel ; eterno amor juan gabriel ; juan gabriel eterno amor
-15,julieta-venegas,julieta venegas,69000,artista,covers,covers-pop-mexicano,3,canciones de julieta venegas ; venegas ; julieta venega ; cancion julieta venegas
-16,carta-para-mi-mama,carta para la mamá,69000,carta,cartas,cartas,2,carta para dia de la madre ; carta para mam ; carta para mi mama ; una carta para mama
-17,sabor-a-mi,sabor a mi,63000,cover,covers,covers-clasicos,2,luis miguel sabor a mí ; sabor mi
-18,carta-para-mi-novio,carta para mi novio,60000,carta,cartas,cartas,6,carta bonita para mi novio ; carta de amor para mi novio ; cartas creativas para mi novio ; cartas de amor para mi novio creativas ; cartas para mi novio largas que hagan llorar ; carta a mi novio ; carta para el novio ; carta para tu novio ; cartas de amor para tu novio ; novio cartas de amor
-19,feliz-cumpleanos-mama,cumpleaños feliz mama,60000,carta,cumpleanos,cumpleanos-y-mananitas,2,feliz cupleaños mama
-20,carta-para-una-amiga,carta para una amiga,48000,carta,cartas,cartas,4,carta de amistad para una amiga ; carta especial para una amiga ; bonitas cartas para amigas ; carta a una amiga ; carta para mi amiga ; carta amiga
-21,natalia-lafourcade,natalia lafourcade,42300,artista,covers,covers-natalia-lafourcade,3,canciones de natalia lafourcade ; lafourcade ; natalia lafourcade natalia lafourcade ; canciones natalia lafourcade ; natalia lafourcade canciones
-22,las-mananitas,mañanitas de cunpleaños,42000,cover,cumpleanos,cumpleanos-y-mananitas,5,mañanitas para cumpleaños ; las mañanitas para felicitar ; las mañanitas feliz feliz cumpleanos ; las mañanitas para una persona muy especial
-23,buenos-dias-dios-te-bendiga,bueno dia dios te bendiga,42000,fe,fe,fe-reflexiones-y-frases,12,buenos dias dios ; buen dia dios te bendiga ; buenos días dios te bendiga siempre ; buenos días bendiciones de dios ; buen dia bendiciones ; dios bendiga tu dia ; mensajes de bendiciones para el dia de hoy ; buenos días feliz viernes bendiciones ; buenos días reflexión positiva ; reflexion frases bonitas de buenos dias ; versiculo buenos dias cristianos ; buenos días dios te bendiga ; buenos dias con dios
-24,acordes-de-ukulele,acorde de ukelele,39000,guia,guitarra,guitarra-y-acordes,7,acordes ukulele ; uke acordes ; ukelele acords ; acorde d en ukelele ; nota del ukelele ; tablatura ukulele ; acorde en ukelele ; acorde de ukulele ; acordes ukelele ; nota ukelele ; notas ukelele ; tablaturas ukulele
-25,feliz-cumpleanos-en-letra-bonita,cumpleaños feliz en letras,39000,herramienta,cumpleanos,cumpleanos-y-mananitas,3,feliz cumpleaños en letra bonita ; happy birthday letra bonita ; letras de feliz cumpleaños
-26,ximena-sarinana,ximena sariñana,36000,artista,covers,covers-pop-mexicano,3,canciones de ximena sariñana ; sariñana
-27,la-bikina,la bikina,36000,cover,covers,covers-clasicos,2,la bikina luis miguel ; luis miguel la bikina
-28,feliz-cumpleanos-mi-amor,cumpleaños feliz mi amor,36000,carta,cumpleanos,cumpleanos-y-mananitas,3,feliz cumpleaños mi amor letras bonitas ; cartas de amor de feliz cumpleaños
-29,gracias-dios-por-todo,gracia dios por tus bendiciones,36000,fe,fe,fe-reflexiones-y-frases,11,gracias dios por todo ; dar gracias a dios por todo ; gracias dios por un dia mas ; frases de agradecimiento a dios ; oracion para dar gracias a dios ; oración de la mañana para dar gracias a dios ; oración de la noche para dar gracias a dios ; oración para dar gracias a dios por un nuevo día ; salmo para dar gracias a dios ; versículos de agradecimiento a dios por las bendiciones recibidas ; gracias dios por tus bendiciones
-30,kevin-kaarl,kevin kaarl,33000,artista,covers,covers-kevin-kaarl,2,canciones de kevin kaarl
-31,ed-maverick,ed maverick,33000,artista,covers,covers-pop-mexicano,2,canciones de ed maverick
-32,canciones-faciles-en-guitarra,canciones faciles en guitarra,33000,lista,guitarra,guitarra-y-acordes,6,canciones en guitarra ; cancionero en guitarra ; cancionero con acordes de guitarra ; guitarra facil cancionero ; acordes de guitarra canciones ; cancion a guitarra facil ; canciones facil en guitarra ; guitarra facil canciones ; canciones faciles guitarra ; cancion guitarra
-33,carta-para-mi-novia,una carta para mi novia,33000,carta,cartas,cartas,8,carta bonita para mi novia ; carta de amor para mi novia ; carta para mi novia expresando lo que siento ; cartas creativas para mi novia ; ideas de cartas para mi novia ; cartas para mi novia largas que hagan llorar ; nota para mi novia ; carta a mi novia ; carta para tu novia ; carta de amor para tu novia
-34,feliz-cumpleanos-amiga,cumpleaños feliz amiga,33000,carta,cumpleanos,cumpleanos-y-mananitas,1,cumpleaños feliz para amiga
-35,las-mananitas-vicente-fernandez,mañanitas vicente fernández,33000,cover,cumpleanos,cumpleanos-y-mananitas,2,mañanitas con alejandro fernandez
-36,versiculos-de-la-biblia-para-reflexionar,versiculo de la biblia para reflexionar,33000,fe,fe,fe-reflexiones-y-frases,7,reflexion versiculos de la biblia cortos ; frases de la biblia ; frases de la biblia motivadoras ; versiculos de bendicion ; versículos de esperanza y ánimo ; frase biblicas de amor ; versículos de la biblia para reflexionar ; versículos de bendiciones ; versiculos de animo y esperanza ; frases biblicas de amor
-37,oracion-cristiana-de-la-manana,oracion cristiana de la mañana,33000,fe,fe,fe-musica,5,oracion para empezar el dia con la bendicion de dios ; oraciones cristianas ; dios ayudame ; con dios me acuesto con dios me levanto ; oracion cristianas de la mañana ; oraciones cristiana de la mañana ; oraciones cristianas de la manana ; oracion cristiana de mañana ; oracion de manana cristiana ; oraciones de mañana cristianas
-38,silvana-estrada,silvana estrada,30000,artista,covers,covers-silvana-estrada,1,
-39,caloncho,caloncho,30000,artista,covers,covers-pop-mexicano,1,
-40,la-llorona,la llorona,30000,cover,covers,covers-clasicos,1,
-41,feliz-cumpleanos-sobrina,cumpleaños feliz sobrina,30000,carta,cumpleanos,cumpleanos-y-mananitas,1,
-42,reflexiones-cristianas,reflexiones cristianas,30000,fe,fe,fe-musica,6,reflexion cristiano ; reflexiones de dios ; reflexion del dia ; reflexión del día de hoy ; gracias dios reflexion ; reflexion de dia de hoy ; reflexion de hoy dia ; reflexion gracias dios ; reflexiones gracias dios
-43,marcos-witt,marcos witt,30000,artista,fe,fe-musica,1,
-44,canciones-para-karaoke,canciones para karaoke,27600,lista,canciones-para,cantar-y-karaoke,4,cancion para cantar en karaoke ; karaoke para cantar ; canciones para cantar ; canciones de karaoke ; karaoke canciones ; canciones karaoke ; canciones para cantar con karaoke ; canciones para cantar karaoke ; cantar con karaoke ; karaoke cantar
-45,canciones-de-amor-en-espanol,musica romantica en español,24000,lista,canciones-para,musica-romantica-en-espanol,5,canciones romanticas en español ; baladas en español ; canciones de amor en español ; cancion de amor en español ; music romantica en español ; cancion romantica español ; balada en español
-46,canciones-tristes-para-llorar,playlist spotify tristes,21000,lista,canciones-para,canciones-para-un-momento,6,canciones tristes ; canciones para llorar ; canciones triste para llorar ; musica tristes ; playlist de spotify para llorar ; playlist tristes spotify
-47,reflexiones-de-amor,reflexiones de amor,21000,fe,fe,fe-reflexiones-y-frases,6,frase de reflexión de amor ; fraces de reflecion de amor ; frase de amor triste ; frases de amor de tik tok ; frases para pedir perdón que lleguen al corazón ; frases de amor tik tok
-48,carta-de-san-valentin,carta de san valentin,18000,carta,cartas,cartas,2,carta para el 14 de febrero ; cartas para san valentin ; cartas san valentin ; carta para 14 de febrero ; carta 14 de febrero
-49,frases-de-fe,frases de fe,18000,fe,fe,fe-reflexiones-y-frases,5,frase de esperanza y fe ; frases cristianas ; frases cristianas cortas ; frases cristianas motivadoras ; frases para fe
-50,afinador-de-ukulele,afinador de ukelele,15000,herramienta,afinador,afinador,3,afinación ukelele ; afinador uke ; afinador ukelele ; ukelele afinador
-51,carta-para-mi-mejor-amiga,carta para mi mejor amiga,15000,carta,cartas,cartas,2,cartas para tu mejor amiga que te hagan llorar ; carta para tu mejor amiga ; carta para mejor amiga ; cartas de mejores amigas
-52,carta-del-dia-del-amor-y-la-amistad,carta para el dia del amor y la amistad,15000,carta,cartas,cartas,4,carta de san valentin para una amiga ; cartas para el 14 de febrero amistad ; cartas de la amistad ; carta del dia del amor y la amistad
-53,canciones-para-cumpleanos,canciones para cumpleaños,15000,lista,cumpleanos,cumpleanos-y-mananitas,4,cancion de cumpleños ; cancion de cunpleaño ; canciones para historia de instagram cumpleaños ; canciones de cumpleaños
-54,canciones-para-mama,canciones para mama,15000,lista,canciones-para,canciones-para-un-momento,3,cancion para dedicar a mama ; canciones para el dia de las madres ; canciones para la mama ; cancion para mamá
-55,musica-para-estudiar,musica para estudiar,15000,lista,canciones-para,musica-para-estudiar,4,music para estudiar y concentrarse ; musica para concentrarse ; musica para concentrarse en el trabajo ; music para estudiar
-56,devocional-diario,devocional diario,15000,fe,fe,fe-devocional,3,devocional cristiano ; devocional diario cristiano ; devocional cristianos ; diario devocional cristiano
-57,amarrame-mon-laferte,amarrame mon laferte,12000,cover,covers,covers-mon-laferte,3,amarrame ; curame mon laferte ; mon laferte amarrame
-58,nunca-es-suficiente,nunca es suficiente,12000,cover,covers,covers-natalia-lafourcade,3,natalia lafourcade nunca es suficiente ; los ángeles azules nunca es suficiente ; nunca es sufi
-59,como-tocar-guitarra,como tocar guitarra,12000,guia,guitarra,guitarra-y-acordes,3,como aprender a tocar guitarra ; tocar una guitarra ; como tocar un guitarra
-60,canciones-para-dedicar,canciones para dedicar,12000,lista,canciones-para,canciones-para-un-momento,3,cancion bonita para dedicar ; canciones de amor para dedicar ; cancion para dedicar
-61,canciones-para-dedicar-a-mi-novio,cancion para dedicar a un hombre,12000,lista,canciones-para,canciones-para-un-momento,3,canciones para dedicar a mi novio ; cancion de amor para dedicar a un hombre ; canciones para dedicar a un hombre
-62,canciones-para-dedicar-a-un-hijo,canciones para dedicar a un hijo,12000,lista,canciones-para,canciones-para-un-momento,2,canciones para dedicar a un hijo varon ; cancion para dedicar a mi hijo ; cancion para dedicar a un hijo
-63,proposito-de-vida,proposito de vida,12000,fe,fe,fe-dones-y-talentos,2,cuál es el proposito de la vida ; proposito de la vida ; propositos de vida
-64,reflexion-del-evangelio-de-hoy,evangelio de hoy y su reflexión,12000,fe,fe,fe-reflexiones-y-frases,2,reflexión del evangelio del día de hoy ; reflexión del evangelio de hoy ; reflexion del evangelio de hoy dia
-65,canciones-para-boda,canciones para boda,9600,lista,canciones-para,canciones-para-boda,1,canciones de boda ; canciones para bodas ; canciones boda ; boda canciones
-66,mi-buen-amor-mon-laferte,mi buen amor mon laferte,9000,cover,covers,covers-mon-laferte,2,mi buen amor ; mon laferte mi buen amor
-67,si-tu-me-quisieras-mon-laferte,mon laferte si tu me quisieras,9000,cover,covers,covers-mon-laferte,2,si tu me quisieras ; si tu me quisieras mon laferte
-68,ha-ash,canciones de ha ash,9000,artista,covers,covers-pop-mexicano,2,canciones de ha * ash ; ha ash canciones
-69,sin-bandera,canciones de sin bandera,9000,artista,covers,covers-pop-mexicano,1,canciones sin bandera ; canciones sin banderas
-70,historia-de-un-amor,historia de un amor,9000,cover,covers,covers-clasicos,1,historia de una amor ; historia de amor
-71,si-no-te-hubieras-ido,si no te hubieras ido,9000,cover,covers,covers-clasicos,2,marco antonio solís si no te hubieras ido ; sino te hubieras ido
-72,como-afinar-una-guitarra,afinar guitarra,9000,herramienta,afinador,afinador,3,afinando una guitarra ; afinación de guitarra acustica
-73,afinador-de-bajo,afinador de bajo,9000,herramienta,afinador,afinador,2,afinar el bajo ; afinador bajo
-74,afinador-de-bajo-quinto,afinador de bajo quinto,9000,herramienta,afinador,afinador,3,afinación bajo quinto ; afinando bajo quinto
-75,acordes-de-guitarra-para-principiantes,acordes de guitarra para principiantes,9000,guia,guitarra,guitarra-y-acordes,3,notas de musica guitarra ; guitarra facil
-76,carta-de-amor-a-mano,carta de amor con dibujos,9000,carta,cartas,cartas,2,carta de amor a mano ; dibujos para carta de amor
-77,feliz-cumpleanos-cristiano-para-mujer,feliz cumpleaños cristianas para mujer,9000,fe,cumpleanos,cumpleanos-y-mananitas,2,versiculos de cumpleaños ; versiculos para cumpleaños
-78,frases-de-fin-de-ano,reflexion frases de fin de año,9000,fe,fe,fe-reflexiones-y-frases,3,frases cristianas de año nuevo ; reflexiones frases de un año mas de vida
-79,sumergeme-jesus-adrian-romero,jesús adrián romero sumérgeme,9000,cover,fe,fe-musica,2,sumergeme ; sumergeme jesús adrián romero
-80,christine-d-clario,christine d clario,9000,artista,fe,fe-musica,3,christine de clario ; d clario
-81,canciones-para-karaoke-mujer,cancion para karaoke mujer,6900,lista,canciones-para,cantar-y-karaoke,1,canciones karaoke para mujeres ; cancion karaoke mujer ; karaoke canciones mujer ; karaoke canciones mujeres
-82,el-sol-no-regresa-la-quinta-estacion,el sol no regresa la quinta estación,6300,cover,covers,covers-la-quinta-estacion,2,el sol no regresa ; la quinta estacion el sol no regresa
-83,te-regalo-carla-morrison,te regalo carla morrison,6000,cover,covers,covers-carla-morrison,1,carla morrison te regalo
-84,eres-tu-carla-morrison,eres tu carla morrison,6000,cover,covers,covers-carla-morrison,1,carla morrison eres tu
-85,contigo-carla-morrison,contigo carla morrison,6000,cover,covers,covers-carla-morrison,1,carla morrison contigo
-86,hasta-la-raiz-natalia-lafourcade,hasta la raiz,6000,cover,covers,covers-natalia-lafourcade,1,hasta raiz
-87,lo-que-construimos-natalia-lafourcade,lo que construimos,6000,cover,covers,covers-natalia-lafourcade,2,natalia lafourcade lo que construimos
-88,san-lucas-kevin-kaarl,san lucas kevin kaarl,6000,cover,covers,covers-kevin-kaarl,1,kevin kaarl san lucas
-89,la-quinta-estacion,la quinta estacion,6000,artista,covers,covers-la-quinta-estacion,2,canciones de la quinta estacion
-90,limon-y-sal-julieta-venegas,julieta venegas limon y sal,6000,cover,covers,covers-pop-mexicano,2,limon y sal
-91,ex-de-verdad-ha-ash,ex de verdad,6000,cover,covers,covers-pop-mexicano,2,ha * ash ex de verdad
-92,jesse-y-joy,canciones de jesse y joy,6000,artista,covers,covers-pop-mexicano,1,jesse y joy canciones
-93,besame-mucho,besame mucho,6000,cover,covers,covers-clasicos,1,be same mucho
-94,como-la-flor-selena,como la flor,6000,cover,covers,covers-clasicos,2,selena como la flor
-95,feliz-cumpleanos-para-hombre,cumpleaños feliz para hombre,6000,carta,cumpleanos,cumpleanos-y-mananitas,2,cumpleaños feliz para adulto
-96,mananitas-para-whatsapp,las mañanitas feliz cumpleaños para whatsapp,6000,cover,cumpleanos,cumpleanos-y-mananitas,2,mañanitas de cumpleaños para enviar por whatsapp
-97,canciones-para-dedicar-a-mi-hija,canciones para dedicar a mi hija,6000,lista,canciones-para,canciones-para-un-momento,2,cancion para una hija
-98,canciones-para-una-amiga,canciones para una amiga,6000,lista,canciones-para,canciones-para-un-momento,2,canciones para dedicar a una amiga
-99,canciones-romanticas-de-los-80-en-espanol,canciones de los 80 español,6000,lista,canciones-para,musica-romantica-en-espanol,2,musica romantica de los 80 y 90 en español completas
-100,foranea,foranea,6000,marca,marca,cartas-de-una-foranea,2,foraneos
-101,cantautores,cantautores,6000,guia,marca,genero-y-escena,2,cantantes mexicanas
-102,parabola-de-los-talentos,parabola de los talentos,6000,fe,fe,fe-dones-y-talentos,2,mateo 25 14 30
-103,el-alfarero-alabanza,alabanza el alfarero,6000,cover,fe,fe-musica,1,alabanza del alfarero
-104,alabanzas-de-adoracion-viejitas,alabanza de adoracion viejitas,6000,lista,fe,fe-musica,1,alabanzas de adoracion viejitas
-105,disfruto-carla-morrison,carla morrison disfruto,3300,cover,covers,covers-carla-morrison,1,disfruto carla morrison
-106,en-el-2000-natalia-lafourcade,natalia lafourcade en el 2000,3300,cover,covers,covers-natalia-lafourcade,1,en el 2000 natalia lafourcade
-107,colapso-kevin-kaarl,kevin kaarl colapso,3300,cover,covers,covers-kevin-kaarl,1,colapso kevin kaarl
-108,antes-de-ti-mon-laferte,antes de ti mon laferte,3000,cover,covers,covers-mon-laferte,1,
-109,amor-amor-carla-morrison,amor amor carla morrison,3000,cover,covers,covers-carla-morrison,1,
-110,dejenme-llorar-carla-morrison,carla morrison dejenme llorar,3000,cover,covers,covers-carla-morrison,1,
-111,compartir-carla-morrison,compartir carla morrison,3000,cover,covers,covers-carla-morrison,1,
-112,amor-de-mis-amores,amor de mis amores,3000,cover,covers,covers-natalia-lafourcade,1,
-113,como-un-pajaro-silvana-estrada,como un pajaro silvana estrada,3000,cover,covers,covers-silvana-estrada,1,
-114,me-muero-la-quinta-estacion,me muero la quinta estacion,3000,cover,covers,covers-la-quinta-estacion,1,
-115,eres-para-mi-julieta-venegas,eres para mi julieta venegas,3000,cover,covers,covers-pop-mexicano,1,
-116,perdon-perdon-ha-ash,ha * ash perdón perdón,3000,cover,covers,covers-pop-mexicano,1,
-117,lo-aprendi-de-ti-ha-ash,ha * ash lo aprendí de ti,3000,cover,covers,covers-pop-mexicano,1,
-118,kilometros-sin-bandera,sin bandera kilómetros,3000,cover,covers,covers-pop-mexicano,1,
-119,daniela-spalla,daniela spalla,3000,artista,covers,covers-pop-mexicano,1,
-120,consuelo-velazquez,consuelo velázquez,3000,artista,covers,covers-clasicos,1,
-121,contigo-aprendi,contigo aprendi,3000,cover,covers,covers-clasicos,1,
-122,por-que-me-haces-llorar-juan-gabriel,juan gabriel porque me haces llorar,3000,cover,covers,canciones-para-un-momento,1,
-123,palabras-tristes-los-yonics,los yonic's palabras tristes,3000,cover,covers,canciones-para-un-momento,1,
-124,tristes-recuerdos-antonio-aguilar,tristes recuerdos antonio aguilar,3000,cover,covers,canciones-para-un-momento,1,
-125,afinador-de-violin,afinadores de violin,3000,herramienta,afinador,afinador,1,
-126,vocalizacion,vocalizacion,3000,guia,guitarra,cantar-y-karaoke,1,
-127,carta-de-despedida,carta de despedida,3000,carta,cartas,cartas,1,
-128,cartas-para-amiga-secreta,cartas para amiga secreta,3000,carta,cartas,cartas,1,
-129,carta-para-mi-hija,la carta más bonita para mi hija,3000,carta,cartas,cartas,1,
-130,feliz-cumpleanos-madrina,feliz cumple madrina,3000,carta,cumpleanos,cumpleanos-y-mananitas,1,
-131,feliz-cumpleanos-para-mi,cumpleaños feliz para mi,3000,carta,cumpleanos,cumpleanos-y-mananitas,1,
-132,feliz-cumpleanos-para-dedicar,feliz cumpleaños para dedicar,3000,carta,cumpleanos,cumpleanos-y-mananitas,1,
-133,mananitas-para-mama,mañanitas para mamá,3000,cover,cumpleanos,cumpleanos-y-mananitas,1,
-134,las-mananitas-en-guitarra,las mañanitas en guitarra,3000,guia,cumpleanos,guitarra-y-acordes,1,
-135,canciones-para-dedicar-a-mi-novia,cancion para dedicar a mi novia,3000,lista,canciones-para,canciones-para-un-momento,1,
-136,canciones-para-papa,canciones para papá,3000,lista,canciones-para,canciones-para-un-momento,1,
-137,canciones-de-desamor,canciones de desamor,3000,lista,canciones-para,canciones-para-un-momento,1,
-138,musica-indie,musica indie,3000,guia,marca,genero-y-escena,1,
-139,dones-espirituales,dones espirituales,3000,fe,fe,fe-dones-y-talentos,1,
-140,tu-estas-aqui-jesus-adrian-romero,jesús adrián romero tú estás aqui,3000,cover,fe,fe-musica,1,
-141,mas-alla-del-sol-alabanza,más allá del sol alabanza,3000,cover,fe,fe-musica,1,
+3,carla-morrison,carla morrison,153000,artista,covers,covers-carla-morrison,2,canciones de carla morrison ; carla morrison carla morrison ; carla carla morrison ; morrison carla ; carla korrison
+4,reflexiones-de-la-vida,reflexion de vida,138000,fe,fe,fe-reflexiones-y-frases,10,reflecciones de la vida ; reflexion sobre la vida ; reflexiones cortas de la vida ; reflexiones de la vida cortos ; reflexiones cortas ; reflexiones de vida para seguir adelante ; reflexiones de la vida diaria con moraleja ; reflexiones positivas ; pensamientos de la vida ; reflexiones de la vid ; reflexiones de vida ; reflexion de la vida ; reflexiónes de la vida ; reflexiones sobre la vida ; sobre la vida reflexiones ; cortas reflexiones de la vida ; reflexion corta de vida ; reflexiones de vida cortos
+5,tu-falta-de-querer-mon-laferte,mon laferte tu falta de querer,96000,cover,covers,covers-mon-laferte,2,tu falta de querer ; falta de querer mon laferte ; mon laferte tu tanta falta de querer ; tu tanta falta de querer
+6,cielito-lindo,cielito lindo,93000,cover,covers,covers-clasicos,2,cielito lindo pedro infante ; lindo cielito ; cielito li
+7,frases-de-dios,frases de dios,84000,fe,fe,fe-reflexiones-y-frases,10,frases de diosito ; frases de dios bonitas ; frases de dios cortas ; amor frases de dios ; fortaleza frases de dios ; mensajes de dios ; mensajes de jesus ; palabras de dios de hoy ; dios te ama
+8,cartas-de-amor,cartas de amor,81000,carta,cartas,cartas,7,carta de amor profundo ; cartas de amor para enamorar ; cartas de besos ; notas de amor ; tarjeta de amor ; palabra de amor bonita ; carta de amores ; una carta de amor
+9,frases-de-la-vida,frases sabias de la vida,81000,fe,fe,fe-reflexiones-y-frases,11,frases bonitas de la vida ; frases cortas de la vida ; frases sobre la vida ; frases de la vida para reflexionar ; frases para la vida de reflexion ; frases de reflexion ; frases sabias de reflexión ; bonitas frases de reflexión ; frase corta de reflexion ; fraces de reflecion ; frases bonitas dela vida ; frases sobre la vid ; reflexionar frases de la vida ; reflexion frases de la vida ; frases para la reflexión ; frases sabias y reflexiones ; frases bonitas reflexion
+10,amor-eterno,amor eterno,75000,cover,covers,covers-clasicos,3,juan gabriel amor eterno ; rocío dúrcal amor eterno ; amor interno ; amor eterno juan gabriel ; eterno amor juan gabriel ; juan gabriel eterno amor
+11,julieta-venegas,julieta venegas,69000,artista,covers,covers-pop-mexicano,3,canciones de julieta venegas ; venegas ; julieta venega ; cancion julieta venegas
+12,carta-para-mi-mama,carta para la mamá,69000,carta,cartas,cartas,2,carta para dia de la madre ; carta para mam ; carta para mi mama ; una carta para mama
+13,sabor-a-mi,sabor a mi,63000,cover,covers,covers-clasicos,2,luis miguel sabor a mí ; sabor mi
+14,carta-para-mi-novio,carta para mi novio,60000,carta,cartas,cartas,6,carta bonita para mi novio ; carta de amor para mi novio ; cartas creativas para mi novio ; cartas de amor para mi novio creativas ; cartas para mi novio largas que hagan llorar ; carta a mi novio ; carta para el novio ; carta para tu novio ; cartas de amor para tu novio ; novio cartas de amor
+15,feliz-cumpleanos-mama,cumpleaños feliz mama,60000,carta,cumpleanos,cumpleanos-y-mananitas,2,feliz cupleaños mama
+16,carta-para-una-amiga,carta para una amiga,48000,carta,cartas,cartas,4,carta de amistad para una amiga ; carta especial para una amiga ; bonitas cartas para amigas ; carta a una amiga ; carta para mi amiga ; carta amiga
+17,natalia-lafourcade,natalia lafourcade,42300,artista,covers,covers-natalia-lafourcade,3,canciones de natalia lafourcade ; lafourcade ; natalia lafourcade natalia lafourcade ; canciones natalia lafourcade ; natalia lafourcade canciones
+18,las-mananitas,mañanitas de cunpleaños,42000,cover,cumpleanos,cumpleanos-y-mananitas,5,mañanitas para cumpleaños ; las mañanitas para felicitar ; las mañanitas feliz feliz cumpleanos ; las mañanitas para una persona muy especial
+19,buenos-dias-dios-te-bendiga,bueno dia dios te bendiga,42000,fe,fe,fe-reflexiones-y-frases,12,buenos dias dios ; buen dia dios te bendiga ; buenos días dios te bendiga siempre ; buenos días bendiciones de dios ; buen dia bendiciones ; dios bendiga tu dia ; mensajes de bendiciones para el dia de hoy ; buenos días feliz viernes bendiciones ; buenos días reflexión positiva ; reflexion frases bonitas de buenos dias ; versiculo buenos dias cristianos ; buenos días dios te bendiga ; buenos dias con dios
+20,acordes-de-ukulele,acorde de ukelele,39000,guia,guitarra,guitarra-y-acordes,7,acordes ukulele ; uke acordes ; ukelele acords ; acorde d en ukelele ; nota del ukelele ; tablatura ukulele ; acorde en ukelele ; acorde de ukulele ; acordes ukelele ; nota ukelele ; notas ukelele ; tablaturas ukulele
+21,feliz-cumpleanos-en-letra-bonita,cumpleaños feliz en letras,39000,herramienta,cumpleanos,cumpleanos-y-mananitas,3,feliz cumpleaños en letra bonita ; happy birthday letra bonita ; letras de feliz cumpleaños
+22,ximena-sarinana,ximena sariñana,36000,artista,covers,covers-pop-mexicano,3,canciones de ximena sariñana ; sariñana
+23,la-bikina,la bikina,36000,cover,covers,covers-clasicos,2,la bikina luis miguel ; luis miguel la bikina
+24,feliz-cumpleanos-mi-amor,cumpleaños feliz mi amor,36000,carta,cumpleanos,cumpleanos-y-mananitas,3,feliz cumpleaños mi amor letras bonitas ; cartas de amor de feliz cumpleaños
+25,gracias-dios-por-todo,gracia dios por tus bendiciones,36000,fe,fe,fe-reflexiones-y-frases,11,gracias dios por todo ; dar gracias a dios por todo ; gracias dios por un dia mas ; frases de agradecimiento a dios ; oracion para dar gracias a dios ; oración de la mañana para dar gracias a dios ; oración de la noche para dar gracias a dios ; oración para dar gracias a dios por un nuevo día ; salmo para dar gracias a dios ; versículos de agradecimiento a dios por las bendiciones recibidas ; gracias dios por tus bendiciones
+26,kevin-kaarl,kevin kaarl,33000,artista,covers,covers-kevin-kaarl,2,canciones de kevin kaarl
+27,ed-maverick,ed maverick,33000,artista,covers,covers-pop-mexicano,2,canciones de ed maverick
+28,canciones-faciles-en-guitarra,canciones faciles en guitarra,33000,lista,guitarra,guitarra-y-acordes,6,canciones en guitarra ; cancionero en guitarra ; cancionero con acordes de guitarra ; guitarra facil cancionero ; acordes de guitarra canciones ; cancion a guitarra facil ; canciones facil en guitarra ; guitarra facil canciones ; canciones faciles guitarra ; cancion guitarra
+29,carta-para-mi-novia,una carta para mi novia,33000,carta,cartas,cartas,8,carta bonita para mi novia ; carta de amor para mi novia ; carta para mi novia expresando lo que siento ; cartas creativas para mi novia ; ideas de cartas para mi novia ; cartas para mi novia largas que hagan llorar ; nota para mi novia ; carta a mi novia ; carta para tu novia ; carta de amor para tu novia
+30,feliz-cumpleanos-amiga,cumpleaños feliz amiga,33000,carta,cumpleanos,cumpleanos-y-mananitas,1,cumpleaños feliz para amiga
+31,las-mananitas-vicente-fernandez,mañanitas vicente fernández,33000,cover,cumpleanos,cumpleanos-y-mananitas,2,mañanitas con alejandro fernandez
+32,versiculos-de-la-biblia-para-reflexionar,versiculo de la biblia para reflexionar,33000,fe,fe,fe-reflexiones-y-frases,7,reflexion versiculos de la biblia cortos ; frases de la biblia ; frases de la biblia motivadoras ; versiculos de bendicion ; versículos de esperanza y ánimo ; frase biblicas de amor ; versículos de la biblia para reflexionar ; versículos de bendiciones ; versiculos de animo y esperanza ; frases biblicas de amor
+33,oracion-cristiana-de-la-manana,oracion cristiana de la mañana,33000,fe,fe,fe-musica,5,oracion para empezar el dia con la bendicion de dios ; oraciones cristianas ; dios ayudame ; con dios me acuesto con dios me levanto ; oracion cristianas de la mañana ; oraciones cristiana de la mañana ; oraciones cristianas de la manana ; oracion cristiana de mañana ; oracion de manana cristiana ; oraciones de mañana cristianas
+34,silvana-estrada,silvana estrada,30000,artista,covers,covers-silvana-estrada,1,
+35,caloncho,caloncho,30000,artista,covers,covers-pop-mexicano,1,
+36,la-llorona,la llorona,30000,cover,covers,covers-clasicos,1,
+37,feliz-cumpleanos-sobrina,cumpleaños feliz sobrina,30000,carta,cumpleanos,cumpleanos-y-mananitas,1,
+38,reflexiones-cristianas,reflexiones cristianas,30000,fe,fe,fe-musica,6,reflexion cristiano ; reflexiones de dios ; reflexion del dia ; reflexión del día de hoy ; gracias dios reflexion ; reflexion de dia de hoy ; reflexion de hoy dia ; reflexion gracias dios ; reflexiones gracias dios
+39,canciones-para-karaoke,canciones para karaoke,27600,lista,canciones-para,cantar-y-karaoke,4,cancion para cantar en karaoke ; karaoke para cantar ; canciones para cantar ; canciones de karaoke ; karaoke canciones ; canciones karaoke ; canciones para cantar con karaoke ; canciones para cantar karaoke ; cantar con karaoke ; karaoke cantar
+40,canciones-de-amor-en-espanol,musica romantica en español,24000,lista,canciones-para,musica-romantica-en-espanol,5,canciones romanticas en español ; baladas en español ; canciones de amor en español ; cancion de amor en español ; music romantica en español ; cancion romantica español ; balada en español
+41,canciones-tristes-para-llorar,playlist spotify tristes,21000,lista,canciones-para,canciones-para-un-momento,6,canciones tristes ; canciones para llorar ; canciones triste para llorar ; musica tristes ; playlist de spotify para llorar ; playlist tristes spotify
+42,reflexiones-de-amor,reflexiones de amor,21000,fe,fe,fe-reflexiones-y-frases,6,frase de reflexión de amor ; fraces de reflecion de amor ; frase de amor triste ; frases de amor de tik tok ; frases para pedir perdón que lleguen al corazón ; frases de amor tik tok
+43,carta-de-san-valentin,carta de san valentin,18000,carta,cartas,cartas,2,carta para el 14 de febrero ; cartas para san valentin ; cartas san valentin ; carta para 14 de febrero ; carta 14 de febrero
+44,frases-de-fe,frases de fe,18000,fe,fe,fe-reflexiones-y-frases,5,frase de esperanza y fe ; frases cristianas ; frases cristianas cortas ; frases cristianas motivadoras ; frases para fe
+45,afinador-de-ukulele,afinador de ukelele,15000,herramienta,afinador,afinador,3,afinación ukelele ; afinador uke ; afinador ukelele ; ukelele afinador
+46,carta-para-mi-mejor-amiga,carta para mi mejor amiga,15000,carta,cartas,cartas,2,cartas para tu mejor amiga que te hagan llorar ; carta para tu mejor amiga ; carta para mejor amiga ; cartas de mejores amigas
+47,carta-del-dia-del-amor-y-la-amistad,carta para el dia del amor y la amistad,15000,carta,cartas,cartas,4,carta de san valentin para una amiga ; cartas para el 14 de febrero amistad ; cartas de la amistad ; carta del dia del amor y la amistad
+48,canciones-para-cumpleanos,canciones para cumpleaños,15000,lista,cumpleanos,cumpleanos-y-mananitas,4,cancion de cumpleños ; cancion de cunpleaño ; canciones para historia de instagram cumpleaños ; canciones de cumpleaños
+49,canciones-para-mama,canciones para mama,15000,lista,canciones-para,canciones-para-un-momento,3,cancion para dedicar a mama ; canciones para el dia de las madres ; canciones para la mama ; cancion para mamá
+50,musica-para-estudiar,musica para estudiar,15000,lista,canciones-para,musica-para-estudiar,4,music para estudiar y concentrarse ; musica para concentrarse ; musica para concentrarse en el trabajo ; music para estudiar
+51,devocional-diario,devocional diario,15000,fe,fe,fe-devocional,3,devocional cristiano ; devocional diario cristiano ; devocional cristianos ; diario devocional cristiano
+52,amarrame-mon-laferte,amarrame mon laferte,12000,cover,covers,covers-mon-laferte,3,amarrame ; curame mon laferte ; mon laferte amarrame
+53,nunca-es-suficiente,nunca es suficiente,12000,cover,covers,covers-natalia-lafourcade,3,natalia lafourcade nunca es suficiente ; los ángeles azules nunca es suficiente ; nunca es sufi
+54,como-tocar-guitarra,como tocar guitarra,12000,guia,guitarra,guitarra-y-acordes,3,como aprender a tocar guitarra ; tocar una guitarra ; como tocar un guitarra
+55,canciones-para-dedicar,canciones para dedicar,12000,lista,canciones-para,canciones-para-un-momento,3,cancion bonita para dedicar ; canciones de amor para dedicar ; cancion para dedicar
+56,canciones-para-dedicar-a-mi-novio,cancion para dedicar a un hombre,12000,lista,canciones-para,canciones-para-un-momento,3,canciones para dedicar a mi novio ; cancion de amor para dedicar a un hombre ; canciones para dedicar a un hombre
+57,canciones-para-dedicar-a-un-hijo,canciones para dedicar a un hijo,12000,lista,canciones-para,canciones-para-un-momento,2,canciones para dedicar a un hijo varon ; cancion para dedicar a mi hijo ; cancion para dedicar a un hijo
+58,proposito-de-vida,proposito de vida,12000,fe,fe,fe-dones-y-talentos,2,cuál es el proposito de la vida ; proposito de la vida ; propositos de vida
+59,reflexion-del-evangelio-de-hoy,evangelio de hoy y su reflexión,12000,fe,fe,fe-reflexiones-y-frases,2,reflexión del evangelio del día de hoy ; reflexión del evangelio de hoy ; reflexion del evangelio de hoy dia
+60,canciones-para-boda,canciones para boda,9600,lista,canciones-para,canciones-para-boda,1,canciones de boda ; canciones para bodas ; canciones boda ; boda canciones
+61,mi-buen-amor-mon-laferte,mi buen amor mon laferte,9000,cover,covers,covers-mon-laferte,2,mi buen amor ; mon laferte mi buen amor
+62,si-tu-me-quisieras-mon-laferte,mon laferte si tu me quisieras,9000,cover,covers,covers-mon-laferte,2,si tu me quisieras ; si tu me quisieras mon laferte
+63,ha-ash,canciones de ha ash,9000,artista,covers,covers-pop-mexicano,2,canciones de ha * ash ; ha ash canciones
+64,sin-bandera,canciones de sin bandera,9000,artista,covers,covers-pop-mexicano,1,canciones sin bandera ; canciones sin banderas
+65,historia-de-un-amor,historia de un amor,9000,cover,covers,covers-clasicos,1,historia de una amor ; historia de amor
+66,si-no-te-hubieras-ido,si no te hubieras ido,9000,cover,covers,covers-clasicos,2,marco antonio solís si no te hubieras ido ; sino te hubieras ido
+67,como-afinar-una-guitarra,afinar guitarra,9000,herramienta,afinador,afinador,3,afinando una guitarra ; afinación de guitarra acustica
+68,afinador-de-bajo,afinador de bajo,9000,herramienta,afinador,afinador,2,afinar el bajo ; afinador bajo
+69,afinador-de-bajo-quinto,afinador de bajo quinto,9000,herramienta,afinador,afinador,3,afinación bajo quinto ; afinando bajo quinto
+70,acordes-de-guitarra-para-principiantes,acordes de guitarra para principiantes,9000,guia,guitarra,guitarra-y-acordes,3,notas de musica guitarra ; guitarra facil
+71,carta-de-amor-a-mano,carta de amor con dibujos,9000,carta,cartas,cartas,2,carta de amor a mano ; dibujos para carta de amor
+72,feliz-cumpleanos-cristiano-para-mujer,feliz cumpleaños cristianas para mujer,9000,fe,cumpleanos,cumpleanos-y-mananitas,2,versiculos de cumpleaños ; versiculos para cumpleaños
+73,frases-de-fin-de-ano,reflexion frases de fin de año,9000,fe,fe,fe-reflexiones-y-frases,3,frases cristianas de año nuevo ; reflexiones frases de un año mas de vida
+74,canciones-para-karaoke-mujer,cancion para karaoke mujer,6900,lista,canciones-para,cantar-y-karaoke,1,canciones karaoke para mujeres ; cancion karaoke mujer ; karaoke canciones mujer ; karaoke canciones mujeres
+75,el-sol-no-regresa-la-quinta-estacion,el sol no regresa la quinta estación,6300,cover,covers,covers-la-quinta-estacion,2,el sol no regresa ; la quinta estacion el sol no regresa
+76,te-regalo-carla-morrison,te regalo carla morrison,6000,cover,covers,covers-carla-morrison,1,carla morrison te regalo
+77,eres-tu-carla-morrison,eres tu carla morrison,6000,cover,covers,covers-carla-morrison,1,carla morrison eres tu
+78,contigo-carla-morrison,contigo carla morrison,6000,cover,covers,covers-carla-morrison,1,carla morrison contigo
+79,hasta-la-raiz-natalia-lafourcade,hasta la raiz,6000,cover,covers,covers-natalia-lafourcade,1,hasta raiz
+80,lo-que-construimos-natalia-lafourcade,lo que construimos,6000,cover,covers,covers-natalia-lafourcade,2,natalia lafourcade lo que construimos
+81,san-lucas-kevin-kaarl,san lucas kevin kaarl,6000,cover,covers,covers-kevin-kaarl,1,kevin kaarl san lucas
+82,la-quinta-estacion,la quinta estacion,6000,artista,covers,covers-la-quinta-estacion,2,canciones de la quinta estacion
+83,limon-y-sal-julieta-venegas,julieta venegas limon y sal,6000,cover,covers,covers-pop-mexicano,2,limon y sal
+84,ex-de-verdad-ha-ash,ex de verdad,6000,cover,covers,covers-pop-mexicano,2,ha * ash ex de verdad
+85,jesse-y-joy,canciones de jesse y joy,6000,artista,covers,covers-pop-mexicano,1,jesse y joy canciones
+86,besame-mucho,besame mucho,6000,cover,covers,covers-clasicos,1,be same mucho
+87,como-la-flor-selena,como la flor,6000,cover,covers,covers-clasicos,2,selena como la flor
+88,feliz-cumpleanos-para-hombre,cumpleaños feliz para hombre,6000,carta,cumpleanos,cumpleanos-y-mananitas,2,cumpleaños feliz para adulto
+89,mananitas-para-whatsapp,las mañanitas feliz cumpleaños para whatsapp,6000,cover,cumpleanos,cumpleanos-y-mananitas,2,mañanitas de cumpleaños para enviar por whatsapp
+90,canciones-para-dedicar-a-mi-hija,canciones para dedicar a mi hija,6000,lista,canciones-para,canciones-para-un-momento,2,cancion para una hija
+91,canciones-para-una-amiga,canciones para una amiga,6000,lista,canciones-para,canciones-para-un-momento,2,canciones para dedicar a una amiga
+92,canciones-romanticas-de-los-80-en-espanol,canciones de los 80 español,6000,lista,canciones-para,musica-romantica-en-espanol,2,musica romantica de los 80 y 90 en español completas
+93,foranea,foranea,6000,marca,marca,cartas-de-una-foranea,2,foraneos
+94,cantautores,cantautores,6000,guia,marca,genero-y-escena,2,cantantes mexicanas
+95,parabola-de-los-talentos,parabola de los talentos,6000,fe,fe,fe-dones-y-talentos,2,mateo 25 14 30
+96,disfruto-carla-morrison,carla morrison disfruto,3300,cover,covers,covers-carla-morrison,1,disfruto carla morrison
+97,en-el-2000-natalia-lafourcade,natalia lafourcade en el 2000,3300,cover,covers,covers-natalia-lafourcade,1,en el 2000 natalia lafourcade
+98,colapso-kevin-kaarl,kevin kaarl colapso,3300,cover,covers,covers-kevin-kaarl,1,colapso kevin kaarl
+99,antes-de-ti-mon-laferte,antes de ti mon laferte,3000,cover,covers,covers-mon-laferte,1,
+100,amor-amor-carla-morrison,amor amor carla morrison,3000,cover,covers,covers-carla-morrison,1,
+101,dejenme-llorar-carla-morrison,carla morrison dejenme llorar,3000,cover,covers,covers-carla-morrison,1,
+102,compartir-carla-morrison,compartir carla morrison,3000,cover,covers,covers-carla-morrison,1,
+103,amor-de-mis-amores,amor de mis amores,3000,cover,covers,covers-natalia-lafourcade,1,
+104,como-un-pajaro-silvana-estrada,como un pajaro silvana estrada,3000,cover,covers,covers-silvana-estrada,1,
+105,me-muero-la-quinta-estacion,me muero la quinta estacion,3000,cover,covers,covers-la-quinta-estacion,1,
+106,eres-para-mi-julieta-venegas,eres para mi julieta venegas,3000,cover,covers,covers-pop-mexicano,1,
+107,perdon-perdon-ha-ash,ha * ash perdón perdón,3000,cover,covers,covers-pop-mexicano,1,
+108,lo-aprendi-de-ti-ha-ash,ha * ash lo aprendí de ti,3000,cover,covers,covers-pop-mexicano,1,
+109,kilometros-sin-bandera,sin bandera kilómetros,3000,cover,covers,covers-pop-mexicano,1,
+110,daniela-spalla,daniela spalla,3000,artista,covers,covers-pop-mexicano,1,
+111,consuelo-velazquez,consuelo velázquez,3000,artista,covers,covers-clasicos,1,
+112,contigo-aprendi,contigo aprendi,3000,cover,covers,covers-clasicos,1,
+113,por-que-me-haces-llorar-juan-gabriel,juan gabriel porque me haces llorar,3000,cover,covers,canciones-para-un-momento,1,
+114,palabras-tristes-los-yonics,los yonic's palabras tristes,3000,cover,covers,canciones-para-un-momento,1,
+115,tristes-recuerdos-antonio-aguilar,tristes recuerdos antonio aguilar,3000,cover,covers,canciones-para-un-momento,1,
+116,afinador-de-violin,afinadores de violin,3000,herramienta,afinador,afinador,1,
+117,vocalizacion,vocalizacion,3000,guia,guitarra,cantar-y-karaoke,1,
+118,carta-de-despedida,carta de despedida,3000,carta,cartas,cartas,1,
+119,cartas-para-amiga-secreta,cartas para amiga secreta,3000,carta,cartas,cartas,1,
+120,carta-para-mi-hija,la carta más bonita para mi hija,3000,carta,cartas,cartas,1,
+121,feliz-cumpleanos-madrina,feliz cumple madrina,3000,carta,cumpleanos,cumpleanos-y-mananitas,1,
+122,feliz-cumpleanos-para-mi,cumpleaños feliz para mi,3000,carta,cumpleanos,cumpleanos-y-mananitas,1,
+123,feliz-cumpleanos-para-dedicar,feliz cumpleaños para dedicar,3000,carta,cumpleanos,cumpleanos-y-mananitas,1,
+124,mananitas-para-mama,mañanitas para mamá,3000,cover,cumpleanos,cumpleanos-y-mananitas,1,
+125,las-mananitas-en-guitarra,las mañanitas en guitarra,3000,guia,cumpleanos,guitarra-y-acordes,1,
+126,canciones-para-dedicar-a-mi-novia,cancion para dedicar a mi novia,3000,lista,canciones-para,canciones-para-un-momento,1,
+127,canciones-para-papa,canciones para papá,3000,lista,canciones-para,canciones-para-un-momento,1,
+128,canciones-de-desamor,canciones de desamor,3000,lista,canciones-para,canciones-para-un-momento,1,
+129,musica-indie,musica indie,3000,guia,marca,genero-y-escena,1,
+130,dones-espirituales,dones espirituales,3000,fe,fe,fe-dones-y-talentos,1,

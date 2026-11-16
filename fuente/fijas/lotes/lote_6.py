@@ -76,7 +76,7 @@ guarda({"slug": "musica-para-estudiar", "tipo": "lista", "coleccion": "canciones
  "secciones": [
   {"h2": "Mis canciones tranquilas", "bloques": [{"tabla": {"cab": ["Canción", "Dónde está"], "filas": [
    ["Improvisando", "[Videos](/videos/)"], ["Country girl", "[Música](/musica/)"], ["corazón", "[Música](/musica/)"], ["Dos almas", "[Música](/musica/)"],
-   ["Valentina", "[Música](/musica/)"], ["estrellas y mar", "[Música](/musica/)"], ["Renunciación", "[Música](/musica/)"], ["Eso y más", "[Música](/musica/)"]]}},
+   ["Valentina", "[Música](/musica/)"], ["estrellas y mar", "[Música](/musica/)"]]}},
    {"nota": "Todos están en mi canal de YouTube, @AvelinaMartinetMolina."}]},
   {"h2": "Cómo usar la música para concentrarte", "bloques": [{"lista": [
    ["Pon el volumen bajo.", "Que acompañe, no que te jale."], ["Prueba bloques de 25 minutos.", "Una lista de unas seis canciones dura más o menos eso."],

@@ -138,7 +138,10 @@ Escritas y revisadas, sin letra. Cada una sale el día que su video esté en You
 
 ## Ola 3 · por escribir
 
-Lo único que queda en esqueleto espera a Diego (ver `AVANCE.md`): la serie de fe (reflexiones, frases, devocionales), las alabanzas y sus artistas (¿Ave canta alabanzas?) y /las-mananitas-en-guitarra/ (se arma con los acordes que toque Ave en su video). Todos los covers, listas y el cancionero con fuente ya están escritos (lotes 7 a 9, 15-nov).
+Decisiones de Diego (15-nov): **las alabanzas y sus artistas se descartan** (Ave no canta alabanzas; están en
+`descartadas_construccion.csv`). **«Eso y más» y «Renunciación» quedan fuera** de las fijas. **Fe** se queda en esqueleto,
+sin escribir y sin publicar, hasta que Ave conteste (pregunta en `docs/motor/PREGUNTAS_PARA_AVE.md` del repo pilsi).
+Queda también /las-mananitas-en-guitarra/ (se arma con los acordes que toque Ave en su video).
 
 Nota del lote 7: «curame mon laferte» no es una canción (no aparece en Wikipedia, MusicBrainz ni la prensa). Se unió como variante a /amarrame-mon-laferte/.
 

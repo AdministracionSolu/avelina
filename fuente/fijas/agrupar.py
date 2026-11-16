@@ -151,18 +151,8 @@ pg("oracion-cristiana-de-la-manana", "fe", "fe", "oracion cristiana de la mañan
 pg("reflexion-del-evangelio-de-hoy", "fe", "fe", "evangelio de hoy y su reflexión", "reflexión del evangelio del día de hoy")
 pg("reflexiones-de-amor", "fe", "fe", "reflexiones de amor", "frase de reflexión de amor", "fraces de reflecion de amor", "frase de amor triste", "frases de amor de tik tok", "frases para pedir perdón que lleguen al corazón")
 pg("frases-de-fin-de-ano", "fe", "fe", "reflexion frases de fin de año", "frases cristianas de año nuevo", "reflexiones frases de un año mas de vida")
-# ---- fe: música (covers de alabanza; espera video)
-pg("jesus-adrian-romero", "artista", "fe", "jesus adrian romero", "jesus adrian", "jesus a romero", "adrian romero", "jesus adrian romero canciones")
-pg("sumergeme-jesus-adrian-romero", "cover", "fe", "jesús adrián romero sumérgeme", "sumergeme")
-pg("tu-estas-aqui-jesus-adrian-romero", "cover", "fe", "jesús adrián romero tú estás aqui")
-pg("marcos-witt", "artista", "fe", "marcos witt")
-pg("christine-d-clario", "artista", "fe", "christine d clario", "christine de clario", "d clario")
-pg("el-alfarero-alabanza", "cover", "fe", "alabanza el alfarero")
-pg("mas-alla-del-sol-alabanza", "cover", "fe", "más allá del sol alabanza")
-pg("alabanzas-cristianas", "lista", "fe", "alabanzas cristianas", "alabanzas", "alabanzas a dios", "alabanzas al rey", "alabanzas cristianas hermosas", "alabanzas cristianas alegres", "musica cristiana alegre", "musica cristianas alegres", "cancion de alabanza", "cancion cristiana alabanza", "cántico de alabanza", "salmos de alabanza", "musicas de dios", "canción de diosito")
-pg("alabanzas-de-adoracion", "lista", "fe", "alabanzas de adoración", "musica cristiana de adoracion", "canciones cristianas de adoración", "canto cristiano de adoración", "alabanzas cristianas de adoración", "alabanzas cristianas hermosas de adoracion", "las mejores canciones cristianas de adoración", "cantos de adoracion", "coro de adoracion", "adoraciones cristianas", "musica para orar")
-pg("canciones-cristianas", "lista", "fe", "canciones cristianas", "musica cristiana", "cantos cristianos", "himnos cristianos", "cristianos", "coro cristianos", "coros de avivamientos")
-pg("alabanzas-de-adoracion-viejitas", "lista", "fe", "alabanza de adoracion viejitas")
+# ---- alabanzas y sus artistas: DESCARTADAS (Ave no canta alabanzas, Diego 15-nov). Van a D abajo.
+ALABANZAS = ['jesus adrian romero', 'jesus adrian', 'jesus a romero', 'adrian romero', 'jesus adrian romero canciones', 'jesús adrián romero sumérgeme', 'sumergeme', 'jesús adrián romero tú estás aqui', 'marcos witt', 'christine d clario', 'christine de clario', 'd clario', 'alabanza el alfarero', 'más allá del sol alabanza', 'alabanzas cristianas', 'alabanzas', 'alabanzas a dios', 'alabanzas al rey', 'alabanzas cristianas hermosas', 'alabanzas cristianas alegres', 'musica cristiana alegre', 'musica cristianas alegres', 'cancion de alabanza', 'cancion cristiana alabanza', 'cántico de alabanza', 'salmos de alabanza', 'musicas de dios', 'canción de diosito', 'alabanzas de adoración', 'musica cristiana de adoracion', 'canciones cristianas de adoración', 'canto cristiano de adoración', 'alabanzas cristianas de adoración', 'alabanzas cristianas hermosas de adoracion', 'las mejores canciones cristianas de adoración', 'cantos de adoracion', 'coro de adoracion', 'adoraciones cristianas', 'musica para orar', 'canciones cristianas', 'musica cristiana', 'cantos cristianos', 'himnos cristianos', 'cristianos', 'coro cristianos', 'coros de avivamientos', 'alabanza de adoracion viejitas']
 
 # Descartadas: cabeza -> razón
 D = {
@@ -243,6 +233,9 @@ D = {
  "sebastián yatra eso y más": "Canción de otro artista.",
  "te odio con todo mi corazón": "Canción de otro artista.",
 }
+for _c in ALABANZAS: D[_c] = "Alabanza o artista de alabanzas: Ave no canta alabanzas (Diego, 15-nov)."
+for _c in [k for k in D if "eso y m" in k or "renunciacion" in k]: D[_c] = "Fuera por decisión de Diego (15-nov): no se sabe si es cover o canción suya; no se pone."
+for _c in ["eso y mas", "renunciacion", "joan sebastian eso y más"]: D[_c] = "Fuera por decisión de Diego (15-nov): no se sabe si es cover o canción suya; no se pone."
 MARCA_RAZON = "Su nombre con la canción: volumen 0-10. Es identidad (base), no fija nueva: ya la cubren /musica/ y /videos/."
 
 filas = list(csv.DictReader(open(FUENTE, encoding="utf-8")))
