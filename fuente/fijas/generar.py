@@ -25,6 +25,9 @@ REDES = [("Instagram", "https://www.instagram.com/avelinaa.mar/"), ("TikTok", "h
 NAV = [("/musica/", "Música"), ("/videos/", "Videos"), ("/diario/", "Diario"), ("/album/", "Álbum"), ("/quien-soy/", "Quién soy"), ("/contacto/", "Contacto")]
 RUTAS_SITIO = {"/", "/musica/", "/videos/", "/diario/", "/album/", "/quien-soy/", "/contacto/", "/privacidad/", "/contacto/#cartas"}
 PALABRAS = json.load(open(os.path.join(RAIZ, "fuente/palabras.json"), encoding="utf-8"))
+sys.path.insert(0, os.path.join(RAIZ, "fuente"))
+import puertas
+PIE_PUERTAS = puertas.pie(HOY)
 MESES = "enero febrero marzo abril mayo junio julio agosto septiembre octubre noviembre diciembre".split()
 
 COLECCIONES = {  # índice de cada colección: se publica solo cuando tiene 3 o más fijas publicadas
@@ -124,6 +127,7 @@ def textos_bloque(b):
         elif k == "tabla": yield from (" ".join(map(str, f)) for f in v["filas"] + [v["cab"]])
         elif k == "carta": yield v["texto"]; yield v.get("para", ""); yield v.get("firma", "")
         elif k == "nota": yield v
+        elif k == "tarjetas": yield from (f"{t} {r}" for t, _, r in v)
 
 def probar(ps):
     errores, avisos = [], []
@@ -222,6 +226,8 @@ def bloque(b):
         usar = f'<button class="f-usar" type="button" data-usar>Usar esta carta</button>' if b.get("usar", True) else ""
         return f'<figure class="f-carta">{para}{cuerpo}{firma}{usar}</figure>'
     if "nota" in b: return f'<p class="f-nota">{md(b["nota"])}</p>'
+    if "tarjetas" in b:  # postales de un índice: [título, ruta, resumen]
+        return '<div class="f-hermanas f-postales">' + "".join(f'<a class="f-hermana" href="{e(u)}"><span class="f-timbre" aria-hidden="true"></span><b>{e(t)}</b><span>{e(r)}</span></a>' for t, u, r in b["tarjetas"]) + "</div>"
     if "herramienta" in b: return herramienta(b["herramienta"])
     raise SystemExit(f"bloque desconocido {b}")
 
@@ -354,19 +360,19 @@ def pagina(p, porslug, vista=False):
 <body class="p-fija t-{p["tipo"]}">
 <header class="barra"><a class="logo" href="/"><img src="/img/marca/avelina-hilo.webp" alt="Avelina" width="1375" height="324"></a>
 <details class="menu"><summary>{bi("Menú")}</summary><nav>{nav}</nav></details><nav class="nav-ancho" aria-label="Menú">{nav}</nav></header>
-<main>{arriba}{cover}{medio}{hermanas(p, porslug, vista)}{cartas_form()}</main>
+<main>{arriba}{cover}{medio}{hermanas(p, porslug, vista) if p["tipo"] != "indice" else ""}{cartas_form()}</main>
 <footer><div class="ancho"><img src="/img/marca/avelina-hilo.webp" alt="" width="1375" height="324" loading="lazy"><p>{bi("canto lo que escribo")}</p>
-<nav>{"".join(f'<a href="{h}" target="_blank" rel="noopener">{bi(n)}</a>' for n, h in REDES)}</nav><small>© 2026 Avelina Martinet Molina · <a href="/privacidad/">Aviso de privacidad</a></small></div></footer>
+<nav>{"".join(f'<a href="{h}" target="_blank" rel="noopener">{bi(n)}</a>' for n, h in REDES)}</nav>{PIE_PUERTAS}<small>© 2026 Avelina Martinet Molina · <a href="/privacidad/">Aviso de privacidad</a></small></div></footer>
 </body></html>
 '''
 
 def indice(col, miembros):
     """Página índice de una colección, armada con sus fijas publicadas."""
     slug, nombre, txt = COLECCIONES[col]
-    lista = [[f"[{m['h1']}](/{m['slug']}/)", m.get("resumen") or m["description"]] for m in miembros]
+    lista = [[m["h1"], f"/{m['slug']}/", m.get("resumen") or m["description"][:90].rsplit(" ", 1)[0] + "…"] for m in sorted(miembros, key=lambda x: -x.get("volumen", 0))]
     desc = (txt + " Todo lo escribe o lo prepara Avelina, cantautora de Monterrey que canta lo que escribe. Escoge y empieza.")[:160].rsplit(" ", 1)[0]
     return {"slug": slug, "estado": "publicada", "tipo": "indice", "coleccion": col, "cabeza": nombre.lower(), "title": f"{nombre} · Avelina", "description": desc,
-            "h1": nombre, "respuesta": txt + " Todas las escribo o las preparo yo.", "secciones": [{"h2": "Todas", "bloques": [{"lista": lista}]}],
+            "h1": nombre, "respuesta": txt + " Todas las escribo o las preparo yo.", "secciones": [{"h2": "Todas", "bloques": [{"tarjetas": lista}]}],
             "hermanas": [m["slug"] for m in miembros[:6]], "_archivo": slug}
 
 def escribe(ruta_rel, txt):

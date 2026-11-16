@@ -2,8 +2,10 @@
 """Genera todo el sitio. Uso: python3 fuente/build.py  (desde la raíz del repo).
 Para agregar un video o una entrada del diario, edita VIDEOS. Para cambiar el video
 de presentación, cambia PRESENTACION."""
-import html, json, os, re
+import html, json, os, re, sys
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(RAIZ, "fuente"))
+import puertas  # ligas de entrada a las fijas y la libreta (sólo las secciones publicadas)
 BASE = "https://avelina.com.mx"
 PRESENTACION = "rmZBT6yQDr4"
 DM = "https://ig.me/m/avelinaa.mar"
@@ -318,7 +320,7 @@ def pagina(l, clave, titulo, cuerpo, ruta_es=None, ruta_en=None, ld=""):
 <a class="idioma" href="/{alt}" hreflang="{otro}" lang="{otro}" aria-label="{t['otra_nombre']}">{bi(t['otra'])}</a></header>
 <main>{cuerpo}</main>
 <footer><div class="ancho"><img src="/img/marca/avelina-hilo.webp" alt="" width="1375" height="324" loading="lazy"><p>{bi(t['frase'])}</p>
-<nav>{"".join(f'<a href="{h}" target="_blank" rel="noopener">{bi(n)}</a>' for n,u,h,i in REDES)}</nav><small>© 2026 Avelina Martinet Molina · <a href="{url(l,'privacidad')}">{t['priv_t']}</a></small></div></footer>
+<nav>{"".join(f'<a href="{h}" target="_blank" rel="noopener">{bi(n)}</a>' for n,u,h,i in REDES)}</nav>{puertas.pie()}<small>© 2026 Avelina Martinet Molina · <a href="{url(l,'privacidad')}">{t['priv_t']}</a></small></div></footer>
 <a class="companera" href="{url(l,'contacto')}#cartas" aria-label="{t['ave_t']}" title="{t['ave_t']}"><img src="/img/estampas/golondrina-carta.webp" alt="" width="600" height="456"></a>
 </body></html>
 '''
@@ -346,6 +348,7 @@ def inicio(l):
 <section class="lienzo"><div class="ancho"><h2>{bi(t['musica'])}</h2><p class="lead">{t['musica_txt']}</p>{mosaico(l, t)}</div></section>
 <section class="papel pared-sec"><span class="vuelo" aria-hidden="true"></span><div class="ancho"><h2>{bi(t['pared'])}</h2><p class="lead">{t['pared_txt']}</p>{pared(l, pv)}<p class="centro"><a class="boton" href="{url(l,'videos')}">{bi(t['ver_pared'])}</a></p></div></section>
 <section class="lienzo cielo"><div class="ancho"><h2>{bi(t['diario'])}</h2><p class="sub">{bi(t['diario_sub'])}</p>{diario_lista(l, t, VIDEOS[:3], False)}<p class="centro"><a class="boton boton-luz" href="{url(l,'diario')}">{bi(t['diario_mas'])}</a></p></div></section>
+{puertas.portada() if l == "es" else ""}
 {cartas(t)}{redes(t)}'''
     return pagina(l, "inicio", "Avelina", c, ld=ld)
 
