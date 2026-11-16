@@ -18,6 +18,17 @@ document.querySelectorAll('.lite').forEach(b => b.addEventListener('click', () =
 // Carta de la libreta
 document.querySelectorAll('[data-abre]').forEach(b => b.addEventListener('click', () => document.getElementById(b.dataset.abre).showModal()));
 document.querySelectorAll('dialog').forEach(d => d.addEventListener('click', e => { if (e.target === d) d.close(); }));
+// Por dónde llegó: la primera página de la visita y el dominio de donde venía (sólo el host). Se guarda con el correo.
+const ruta = p => (p || '/').slice(0, 300);
+let llegada = {};
+try {
+  llegada = JSON.parse(sessionStorage.getItem('llegada') || 'null') || {};
+  if (!llegada.entrada) {
+    let h = ''; try { h = document.referrer ? new URL(document.referrer).hostname.toLowerCase() : ''; } catch {}
+    llegada = { entrada: ruta(location.pathname), referente: h && h !== location.hostname ? h.slice(0, 120) : null };
+    sessionStorage.setItem('llegada', JSON.stringify(llegada));
+  }
+} catch { llegada = { entrada: ruta(location.pathname), referente: null }; }
 // Cartas: solo agradece si Supabase confirmó que guardó el correo
 document.querySelectorAll('.sobre').forEach(f => f.addEventListener('submit', async e => {
   e.preventDefault();
@@ -28,7 +39,7 @@ document.querySelectorAll('.sobre').forEach(f => f.addEventListener('submit', as
     const r = await fetch(f.dataset.destino, {
       method: 'POST',
       headers: { apikey: f.dataset.llave, 'Content-Type': 'application/json', Prefer: 'return=minimal' },
-      body: JSON.stringify({ correo: datos.get('correo').trim(), idioma: f.dataset.idioma })
+      body: JSON.stringify({ correo: datos.get('correo').trim(), idioma: f.dataset.idioma, origen: ruta(location.pathname), entrada: llegada.entrada || null, referente: llegada.referente || null })
     });
     if (!r.ok && r.status !== 409) throw new Error(r.status); // 409: ese correo ya estaba en la lista
     f.classList.add('enviado'); aviso.textContent = f.dataset.ok;
