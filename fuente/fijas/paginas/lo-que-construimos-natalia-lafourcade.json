@@ -1,13 +1,116 @@
 {
- "slug": "lo-que-construimos-natalia-lafourcade",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "lo que construimos",
  "variantes": [
   "natalia lafourcade lo que construimos"
  ],
  "volumen": 6000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "lo-que-construimos-natalia-lafourcade",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "lo que construimos",
+ "title": "Lo que construimos de Natalia Lafourcade: historia y cover",
+ "description": "Lo que construimos, de Natalia Lafourcade: cuándo salió, de qué disco es y quién dirigió su video. La historia de la canción sin la letra y mi cover a guitarra.",
+ "h1": "Lo que construimos, de Natalia Lafourcade",
+ "resumen": "El tercer sencillo de Hasta la raíz, sobre un amor que termina.",
+ "respuesta": "Lo que construimos es una canción de Natalia Lafourcade que salió como sencillo el 13 de septiembre de 2015. Es el tercer sencillo de su disco Hasta la raíz. Habla del final de una relación.",
+ "cover": {
+  "cancion": "Lo que construimos",
+  "artista": "Natalia Lafourcade",
+  "compositor": [
+   "Natalia Lafourcade"
+  ],
+  "credito": "Canción de Natalia Lafourcade. Aquí no va la letra: es de su autora.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Lo que construimos"
+      ],
+      "filas": [
+       [
+        "Autora",
+        "Natalia Lafourcade"
+       ],
+       [
+        "Sencillo",
+        "13 de septiembre de 2015"
+       ],
+       [
+        "Disco",
+        "Hasta la raíz (2015)"
+       ],
+       [
+        "Lugar en el disco",
+        "Tercer sencillo"
+       ],
+       [
+        "Video",
+        "Dirigido por Alonso Ruizpalacios, el director de Güeros"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "El disco",
+   "bloques": [
+    "Hasta la raíz salió el 17 de marzo de 2015. Antes salieron [Hasta la raíz](/hasta-la-raiz-natalia-lafourcade/) y [Nunca es suficiente](/nunca-es-suficiente/).",
+    {
+     "lista": [
+      "Latin Grammy a mejor álbum alternativo, 2015.",
+      "Grammy a mejor álbum latino de rock, urbano o alternativo, 2016."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira el resto en [Natalia Lafourcade](/natalia-lafourcade/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De qué disco es Lo que construimos?",
+   "a": "De Hasta la raíz, de 2015. Fue su tercer sencillo."
+  },
+  {
+   "q": "¿De qué trata Lo que construimos?",
+   "a": "Del final de una relación y de lo que queda de ella."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Hasta la raíz, Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Hasta_la_Ra%C3%ADz"
+  },
+  {
+   "t": "Lo que construimos, Metalocus",
+   "url": "https://www.metalocus.es/es/noticias/eco-del-amor-perdido-lo-que-construimos-por-natalia-lafourcade"
+  }
+ ],
+ "hermanas": [
+  "natalia-lafourcade",
+  "hasta-la-raiz-natalia-lafourcade",
+  "nunca-es-suficiente",
+  "canciones-de-desamor",
+  "canciones-tristes-para-llorar"
+ ]
 }

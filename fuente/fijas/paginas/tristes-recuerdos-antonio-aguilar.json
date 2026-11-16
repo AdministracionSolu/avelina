@@ -1,11 +1,99 @@
 {
- "slug": "tristes-recuerdos-antonio-aguilar",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "tristes-recuerdos-antonio-aguilar",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "tristes recuerdos antonio aguilar",
- "variantes": [],
- "volumen": 3000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "title": "Tristes recuerdos de Antonio Aguilar: historia y mi cover",
+ "description": "Tristes recuerdos, la canción que hizo famosa Antonio Aguilar: quién la escribió, de dónde era su autor y otras versiones. Sin la letra y con mi cover.",
+ "h1": "Tristes recuerdos, de Antonio Aguilar",
+ "resumen": "La ranchera de Catarino Lara Benavides que hizo famosa Antonio Aguilar.",
+ "respuesta": "Tristes recuerdos es una canción ranchera que hizo famosa Antonio Aguilar. La escribió Catarino Lara Benavides, de Juchipila, Zacatecas. La versión de Aguilar la llevó por toda América Latina.",
+ "cover": {
+  "cancion": "Tristes recuerdos",
+  "artista": "Antonio Aguilar",
+  "compositor": [
+   "Catarino Lara Benavides"
+  ],
+  "credito": "Canción de Catarino Lara Benavides. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Tristes recuerdos"
+      ],
+      "filas": [
+       [
+        "Autor",
+        "Catarino Lara Benavides"
+       ],
+       [
+        "Origen del autor",
+        "Juchipila, Zacatecas"
+       ],
+       [
+        "Versión famosa",
+        "Antonio Aguilar"
+       ],
+       [
+        "Otra versión",
+        "Lucero"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "No es Triste recuerdo",
+   "bloques": [
+    "Antonio Aguilar también tiene Triste recuerdo, en singular, y una película de 1991 con ese nombre. Son otra cosa."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Hay más rancheras en [Si no te hubieras ido](/si-no-te-hubieras-ido/) y [Amor eterno](/amor-eterno/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién escribió Tristes recuerdos?",
+   "a": "Catarino Lara Benavides, de Juchipila, Zacatecas, según Mariachi Semblanza."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Tristes recuerdos, Mariachi Semblanza",
+   "url": "https://www.mariachi-semblanza.com/en/etiquetas/lucero-en"
+  },
+  {
+   "t": "Triste recuerdo, AllMusic",
+   "url": "https://www.allmusic.com/album/triste-recuerdo-mw0002633987"
+  }
+ ],
+ "hermanas": [
+  "canciones-tristes-para-llorar",
+  "amor-eterno",
+  "si-no-te-hubieras-ido",
+  "canciones-de-desamor"
+ ]
 }

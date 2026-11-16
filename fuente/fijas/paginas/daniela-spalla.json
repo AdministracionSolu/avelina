@@ -1,11 +1,137 @@
 {
- "slug": "daniela-spalla",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "daniela-spalla",
+ "espera_video": true,
  "tipo": "artista",
  "coleccion": "covers",
  "cabeza": "daniela spalla",
- "variantes": [],
- "volumen": 3000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "title": "Daniela Spalla: canciones, discos y mis covers a guitarra",
+ "description": "Daniela Spalla: la cantautora de Córdoba, Argentina, que vive en México desde 2013, sus discos y canciones como Te alejas más de mí. Con mis covers.",
+ "h1": "Daniela Spalla",
+ "resumen": "La cantautora argentina que hizo su carrera en México.",
+ "respuesta": "Daniela Spalla es una cantautora de Córdoba, Argentina, que vive en la Ciudad de México desde 2013. Llegó a México invitada por Ximena Sariñana. Compitió por el Latin Grammy a mejor nuevo artista.",
+ "cover": {
+  "cancion": "Covers de Daniela Spalla",
+  "artista": "Daniela Spalla",
+  "credito": "Las canciones son de Daniela Spalla y sus coautores. Aquí no va ninguna letra.",
+  "nota": "Aquí van a vivir mis covers de Daniela Spalla, a guitarra y voz."
+ },
+ "secciones": [
+  {
+   "h2": "Quién es Daniela Spalla",
+   "bloques": [
+    "Empezó a cantar y tocar guitarra en la escuela, en Córdoba. Su primer disco, Desvel, salió en 2005.",
+    "En 2010 sacó el disco corto Magma, con Ximena Sariñana. Ximena la invitó a presentarlo en México.",
+    "Con Ahora vienen por nosotros, de 2014, compitió por el Latin Grammy a mejor nuevo artista."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "Folk japonés",
+        "2014",
+        "Sencillo de Ahora vienen por nosotros"
+       ],
+       [
+        "Te alejas más de mí",
+        "2020",
+        "Con Esteman"
+       ],
+       [
+        "Lejos de la ciudad",
+        "2024",
+        "Después la grabó con Camilo"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Desvel (2005)",
+       "Su primer disco."
+      ],
+      [
+       "Magma (2010)",
+       "EP, con Ximena Sariñana."
+      ],
+      [
+       "Ahora vienen por nosotros (2014)",
+       ""
+      ],
+      [
+       "Camas separadas (2018)",
+       ""
+      ],
+      [
+       "Puro teatro (2020)",
+       "Lo produjo Adán Jodorowsky."
+      ],
+      [
+       "Dara (2023)",
+       ""
+      ],
+      [
+       "Spalla (2024)",
+       "EP."
+      ],
+      [
+       "Amorío (2025)",
+       "Con Esteman."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers",
+   "bloques": [
+    "Mis covers de ella van a guitarra y voz. Si te gusta su música, mira también [Ximena Sariñana](/ximena-sarinana/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De dónde es Daniela Spalla?",
+   "a": "De Córdoba, Argentina. Vive en la Ciudad de México desde 2013."
+  },
+  {
+   "q": "¿Quién llevó a Daniela Spalla a México?",
+   "a": "Ximena Sariñana, que la invitó a presentar su disco Magma."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Daniela Spalla, biografía en Qobuz",
+   "url": "https://www.qobuz.com/us-en/interpreter/daniela-spalla/1889178"
+  },
+  {
+   "t": "Daniela Spalla, La Tercera",
+   "url": "https://www.latercera.com/culto/2022/01/11/la-cantante-argentina-daniela-spalla-debuta-con-show-estelar-en-chile-me-gustaria-juntarme-a-escribir-con-javiera-mena/"
+  }
+ ],
+ "hermanas": [
+  "ximena-sarinana",
+  "carla-morrison",
+  "silvana-estrada",
+  "cantautores",
+  "canciones-de-desamor"
+ ]
 }

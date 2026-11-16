@@ -5,17 +5,17 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 
 | Estado | Páginas |
 |---|---|
-| espera video | 49 |
+| espera video | 60 |
 | borrador | 46 |
-| esqueleto | 46 |
+| esqueleto | 35 |
 
 | Tipo | Estado | Páginas |
 |---|---|---|
-| artista | espera video | 14 |
-| artista | esqueleto | 4 |
+| artista | espera video | 15 |
+| artista | esqueleto | 3 |
 | carta | borrador | 20 |
-| cover | espera video | 35 |
-| cover | esqueleto | 14 |
+| cover | espera video | 45 |
+| cover | esqueleto | 4 |
 | fe | esqueleto | 17 |
 | guia | borrador | 6 |
 | guia | esqueleto | 1 |
@@ -56,19 +56,8 @@ Se rehace con `python3 fuente/fijas/reportes.py`. Quien retome: sigue con el esq
 - canciones-para-una-amiga (lista, 6,000): Siguiente lote: armar la lista con fuentes verificadas (títulos y artistas, nunca letra).
 - canciones-romanticas-de-los-80-en-espanol (lista, 6,000): Siguiente lote: armar la lista con fuentes verificadas (títulos y artistas, nunca letra).
 - el-alfarero-alabanza (cover, 6,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.
-- lo-que-construimos-natalia-lafourcade (cover, 6,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
 - parabola-de-los-talentos (fe, 6,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
-- san-lucas-kevin-kaarl (cover, 6,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
-- colapso-kevin-kaarl (cover, 3,300): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
-- en-el-2000-natalia-lafourcade (cover, 3,300): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
-- amor-de-mis-amores (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
-- como-un-pajaro-silvana-estrada (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
-- daniela-spalla (artista, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
 - dones-espirituales (fe, 3,000): Decide Diego: son de la serie de fe de Ave. Se escriben con sus textos y videos (TikTok «N/100», «Los talentos te eligen»), no con reflexiones inventadas.
-- eres-para-mi-julieta-venegas (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
 - las-mananitas-en-guitarra (guia, 3,000): Decide Diego: sin letra (la versión popular está registrada en la SACM). Se arma con los acordes que toque Ave en su video.
 - mas-alla-del-sol-alabanza (cover, 3,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.
-- palabras-tristes-los-yonics (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
-- por-que-me-haces-llorar-juan-gabriel (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
-- tristes-recuerdos-antonio-aguilar (cover, 3,000): Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras.
 - tu-estas-aqui-jesus-adrian-romero (cover, 3,000): Decide Diego: ¿Ave canta alabanzas? Si sí, se arma como cover o lista con su video; si no, se descarta.

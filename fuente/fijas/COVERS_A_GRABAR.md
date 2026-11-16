@@ -49,30 +49,30 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 38 | Una canción de Jesse & Joy | canciones de jesse y joy | 6,000 | /jesse-y-joy/ | sí |
 | 39 | Una canción de La Quinta Estación | la quinta estacion | 6,000 | /la-quinta-estacion/ | sí |
 | 40 | Limón y sal | julieta venegas limon y sal | 6,000 | /limon-y-sal-julieta-venegas/ | sí |
-| 41 | lo que construimos | lo que construimos | 6,000 | /lo-que-construimos-natalia-lafourcade/ | no (esqueleto) |
+| 41 | Lo que construimos | lo que construimos | 6,000 | /lo-que-construimos-natalia-lafourcade/ | sí |
 | 42 | Las mañanitas | las mañanitas feliz cumpleaños para whatsapp | 6,000 | /mananitas-para-whatsapp/ | sí |
-| 43 | san lucas kevin kaarl | san lucas kevin kaarl | 6,000 | /san-lucas-kevin-kaarl/ | no (esqueleto) |
+| 43 | San Lucas | san lucas kevin kaarl | 6,000 | /san-lucas-kevin-kaarl/ | sí |
 | 44 | Te regalo | te regalo carla morrison | 6,000 | /te-regalo-carla-morrison/ | sí |
-| 45 | kevin kaarl colapso | kevin kaarl colapso | 3,300 | /colapso-kevin-kaarl/ | no (esqueleto) |
+| 45 | Colapso | kevin kaarl colapso | 3,300 | /colapso-kevin-kaarl/ | sí |
 | 46 | Disfruto | carla morrison disfruto | 3,300 | /disfruto-carla-morrison/ | sí |
-| 47 | natalia lafourcade en el 2000 | natalia lafourcade en el 2000 | 3,300 | /en-el-2000-natalia-lafourcade/ | no (esqueleto) |
+| 47 | En el 2000 | natalia lafourcade en el 2000 | 3,300 | /en-el-2000-natalia-lafourcade/ | sí |
 | 48 | Amor, amor | amor amor carla morrison | 3,000 | /amor-amor-carla-morrison/ | sí |
-| 49 | amor de mis amores | amor de mis amores | 3,000 | /amor-de-mis-amores/ | no (esqueleto) |
+| 49 | Amor, amor de mis amores | amor de mis amores | 3,000 | /amor-de-mis-amores/ | sí |
 | 50 | Antes de ti | antes de ti mon laferte | 3,000 | /antes-de-ti-mon-laferte/ | sí |
-| 51 | como un pajaro silvana estrada | como un pajaro silvana estrada | 3,000 | /como-un-pajaro-silvana-estrada/ | no (esqueleto) |
+| 51 | Como un pájaro | como un pajaro silvana estrada | 3,000 | /como-un-pajaro-silvana-estrada/ | sí |
 | 52 | Compartir | compartir carla morrison | 3,000 | /compartir-carla-morrison/ | sí |
 | 53 | Una canción de Consuelo Velázquez | consuelo velázquez | 3,000 | /consuelo-velazquez/ | sí |
 | 54 | Contigo aprendí | contigo aprendi | 3,000 | /contigo-aprendi/ | sí |
-| 55 | Una canción de Daniela Spalla | daniela spalla | 3,000 | /daniela-spalla/ | no (esqueleto) |
+| 55 | Una canción de Daniela Spalla | daniela spalla | 3,000 | /daniela-spalla/ | sí |
 | 56 | Déjenme llorar | carla morrison dejenme llorar | 3,000 | /dejenme-llorar-carla-morrison/ | sí |
-| 57 | eres para mi julieta venegas | eres para mi julieta venegas | 3,000 | /eres-para-mi-julieta-venegas/ | no (esqueleto) |
+| 57 | Eres para mí | eres para mi julieta venegas | 3,000 | /eres-para-mi-julieta-venegas/ | sí |
 | 58 | Kilómetros | sin bandera kilómetros | 3,000 | /kilometros-sin-bandera/ | sí |
 | 59 | Lo aprendí de ti | ha * ash lo aprendí de ti | 3,000 | /lo-aprendi-de-ti-ha-ash/ | sí |
 | 60 | Las mañanitas | mañanitas para mamá | 3,000 | /mananitas-para-mama/ | sí |
 | 61 | más allá del sol alabanza | más allá del sol alabanza | 3,000 | /mas-alla-del-sol-alabanza/ | no (esqueleto) |
 | 62 | Me muero | me muero la quinta estacion | 3,000 | /me-muero-la-quinta-estacion/ | sí |
-| 63 | los yonic's palabras tristes | los yonic's palabras tristes | 3,000 | /palabras-tristes-los-yonics/ | no (esqueleto) |
+| 63 | Palabras tristes | palabras tristes los yonics | 3,000 | /palabras-tristes-los-yonics/ | sí |
 | 64 | Perdón, perdón | ha * ash perdón perdón | 3,000 | /perdon-perdon-ha-ash/ | sí |
-| 65 | juan gabriel porque me haces llorar | juan gabriel porque me haces llorar | 3,000 | /por-que-me-haces-llorar-juan-gabriel/ | no (esqueleto) |
-| 66 | tristes recuerdos antonio aguilar | tristes recuerdos antonio aguilar | 3,000 | /tristes-recuerdos-antonio-aguilar/ | no (esqueleto) |
+| 65 | ¿Por qué me haces llorar? | por que me haces llorar juan gabriel | 3,000 | /por-que-me-haces-llorar-juan-gabriel/ | sí |
+| 66 | Tristes recuerdos | tristes recuerdos antonio aguilar | 3,000 | /tristes-recuerdos-antonio-aguilar/ | sí |
 | 67 | jesús adrián romero tú estás aqui | jesús adrián romero tú estás aqui | 3,000 | /tu-estas-aqui-jesus-adrian-romero/ | no (esqueleto) |

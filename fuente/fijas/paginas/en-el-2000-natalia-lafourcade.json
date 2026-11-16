@@ -1,13 +1,102 @@
 {
- "slug": "en-el-2000-natalia-lafourcade",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "natalia lafourcade en el 2000",
  "variantes": [
   "en el 2000 natalia lafourcade"
  ],
  "volumen": 3300,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "en-el-2000-natalia-lafourcade",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "natalia lafourcade en el 2000",
+ "title": "En el 2000 de Natalia Lafourcade: historia y mi cover",
+ "description": "En el 2000, de Natalia Lafourcade: el sencillo de su primer disco, de 2002, quién lo produjo y cuántos premios buscó. Su historia sin la letra y mi cover.",
+ "h1": "En el 2000, de Natalia Lafourcade",
+ "resumen": "El sencillo del primer disco de Natalia Lafourcade.",
+ "respuesta": "En el 2000 es una canción de Natalia Lafourcade de 2002. Fue el segundo sencillo de su primer disco, que lleva su nombre. Con ese disco compitió por cuatro Latin Grammy en 2003.",
+ "cover": {
+  "cancion": "En el 2000",
+  "artista": "Natalia Lafourcade",
+  "compositor": [
+   "Natalia Lafourcade"
+  ],
+  "credito": "Canción de Natalia Lafourcade. Aquí no va la letra: es de su autora.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "En el 2000"
+      ],
+      "filas": [
+       [
+        "Autora",
+        "Natalia Lafourcade"
+       ],
+       [
+        "Año",
+        "2002"
+       ],
+       [
+        "Disco",
+        "Natalia Lafourcade (2002)"
+       ],
+       [
+        "Lugar en el disco",
+        "Segundo sencillo"
+       ],
+       [
+        "Producción del disco",
+        "Áureo Baqueiro y Loris Ceroni"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "El disco",
+   "bloques": [
+    "Su primer disco salió el 8 de julio de 2002. Llegó al número uno de discos en México y fue platino y oro.",
+    "En 2003 compitió por cuatro Latin Grammy, uno de ellos a mejor nuevo artista."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira el resto en [Natalia Lafourcade](/natalia-lafourcade/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De qué disco es En el 2000?",
+   "a": "Del primer disco de Natalia Lafourcade, de 2002, que lleva su nombre."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Natalia Lafourcade (álbum), Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Natalia_Lafourcade_(%C3%A1lbum)"
+  }
+ ],
+ "hermanas": [
+  "natalia-lafourcade",
+  "lo-que-construimos-natalia-lafourcade",
+  "nunca-es-suficiente",
+  "canciones-para-karaoke-mujer"
+ ]
 }

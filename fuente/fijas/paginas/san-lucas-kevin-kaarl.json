@@ -1,13 +1,103 @@
 {
- "slug": "san-lucas-kevin-kaarl",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "san lucas kevin kaarl",
  "variantes": [
   "kevin kaarl san lucas"
  ],
  "volumen": 6000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "san-lucas-kevin-kaarl",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "san lucas kevin kaarl",
+ "title": "San Lucas de Kevin Kaarl: historia y mi cover a guitarra",
+ "description": "San Lucas, de Kevin Kaarl: de qué disco es, cuándo salió y cómo llegó al número uno de YouTube en México. Su historia sin la letra y mi cover a guitarra.",
+ "h1": "San Lucas, de Kevin Kaarl",
+ "resumen": "La canción de Kevin Kaarl que llegó al número uno de YouTube en México.",
+ "respuesta": "San Lucas es una canción de Kevin Kaarl, el cantautor de Meoqui, Chihuahua. Da nombre a su disco corto del 7 de noviembre de 2019. Llegó al número uno del top de canciones de YouTube en México.",
+ "cover": {
+  "cancion": "San Lucas",
+  "artista": "Kevin Kaarl",
+  "compositor": [
+   "Kevin Kaarl"
+  ],
+  "credito": "Canción de Kevin Kaarl. Aquí no va la letra: es de su autor.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "San Lucas"
+      ],
+      "filas": [
+       [
+        "Autor",
+        "Kevin Kaarl"
+       ],
+       [
+        "Disco",
+        "San Lucas (EP, 7 de noviembre de 2019)"
+       ],
+       [
+        "Video",
+        "2020"
+       ],
+       [
+        "Lugar en México",
+        "Número 1 del top 100 de YouTube"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "Quién la canta",
+   "bloques": [
+    "Kevin Kaarl nació el 15 de mayo de 2000 en Meoqui, Chihuahua. Su hermano gemelo, Bryan, toca la trompeta en sus conciertos.",
+    "Su video con la letra en pantalla pasó de 30 millones de vistas."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira el resto en [Kevin Kaarl](/kevin-kaarl/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De dónde es Kevin Kaarl?",
+   "a": "De Meoqui, Chihuahua. Después se fue a estudiar a la ciudad de Chihuahua."
+  },
+  {
+   "q": "¿De qué disco es San Lucas?",
+   "a": "Del disco corto San Lucas, de 2019."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Kevin Kaarl, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Kevin_Kaarl"
+  }
+ ],
+ "hermanas": [
+  "kevin-kaarl",
+  "colapso-kevin-kaarl",
+  "ed-maverick",
+  "musica-indie",
+  "canciones-de-desamor"
+ ]
 }

@@ -1,11 +1,104 @@
 {
- "slug": "palabras-tristes-los-yonics",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "los yonic's palabras tristes",
  "variantes": [],
  "volumen": 3000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "palabras-tristes-los-yonics",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "palabras tristes los yonics",
+ "title": "Palabras tristes de Los Yonic's: historia y mi cover",
+ "description": "Palabras tristes: quién la escribió en 1968, cuándo la hicieron famosa Los Yonic's y su versión con Mon Laferte. La historia sin la letra y mi cover.",
+ "h1": "Palabras tristes, de Los Yonic's",
+ "resumen": "La balada de Xavier Santos que hicieron famosa Los Yonic's.",
+ "respuesta": "Palabras tristes es una canción de Xavier Santos, compuesta en 1968. Los Yonic's la grabaron en 1980 y la volvieron un éxito fuera de México. En 2016 Mon Laferte grabó una versión nueva con ellos.",
+ "cover": {
+  "cancion": "Palabras tristes",
+  "artista": "Los Yonic's",
+  "compositor": [
+   "Xavier Santos"
+  ],
+  "credito": "Canción de Xavier Santos. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Palabras tristes"
+      ],
+      "filas": [
+       [
+        "Autor",
+        "Xavier Santos"
+       ],
+       [
+        "Compuesta",
+        "1968"
+       ],
+       [
+        "Versión famosa",
+        "Los Yonic's, 1980"
+       ],
+       [
+        "Versión nueva",
+        "Mon Laferte con Los Yonic's Zamacona, 2016"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "Con Mon Laferte",
+   "bloques": [
+    "En octubre de 2016 salió su versión con Mon Laferte, de tono melancólico y muy distinta de la original.",
+    "Mira más de ella en [Mon Laferte](/mon-laferte/)."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz, como todo lo mío."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién escribió Palabras tristes?",
+   "a": "Xavier Santos, en 1968."
+  },
+  {
+   "q": "¿Cuándo la grabaron Los Yonic's?",
+   "a": "En 1980."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Palabras tristes con Mon Laferte, LOS40 México",
+   "url": "https://los40.com.mx/los40/2016/10/18/musicanueva/1476825292_072959.html"
+  },
+  {
+   "t": "Las mejores canciones de Los Yonic's, UnoTV",
+   "url": "https://www.unotv.com/entretenimiento/los-yonics-estas-son-sus-mejores-canciones/"
+  }
+ ],
+ "hermanas": [
+  "canciones-tristes-para-llorar",
+  "canciones-de-desamor",
+  "mon-laferte",
+  "canciones-romanticas-de-los-80-en-espanol"
+ ]
 }

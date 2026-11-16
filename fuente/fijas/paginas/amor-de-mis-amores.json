@@ -1,11 +1,107 @@
 {
- "slug": "amor-de-mis-amores",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "amor-de-mis-amores",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "amor de mis amores",
- "variantes": [],
- "volumen": 3000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "title": "Amor de mis amores: el bolero y la versión de Natalia",
+ "description": "Amor de mis amores: quién la escribió, cómo la grabaron Natalia Lafourcade y Devendra Banhart en su homenaje a Agustín Lara y mi cover a guitarra. Sin la letra.",
+ "h1": "Amor, amor de mis amores, de Natalia Lafourcade",
+ "resumen": "La canción del repertorio de Agustín Lara que Natalia cantó con Devendra Banhart.",
+ "respuesta": "Amor, amor de mis amores es una canción del repertorio de Agustín Lara. En los créditos del disco de Natalia Lafourcade aparece a nombre de María Teresa Lara. Natalia la grabó en 2012 con Devendra Banhart.",
+ "cover": {
+  "cancion": "Amor, amor de mis amores",
+  "artista": "Natalia Lafourcade",
+  "compositor": [
+   "María Teresa Lara"
+  ],
+  "credito": "Canción del repertorio de Agustín Lara, a nombre de María Teresa Lara. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Amor, amor de mis amores"
+      ],
+      "filas": [
+       [
+        "Autora en créditos",
+        "María Teresa Lara"
+       ],
+       [
+        "Versión más buscada",
+        "Natalia Lafourcade con Devendra Banhart"
+       ],
+       [
+        "Disco",
+        "Mujer divina, homenaje a Agustín Lara (2012)"
+       ],
+       [
+        "Lugar en el disco",
+        "Canción 9"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "El homenaje",
+   "bloques": [
+    "Mujer divina salió el 18 de septiembre de 2012. Es el disco de Natalia dedicado a las canciones de Agustín Lara.",
+    {
+     "lista": [
+      "Ganó el Latin Grammy a mejor álbum alternativo en 2013.",
+      "También ganó el de mejor video musical de larga duración.",
+      "Sus sencillos fueron La fugitiva, Limosna, Mujer divina y Aventurera."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Hay más boleros en [Sabor a mí](/sabor-a-mi/) y [Bésame mucho](/besame-mucho/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién canta Amor de mis amores con Natalia Lafourcade?",
+   "a": "Devendra Banhart, en el disco Mujer divina, de 2012."
+  },
+  {
+   "q": "¿Quién escribió Amor de mis amores?",
+   "a": "Los créditos del disco de Natalia dicen María Teresa Lara. Es del repertorio de Agustín Lara."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Mujer divina, homenaje a Agustín Lara, Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Mujer_Divina_%E2%80%93_Homenaje_a_Agust%C3%ADn_Lara"
+  }
+ ],
+ "hermanas": [
+  "natalia-lafourcade",
+  "sabor-a-mi",
+  "besame-mucho",
+  "historia-de-un-amor",
+  "canciones-de-amor-en-espanol"
+ ]
 }

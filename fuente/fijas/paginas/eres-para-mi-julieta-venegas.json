@@ -1,11 +1,101 @@
 {
- "slug": "eres-para-mi-julieta-venegas",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "eres-para-mi-julieta-venegas",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "eres para mi julieta venegas",
- "variantes": [],
- "volumen": 3000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "title": "Eres para mí de Julieta Venegas: historia y mi cover",
+ "description": "Eres para mí, de Julieta Venegas con Anita Tijoux: quién la escribió, cuándo salió y hasta dónde llegó en las listas. Su historia sin la letra y mi cover.",
+ "h1": "Eres para mí, de Julieta Venegas",
+ "resumen": "La canción de Julieta Venegas con Anita Tijoux, número uno en México.",
+ "respuesta": "Eres para mí es una canción de Julieta Venegas con la chilena Anita Tijoux. Salió como sencillo el 1 de enero de 2007 y es del disco Limón y sal. Llegó al número uno en México.",
+ "cover": {
+  "cancion": "Eres para mí",
+  "artista": "Julieta Venegas",
+  "compositor": [
+   "Julieta Venegas",
+   "Ana Tijoux"
+  ],
+  "credito": "Canción de Julieta Venegas y Ana Tijoux. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Eres para mí"
+      ],
+      "filas": [
+       [
+        "Autoras",
+        "Julieta Venegas y Ana Tijoux"
+       ],
+       [
+        "Sencillo",
+        "1 de enero de 2007"
+       ],
+       [
+        "Disco",
+        "Limón y sal (2006)"
+       ],
+       [
+        "Producción",
+        "Cachorro López y Julieta Venegas"
+       ],
+       [
+        "Listas",
+        "Número 1 en México, 2 en España"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "El disco",
+   "bloques": [
+    "Limón y sal salió el 30 de mayo de 2006 en México. Eres para mí fue su tercer sencillo, después de Me voy y [Limón y sal](/limon-y-sal-julieta-venegas/).",
+    "También llegó al número uno de pop latino en la radio de Estados Unidos."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira el resto en [Julieta Venegas](/julieta-venegas/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Con quién canta Julieta Venegas Eres para mí?",
+   "a": "Con la cantante chilena Ana Tijoux, que también la escribió."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Limón y sal, Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Lim%C3%B3n_y_Sal"
+  }
+ ],
+ "hermanas": [
+  "julieta-venegas",
+  "limon-y-sal-julieta-venegas",
+  "canciones-para-dedicar-a-mi-novio",
+  "canciones-de-amor-en-espanol"
+ ]
 }

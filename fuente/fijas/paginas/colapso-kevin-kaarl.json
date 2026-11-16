@@ -1,13 +1,99 @@
 {
- "slug": "colapso-kevin-kaarl",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "kevin kaarl colapso",
  "variantes": [
   "colapso kevin kaarl"
  ],
  "volumen": 3300,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "colapso-kevin-kaarl",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "kevin kaarl colapso",
+ "title": "Colapso de Kevin Kaarl: historia y mi cover a guitarra",
+ "description": "Colapso, de Kevin Kaarl: de qué disco es, cuándo salió y cuántas vistas tiene su video. La historia de la canción sin la letra y mi cover a guitarra y voz.",
+ "h1": "Colapso, de Kevin Kaarl",
+ "resumen": "El sencillo de Hasta el fin del mundo, su primer disco.",
+ "respuesta": "Colapso es una canción de Kevin Kaarl de 2019. Salió como sencillo de su primer disco, Hasta el fin del mundo. Su video con la letra en pantalla pasó de 116 millones de vistas.",
+ "cover": {
+  "cancion": "Colapso",
+  "artista": "Kevin Kaarl",
+  "compositor": [
+   "Kevin Kaarl"
+  ],
+  "credito": "Canción de Kevin Kaarl. Aquí no va la letra: es de su autor.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Colapso"
+      ],
+      "filas": [
+       [
+        "Autor",
+        "Kevin Kaarl"
+       ],
+       [
+        "Año",
+        "2019"
+       ],
+       [
+        "Disco",
+        "Hasta el fin del mundo (2019)"
+       ],
+       [
+        "Vistas del video con letra",
+        "Más de 116 millones"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "El disco",
+   "bloques": [
+    "Hasta el fin del mundo fue su primer disco. Ese mismo año sacó el disco corto [San Lucas](/san-lucas-kevin-kaarl/).",
+    "Su música es de guitarra y voz, con folk."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira el resto en [Kevin Kaarl](/kevin-kaarl/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De qué disco es Colapso?",
+   "a": "De Hasta el fin del mundo, el primer disco de Kevin Kaarl, de 2019."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Kevin Kaarl, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Kevin_Kaarl"
+  }
+ ],
+ "hermanas": [
+  "kevin-kaarl",
+  "san-lucas-kevin-kaarl",
+  "ed-maverick",
+  "musica-indie",
+  "canciones-tristes-para-llorar"
+ ]
 }

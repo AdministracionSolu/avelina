@@ -1,11 +1,100 @@
 {
- "slug": "por-que-me-haces-llorar-juan-gabriel",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "juan gabriel porque me haces llorar",
  "variantes": [],
  "volumen": 3000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "por-que-me-haces-llorar-juan-gabriel",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "por que me haces llorar juan gabriel",
+ "title": "Por qué me haces llorar de Juan Gabriel: historia y cover",
+ "description": "¿Por qué me haces llorar?, de Juan Gabriel: de qué disco es, quién la escribió y quién la produjo. La historia de la canción sin la letra y mi cover a guitarra.",
+ "h1": "¿Por qué me haces llorar?, de Juan Gabriel",
+ "resumen": "La canción ranchera de Juan Gabriel del disco de 2010.",
+ "respuesta": "¿Por qué me haces llorar? es una canción de Juan Gabriel, escrita por él. Viene en su disco Juan Gabriel, que salió el 4 de mayo de 2010. Es la canción 6 del disco.",
+ "cover": {
+  "cancion": "¿Por qué me haces llorar?",
+  "artista": "Juan Gabriel",
+  "compositor": [
+   "Juan Gabriel"
+  ],
+  "credito": "Canción de Juan Gabriel. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "¿Por qué me haces llorar?"
+      ],
+      "filas": [
+       [
+        "Autor",
+        "Juan Gabriel"
+       ],
+       [
+        "Disco",
+        "Juan Gabriel (2010)"
+       ],
+       [
+        "Salida del disco",
+        "4 de mayo de 2010"
+       ],
+       [
+        "Lugar en el disco",
+        "Canción 6"
+       ],
+       [
+        "Producción",
+        "Juan Gabriel"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "El disco",
+   "bloques": [
+    "Todas las canciones del disco son suyas y él mismo lo produjo. Salió con Fonovisa.",
+    "Del mismo autor es [Amor eterno](/amor-eterno/)."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz, como todo lo mío."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De qué disco es Por qué me haces llorar?",
+   "a": "Del disco Juan Gabriel, de 2010."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Juan Gabriel (álbum), Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Juan_Gabriel_(album)"
+  }
+ ],
+ "hermanas": [
+  "amor-eterno",
+  "canciones-tristes-para-llorar",
+  "canciones-de-desamor",
+  "si-no-te-hubieras-ido"
+ ]
 }

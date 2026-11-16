@@ -1,11 +1,104 @@
 {
- "slug": "como-un-pajaro-silvana-estrada",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "como-un-pajaro-silvana-estrada",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "como un pajaro silvana estrada",
- "variantes": [],
- "volumen": 3000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "title": "Como un pájaro de Silvana Estrada: historia y mi cover",
+ "description": "Como un pájaro, de Silvana Estrada: cuándo salió, cómo la escribió en la pandemia y de qué disco es. La historia de la canción sin la letra y mi cover.",
+ "h1": "Como un pájaro, de Silvana Estrada",
+ "resumen": "La canción de Silvana Estrada sobre el silencio y la soledad.",
+ "respuesta": "Como un pájaro es una canción de Silvana Estrada que salió el 28 de mayo de 2025. La escribió en la pandemia, en noches sin dormir. Fue el primer sencillo de su disco Vendrán suaves lluvias.",
+ "cover": {
+  "cancion": "Como un pájaro",
+  "artista": "Silvana Estrada",
+  "compositor": [
+   "Silvana Estrada"
+  ],
+  "credito": "Canción de Silvana Estrada. Aquí no va la letra: es de su autora.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Como un pájaro"
+      ],
+      "filas": [
+       [
+        "Autora",
+        "Silvana Estrada"
+       ],
+       [
+        "Sencillo",
+        "28 de mayo de 2025"
+       ],
+       [
+        "Disco",
+        "Vendrán suaves lluvias (2025)"
+       ],
+       [
+        "Lugar en el disco",
+        "Primer sencillo"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "Cómo nació",
+   "bloques": [
+    "Fue su primera canción nueva desde Qué problema, de 2023.",
+    "Silvana contó cómo la hizo en el programa Song Exploder, en su episodio 309."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira el resto en [Silvana Estrada](/silvana-estrada/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De qué disco es Como un pájaro?",
+   "a": "De Vendrán suaves lluvias, el segundo disco de Silvana Estrada, de 2025."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Como un pájaro, Rolling Stone en Español",
+   "url": "https://es.rollingstone.com/?p=131415"
+  },
+  {
+   "t": "Silvana Estrada, Song Exploder",
+   "url": "https://songexploder.net/silvana-estrada"
+  },
+  {
+   "t": "Silvana Estrada, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Silvana_Estrada"
+  }
+ ],
+ "hermanas": [
+  "silvana-estrada",
+  "natalia-lafourcade",
+  "cantautores",
+  "canciones-tristes-para-llorar"
+ ]
 }
