@@ -26,7 +26,8 @@ Un borrador no genera HTML: la ruta da 404 y no aparece en el sitemap. Si una p�
 `generar.py` borra su HTML (sólo borra archivos con la marca `<!-- fija:generada -->`).
 El índice de cada colección (`/covers/`, `/cartas/`, `/afinadores/`…) se arma solo y se publica cuando tiene 3 fijas publicadas.
 
-Para publicar: cambia `estado`, corre `python3 fuente/fijas/generar.py`, revisa, commit y push a `main`.
+Para publicar: cambia `estado`, corre `python3 fuente/publicar.py` (fijas, diarias de `/libreta/` y sitio, en orden), revisa, commit y push a `main`.
+Las ligas de entrada (postales de la portada y renglón del pie) salen solas de `fuente/puertas.py` para cada índice publicado.
 Después de publicar: Search Console, IndexNow (la llave ya está en la raíz) y ligar la nueva fija desde una página ya indexada.
 
 ## Campos de una página
