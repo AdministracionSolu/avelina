@@ -1,13 +1,104 @@
 {
- "slug": "eres-tu-carla-morrison",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "eres tu carla morrison",
  "variantes": [
   "carla morrison eres tu"
  ],
  "volumen": 6000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "eres-tu-carla-morrison",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "eres tu carla morrison",
+ "title": "Eres tú de Carla Morrison: historia y mi cover",
+ "description": "Eres tú, de Carla Morrison: cuándo salió como sencillo, de qué disco es y dónde más sonó. Su historia sin la letra y mi cover a guitarra y voz. Escúchala.",
+ "h1": "Eres tú, de Carla Morrison",
+ "resumen": "La canción de amor de Carla Morrison del disco Déjenme llorar.",
+ "respuesta": "Eres tú es una canción de amor de Carla Morrison. Salió como sencillo el 3 de octubre de 2012 y viene en su disco Déjenme llorar. Es una de sus canciones más escuchadas.",
+ "cover": {
+  "cancion": "Eres tú",
+  "artista": "Carla Morrison",
+  "compositor": [
+   "Carla Morrison"
+  ],
+  "credito": "Canción de Carla Morrison. Aquí no va la letra: es de su autora.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Eres tú"
+      ],
+      "filas": [
+       [
+        "Autora",
+        "Carla Morrison"
+       ],
+       [
+        "Sencillo",
+        "3 de octubre de 2012"
+       ],
+       [
+        "Disco",
+        "Déjenme llorar (2012), canción 6"
+       ],
+       [
+        "Lugar en el disco",
+        "Tercer sencillo"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "La canción",
+   "bloques": [
+    "Salió después de Déjenme llorar y Hasta la piel, los dos primeros sencillos del disco.",
+    "En 2016 sonó en un capítulo de la serie animada Trollhunters.",
+    "Si la quieres dedicar, mira [canciones para dedicar a mi novio](/canciones-para-dedicar-a-mi-novio/)."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira sus otras canciones en [Carla Morrison](/carla-morrison/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De qué disco es Eres tú?",
+   "a": "De Déjenme llorar, el primer disco de estudio de Carla Morrison, de 2012."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Déjenme llorar, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/D%C3%A9jenme_llorar"
+  },
+  {
+   "t": "Carla Morrison, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Carla_Morrison"
+  }
+ ],
+ "hermanas": [
+  "carla-morrison",
+  "te-regalo-carla-morrison",
+  "canciones-para-dedicar-a-mi-novio",
+  "canciones-de-amor-en-espanol",
+  "dejenme-llorar-carla-morrison"
+ ]
 }

@@ -1,14 +1,100 @@
 {
- "slug": "si-tu-me-quisieras-mon-laferte",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "mon laferte si tu me quisieras",
  "variantes": [
   "si tu me quisieras",
   "si tu me quisieras mon laferte"
  ],
  "volumen": 9000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "si-tu-me-quisieras-mon-laferte",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "mon laferte si tu me quisieras",
+ "title": "Si tú me quisieras de Mon Laferte: historia y mi cover",
+ "description": "Si tú me quisieras, de Mon Laferte: de qué disco es, su disco de oro y la noche que la cantó con Juanes en los Latin Grammy. Sin la letra y con mi cover.",
+ "h1": "Si tú me quisieras, de Mon Laferte",
+ "resumen": "La canción de Mon Laferte, vol. 1 que cantó con Juanes en los Latin Grammy.",
+ "respuesta": "Si tú me quisieras es una canción de Mon Laferte de 2015. Viene en su disco Mon Laferte, vol. 1, el mismo de Tu falta de querer. En enero de 2017 recibió disco de oro por 30,000 descargas.",
+ "cover": {
+  "cancion": "Si tú me quisieras",
+  "artista": "Mon Laferte",
+  "compositor": [
+   "Mon Laferte"
+  ],
+  "credito": "Canción de Mon Laferte. Aquí no va la letra: es de sus autores.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Si tú me quisieras"
+      ],
+      "filas": [
+       [
+        "Intérprete",
+        "Mon Laferte"
+       ],
+       [
+        "Año",
+        "2015"
+       ],
+       [
+        "Disco",
+        "Mon Laferte, vol. 1"
+       ],
+       [
+        "Certificación",
+        "Disco de oro, 26 de enero de 2017"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "La canción",
+   "bloques": [
+    "En los Latin Grammy de 2016, Mon la cantó con Juanes en la guitarra.",
+    "Su compañera de disco es [Tu falta de querer](/tu-falta-de-querer-mon-laferte/), la que la dio a conocer."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira el resto en [Mon Laferte](/mon-laferte/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De qué disco es Si tú me quisieras?",
+   "a": "De Mon Laferte, vol. 1, de 2015."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Mon Laferte, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Mon_Laferte"
+  }
+ ],
+ "hermanas": [
+  "mon-laferte",
+  "tu-falta-de-querer-mon-laferte",
+  "amarrame-mon-laferte",
+  "canciones-de-desamor",
+  "canciones-tristes-para-llorar"
+ ]
 }

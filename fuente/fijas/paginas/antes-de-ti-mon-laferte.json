@@ -1,11 +1,99 @@
 {
- "slug": "antes-de-ti-mon-laferte",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "antes-de-ti-mon-laferte",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "antes de ti mon laferte",
- "variantes": [],
- "volumen": 3000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "title": "Antes de ti de Mon Laferte: historia y mi cover",
+ "description": "Antes de ti, de Mon Laferte: cuándo salió, su versión en japonés y su nominación a canción del año en el Latin Grammy 2018. Sin la letra y con mi cover.",
+ "h1": "Antes de ti, de Mon Laferte",
+ "resumen": "El sencillo de 2018 que compitió por canción del año.",
+ "respuesta": "Antes de ti es un sencillo de Mon Laferte que salió el 2 de febrero de 2018. Compitió por canción del año en el Latin Grammy de 2018. Ella misma dirigió el primer video.",
+ "cover": {
+  "cancion": "Antes de ti",
+  "artista": "Mon Laferte",
+  "compositor": [
+   "Mon Laferte"
+  ],
+  "credito": "Canción de Mon Laferte. Aquí no va la letra: es de sus autores.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Antes de ti"
+      ],
+      "filas": [
+       [
+        "Intérprete",
+        "Mon Laferte"
+       ],
+       [
+        "Sencillo",
+        "2 de febrero de 2018"
+       ],
+       [
+        "Premio",
+        "Nominada a canción del año, Latin Grammy 2018"
+       ],
+       [
+        "Video",
+        "Dirigido por Mon Laferte, nominado a video del año en los MTV MIAW"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "En japonés",
+   "bloques": [
+    "El 4 de mayo de 2018 salió una versión en japonés. Las dos salieron juntas en un disco de vinilo."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira el resto en [Mon Laferte](/mon-laferte/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cuándo salió Antes de ti?",
+   "a": "El 2 de febrero de 2018, como sencillo."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Mon Laferte, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Mon_Laferte"
+  },
+  {
+   "t": "Antes de ti, ficha en MusicBrainz",
+   "url": "https://musicbrainz.org/search?query=Antes+de+ti+Mon+Laferte&type=recording"
+  }
+ ],
+ "hermanas": [
+  "mon-laferte",
+  "tu-falta-de-querer-mon-laferte",
+  "mi-buen-amor-mon-laferte",
+  "canciones-de-desamor"
+ ]
 }

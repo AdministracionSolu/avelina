@@ -1,13 +1,98 @@
 {
- "slug": "contigo-carla-morrison",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "contigo carla morrison",
  "variantes": [
   "carla morrison contigo"
  ],
  "volumen": 6000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "contigo-carla-morrison",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "contigo carla morrison",
+ "title": "Contigo de Carla Morrison: historia y mi cover",
+ "description": "Contigo, de Carla Morrison: cuándo salió su video, quién lo dirigió y en qué disco quedó. La historia de la canción sin la letra y mi cover a guitarra y voz.",
+ "h1": "Contigo, de Carla Morrison",
+ "resumen": "La canción de 2021 que abrió el camino a El renacimiento.",
+ "respuesta": "Contigo es una canción de Carla Morrison de 2021. Su video salió el 21 de septiembre de 2021 y lo dirigió el francés Colin Solal Cardo. Es parte de El renacimiento, su disco de 2022.",
+ "cover": {
+  "cancion": "Contigo",
+  "artista": "Carla Morrison",
+  "compositor": [
+   "Carla Morrison"
+  ],
+  "credito": "Canción de Carla Morrison. Aquí no va la letra: es de su autora.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Contigo"
+      ],
+      "filas": [
+       [
+        "Autora",
+        "Carla Morrison"
+       ],
+       [
+        "Video",
+        "21 de septiembre de 2021"
+       ],
+       [
+        "Dirección del video",
+        "Colin Solal Cardo"
+       ],
+       [
+        "Disco",
+        "El renacimiento (2022)"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "El disco",
+   "bloques": [
+    "El renacimiento salió por partes antes de completarse en 2022. Compitió por el Latin Grammy a mejor álbum vocal pop.",
+    "Del mismo disco es Encontrarme, que compitió por canción del año en el Latin Grammy de 2022."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira sus otras canciones en [Carla Morrison](/carla-morrison/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De qué disco es Contigo?",
+   "a": "De El renacimiento, de 2022. El video salió en 2021."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Carla Morrison, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Carla_Morrison"
+  }
+ ],
+ "hermanas": [
+  "carla-morrison",
+  "te-regalo-carla-morrison",
+  "canciones-de-amor-en-espanol",
+  "canciones-para-dedicar-a-mi-novia"
+ ]
 }

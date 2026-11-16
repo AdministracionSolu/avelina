@@ -1,11 +1,111 @@
 {
- "slug": "amor-amor-carla-morrison",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "amor-amor-carla-morrison",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "amor amor carla morrison",
- "variantes": [],
- "volumen": 3000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "title": "Amor, amor de Carla Morrison: historia y mi cover",
+ "description": "Amor, amor en la voz de Carla Morrison: la canción de José José que grabó en un tributo de 2013, quién la escribió y de qué disco es. Sin letra y con mi cover.",
+ "h1": "Amor, amor, de Carla Morrison",
+ "resumen": "La canción de José José que Carla Morrison grabó en 2013.",
+ "respuesta": "Amor, amor no es de Carla Morrison: es una canción de José José, de su disco de 1980. Carla la grabó en 2013 para el disco José José: un tributo 2. La escribió Rafael Pérez Botija.",
+ "cover": {
+  "cancion": "Amor, amor",
+  "artista": "Carla Morrison",
+  "compositor": [],
+  "credito": "Canción de Rafael Pérez Botija, grabada por José José. Aquí no va la letra.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Amor, amor"
+      ],
+      "filas": [
+       [
+        "Autor",
+        "Rafael Pérez Botija"
+       ],
+       [
+        "Original",
+        "José José, disco Amor amor (1980)"
+       ],
+       [
+        "Versión de Carla",
+        "José José: un tributo 2 (2013)"
+       ],
+       [
+        "Otros en el tributo",
+        "Natalia Lafourcade, Moderatto, Los Claxons y Panteón Rococó"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "La original",
+   "bloques": [
+    "José José sacó el disco Amor amor el 16 de octubre de 1980, con el sello Ariola. La canción dio nombre al disco."
+   ]
+  },
+  {
+   "h2": "El tributo",
+   "bloques": [
+    "En noviembre de 2013 salió una segunda parte del tributo a José José, con cantantes de rock y pop mexicano."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira sus otras canciones en [Carla Morrison](/carla-morrison/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién canta Amor, amor original?",
+   "a": "José José, en 1980. Carla Morrison la grabó en 2013."
+  },
+  {
+   "q": "¿Quién escribió Amor, amor?",
+   "a": "Rafael Pérez Botija."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Amor amor (álbum de José José), Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Amor_Amor_(Jos%C3%A9_Jos%C3%A9_album)"
+  },
+  {
+   "t": "Un tributo (a José José), Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Un_Tributo_(a_Jos%C3%A9_Jos%C3%A9)"
+  },
+  {
+   "t": "Reseña del tributo, Zeta Tijuana",
+   "url": "https://zetatijuana.com/2014/01/ya-es-disco-de-oro/"
+  }
+ ],
+ "hermanas": [
+  "carla-morrison",
+  "canciones-romanticas-de-los-80-en-espanol",
+  "canciones-de-amor-en-espanol",
+  "historia-de-un-amor"
+ ]
 }

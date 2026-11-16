@@ -55,15 +55,15 @@ orden,slug,cabeza,volumen,tipo,coleccion,familia,n_cabezas,variantes
 54,canciones-para-mama,canciones para mama,15000,lista,canciones-para,canciones-para-un-momento,3,cancion para dedicar a mama ; canciones para el dia de las madres ; canciones para la mama ; cancion para mamá
 55,musica-para-estudiar,musica para estudiar,15000,lista,canciones-para,musica-para-estudiar,4,music para estudiar y concentrarse ; musica para concentrarse ; musica para concentrarse en el trabajo ; music para estudiar
 56,devocional-diario,devocional diario,15000,fe,fe,fe-devocional,3,devocional cristiano ; devocional diario cristiano ; devocional cristianos ; diario devocional cristiano
-57,nunca-es-suficiente,nunca es suficiente,12000,cover,covers,covers-natalia-lafourcade,3,natalia lafourcade nunca es suficiente ; los ángeles azules nunca es suficiente ; nunca es sufi
-58,como-tocar-guitarra,como tocar guitarra,12000,guia,guitarra,guitarra-y-acordes,3,como aprender a tocar guitarra ; tocar una guitarra ; como tocar un guitarra
-59,canciones-para-dedicar,canciones para dedicar,12000,lista,canciones-para,canciones-para-un-momento,3,cancion bonita para dedicar ; canciones de amor para dedicar ; cancion para dedicar
-60,canciones-para-dedicar-a-mi-novio,cancion para dedicar a un hombre,12000,lista,canciones-para,canciones-para-un-momento,3,canciones para dedicar a mi novio ; cancion de amor para dedicar a un hombre ; canciones para dedicar a un hombre
-61,canciones-para-dedicar-a-un-hijo,canciones para dedicar a un hijo,12000,lista,canciones-para,canciones-para-un-momento,2,canciones para dedicar a un hijo varon ; cancion para dedicar a mi hijo ; cancion para dedicar a un hijo
-62,proposito-de-vida,proposito de vida,12000,fe,fe,fe-dones-y-talentos,2,cuál es el proposito de la vida ; proposito de la vida ; propositos de vida
-63,reflexion-del-evangelio-de-hoy,evangelio de hoy y su reflexión,12000,fe,fe,fe-reflexiones-y-frases,2,reflexión del evangelio del día de hoy ; reflexión del evangelio de hoy ; reflexion del evangelio de hoy dia
-64,canciones-para-boda,canciones para boda,9600,lista,canciones-para,canciones-para-boda,1,canciones de boda ; canciones para bodas ; canciones boda ; boda canciones
-65,amarrame-mon-laferte,amarrame mon laferte,9000,cover,covers,covers-mon-laferte,2,amarrame ; mon laferte amarrame
+57,amarrame-mon-laferte,amarrame mon laferte,12000,cover,covers,covers-mon-laferte,3,amarrame ; curame mon laferte ; mon laferte amarrame
+58,nunca-es-suficiente,nunca es suficiente,12000,cover,covers,covers-natalia-lafourcade,3,natalia lafourcade nunca es suficiente ; los ángeles azules nunca es suficiente ; nunca es sufi
+59,como-tocar-guitarra,como tocar guitarra,12000,guia,guitarra,guitarra-y-acordes,3,como aprender a tocar guitarra ; tocar una guitarra ; como tocar un guitarra
+60,canciones-para-dedicar,canciones para dedicar,12000,lista,canciones-para,canciones-para-un-momento,3,cancion bonita para dedicar ; canciones de amor para dedicar ; cancion para dedicar
+61,canciones-para-dedicar-a-mi-novio,cancion para dedicar a un hombre,12000,lista,canciones-para,canciones-para-un-momento,3,canciones para dedicar a mi novio ; cancion de amor para dedicar a un hombre ; canciones para dedicar a un hombre
+62,canciones-para-dedicar-a-un-hijo,canciones para dedicar a un hijo,12000,lista,canciones-para,canciones-para-un-momento,2,canciones para dedicar a un hijo varon ; cancion para dedicar a mi hijo ; cancion para dedicar a un hijo
+63,proposito-de-vida,proposito de vida,12000,fe,fe,fe-dones-y-talentos,2,cuál es el proposito de la vida ; proposito de la vida ; propositos de vida
+64,reflexion-del-evangelio-de-hoy,evangelio de hoy y su reflexión,12000,fe,fe,fe-reflexiones-y-frases,2,reflexión del evangelio del día de hoy ; reflexión del evangelio de hoy ; reflexion del evangelio de hoy dia
+65,canciones-para-boda,canciones para boda,9600,lista,canciones-para,canciones-para-boda,1,canciones de boda ; canciones para bodas ; canciones boda ; boda canciones
 66,mi-buen-amor-mon-laferte,mi buen amor mon laferte,9000,cover,covers,covers-mon-laferte,2,mi buen amor ; mon laferte mi buen amor
 67,si-tu-me-quisieras-mon-laferte,mon laferte si tu me quisieras,9000,cover,covers,covers-mon-laferte,2,si tu me quisieras ; si tu me quisieras mon laferte
 68,ha-ash,canciones de ha ash,9000,artista,covers,covers-pop-mexicano,2,canciones de ha * ash ; ha ash canciones
@@ -107,37 +107,36 @@ orden,slug,cabeza,volumen,tipo,coleccion,familia,n_cabezas,variantes
 106,en-el-2000-natalia-lafourcade,natalia lafourcade en el 2000,3300,cover,covers,covers-natalia-lafourcade,1,en el 2000 natalia lafourcade
 107,colapso-kevin-kaarl,kevin kaarl colapso,3300,cover,covers,covers-kevin-kaarl,1,colapso kevin kaarl
 108,antes-de-ti-mon-laferte,antes de ti mon laferte,3000,cover,covers,covers-mon-laferte,1,
-109,curame-mon-laferte,curame mon laferte,3000,cover,covers,covers-mon-laferte,1,
-110,amor-amor-carla-morrison,amor amor carla morrison,3000,cover,covers,covers-carla-morrison,1,
-111,dejenme-llorar-carla-morrison,carla morrison dejenme llorar,3000,cover,covers,covers-carla-morrison,1,
-112,compartir-carla-morrison,compartir carla morrison,3000,cover,covers,covers-carla-morrison,1,
-113,amor-de-mis-amores,amor de mis amores,3000,cover,covers,covers-natalia-lafourcade,1,
-114,como-un-pajaro-silvana-estrada,como un pajaro silvana estrada,3000,cover,covers,covers-silvana-estrada,1,
-115,me-muero-la-quinta-estacion,me muero la quinta estacion,3000,cover,covers,covers-la-quinta-estacion,1,
-116,eres-para-mi-julieta-venegas,eres para mi julieta venegas,3000,cover,covers,covers-pop-mexicano,1,
-117,perdon-perdon-ha-ash,ha * ash perdón perdón,3000,cover,covers,covers-pop-mexicano,1,
-118,lo-aprendi-de-ti-ha-ash,ha * ash lo aprendí de ti,3000,cover,covers,covers-pop-mexicano,1,
-119,kilometros-sin-bandera,sin bandera kilómetros,3000,cover,covers,covers-pop-mexicano,1,
-120,daniela-spalla,daniela spalla,3000,artista,covers,covers-pop-mexicano,1,
-121,consuelo-velazquez,consuelo velázquez,3000,artista,covers,covers-clasicos,1,
-122,contigo-aprendi,contigo aprendi,3000,cover,covers,covers-clasicos,1,
-123,por-que-me-haces-llorar-juan-gabriel,juan gabriel porque me haces llorar,3000,cover,covers,canciones-para-un-momento,1,
-124,palabras-tristes-los-yonics,los yonic's palabras tristes,3000,cover,covers,canciones-para-un-momento,1,
-125,tristes-recuerdos-antonio-aguilar,tristes recuerdos antonio aguilar,3000,cover,covers,canciones-para-un-momento,1,
-126,afinador-de-violin,afinadores de violin,3000,herramienta,afinador,afinador,1,
-127,vocalizacion,vocalizacion,3000,guia,guitarra,cantar-y-karaoke,1,
-128,carta-de-despedida,carta de despedida,3000,carta,cartas,cartas,1,
-129,cartas-para-amiga-secreta,cartas para amiga secreta,3000,carta,cartas,cartas,1,
-130,carta-para-mi-hija,la carta más bonita para mi hija,3000,carta,cartas,cartas,1,
-131,feliz-cumpleanos-madrina,feliz cumple madrina,3000,carta,cumpleanos,cumpleanos-y-mananitas,1,
-132,feliz-cumpleanos-para-mi,cumpleaños feliz para mi,3000,carta,cumpleanos,cumpleanos-y-mananitas,1,
-133,feliz-cumpleanos-para-dedicar,feliz cumpleaños para dedicar,3000,carta,cumpleanos,cumpleanos-y-mananitas,1,
-134,mananitas-para-mama,mañanitas para mamá,3000,cover,cumpleanos,cumpleanos-y-mananitas,1,
-135,las-mananitas-en-guitarra,las mañanitas en guitarra,3000,guia,cumpleanos,guitarra-y-acordes,1,
-136,canciones-para-dedicar-a-mi-novia,cancion para dedicar a mi novia,3000,lista,canciones-para,canciones-para-un-momento,1,
-137,canciones-para-papa,canciones para papá,3000,lista,canciones-para,canciones-para-un-momento,1,
-138,canciones-de-desamor,canciones de desamor,3000,lista,canciones-para,canciones-para-un-momento,1,
-139,musica-indie,musica indie,3000,guia,marca,genero-y-escena,1,
-140,dones-espirituales,dones espirituales,3000,fe,fe,fe-dones-y-talentos,1,
-141,tu-estas-aqui-jesus-adrian-romero,jesús adrián romero tú estás aqui,3000,cover,fe,fe-musica,1,
-142,mas-alla-del-sol-alabanza,más allá del sol alabanza,3000,cover,fe,fe-musica,1,
+109,amor-amor-carla-morrison,amor amor carla morrison,3000,cover,covers,covers-carla-morrison,1,
+110,dejenme-llorar-carla-morrison,carla morrison dejenme llorar,3000,cover,covers,covers-carla-morrison,1,
+111,compartir-carla-morrison,compartir carla morrison,3000,cover,covers,covers-carla-morrison,1,
+112,amor-de-mis-amores,amor de mis amores,3000,cover,covers,covers-natalia-lafourcade,1,
+113,como-un-pajaro-silvana-estrada,como un pajaro silvana estrada,3000,cover,covers,covers-silvana-estrada,1,
+114,me-muero-la-quinta-estacion,me muero la quinta estacion,3000,cover,covers,covers-la-quinta-estacion,1,
+115,eres-para-mi-julieta-venegas,eres para mi julieta venegas,3000,cover,covers,covers-pop-mexicano,1,
+116,perdon-perdon-ha-ash,ha * ash perdón perdón,3000,cover,covers,covers-pop-mexicano,1,
+117,lo-aprendi-de-ti-ha-ash,ha * ash lo aprendí de ti,3000,cover,covers,covers-pop-mexicano,1,
+118,kilometros-sin-bandera,sin bandera kilómetros,3000,cover,covers,covers-pop-mexicano,1,
+119,daniela-spalla,daniela spalla,3000,artista,covers,covers-pop-mexicano,1,
+120,consuelo-velazquez,consuelo velázquez,3000,artista,covers,covers-clasicos,1,
+121,contigo-aprendi,contigo aprendi,3000,cover,covers,covers-clasicos,1,
+122,por-que-me-haces-llorar-juan-gabriel,juan gabriel porque me haces llorar,3000,cover,covers,canciones-para-un-momento,1,
+123,palabras-tristes-los-yonics,los yonic's palabras tristes,3000,cover,covers,canciones-para-un-momento,1,
+124,tristes-recuerdos-antonio-aguilar,tristes recuerdos antonio aguilar,3000,cover,covers,canciones-para-un-momento,1,
+125,afinador-de-violin,afinadores de violin,3000,herramienta,afinador,afinador,1,
+126,vocalizacion,vocalizacion,3000,guia,guitarra,cantar-y-karaoke,1,
+127,carta-de-despedida,carta de despedida,3000,carta,cartas,cartas,1,
+128,cartas-para-amiga-secreta,cartas para amiga secreta,3000,carta,cartas,cartas,1,
+129,carta-para-mi-hija,la carta más bonita para mi hija,3000,carta,cartas,cartas,1,
+130,feliz-cumpleanos-madrina,feliz cumple madrina,3000,carta,cumpleanos,cumpleanos-y-mananitas,1,
+131,feliz-cumpleanos-para-mi,cumpleaños feliz para mi,3000,carta,cumpleanos,cumpleanos-y-mananitas,1,
+132,feliz-cumpleanos-para-dedicar,feliz cumpleaños para dedicar,3000,carta,cumpleanos,cumpleanos-y-mananitas,1,
+133,mananitas-para-mama,mañanitas para mamá,3000,cover,cumpleanos,cumpleanos-y-mananitas,1,
+134,las-mananitas-en-guitarra,las mañanitas en guitarra,3000,guia,cumpleanos,guitarra-y-acordes,1,
+135,canciones-para-dedicar-a-mi-novia,cancion para dedicar a mi novia,3000,lista,canciones-para,canciones-para-un-momento,1,
+136,canciones-para-papa,canciones para papá,3000,lista,canciones-para,canciones-para-un-momento,1,
+137,canciones-de-desamor,canciones de desamor,3000,lista,canciones-para,canciones-para-un-momento,1,
+138,musica-indie,musica indie,3000,guia,marca,genero-y-escena,1,
+139,dones-espirituales,dones espirituales,3000,fe,fe,fe-dones-y-talentos,1,
+140,tu-estas-aqui-jesus-adrian-romero,jesús adrián romero tú estás aqui,3000,cover,fe,fe-musica,1,
+141,mas-alla-del-sol-alabanza,más allá del sol alabanza,3000,cover,fe,fe-musica,1,

@@ -5,7 +5,12 @@
  "tipo": "artista",
  "coleccion": "covers",
  "cabeza": "mon laferte",
- "variantes": ["la mon laferte", "mon laferte youtube", "canciones de mon laferte", "cancion mon laferte"],
+ "variantes": [
+  "la mon laferte",
+  "mon laferte youtube",
+  "canciones de mon laferte",
+  "cancion mon laferte"
+ ],
  "volumen": 603600,
  "revisada": "2026-11-15",
  "title": "Mon Laferte: sus canciones, discos y covers a guitarra",
@@ -20,49 +25,153 @@
   "nota": "Aquí van a vivir mis covers de Mon Laferte, a guitarra y voz."
  },
  "secciones": [
-  {"h2": "Quién es Mon Laferte", "bloques": [
-   "Su nombre es Norma Monserrat Bustamante Laferte. Empezó a cantar en Chile y grabó su primer disco en 2003, como Monserrat Bustamante.",
-   "En 2007 se mudó a México y aquí hizo casi toda su carrera. Mezcla bolero, rock, pop, cumbia y canción ranchera.",
-   "Lleva cinco premios Latin Grammy. Uno fue por Amárrame, mejor canción alternativa en 2017."
-  ]},
-  {"h2": "Sus canciones más conocidas", "bloques": [
-   {"tabla": {"cab": ["Canción", "Año", "Dato"], "filas": [
-    ["[Tu falta de querer](/tu-falta-de-querer-mon-laferte/)", "2015", "La que la dio a conocer en todo el continente"],
-    ["Tormento", "2014", "Del disco Mon Laferte, vol. 1"],
-    ["Amor completo", "2014", "Del mismo disco"],
-    ["[Si tú me quisieras](/si-tu-me-quisieras-mon-laferte/)", "2015", "Sencillo de Mon Laferte, vol. 1"],
-    ["[Mi buen amor](/mi-buen-amor-mon-laferte/)", "2017", "Del disco La trenza"],
-    ["[Amárrame](/amarrame-mon-laferte/)", "2017", "Con Juanes, Latin Grammy a mejor canción alternativa"],
-    ["[Antes de ti](/antes-de-ti-mon-laferte/)", "2018", "Del disco Norma"],
-    ["El beso", "2018", "Del disco Norma"]
-   ]}}
-  ]},
-  {"h2": "Sus discos de estudio", "bloques": [
-   {"lista": [
-    ["La chica de Rojo (2003)", "Como Monserrat Bustamante."],
-    ["Desechable (2011) y Tornasol (2013)", "Sus primeros discos como Mon Laferte."],
-    ["Mon Laferte, vol. 1 (2015)", "El de Tu falta de querer."],
-    ["La trenza (2017)", "El de Amárrame y Mi buen amor."],
-    ["Norma (2018)", "Ganó el Latin Grammy a mejor álbum alternativo."],
-    ["Seis (2021) y 1940 Carmen (2021)", "Seis ganó el Latin Grammy a mejor álbum de cantautor."],
-    ["Autopoiética (2023)", "Latin Grammy a mejor álbum alternativo en 2024."],
-    ["Femme Fatale (2025)", "Su disco más reciente al revisar esta página."]
-   ]}
-  ]},
-  {"h2": "Mis covers de Mon Laferte", "bloques": [
-   "Mis covers que más se escucharon en TikTok fueron de Mon Laferte. Los grabo a guitarra y voz, en casa.",
-   "Cada canción tiene su página con su historia. Empieza por [Tu falta de querer](/tu-falta-de-querer-mon-laferte/)."
-  ]}
+  {
+   "h2": "Quién es Mon Laferte",
+   "bloques": [
+    "Su nombre es Norma Monserrat Bustamante Laferte. Empezó a cantar en Chile y grabó su primer disco en 2003, como Monserrat Bustamante.",
+    "En 2007 se mudó a México y aquí hizo casi toda su carrera. Mezcla bolero, rock, pop, cumbia y canción ranchera.",
+    "Lleva cinco premios Latin Grammy. Uno fue por Amárrame, mejor canción alternativa en 2017."
+   ]
+  },
+  {
+   "h2": "Sus canciones más conocidas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Año",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "[Tu falta de querer](/tu-falta-de-querer-mon-laferte/)",
+        "2015",
+        "La que la dio a conocer en todo el continente"
+       ],
+       [
+        "Tormento",
+        "2014",
+        "Del disco Mon Laferte, vol. 1"
+       ],
+       [
+        "Amor completo",
+        "2014",
+        "Del mismo disco"
+       ],
+       [
+        "[Si tú me quisieras](/si-tu-me-quisieras-mon-laferte/)",
+        "2015",
+        "Sencillo de Mon Laferte, vol. 1"
+       ],
+       [
+        "[Mi buen amor](/mi-buen-amor-mon-laferte/)",
+        "2017",
+        "Del disco La trenza"
+       ],
+       [
+        "[Amárrame](/amarrame-mon-laferte/)",
+        "2017",
+        "Con Juanes, Latin Grammy a mejor canción alternativa"
+       ],
+       [
+        "[Antes de ti](/antes-de-ti-mon-laferte/)",
+        "2018",
+        "Sencillo, nominada a canción del año en el Latin Grammy"
+       ],
+       [
+        "El beso",
+        "2018",
+        "Del disco Norma"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus discos de estudio",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "La chica de Rojo (2003)",
+       "Como Monserrat Bustamante."
+      ],
+      [
+       "Desechable (2011) y Tornasol (2013)",
+       "Sus primeros discos como Mon Laferte."
+      ],
+      [
+       "Mon Laferte, vol. 1 (2015)",
+       "El de Tu falta de querer."
+      ],
+      [
+       "La trenza (2017)",
+       "El de Amárrame y Mi buen amor."
+      ],
+      [
+       "Norma (2018)",
+       "Ganó el Latin Grammy a mejor álbum alternativo."
+      ],
+      [
+       "Seis (2021) y 1940 Carmen (2021)",
+       "Seis ganó el Latin Grammy a mejor álbum de cantautor."
+      ],
+      [
+       "Autopoiética (2023)",
+       "Latin Grammy a mejor álbum alternativo en 2024."
+      ],
+      [
+       "Femme Fatale (2025)",
+       "Su disco más reciente al revisar esta página."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mis covers de Mon Laferte",
+   "bloques": [
+    "Mis covers que más se escucharon en TikTok fueron de Mon Laferte. Los grabo a guitarra y voz, en casa.",
+    "Cada canción tiene su página con su historia. Empieza por [Tu falta de querer](/tu-falta-de-querer-mon-laferte/)."
+   ]
+  }
  ],
  "faq": [
-  {"q": "¿De dónde es Mon Laferte?", "a": "De Viña del Mar, Chile. Vive en México desde 2007 y tiene la nacionalidad mexicana desde el 30 de noviembre de 2022."},
-  {"q": "¿Cuántos Latin Grammy tiene Mon Laferte?", "a": "Cinco, según Wikipedia en español al 15 de noviembre de 2026."},
-  {"q": "¿Cuál es su canción más famosa?", "a": "Tu falta de querer, de 2015. En México tiene certificación de triple diamante más oro."}
+  {
+   "q": "¿De dónde es Mon Laferte?",
+   "a": "De Viña del Mar, Chile. Vive en México desde 2007 y tiene la nacionalidad mexicana desde el 30 de noviembre de 2022."
+  },
+  {
+   "q": "¿Cuántos Latin Grammy tiene Mon Laferte?",
+   "a": "Cinco, según Wikipedia en español al 15 de noviembre de 2026."
+  },
+  {
+   "q": "¿Cuál es su canción más famosa?",
+   "a": "Tu falta de querer, de 2015. En México tiene certificación de triple diamante más oro."
+  }
  ],
  "fuentes": [
-  {"t": "Mon Laferte, Wikipedia en español", "url": "https://es.wikipedia.org/wiki/Mon_Laferte"},
-  {"t": "Mon Laferte, Wikipedia en inglés", "url": "https://en.wikipedia.org/wiki/Mon_Laferte"},
-  {"t": "Tu falta de querer, Wikipedia en español", "url": "https://es.wikipedia.org/wiki/Tu_falta_de_querer"}
+  {
+   "t": "Mon Laferte, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Mon_Laferte"
+  },
+  {
+   "t": "Mon Laferte, Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Mon_Laferte"
+  },
+  {
+   "t": "Tu falta de querer, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Tu_falta_de_querer"
+  }
  ],
- "hermanas": ["tu-falta-de-querer-mon-laferte", "amarrame-mon-laferte", "si-tu-me-quisieras-mon-laferte", "carla-morrison", "natalia-lafourcade", "silvana-estrada"]
+ "hermanas": [
+  "tu-falta-de-querer-mon-laferte",
+  "amarrame-mon-laferte",
+  "si-tu-me-quisieras-mon-laferte",
+  "carla-morrison",
+  "natalia-lafourcade",
+  "silvana-estrada"
+ ]
 }

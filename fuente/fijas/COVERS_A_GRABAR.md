@@ -28,22 +28,22 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 17 | La llorona | la llorona | 30,000 | /la-llorona/ | sí |
 | 18 | Una canción de Marcos Witt | marcos witt | 30,000 | /marcos-witt/ | no (esqueleto) |
 | 19 | Una canción de Silvana Estrada | silvana estrada | 30,000 | /silvana-estrada/ | sí |
-| 20 | Nunca es suficiente | nunca es suficiente | 12,000 | /nunca-es-suficiente/ | sí |
-| 21 | Amárrame | amarrame mon laferte | 9,000 | /amarrame-mon-laferte/ | sí |
+| 20 | Amárrame | amarrame mon laferte | 12,000 | /amarrame-mon-laferte/ | sí |
+| 21 | Nunca es suficiente | nunca es suficiente | 12,000 | /nunca-es-suficiente/ | sí |
 | 22 | Una canción de Christine D Clario | christine d clario | 9,000 | /christine-d-clario/ | no (esqueleto) |
 | 23 | Una canción de Ha*Ash | canciones de ha ash | 9,000 | /ha-ash/ | sí |
 | 24 | Historia de un amor | historia de un amor | 9,000 | /historia-de-un-amor/ | sí |
-| 25 | mi buen amor mon laferte | mi buen amor mon laferte | 9,000 | /mi-buen-amor-mon-laferte/ | no (esqueleto) |
+| 25 | Mi buen amor | mi buen amor mon laferte | 9,000 | /mi-buen-amor-mon-laferte/ | sí |
 | 26 | Si no te hubieras ido | si no te hubieras ido | 9,000 | /si-no-te-hubieras-ido/ | sí |
-| 27 | mon laferte si tu me quisieras | mon laferte si tu me quisieras | 9,000 | /si-tu-me-quisieras-mon-laferte/ | no (esqueleto) |
+| 27 | Si tú me quisieras | mon laferte si tu me quisieras | 9,000 | /si-tu-me-quisieras-mon-laferte/ | sí |
 | 28 | Una canción de Sin Bandera | canciones de sin bandera | 9,000 | /sin-bandera/ | sí |
 | 29 | jesús adrián romero sumérgeme | jesús adrián romero sumérgeme | 9,000 | /sumergeme-jesus-adrian-romero/ | no (esqueleto) |
 | 30 | El sol no regresa | el sol no regresa la quinta estación | 6,300 | /el-sol-no-regresa-la-quinta-estacion/ | sí |
 | 31 | Bésame mucho | besame mucho | 6,000 | /besame-mucho/ | sí |
 | 32 | Como la flor | como la flor | 6,000 | /como-la-flor-selena/ | sí |
-| 33 | contigo carla morrison | contigo carla morrison | 6,000 | /contigo-carla-morrison/ | no (esqueleto) |
+| 33 | Contigo | contigo carla morrison | 6,000 | /contigo-carla-morrison/ | sí |
 | 34 | alabanza el alfarero | alabanza el alfarero | 6,000 | /el-alfarero-alabanza/ | no (esqueleto) |
-| 35 | eres tu carla morrison | eres tu carla morrison | 6,000 | /eres-tu-carla-morrison/ | no (esqueleto) |
+| 35 | Eres tú | eres tu carla morrison | 6,000 | /eres-tu-carla-morrison/ | sí |
 | 36 | Ex de verdad | ex de verdad | 6,000 | /ex-de-verdad-ha-ash/ | sí |
 | 37 | Hasta la raíz | hasta la raiz | 6,000 | /hasta-la-raiz-natalia-lafourcade/ | sí |
 | 38 | Una canción de Jesse & Joy | canciones de jesse y joy | 6,000 | /jesse-y-joy/ | sí |
@@ -52,28 +52,27 @@ la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fu
 | 41 | lo que construimos | lo que construimos | 6,000 | /lo-que-construimos-natalia-lafourcade/ | no (esqueleto) |
 | 42 | Las mañanitas | las mañanitas feliz cumpleaños para whatsapp | 6,000 | /mananitas-para-whatsapp/ | sí |
 | 43 | san lucas kevin kaarl | san lucas kevin kaarl | 6,000 | /san-lucas-kevin-kaarl/ | no (esqueleto) |
-| 44 | te regalo carla morrison | te regalo carla morrison | 6,000 | /te-regalo-carla-morrison/ | no (esqueleto) |
+| 44 | Te regalo | te regalo carla morrison | 6,000 | /te-regalo-carla-morrison/ | sí |
 | 45 | kevin kaarl colapso | kevin kaarl colapso | 3,300 | /colapso-kevin-kaarl/ | no (esqueleto) |
-| 46 | carla morrison disfruto | carla morrison disfruto | 3,300 | /disfruto-carla-morrison/ | no (esqueleto) |
+| 46 | Disfruto | carla morrison disfruto | 3,300 | /disfruto-carla-morrison/ | sí |
 | 47 | natalia lafourcade en el 2000 | natalia lafourcade en el 2000 | 3,300 | /en-el-2000-natalia-lafourcade/ | no (esqueleto) |
-| 48 | amor amor carla morrison | amor amor carla morrison | 3,000 | /amor-amor-carla-morrison/ | no (esqueleto) |
+| 48 | Amor, amor | amor amor carla morrison | 3,000 | /amor-amor-carla-morrison/ | sí |
 | 49 | amor de mis amores | amor de mis amores | 3,000 | /amor-de-mis-amores/ | no (esqueleto) |
-| 50 | antes de ti mon laferte | antes de ti mon laferte | 3,000 | /antes-de-ti-mon-laferte/ | no (esqueleto) |
+| 50 | Antes de ti | antes de ti mon laferte | 3,000 | /antes-de-ti-mon-laferte/ | sí |
 | 51 | como un pajaro silvana estrada | como un pajaro silvana estrada | 3,000 | /como-un-pajaro-silvana-estrada/ | no (esqueleto) |
-| 52 | compartir carla morrison | compartir carla morrison | 3,000 | /compartir-carla-morrison/ | no (esqueleto) |
+| 52 | Compartir | compartir carla morrison | 3,000 | /compartir-carla-morrison/ | sí |
 | 53 | Una canción de Consuelo Velázquez | consuelo velázquez | 3,000 | /consuelo-velazquez/ | sí |
 | 54 | Contigo aprendí | contigo aprendi | 3,000 | /contigo-aprendi/ | sí |
-| 55 | curame mon laferte | curame mon laferte | 3,000 | /curame-mon-laferte/ | no (esqueleto) |
-| 56 | Una canción de Daniela Spalla | daniela spalla | 3,000 | /daniela-spalla/ | no (esqueleto) |
-| 57 | carla morrison dejenme llorar | carla morrison dejenme llorar | 3,000 | /dejenme-llorar-carla-morrison/ | no (esqueleto) |
-| 58 | eres para mi julieta venegas | eres para mi julieta venegas | 3,000 | /eres-para-mi-julieta-venegas/ | no (esqueleto) |
-| 59 | Kilómetros | sin bandera kilómetros | 3,000 | /kilometros-sin-bandera/ | sí |
-| 60 | Lo aprendí de ti | ha * ash lo aprendí de ti | 3,000 | /lo-aprendi-de-ti-ha-ash/ | sí |
-| 61 | Las mañanitas | mañanitas para mamá | 3,000 | /mananitas-para-mama/ | sí |
-| 62 | más allá del sol alabanza | más allá del sol alabanza | 3,000 | /mas-alla-del-sol-alabanza/ | no (esqueleto) |
-| 63 | Me muero | me muero la quinta estacion | 3,000 | /me-muero-la-quinta-estacion/ | sí |
-| 64 | los yonic's palabras tristes | los yonic's palabras tristes | 3,000 | /palabras-tristes-los-yonics/ | no (esqueleto) |
-| 65 | Perdón, perdón | ha * ash perdón perdón | 3,000 | /perdon-perdon-ha-ash/ | sí |
-| 66 | juan gabriel porque me haces llorar | juan gabriel porque me haces llorar | 3,000 | /por-que-me-haces-llorar-juan-gabriel/ | no (esqueleto) |
-| 67 | tristes recuerdos antonio aguilar | tristes recuerdos antonio aguilar | 3,000 | /tristes-recuerdos-antonio-aguilar/ | no (esqueleto) |
-| 68 | jesús adrián romero tú estás aqui | jesús adrián romero tú estás aqui | 3,000 | /tu-estas-aqui-jesus-adrian-romero/ | no (esqueleto) |
+| 55 | Una canción de Daniela Spalla | daniela spalla | 3,000 | /daniela-spalla/ | no (esqueleto) |
+| 56 | Déjenme llorar | carla morrison dejenme llorar | 3,000 | /dejenme-llorar-carla-morrison/ | sí |
+| 57 | eres para mi julieta venegas | eres para mi julieta venegas | 3,000 | /eres-para-mi-julieta-venegas/ | no (esqueleto) |
+| 58 | Kilómetros | sin bandera kilómetros | 3,000 | /kilometros-sin-bandera/ | sí |
+| 59 | Lo aprendí de ti | ha * ash lo aprendí de ti | 3,000 | /lo-aprendi-de-ti-ha-ash/ | sí |
+| 60 | Las mañanitas | mañanitas para mamá | 3,000 | /mananitas-para-mama/ | sí |
+| 61 | más allá del sol alabanza | más allá del sol alabanza | 3,000 | /mas-alla-del-sol-alabanza/ | no (esqueleto) |
+| 62 | Me muero | me muero la quinta estacion | 3,000 | /me-muero-la-quinta-estacion/ | sí |
+| 63 | los yonic's palabras tristes | los yonic's palabras tristes | 3,000 | /palabras-tristes-los-yonics/ | no (esqueleto) |
+| 64 | Perdón, perdón | ha * ash perdón perdón | 3,000 | /perdon-perdon-ha-ash/ | sí |
+| 65 | juan gabriel porque me haces llorar | juan gabriel porque me haces llorar | 3,000 | /por-que-me-haces-llorar-juan-gabriel/ | no (esqueleto) |
+| 66 | tristes recuerdos antonio aguilar | tristes recuerdos antonio aguilar | 3,000 | /tristes-recuerdos-antonio-aguilar/ | no (esqueleto) |
+| 67 | jesús adrián romero tú estás aqui | jesús adrián romero tú estás aqui | 3,000 | /tu-estas-aqui-jesus-adrian-romero/ | no (esqueleto) |

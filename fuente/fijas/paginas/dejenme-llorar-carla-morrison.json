@@ -1,11 +1,116 @@
 {
- "slug": "dejenme-llorar-carla-morrison",
- "esqueleto": true,
+ "variantes": [],
+ "volumen": 3000,
  "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "dejenme-llorar-carla-morrison",
+ "espera_video": true,
  "tipo": "cover",
  "coleccion": "covers",
  "cabeza": "carla morrison dejenme llorar",
- "variantes": [],
- "volumen": 3000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "title": "Déjenme llorar de Carla Morrison: historia y mi cover",
+ "description": "Déjenme llorar, de Carla Morrison: cuándo salió, de qué disco es y los dos Latin Grammy que ganó en 2012. Su historia sin la letra y mi cover a guitarra.",
+ "h1": "Déjenme llorar, de Carla Morrison",
+ "resumen": "La canción que le dio a Carla Morrison su primer Latin Grammy.",
+ "respuesta": "Déjenme llorar es una canción de Carla Morrison que salió como sencillo el 27 de noviembre de 2011. Da nombre a su primer disco de estudio, de marzo de 2012. Ganó el Latin Grammy a mejor canción alternativa en 2012.",
+ "cover": {
+  "cancion": "Déjenme llorar",
+  "artista": "Carla Morrison",
+  "compositor": [
+   "Carla Morrison"
+  ],
+  "credito": "Canción de Carla Morrison. Aquí no va la letra: es de su autora.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Déjenme llorar"
+      ],
+      "filas": [
+       [
+        "Autora",
+        "Carla Morrison"
+       ],
+       [
+        "Sencillo",
+        "27 de noviembre de 2011"
+       ],
+       [
+        "Disco",
+        "Déjenme llorar (2012), canción 11"
+       ],
+       [
+        "Producción del disco",
+        "Carla Morrison, Juan Manuel Torreblanca y Andrés Landon"
+       ],
+       [
+        "Premio",
+        "Latin Grammy a mejor canción alternativa (2012)"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "El disco",
+   "bloques": [
+    "Déjenme llorar fue su primer disco de estudio después de dos discos cortos. Todas sus canciones son de ella.",
+    {
+     "lista": [
+      "Ganó el Latin Grammy a mejor álbum alternativo en 2012.",
+      "La canción también compitió por canción del año.",
+      "El disco fue platino en México, según la AMPROFON.",
+      "En 2013 compitió por un Grammy en música latina alternativa."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira sus otras canciones en [Carla Morrison](/carla-morrison/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién escribió Déjenme llorar?",
+   "a": "Carla Morrison. Todas las canciones del disco son suyas."
+  },
+  {
+   "q": "¿Qué premio ganó Déjenme llorar?",
+   "a": "El Latin Grammy a mejor canción alternativa, en 2012."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Déjenme llorar, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/D%C3%A9jenme_llorar"
+  },
+  {
+   "t": "Carla Morrison, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Carla_Morrison"
+  }
+ ],
+ "hermanas": [
+  "carla-morrison",
+  "eres-tu-carla-morrison",
+  "disfruto-carla-morrison",
+  "canciones-tristes-para-llorar",
+  "canciones-de-desamor"
+ ]
 }

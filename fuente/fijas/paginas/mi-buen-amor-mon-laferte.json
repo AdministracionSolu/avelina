@@ -1,14 +1,112 @@
 {
- "slug": "mi-buen-amor-mon-laferte",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "mi buen amor mon laferte",
  "variantes": [
   "mi buen amor",
   "mon laferte mi buen amor"
  ],
  "volumen": 9000,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "mi-buen-amor-mon-laferte",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "mi buen amor mon laferte",
+ "title": "Mi buen amor de Mon Laferte: historia y mi cover",
+ "description": "Mi buen amor, de Mon Laferte con Enrique Bunbury: quién la escribió, cuándo salió y de qué disco es. Su historia sin la letra y mi cover a guitarra.",
+ "h1": "Mi buen amor, de Mon Laferte",
+ "resumen": "El dueto de Mon Laferte con Enrique Bunbury, de La trenza.",
+ "respuesta": "Mi buen amor es una canción de Mon Laferte que canta con Enrique Bunbury. Salió como sencillo el 8 de agosto de 2017 y es del disco La trenza. La escribió con Anthony López.",
+ "cover": {
+  "cancion": "Mi buen amor",
+  "artista": "Mon Laferte",
+  "compositor": [
+   "Mon Laferte",
+   "Anthony López"
+  ],
+  "credito": "Canción de Mon Laferte. Aquí no va la letra: es de sus autores.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Mi buen amor"
+      ],
+      "filas": [
+       [
+        "Autores",
+        "Mon Laferte y Anthony López"
+       ],
+       [
+        "Con",
+        "Enrique Bunbury"
+       ],
+       [
+        "Sencillo",
+        "8 de agosto de 2017"
+       ],
+       [
+        "Disco",
+        "La trenza (2017)"
+       ],
+       [
+        "Lugar en México",
+        "11 en la lista general de Monitor Latino y 2 en la de pop"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "La canción",
+   "bloques": [
+    "La trenza salió el 28 de abril de 2017. Del mismo disco es [Amárrame](/amarrame-mon-laferte/), con Juanes.",
+    "El video usa tomas de la gira de Amárrame."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira el resto en [Mon Laferte](/mon-laferte/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Con quién canta Mon Laferte Mi buen amor?",
+   "a": "Con el español Enrique Bunbury."
+  },
+  {
+   "q": "¿De qué disco es Mi buen amor?",
+   "a": "De La trenza, de 2017."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Mi buen amor, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Mi_buen_amor"
+  },
+  {
+   "t": "Mon Laferte, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Mon_Laferte"
+  }
+ ],
+ "hermanas": [
+  "mon-laferte",
+  "amarrame-mon-laferte",
+  "tu-falta-de-querer-mon-laferte",
+  "canciones-de-desamor"
+ ]
 }

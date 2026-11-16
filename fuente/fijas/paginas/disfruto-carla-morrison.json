@@ -1,13 +1,101 @@
 {
- "slug": "disfruto-carla-morrison",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "cover",
- "coleccion": "covers",
- "cabeza": "carla morrison disfruto",
  "variantes": [
   "disfruto carla morrison"
  ],
  "volumen": 3300,
- "pendiente": "Siguiente lote: buscar fuente propia de la canción (año, disco, autores). Sin fuente suficiente queda corta: esperar el video de Ave y sus palabras."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "disfruto-carla-morrison",
+ "espera_video": true,
+ "tipo": "cover",
+ "coleccion": "covers",
+ "cabeza": "carla morrison disfruto",
+ "title": "Disfruto de Carla Morrison: historia y mi cover",
+ "description": "Disfruto, de Carla Morrison: cuándo salió, de qué disco es y quién la usó en 2020. La historia de la canción sin la letra y mi cover a guitarra y voz.",
+ "h1": "Disfruto, de Carla Morrison",
+ "resumen": "El cuarto sencillo de Déjenme llorar.",
+ "respuesta": "Disfruto es una canción de Carla Morrison que salió como sencillo el 10 de marzo de 2013. Es el cuarto sencillo de su disco Déjenme llorar. En 2020, Nicky Jam usó un fragmento en una canción suya, con permiso de Carla.",
+ "cover": {
+  "cancion": "Disfruto",
+  "artista": "Carla Morrison",
+  "compositor": [
+   "Carla Morrison"
+  ],
+  "credito": "Canción de Carla Morrison. Aquí no va la letra: es de su autora.",
+  "nota": "Mi versión a guitarra y voz viene en camino. Cuando la suba, aparece aquí."
+ },
+ "secciones": [
+  {
+   "h2": "Ficha de la canción",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Disfruto"
+      ],
+      "filas": [
+       [
+        "Autora",
+        "Carla Morrison"
+       ],
+       [
+        "Sencillo",
+        "10 de marzo de 2013"
+       ],
+       [
+        "Disco",
+        "Déjenme llorar (2012), canción 10"
+       ],
+       [
+        "Lugar en el disco",
+        "Cuarto sencillo"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Datos de las fuentes del final, revisados el 15 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "h2": "La canción",
+   "bloques": [
+    "Fue el último sencillo de Déjenme llorar, el disco que le dio dos Latin Grammy."
+   ]
+  },
+  {
+   "h2": "Mi versión",
+   "bloques": [
+    "Mi versión va a guitarra y voz. Mira sus otras canciones en [Carla Morrison](/carla-morrison/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿De qué disco es Disfruto?",
+   "a": "De Déjenme llorar, de 2012. Salió como sencillo en 2013."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Esta página cuenta su historia y lleva mi versión en video."
+  }
+ ],
+ "fuentes": [
+  {
+   "t": "Déjenme llorar, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/D%C3%A9jenme_llorar"
+  },
+  {
+   "t": "Carla Morrison, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Carla_Morrison"
+  }
+ ],
+ "hermanas": [
+  "carla-morrison",
+  "dejenme-llorar-carla-morrison",
+  "eres-tu-carla-morrison",
+  "canciones-de-amor-en-espanol"
+ ]
 }
