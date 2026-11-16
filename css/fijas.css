@@ -74,3 +74,5 @@
 .lg-papel input{width:auto;padding:0;border:0;background:none}
 .f-h1{overflow-wrap:anywhere}
 .f-texto .f-venta a.boton{color:var(--luz)}.f-texto .f-venta a.boton:hover{color:var(--luz)}
+.f-espera .f-espera-t{font-style:normal;font-size:1.15rem;max-width:26ch;margin:0}
+.f-espera p{margin:0;max-width:34ch}

@@ -9,10 +9,10 @@ ps.sort(key=lambda p: -p.get("volumen", 0))
 cv = [p for p in ps if p["tipo"] in ("cover", "artista") and not (p.get("cover") or {}).get("video")]
 L = ["# Covers que Ave tiene que grabar", "",
      "Ordenados por búsquedas al mes en México (cabeza + variantes, Planificador de Google Ads, nov-2026).",
-     "Una página de cover no se publica hasta que su video esté en YouTube. Las de artista se publican con el video de",
-     "cualquiera de sus canciones. Guitarra y voz, como todo lo suyo. **Nunca se pone la letra en el sitio.**", "",
+     "Las páginas ya están publicadas y dicen que su versión viene pronto. Al subir el video, la página se completa sola.",
+     "Las de artista se completan con el video de cualquiera de sus canciones. Guitarra y voz, como todo lo suyo. **Nunca se pone la letra en el sitio.**", "",
      "Cuando suba uno: agrega en la página `\"cover\": {..., \"video\": {\"id\": \"<id de YouTube>\", \"fecha\": \"AAAA-MM-DD\"}}`, guarda",
-     "la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fuente/fijas/generar.py`.", "",
+     "la miniatura en `img/videos/<id>.webp`, quita `espera_video` y corre `python3 fuente/fijas/generar.py` (detalle en CONTRATO.md).", "",
      "| # | Qué grabar | Artista o canción | Búsquedas al mes | Página | Escrita |", "|---|---|---|---|---|---|"]
 for i, p in enumerate(cv, 1):
     if p["tipo"] == "artista": que = "Una canción de " + ((p.get("cover") or {}).get("artista") or p["cabeza"].replace("canciones de ", "").title())

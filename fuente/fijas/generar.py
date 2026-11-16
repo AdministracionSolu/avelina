@@ -75,9 +75,28 @@ def cargar():
     for f in sorted(glob.glob(os.path.join(AQUI, "paginas", "*.json"))):
         try: p = json.load(open(f, encoding="utf-8"))
         except Exception as x: raise SystemExit(f"JSON roto en {f}: {x}")
-        p["_archivo"] = os.path.basename(f); ps.append(p)
+        p["_archivo"] = os.path.basename(f)
+        if sin_video(p): p = mientras_no_hay_video(p)
+        ps.append(p)
     return ps
-def publicada(p): return not p.get("esqueleto") and p.get("estado") == "publicada" and p.get("publicar_desde", "0000") <= HOY and not p.get("espera_video") and not p.get("espera_texto")
+# Un cover o artista sin video SÍ se publica (Diego, 15-nov): la postal dice que mi versión viene pronto y liga a las cartas.
+# El JSON se escribe para cuando ya hay video; mientras no lo hay, estas frases se cambian al generar para no prometer
+# un video que no existe. Al poner cover.video.id la página queda completa sola.
+SIN_VIDEO = {
+    "Esta página cuenta su historia y lleva mi versión en video.": "Esta página cuenta su historia, y mi versión en video viene pronto.",
+    "Aquí va mi versión en video y su historia.": "Aquí va su historia, y mi versión en video viene pronto.",
+    "Aquí está su historia y mi versión a guitarra.": "Aquí está su historia, y mi versión a guitarra viene pronto.",
+    "Manda después el enlace de mi versión, temprano en la mañana.": "Cuando salga mi versión, manda también su enlace, temprano en la mañana.",
+}
+def sin_video(p): return bool(p.get("cover")) and not (p["cover"].get("video") or {}).get("id")
+def mientras_no_hay_video(x):
+    if isinstance(x, str):
+        for a, b in SIN_VIDEO.items(): x = x.replace(a, b)
+        return x
+    if isinstance(x, list): return [mientras_no_hay_video(y) for y in x]
+    if isinstance(x, dict): return {k: (v if k in ("slug", "_archivo", "fuentes") else mientras_no_hay_video(v)) for k, v in x.items()}
+    return x
+def publicada(p): return not p.get("esqueleto") and p.get("estado") == "publicada" and p.get("publicar_desde", "0000") <= HOY and not p.get("espera_texto")
 
 # ---------- pruebas que truenan
 PROHIBIDAS = ["aquí podrás", "en esta sección", "solución que permite", "simple", "transparente", "sin sorpresas", "no te preocupes",
@@ -167,8 +186,14 @@ def probar(ps):
             if any(k in p for k in ("letra", "estrofa", "coro")): err("una página de cover no lleva letra")
         if p.get("tipo") == "cover" and not p.get("cover"): err("un cover lleva el bloque «cover» (canción, artista y video)")
         if p.get("cover") and not p["cover"].get("video") and not p.get("espera_video"): err("cover sin video: marca espera_video")
+        if p.get("cover", {}).get("video") and not os.path.exists(os.path.join(RAIZ, f'img/videos/{p["cover"]["video"]["id"]}.webp')):
+            err(f'falta la miniatura img/videos/{p["cover"]["video"]["id"]}.webp')
+        if p.get("espera_video") and not sin_video(p): err("ya tiene video: quita espera_video")
+        if sin_video(p):  # nunca un reproductor vacío ni la promesa de un video que no existe
+            for x in textos(p):
+                for w in ("lleva mi versión en video", "dale play a mi versión", "aquí está mi versión", "aquí va mi versión en video"):
+                    if w in x.lower() and "cuando esté lista" not in x.lower(): err(f"sin video, el texto promete un video que no existe: «{x[:60]}»")
         if p.get("estado") == "publicada":
-            if p.get("espera_video"): err("no se publica: espera el video de Ave")
             if p.get("espera_texto"): err("no se publica: espera texto de Ave")
             if not p.get("fuentes") and p.get("tipo") in ("cover", "artista", "fe"): err("no se publica sin fuentes")
             if len([h for h in hs if h in pubs]) < 3: err("publicada con menos de 3 hermanas publicadas (1.7 pide de 3 a 6)")
@@ -234,12 +259,24 @@ def video(v, titulo):
     vid = v["id"]
     return f'<div class="marco"><button class="lite" type="button" data-id="{vid}" aria-label="Reproducir video: {e(titulo)}"><img src="/img/videos/{vid}.webp" alt="" loading="lazy"><span class="play" aria-hidden="true"></span></button></div>'
 def bloque_cover(p):
-    c = p["cover"]
-    if c.get("video"): izq = video(c["video"], f'{c["cancion"]} cover de Avelina')
-    else: izq = '<div class="f-espera"><span class="pg-timbre" aria-hidden="true"></span><p>Mi versión viene en camino.</p><a class="enlace" href="/contacto/#cartas">Avísame cuando salga</a></div>'
+    """La postal del cover. Con video: el reproductor. Sin video: una nota en mi voz de que mi versión viene pronto,
+    con liga a las Cartas de una foránea de esta misma página (así el correo guarda de qué página llegó)."""
+    c = p["cover"]; artista = p["tipo"] == "artista"
+    nota = c.get("nota", "")
+    espera = any(w in nota for w in ("viene en camino", "van a vivir", "aparece aquí"))  # notas escritas para la espera
+    if not sin_video(p):
+        izq = video(c["video"], f'{c["video"].get("cancion") or c["cancion"]} cover de Avelina')
+        lead = nota if nota and not espera else (f'Mi cover de {c["video"]["cancion"]}, a guitarra y voz.' if c["video"].get("cancion") else "Mi versión, a guitarra y voz.")
+    else:
+        quien = c.get("artista") or c["cancion"]
+        viene = f"Mis covers de {quien} a guitarra y voz vienen pronto." if artista else f'Mi versión de {c["cancion"]} a guitarra y voz viene pronto.'
+        izq = f'''<div class="f-espera"><span class="pg-timbre" aria-hidden="true"></span><p class="f-espera-t">{e(viene)}</p>
+<p>El día que salga te escribo en las Cartas de una foránea.</p><a class="enlace" href="#cartas">Avísame cuando salga</a></div>'''
+        lead = nota if nota and not espera else ""
+        lead = lead or ("Mientras, aquí te cuento quién es y cuáles son sus canciones." if artista else "Mientras, aquí te cuento su historia.")
     autor = f'<p><small>{e(c["credito"])}</small></p>' if c.get("credito") else ""
     return f'''<section class="lienzo mar f-cover"><div class="ancho"><div class="postal"><div class="postal-foto">{izq}</div>
-<div class="postal-dorso"><span class="estampilla" aria-hidden="true"></span><h2>{e(c["cancion"])}</h2><p class="lead">{md(c.get("nota", ""))}</p>{autor}</div></div></div></section>'''
+<div class="postal-dorso"><span class="estampilla" aria-hidden="true"></span><h2>{e(c["cancion"])}</h2><p class="lead">{md(lead)}</p>{autor}</div></div></div></section>'''
 
 def hermanas(p, porslug, vista):
     cards = []
@@ -275,7 +312,7 @@ def marcado(p, url, crumbs):
     c = p.get("cover")
     if c and c.get("compositor"):
         g[1]["about"] = {"@type": "MusicComposition", "name": c["cancion"], "composer": [{"@type": "Person", "name": x} for x in c["compositor"]]}
-    if c and c.get("video"):
+    if c and not sin_video(p):
         v = c["video"]; g.append({"@type": "VideoObject", "name": f'{c["cancion"]} · cover de Avelina', "description": p["description"], "thumbnailUrl": f"{BASE}/img/videos/{v['id']}.webp",
                                   "uploadDate": v["fecha"], "embedUrl": f"https://www.youtube-nocookie.com/embed/{v['id']}"})
     return '<script type="application/ld+json">' + json.dumps({"@context": "https://schema.org", "@graph": g}, ensure_ascii=False) + "</script>"

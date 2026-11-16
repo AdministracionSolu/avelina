@@ -19,7 +19,7 @@ Todo se arma con Python de la biblioteca estándar. Nada de esta carpeta (`fuent
 Una fija se escribe en `/<slug>/index.html` y entra al sitemap **sólo si** se cumplen todas:
 - `"estado": "publicada"` (lo pone quien publica, después de que Diego diga «publica»),
 - `"publicar_desde"` vacío o una fecha de hoy o antes,
-- no es esqueleto, no tiene `espera_video` ni `espera_texto`,
+- no es esqueleto ni tiene `espera_texto` (un cover o artista **sin video sí se publica**, ver abajo),
 - todas sus hermanas también están publicadas (si no, la liga daría 404 y la prueba truena).
 
 Un borrador no genera HTML: la ruta da 404 y no aparece en el sitemap. Si una página publicada vuelve a borrador,
@@ -37,8 +37,22 @@ Opcionales: `variantes, volumen, revisada (AAAA-MM-DD), resumen, faq, fuentes, c
   `{"tabla": {"cab": [...], "filas": [[...]]}}`, `{"carta": {"para", "texto", "firma"}}`, `{"nota": "..."}`,
   `{"herramienta": {"tipo": "afinador" | "postal" | "letra-bonita", ...}}`.
 - Dentro del texto sólo hay `[texto](/ruta/)` y `**negritas**`.
-- `cover`: `{"cancion", "artista", "compositor": [...], "credito", "nota", "video": {"id", "fecha"}}`. Sin `video`, la página
-  lleva `"espera_video": true` y no se publica.
+- `cover`: `{"cancion", "artista", "compositor": [...], "credito", "nota", "video": {"id", "fecha", "cancion"}}`. Sin `video`, la página
+  lleva `"espera_video": true` y **sí se publica** (decisión de Diego, 15-nov). `video.cancion` sólo hace falta en páginas de artista.
+
+## Covers sin video y cuando Ave sube el video
+Mientras no hay video, la postal del cover no lleva reproductor: dice en su voz «Mi versión de <canción> a guitarra y voz
+viene pronto» (en artistas: «Mis covers de <artista> … vienen pronto»), «El día que salga te escribo en las Cartas de una
+foránea» y un botón **Avísame cuando salga** que baja a la forma de cartas de la misma página (así el correo guarda de
+qué página llegó). No hay `VideoObject` en el marcado. El JSON se escribe pensando en el video ya puesto; `generar.py`
+cambia al vuelo las frases de `SIN_VIDEO` (p. ej. «lleva mi versión en video» → «mi versión en video viene pronto») y
+una prueba truena si queda alguna promesa de un video que no existe.
+
+**Cuando Ave sube el video, la página se completa sola:**
+1. En `paginas/<slug>.json` agrega `"video": {"id": "<id de YouTube>", "fecha": "AAAA-MM-DD"}` dentro de `cover`
+   (en una página de artista agrega también `"cancion": "<qué canción cantó>"`) y **borra** `"espera_video": true`.
+2. Guarda la miniatura en `img/videos/<id>.webp` (la prueba truena si falta).
+3. `python3 fuente/fijas/generar.py`, commit y push. Sale el reproductor, el `VideoObject` y las frases originales del JSON.
 
 ## Pruebas que truenan (no se escribe nada si falla una)
 - Slug válido, único, igual al nombre del archivo, sin chocar con rutas del sitio ni índices.
@@ -50,7 +64,8 @@ Opcionales: `variantes, volumen, revisada (AAAA-MM-DD), resumen, faq, fuentes, c
 - **Ninguna letra de canción ajena**: en covers, artistas y listas truena cualquier cita entre comillas de más de 7
   palabras y cualquier campo `letra`, `estrofa` o `coro`. La regla de fondo es humana: nunca se copia una letra ajena,
   ni en partes.
-- Publicada sin fuentes (cover, artista, fe), con `espera_video` o con hermanas sin publicar.
+- Publicada sin fuentes (cover, artista, fe) o con menos de 3 hermanas publicadas. Sin video: texto que prometa un video.
+- Con video: falta la miniatura, o sigue marcada `espera_video`.
 Avisos (no truenan): title que no empieza con la cabeza, frases de más de 28 palabras.
 
 ## Lo que lleva cada fija (molde 1.1 a 1.7)
