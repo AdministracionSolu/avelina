@@ -1,13 +1,101 @@
 {
- "slug": "canciones-para-dedicar-a-mi-hija",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "canciones para dedicar a mi hija",
  "variantes": [
   "cancion para una hija"
  ],
  "volumen": 6000,
- "pendiente": "Siguiente lote: armar la lista con fuentes verificadas (títulos y artistas, nunca letra)."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-para-dedicar-a-mi-hija",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "canciones para dedicar a mi hija",
+ "title": "Canciones para dedicar a mi hija: escritas para hijas",
+ "description": "Canciones para dedicar a tu hija en español, varias escritas por cantantes para sus hijas, como Mi princesa o Si tuviera que elegir. Con artista. Dedícala.",
+ "h1": "Canciones para dedicar a mi hija",
+ "resumen": "Canciones para una hija, varias escritas por cantantes para las suyas.",
+ "respuesta": "Muchas canciones para una hija las escribieron cantantes para sus propias hijas. Ricardo Montaner escribió Si tuviera que elegir para Evaluna, en 2002. David Bisbal escribió Mi princesa para su hija Ella.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Para cuándo"
+      ],
+      "filas": [
+       [
+        "Si tuviera que elegir",
+        "Ricardo Montaner",
+        "Para su hija Evaluna, de 2002"
+       ],
+       [
+        "Mi princesa",
+        "David Bisbal",
+        "Para su hija Ella"
+       ],
+       [
+        "Yo te esperaba",
+        "Alejandra Guzmán",
+        "Para su hija Frida Sofía, de 1992"
+       ],
+       [
+        "Índigo",
+        "Camilo y Evaluna",
+        "Para su hija Índigo"
+       ],
+       [
+        "Princesa",
+        "Natti Natasha",
+        "Para su hija Vida, la escribió Romeo Santos"
+       ],
+       [
+        "Mi persona favorita",
+        "Alejandro Sanz con Camila Cabello",
+        "Para su hija Alma"
+       ],
+       [
+        "Manuela",
+        "Alejandro Sanz",
+        "Para su hija Manuela"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Para su cumpleaños",
+   "bloques": [
+    "Si es para su cumpleaños, junta la canción con un mensaje. Hay ideas en [carta para mi hija](/carta-para-mi-hija/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué canción le dedico a mi hija?",
+   "a": "Si tiene pocos años, Mi princesa. Si ya es grande, Si tuviera que elegir."
+  }
+ ],
+ "hermanas": [
+  "carta-para-mi-hija",
+  "canciones-para-dedicar-a-un-hijo",
+  "canciones-para-dedicar",
+  "canciones-para-mama"
+ ],
+ "fuentes": [
+  {
+   "t": "Artistas que escribieron canciones a sus hijos, Panamá América",
+   "url": "https://www.panamaamerica.com.pa/variedades/artistas-que-han-creado-canciones-con-letras-dedicadas-sus-hijos-1205555"
+  },
+  {
+   "t": "Canciones para dedicar a tu hijo o hija, Canal Trece",
+   "url": "https://canaltrece.com.co/noticias/canciones-para-dedicar-a-tu-hijo-o-hija-melodias-que-hablan-de-amor-infinito/"
+  }
+ ]
 }

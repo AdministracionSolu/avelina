@@ -1,10 +1,4 @@
 {
- "slug": "canciones-faciles-en-guitarra",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "guitarra",
- "cabeza": "canciones faciles en guitarra",
  "variantes": [
   "canciones en guitarra",
   "cancionero en guitarra",
@@ -18,5 +12,128 @@
   "cancion guitarra"
  ],
  "volumen": 33000,
- "pendiente": "Siguiente lote: cancionero con acordes verificados por canción (sin letra). Mejor con las canciones que Ave toque en video."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-faciles-en-guitarra",
+ "tipo": "lista",
+ "coleccion": "guitarra",
+ "cabeza": "canciones faciles en guitarra",
+ "title": "Canciones fáciles en guitarra: cancionero con acordes",
+ "description": "Canciones fáciles en guitarra en español, ordenadas por número de acordes: de 3 a 9, con su tono y los acordes que usa cada una. Empieza por la más fácil.",
+ "h1": "Canciones fáciles en guitarra",
+ "resumen": "Un cancionero ordenado de la más fácil a la más difícil, con sus acordes.",
+ "respuesta": "Las canciones más fáciles en guitarra usan tres acordes. Aquí van ordenadas de menos a más acordes, con su tono. Empieza por las de tres y sube cuando cambies sin parar.",
+ "secciones": [
+  {
+   "h2": "El cancionero",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Acordes",
+       "Tono"
+      ],
+      "filas": [
+       [
+        "[San Lucas](/san-lucas-kevin-kaarl/), Kevin Kaarl",
+        "Em, G, C",
+        "Mi menor"
+       ],
+       [
+        "[Como la flor](/como-la-flor-selena/), Selena",
+        "A, D, E",
+        "La"
+       ],
+       [
+        "[Tristes recuerdos](/tristes-recuerdos-antonio-aguilar/), Antonio Aguilar",
+        "G, C, D7",
+        "Sol"
+       ],
+       [
+        "[Palabras tristes](/palabras-tristes-los-yonics/), Los Yonic's",
+        "C, C7, F, G",
+        "Do"
+       ],
+       [
+        "[Como un pájaro](/como-un-pajaro-silvana-estrada/), Silvana Estrada",
+        "D, G, A, A7, Bm, Em, Em7, E, E7",
+        "Re"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo acordes, revisados en LaCuerda el 15 de noviembre de 2026. La letra es de sus autores y no va aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Cómo usar el cancionero",
+   "bloques": [
+    {
+     "pasos": [
+      "Afina primero. Usa el [afinador de guitarra](/afinador-de-guitarra/) con el micrófono de tu celular.",
+      "Aprende los acordes de la canción uno por uno. Están dibujados en [acordes de guitarra para principiantes](/acordes-de-guitarra-para-principiantes/).",
+      "Cambia entre dos acordes sin cantar hasta que no pares.",
+      "Pon la canción original y toca un rasgueo por acorde.",
+      "Cuando salga, canta encima."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Por qué estas primero",
+   "bloques": [
+    "San Lucas y Como la flor usan tres acordes y nada más. Son las mejores para empezar.",
+    "Tristes recuerdos y Palabras tristes agregan un acorde con séptima. Ese sonido es el de la música ranchera y las baladas viejas.",
+    "Como un pájaro ya pide acordes menores con séptima. Déjala para cuando cambies rápido."
+   ]
+  },
+  {
+   "h2": "Mis versiones",
+   "bloques": [
+    "Cada canción tiene su página con su historia. Ahí va a vivir mi versión a guitarra y voz cuando la grabe."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cuál es la canción más fácil en guitarra?",
+   "a": "Una de tres acordes, como San Lucas, de Kevin Kaarl, con Em, G y C."
+  },
+  {
+   "q": "¿Aquí está la letra?",
+   "a": "No. Aquí van los acordes y el tono. La letra es de sus autores."
+  }
+ ],
+ "hermanas": [
+  "acordes-de-guitarra-para-principiantes",
+  "como-tocar-guitarra",
+  "afinador-de-guitarra",
+  "como-afinar-una-guitarra",
+  "san-lucas-kevin-kaarl"
+ ],
+ "fuentes": [
+  {
+   "t": "San Lucas, acordes en LaCuerda",
+   "url": "https://acordes.lacuerda.net/kevin_kaarl/san_lucas"
+  },
+  {
+   "t": "Como la flor, acordes en LaCuerda",
+   "url": "https://acordes.lacuerda.net/selena/como_la_flor"
+  },
+  {
+   "t": "Tristes recuerdos, acordes en LaCuerda",
+   "url": "https://acordes.lacuerda.net/antonio_aguilar/tristes_recuerdos"
+  },
+  {
+   "t": "Palabras tristes, acordes en LaCuerda",
+   "url": "https://acordes.lacuerda.net/yonics/palabras_tristes"
+  },
+  {
+   "t": "Como un pájaro, acordes en LaCuerda",
+   "url": "https://acordes.lacuerda.net/silvana_estrada/como_un_pajaro"
+  }
+ ]
 }

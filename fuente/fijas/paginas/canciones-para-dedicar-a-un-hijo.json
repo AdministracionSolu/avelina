@@ -1,15 +1,99 @@
 {
- "slug": "canciones-para-dedicar-a-un-hijo",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "canciones para dedicar a un hijo",
  "variantes": [
   "canciones para dedicar a un hijo varon",
   "cancion para dedicar a mi hijo",
   "cancion para dedicar a un hijo"
  ],
  "volumen": 12000,
- "pendiente": "Siguiente lote: armar la lista con fuentes verificadas (títulos y artistas, nunca letra)."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-para-dedicar-a-un-hijo",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "canciones para dedicar a un hijo",
+ "title": "Canciones para dedicar a un hijo: escritas por papás",
+ "description": "Canciones para dedicar a un hijo en español, muchas escritas por cantantes para sus propios hijos, como Capitán tapón o Sabrás. Con artista. Escoge la tuya.",
+ "h1": "Canciones para dedicar a un hijo",
+ "resumen": "Canciones para un hijo, varias escritas por cantantes para los suyos.",
+ "respuesta": "Las canciones para dedicar a un hijo que más pesan las escribieron papás y mamás para sus propios hijos. Alejandro Sanz escribió Capitán tapón para su hijo Dylan. David Bisbal escribió Sabrás para su hijo Matteo.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Para cuándo"
+      ],
+      "filas": [
+       [
+        "Capitán tapón",
+        "Alejandro Sanz",
+        "La escribió para su hijo Dylan"
+       ],
+       [
+        "Sabrás",
+        "David Bisbal",
+        "La escribió para su hijo Matteo"
+       ],
+       [
+        "De pies a cabeza",
+        "Manuel Medrano",
+        "Para un hijo pequeño"
+       ],
+       [
+        "Tu guardián",
+        "Juanes",
+        "Para decirle que lo cuidas"
+       ],
+       [
+        "Mi persona favorita",
+        "Alejandro Sanz con Camila Cabello",
+        "Para hijo o hija"
+       ],
+       [
+        "Que bonita es esta vida",
+        "Jorge Celedón",
+        "Para celebrar en familia"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Con unas palabras tuyas",
+   "bloques": [
+    "Una canción dice mucho, pero tus palabras dicen lo que sólo tú sabes. Junta las dos en una [carta de amor](/cartas-de-amor/) o en una tarjeta de cumpleaños.",
+    "Si buscas una para tu hija, está la lista de [canciones para dedicar a mi hija](/canciones-para-dedicar-a-mi-hija/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué canción le dedico a mi hijo?",
+   "a": "Una escrita por un papá para su hijo, como Capitán tapón o Sabrás. Pesan más porque nacieron así."
+  }
+ ],
+ "hermanas": [
+  "canciones-para-dedicar-a-mi-hija",
+  "canciones-para-dedicar",
+  "canciones-para-mama",
+  "canciones-para-papa"
+ ],
+ "fuentes": [
+  {
+   "t": "Artistas que escribieron canciones a sus hijos, Panamá América",
+   "url": "https://www.panamaamerica.com.pa/variedades/artistas-que-han-creado-canciones-con-letras-dedicadas-sus-hijos-1205555"
+  },
+  {
+   "t": "Canciones para dedicar a tu hijo o hija, Canal Trece",
+   "url": "https://canaltrece.com.co/noticias/canciones-para-dedicar-a-tu-hijo-o-hija-melodias-que-hablan-de-amor-infinito/"
+  }
+ ]
 }

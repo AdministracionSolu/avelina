@@ -1,13 +1,112 @@
 {
- "slug": "canciones-romanticas-de-los-80-en-espanol",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "canciones de los 80 español",
  "variantes": [
   "musica romantica de los 80 y 90 en español completas"
  ],
  "volumen": 6000,
- "pendiente": "Siguiente lote: armar la lista con fuentes verificadas (títulos y artistas, nunca letra)."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-romanticas-de-los-80-en-espanol",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "canciones de los 80 español",
+ "title": "Canciones de los 80 en español: baladas románticas",
+ "description": "Canciones de los 80 en español: las baladas románticas de Emmanuel, Franco de Vita, Miguel Bosé, Pandora y José José, con su año. Escoge la tuya y dedícala.",
+ "h1": "Canciones románticas de los 80 en español",
+ "resumen": "Las baladas en español de los 80, con su año.",
+ "respuesta": "Las baladas en español de los 80 siguen en todas las fiestas. Te amo, de Franco de Vita, llegó al lugar 2 de Billboard en 1989. Aquí van con su artista y su año.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Año"
+      ],
+      "filas": [
+       [
+        "Amor, amor",
+        "José José",
+        "1980"
+       ],
+       [
+        "Eres",
+        "José María Napoleón",
+        "1980"
+       ],
+       [
+        "[Palabras tristes](/palabras-tristes-los-yonics/)",
+        "Los Yonic's",
+        "1980"
+       ],
+       [
+        "Te amaré",
+        "Miguel Bosé",
+        "1982"
+       ],
+       [
+        "Cómo te va mi amor",
+        "Pandora",
+        "1985"
+       ],
+       [
+        "Te quiero",
+        "Hombres G",
+        "1986"
+       ],
+       [
+        "Tú y yo",
+        "Emmanuel",
+        "1988"
+       ],
+       [
+        "Te amo",
+        "Franco de Vita",
+        "1988"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "A guitarra",
+   "bloques": [
+    "Casi todas caben a guitarra y voz. Mira cómo empezar en [canciones fáciles en guitarra](/canciones-faciles-en-guitarra/).",
+    "Carla Morrison grabó Amor, amor de José José en 2013. Su historia está en [Amor, amor](/amor-amor-carla-morrison/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cuál es la balada en español más famosa de los 80?",
+   "a": "Te amo, de Franco de Vita, es de las que más llegaron. Fue lugar 2 de Billboard en 1989."
+  }
+ ],
+ "hermanas": [
+  "canciones-de-amor-en-espanol",
+  "palabras-tristes-los-yonics",
+  "amor-amor-carla-morrison",
+  "canciones-para-boda",
+  "historia-de-un-amor"
+ ],
+ "fuentes": [
+  {
+   "t": "Canciones de amor de los 80, N+",
+   "url": "https://www.nmas.com.mx/entretenimiento/canciones-amor-de-los-80-para-dedicar-14-de-febrero-lista-ingles-espanol/"
+  },
+  {
+   "t": "Amor amor (álbum de José José), Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Amor_Amor_(Jos%C3%A9_Jos%C3%A9_album)"
+  },
+  {
+   "t": "Palabras tristes, LOS40 México",
+   "url": "https://los40.com.mx/los40/2016/10/18/musicanueva/1476825292_072959.html"
+  }
+ ]
 }

@@ -1,10 +1,4 @@
 {
- "slug": "canciones-para-cumpleanos",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "cumpleanos",
- "cabeza": "canciones para cumpleaños",
  "variantes": [
   "cancion de cumpleños",
   "cancion de cunpleaño",
@@ -12,5 +6,106 @@
   "canciones de cumpleaños"
  ],
  "volumen": 15000,
- "pendiente": "Siguiente lote: armar la lista con fuentes verificadas (títulos y artistas, nunca letra)."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-para-cumpleanos",
+ "tipo": "lista",
+ "coleccion": "cumpleanos",
+ "cabeza": "canciones para cumpleaños",
+ "title": "Canciones para cumpleaños: además de las mañanitas",
+ "description": "Canciones para cumpleaños en español: para la fiesta, para dedicar y para el video de fotos. Con artista y para qué momento, además de las mañanitas.",
+ "h1": "Canciones para cumpleaños",
+ "resumen": "Canciones de cumpleaños para cantar, bailar o dedicar.",
+ "respuesta": "Para un cumpleaños en México se cantan primero las mañanitas. Después vienen las de fiesta, como Fiesta de cumpleaños, de María Daniela y su Sonido Lasser. Abajo hay más, para cada momento.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Para cuándo"
+      ],
+      "filas": [
+       [
+        "[Las mañanitas](/las-mananitas/)",
+        "Tradicional",
+        "Para despertar al festejado"
+       ],
+       [
+        "Cumpleaños feliz",
+        "Parchís",
+        "Para la hora del pastel, salió en 1981"
+       ],
+       [
+        "Fiesta de cumpleaños",
+        "María Daniela y su Sonido Lasser",
+        "Para bailar"
+       ],
+       [
+        "El cumpleaños",
+        "Fobia",
+        "Para la fiesta con amigos"
+       ],
+       [
+        "Cumpleaños total",
+        "Los Planetas",
+        "Para la fiesta con amigos"
+       ],
+       [
+        "[Amor eterno](/amor-eterno/)",
+        "Juan Gabriel",
+        "Para recordar a mamá en su cumpleaños"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Para el video de fotos",
+   "bloques": [
+    "Para niños funciona la música alegre y fácil de cantar. Para tu pareja o tus papás, una más emotiva.",
+    "Si lo vas a subir a redes, usa música con permiso de uso o una versión propia."
+   ]
+  },
+  {
+   "h2": "Con un mensaje",
+   "bloques": [
+    "Junta la canción con un mensaje. Hay ideas en [feliz cumpleaños para dedicar](/feliz-cumpleanos-para-dedicar/) y en [mañanitas para WhatsApp](/mananitas-para-whatsapp/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué canción se canta en un cumpleaños en México?",
+   "a": "Las mañanitas, al despertar o antes del pastel. Después sigue Cumpleaños feliz."
+  }
+ ],
+ "hermanas": [
+  "las-mananitas",
+  "feliz-cumpleanos-para-dedicar",
+  "mananitas-para-whatsapp",
+  "feliz-cumpleanos-mama",
+  "feliz-cumpleanos-amiga"
+ ],
+ "fuentes": [
+  {
+   "t": "Adiós a las mañanitas, Chilango",
+   "url": "https://www.chilango.com/que-hacer/musica/adios-a-las-mananitas/"
+  },
+  {
+   "t": "Canciones para videos de cumpleaños, Filmora",
+   "url": "https://filmora.wondershare.es/family-n-personal/birthday-video-songs.html"
+  },
+  {
+   "t": "Happy birthday in Spanish, Don Quijote",
+   "url": "https://www.donquijote.org/spanish-culture/traditions/happy-birthday-in-spanish/"
+  }
+ ]
 }

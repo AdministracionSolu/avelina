@@ -1,13 +1,92 @@
 {
- "slug": "canciones-para-una-amiga",
- "esqueleto": true,
- "estado": "borrador",
- "tipo": "lista",
- "coleccion": "canciones-para",
- "cabeza": "canciones para una amiga",
  "variantes": [
   "canciones para dedicar a una amiga"
  ],
  "volumen": 6000,
- "pendiente": "Siguiente lote: armar la lista con fuentes verificadas (títulos y artistas, nunca letra)."
+ "estado": "borrador",
+ "revisada": "2026-11-15",
+ "slug": "canciones-para-una-amiga",
+ "tipo": "lista",
+ "coleccion": "canciones-para",
+ "cabeza": "canciones para una amiga",
+ "title": "Canciones para una amiga: para dedicar en español",
+ "description": "Canciones para una amiga en español: Amiga mía, Amigas, Mejores amigos y otras de amistad para dedicar a tu mejor amiga, con artista. Escoge y mándala.",
+ "h1": "Canciones para una amiga",
+ "resumen": "Canciones de amistad para dedicar a una amiga.",
+ "respuesta": "La canción para una amiga más conocida en español es Amiga mía, de Alejandro Sanz. Para la amistad entre mujeres está Amigas, de Pastora Soler. Abajo hay más, con su artista.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Para cuándo"
+      ],
+      "filas": [
+       [
+        "Amiga mía",
+        "Alejandro Sanz",
+        "Para una amiga de años"
+       ],
+       [
+        "Amigas",
+        "Pastora Soler",
+        "Para tus amigas de siempre"
+       ],
+       [
+        "Mejores amigos",
+        "Yera con Morat",
+        "Para tu mejor amiga"
+       ],
+       [
+        "Siempre estaré ahí",
+        "Maldita Nerea",
+        "Para una amiga en un mal momento"
+       ],
+       [
+        "Hay un amigo en mí",
+        "Tony Cruz",
+        "Para reír juntas"
+       ],
+       [
+        "Amigos para siempre",
+        "Los Manolos",
+        "Para una amistad de toda la vida"
+       ]
+      ]
+     }
+    },
+    {
+     "nota": "Sólo títulos y artistas. Las letras son de sus autores y no se copian aquí."
+    }
+   ]
+  },
+  {
+   "h2": "Con una carta",
+   "bloques": [
+    "Una canción con dos líneas tuyas se vuelve un regalo. Hay ideas en [carta para una amiga](/carta-para-una-amiga/) y [carta para mi mejor amiga](/carta-para-mi-mejor-amiga/)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué canción le dedico a mi mejor amiga?",
+   "a": "Amiga mía, de Alejandro Sanz, es la clásica. Para algo más alegre, Mejores amigos, de Yera con Morat."
+  }
+ ],
+ "hermanas": [
+  "carta-para-una-amiga",
+  "carta-para-mi-mejor-amiga",
+  "feliz-cumpleanos-amiga",
+  "canciones-para-dedicar"
+ ],
+ "fuentes": [
+  {
+   "t": "Canciones sobre la amistad, Bodas.net",
+   "url": "https://www.bodas.net/articulos/canciones-sobre-la-amistad--c9545"
+  }
+ ]
 }
