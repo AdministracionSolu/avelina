@@ -1,0 +1,68 @@
+{
+ "slug": "aprender-a-cantar-desde-cero",
+ "estado": "publicada",
+ "fecha": "2026-11-15",
+ "cola": "aprender-a-cantar-desde-cero",
+ "busqueda": "aprender a cantar desde cero",
+ "variantes": [
+  "aprender a cantar",
+  "cómo cantar bien",
+  "cómo cantar mejor"
+ ],
+ "title": "Aprender a cantar desde cero: por dónde empezar",
+ "description": "Cómo aprender a cantar desde cero: un plan de cuatro semanas para calentar la voz, respirar, grabarte y escoger canciones, y cómo cuidar tu voz mientras.",
+ "h1": "Aprender a cantar desde cero",
+ "resumen": "Un plan de cuatro semanas y cómo cuidar la voz mientras aprendes.",
+ "respuesta": "Para aprender a cantar desde cero empieza por calentar la voz, respirar desde abajo y cantar canciones de pocas notas. Grábate con el celular y escúchate al día siguiente. Practica poco y seguido, y para si te duele o te raspa.",
+ "secciones": [
+  {
+   "h2": "Un plan de cuatro semanas",
+   "bloques": [
+    {
+     "pasos": [
+      "**Semana 1.** Calienta diez minutos al día con los [ejercicios de vocalización](/vocalizacion/) y canta una sola canción fácil, siempre la misma.",
+      "**Semana 2.** Respira con el abdomen. Pon una mano abajo de las costillas y siente cómo se infla al tomar aire. Canta frases largas sin subir los hombros.",
+      "**Semana 3.** Grábate cantando esa canción y escúchate al día siguiente, con oídos frescos. Anota en qué parte se te va la nota.",
+      "**Semana 4.** Pasa a una canción con un poco más de rango, de la lista de [canciones para karaoke](/canciones-para-karaoke/)."
+     ]
+    },
+    "Quince o veinte minutos diarios rinden más que dos horas el fin de semana. La voz se cansa como cualquier músculo."
+   ]
+  },
+  {
+   "h2": "Cuida tu voz mientras aprendes",
+   "bloques": [
+    {
+     "lista": [
+      "Toma agua durante el día.",
+      "Descansa bien. El cansancio del cuerpo se nota en la voz.",
+      "No cantes cuando estés ronca o ronco, ni cuando estés enferma o enfermo.",
+      "No fumes y aléjate del humo.",
+      "Si la ronquera no se quita, ve con un médico o con un especialista en voz."
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Si quieres acompañarte con guitarra",
+   "bloques": [
+    "Yo canto lo que escribo, a guitarra y voz. Si quieres hacer lo mismo, empieza con [cómo tocar guitarra](/como-tocar-guitarra/) y afina siempre antes de cantar, porque una guitarra desafinada te jala la nota."
+   ]
+  }
+ ],
+ "ligas": [
+  "vocalizacion",
+  "canciones-para-karaoke",
+  "como-tocar-guitarra"
+ ],
+ "fuentes": [
+  {
+   "t": "Cuidando su voz, NIDCD (Institutos Nacionales de la Salud de EE. UU.)",
+   "url": "https://www.nidcd.nih.gov/es/espanol/cuidando-su-voz"
+  },
+  {
+   "t": "Cómo cuidar la voz, NIDCD",
+   "url": "https://www.nidcd.nih.gov/es/about/como-cuidar-la-voz-version-de-texto"
+  }
+ ]
+}

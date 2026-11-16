@@ -1,0 +1,111 @@
+{
+ "slug": "canciones-faciles-para-cantar",
+ "estado": "publicada",
+ "fecha": "2026-11-15",
+ "cola": "canciones-faciles-para-cantar",
+ "busqueda": "canciones fáciles para cantar",
+ "variantes": [
+  "canciones fáciles para karaoke",
+  "canciones bonitas para cantar",
+  "música para cantar karaoke"
+ ],
+ "title": "Canciones fáciles para cantar en karaoke o con amigos",
+ "description": "Siete canciones fáciles para cantar en español, en karaoke o con amigos: pocas notas altas y coros que todos se saben. Con su artista y por qué funcionan.",
+ "h1": "Canciones fáciles para cantar",
+ "resumen": "Siete en español con pocas notas altas y coros que todos se saben.",
+ "respuesta": "Una canción es fácil de cantar cuando tiene pocas notas altas, un ritmo tranquilo y un coro que ya te sabes. Aquí van siete en español que cumplen con eso, con su artista y por qué funcionan.",
+ "secciones": [
+  {
+   "h2": "Siete que salen bien aunque nunca hayas cantado",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Por qué es fácil"
+      ],
+      "filas": [
+       [
+        "[Cielito lindo](/cielito-lindo/)",
+        "Quirino Mendoza y Cortés, 1882",
+        "El coro lo canta todo el salón contigo"
+       ],
+       [
+        "[Como la flor](/como-la-flor-selena/)",
+        "Selena, 1992",
+        "Ritmo de cumbia y notas cómodas"
+       ],
+       [
+        "[Limón y sal](/limon-y-sal-julieta-venegas/)",
+        "Julieta Venegas, 2006",
+        "Una melodía corta que se repite"
+       ],
+       [
+        "[Ex de verdad](/ex-de-verdad-ha-ash/)",
+        "Ha*Ash con Axel",
+        "Es a dúo y cada quien canta su parte"
+       ],
+       [
+        "[Amárrame](/amarrame-mon-laferte/)",
+        "Mon Laferte con Juanes, 2017",
+        "Cumbia lenta para cantar a dos voces"
+       ],
+       [
+        "[Eres para mí](/eres-para-mi-julieta-venegas/)",
+        "Julieta Venegas con Anita Tijoux, 2007",
+        "Las estrofas son casi habladas"
+       ],
+       [
+        "[Nunca es suficiente](/nunca-es-suficiente/)",
+        "Natalia Lafourcade, 2015",
+        "En cumbia, con Los Ángeles Azules, se canta suave"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo escoger la tuya",
+   "bloques": [
+    {
+     "lista": [
+      "Tararéala completa sin música. Si llegas al final sin forzar la garganta, es tu canción.",
+      "Si el coro te queda alto, busca la pista en un tono más bajo.",
+      "Escoge una que se sepa la mesa. El coro de los demás te sostiene.",
+      "Calienta la voz cinco minutos antes con los [ejercicios de vocalización](/vocalizacion/)."
+     ]
+    },
+    "Si tocas guitarra, hay [canciones fáciles en guitarra](/canciones-faciles-en-guitarra/) para acompañarte mientras cantas. Y si ya te animaste con todo, la lista completa está en [canciones para karaoke](/canciones-para-karaoke/)."
+   ]
+  }
+ ],
+ "ligas": [
+  "canciones-para-karaoke",
+  "vocalizacion",
+  "canciones-faciles-en-guitarra"
+ ],
+ "fuentes": [
+  {
+   "t": "Cielito lindo, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Cielito_lindo"
+  },
+  {
+   "t": "Como la flor, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Como_la_flor"
+  },
+  {
+   "t": "Limón y sal (canción), Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Lim%C3%B3n_y_sal_(canci%C3%B3n)"
+  },
+  {
+   "t": "Amárrame, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Am%C3%A1rrame"
+  },
+  {
+   "t": "Nunca es suficiente, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Nunca_es_suficiente"
+  }
+ ]
+}

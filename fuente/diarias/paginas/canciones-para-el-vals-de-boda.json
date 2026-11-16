@@ -1,0 +1,121 @@
+{
+ "slug": "canciones-para-el-vals-de-boda",
+ "estado": "publicada",
+ "fecha": "2026-11-15",
+ "cola": "canciones-para-el-vals-de-boda",
+ "busqueda": "canciones para el vals de boda",
+ "variantes": [
+  "canciones para el vals",
+  "vals para boda",
+  "canciones de vals para boda"
+ ],
+ "title": "Canciones para el vals de boda: clásicos y en español",
+ "description": "Canciones para el vals de boda: Sobre las olas y El Danubio azul, los valses de siempre, y boleros en español para el primer baile. Con autor y año.",
+ "h1": "Canciones para el vals de boda",
+ "resumen": "Los valses de siempre y boleros en español para el primer baile.",
+ "respuesta": "Para el vals de boda los clásicos son Sobre las olas, del mexicano Juventino Rosas, y El Danubio azul, de Johann Strauss hijo. Si prefieren una canción con voz para el primer baile, funcionan boleros como Bésame mucho o Sabor a mí.",
+ "secciones": [
+  {
+   "h2": "Los valses de siempre",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Pieza",
+       "Autor",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "Sobre las olas",
+        "Juventino Rosas, mexicano",
+        "La compuso hacia 1885 y se publicó en 1888"
+       ],
+       [
+        "El Danubio azul",
+        "Johann Strauss hijo",
+        "Se estrenó el 13 de febrero de 1867. En Hispanoamérica es muy usado en bodas y XV años"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Con voz y en español, para el primer baile",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Autor",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "[Bésame mucho](/besame-mucho/)",
+        "Consuelo Velázquez",
+        "Se publicó en 1940"
+       ],
+       [
+        "[Sabor a mí](/sabor-a-mi/)",
+        "Álvaro Carrillo",
+        "Bolero de 1959"
+       ],
+       [
+        "[Historia de un amor](/historia-de-un-amor/)",
+        "Carlos Eleta Almarán",
+        "Bolero de 1955"
+       ],
+       [
+        "[Nunca es suficiente](/nunca-es-suficiente/)",
+        "Natalia Lafourcade",
+        "De 2015, para un primer baile más actual"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo armar el momento",
+   "bloques": [
+    {
+     "lista": [
+      "Corten la pieza a dos o tres minutos. Un vals completo se hace largo para los invitados.",
+      "Ensayen la entrada y la vuelta final. Lo de en medio puede ser libre.",
+      "Pásenle al DJ o al grupo el orden exacto: vals, baile con los papás y luego abrir pista."
+     ]
+    },
+    "Para la ceremonia y la cena, la lista completa está en [canciones para boda](/canciones-para-boda/)."
+   ]
+  }
+ ],
+ "ligas": [
+  "canciones-para-boda",
+  "besame-mucho",
+  "sabor-a-mi"
+ ],
+ "fuentes": [
+  {
+   "t": "Sobre las olas, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Sobre_las_olas"
+  },
+  {
+   "t": "El Danubio azul, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/El_Danubio_azul"
+  },
+  {
+   "t": "Bésame mucho, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/B%C3%A9same_mucho"
+  },
+  {
+   "t": "Sabor a mí, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Sabor_a_m%C3%AD"
+  },
+  {
+   "t": "Historia de un amor, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Historia_de_un_amor"
+  }
+ ]
+}

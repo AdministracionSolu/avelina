@@ -133,7 +133,7 @@ def probar(ps):
     errores, avisos = [], []
     slugs = [p.get("slug") for p in ps]
     existentes = {d for d in os.listdir(RAIZ) if os.path.isdir(os.path.join(RAIZ, d)) and not os.path.exists(os.path.join(RAIZ, d, "index.html"))} | set()
-    reservadas = {"musica", "videos", "diario", "album", "quien-soy", "contacto", "privacidad", "en", "css", "js", "img", "fonts", "fuente"} | {c[0] for c in COLECCIONES.values()}
+    reservadas = {"musica", "videos", "diario", "album", "quien-soy", "contacto", "privacidad", "en", "css", "js", "img", "fonts", "fuente", "libreta"} | {c[0] for c in COLECCIONES.values()}
     pubs = {p["slug"] for p in ps if publicada(p)}
     for p in ps:
         s, err = p.get("slug", "?"), lambda m: errores.append(f"{p['_archivo']}: {m}")
@@ -398,14 +398,14 @@ def main():
     NO_PUBLICADAS.update(s for s in porslug if s not in vivos)
     for d in glob.glob(os.path.join(RAIZ, "*", "index.html")):
         s = os.path.basename(os.path.dirname(d))
-        if s not in vivos and MARCA_GEN in open(d, encoding="utf-8").read(200):
+        if s != "libreta" and s not in vivos and MARCA_GEN in open(d, encoding="utf-8").read(200):  # /libreta/ es de las diarias
             os.remove(d); os.rmdir(os.path.dirname(d)); print("retirada (ya no está publicada):", s)
     for p in pubs: escribe(f"{p['slug']}/index.html", pagina(p, porslug))
     # sitemap: lo del sitio + las fijas publicadas (build.py lee fijas_sitemap.txt para no borrarlas)
     lineas = [f"{BASE}/{p['slug']}/\t{p.get('revisada', HOY)}" for p in sorted(pubs, key=lambda x: x["slug"])]
     open(os.path.join(AQUI, "fijas_sitemap.txt"), "w", encoding="utf-8").write("\n".join(lineas) + ("\n" if lineas else ""))
     sm = open(os.path.join(RAIZ, "sitemap.xml"), encoding="utf-8").read()
-    sm = re.sub(r"<url><loc>[^<]+</loc><lastmod>[^<]+</lastmod></url>", "", sm)  # sólo las fijas llevan lastmod
+    sm = re.sub(r"<url><loc>(?![^<]*/libreta/)[^<]+</loc><lastmod>[^<]+</lastmod></url>", "", sm)  # las fijas (las diarias de /libreta/ las pone fuente/diarias/generar.py)
     extra = "".join(f"<url><loc>{u}</loc><lastmod>{f}</lastmod></url>" for u, f in (l.split("\t") for l in lineas))
     open(os.path.join(RAIZ, "sitemap.xml"), "w", encoding="utf-8").write(sm.replace("</urlset>", extra + "</urlset>"))
     print(f"publicadas: {len(pubs)} · borradores: {len(ps) - len([p for p in pubs if p['tipo'] != 'indice'])}")

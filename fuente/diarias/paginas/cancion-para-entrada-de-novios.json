@@ -1,0 +1,120 @@
+{
+ "slug": "cancion-para-entrada-de-novios",
+ "estado": "publicada",
+ "fecha": "2026-11-15",
+ "cola": "cancion-para-entrada-de-novios",
+ "busqueda": "canción para la entrada de los novios",
+ "variantes": [
+  "canción para entrada de novios",
+  "canciones para entradas de novios"
+ ],
+ "title": "Canción para la entrada de novios: clásicas y en español",
+ "description": "Canción para la entrada de los novios: el Coro nupcial de Wagner, el Canon de Pachelbel y la Marcha de Mendelssohn, más opciones en español. Con autor y año.",
+ "h1": "Canción para la entrada de los novios",
+ "resumen": "Las clásicas de entrada y salida, y opciones en español.",
+ "respuesta": "Para la entrada de la novia las clásicas son el Coro nupcial de Wagner y el Canon de Pachelbel. Para la salida de los novios suena la Marcha nupcial de Mendelssohn. Si la quieren en español, Contigo aprendí o Hasta la raíz acompañan muy bien esa caminata.",
+ "secciones": [
+  {
+   "h2": "Las clásicas",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Pieza",
+       "Autor",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "Coro nupcial",
+        "Richard Wagner",
+        "De la ópera Lohengrin, de 1850. Suele sonar cuando entra la novia"
+       ],
+       [
+        "Canon en re",
+        "Johann Pachelbel",
+        "De alrededor de 1680, muy usado en bodas"
+       ],
+       [
+        "Marcha nupcial",
+        "Felix Mendelssohn",
+        "De 1842. Se volvió famosa en una boda real de 1858"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "En español",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Momento"
+      ],
+      "filas": [
+       [
+        "[Contigo aprendí](/contigo-aprendi/)",
+        "Armando Manzanero",
+        "Entrada de la novia"
+       ],
+       [
+        "[Hasta la raíz](/hasta-la-raiz-natalia-lafourcade/)",
+        "Natalia Lafourcade",
+        "Entrada o ceremonia civil"
+       ],
+       [
+        "[Eres para mí](/eres-para-mi-julieta-venegas/)",
+        "Julieta Venegas",
+        "Salida, ya casados"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para que la caminata cuadre",
+   "bloques": [
+    {
+     "lista": [
+      "Midan el pasillo. Casi siempre basta de un minuto a minuto y medio de canción.",
+      "Pidan que empiece en la parte más bonita, no en la introducción.",
+      "En ceremonias chicas o al aire libre, una versión a guitarra y voz se escucha clara sin bocinas grandes."
+     ]
+    },
+    "Para el vals, la cena y la fiesta, mira [canciones para boda](/canciones-para-boda/)."
+   ]
+  }
+ ],
+ "ligas": [
+  "canciones-para-boda",
+  "contigo-aprendi",
+  "hasta-la-raiz-natalia-lafourcade"
+ ],
+ "fuentes": [
+  {
+   "t": "Coro nupcial, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Coro_nupcial"
+  },
+  {
+   "t": "Canon de Pachelbel, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Canon_de_Pachelbel"
+  },
+  {
+   "t": "Marcha nupcial (Mendelssohn), Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Marcha_nupcial_(Mendelssohn)"
+  },
+  {
+   "t": "Armando Manzanero, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Armando_Manzanero"
+  },
+  {
+   "t": "Hasta la raíz (canción), Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Hasta_la_ra%C3%ADz_(canci%C3%B3n)"
+  }
+ ]
+}

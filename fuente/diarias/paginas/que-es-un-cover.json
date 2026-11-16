@@ -1,0 +1,81 @@
+{
+ "slug": "que-es-un-cover",
+ "estado": "publicada",
+ "fecha": "2026-11-15",
+ "cola": "que-es-un-cover",
+ "busqueda": "qué es un cover en música",
+ "variantes": [
+  "cover significado en español",
+  "covers en español",
+  "cover música"
+ ],
+ "title": "Qué es un cover en música y qué significa en español",
+ "description": "Qué es un cover: otra persona canta o graba una canción que ya existe. De dónde viene la palabra, en qué se distingue de un arreglo y covers famosos en español.",
+ "h1": "Qué es un cover",
+ "resumen": "Qué significa, de dónde viene la palabra y ejemplos en español.",
+ "respuesta": "Un cover es una nueva interpretación o grabación de una canción hecha por alguien distinto de quien la grabó primero. En español también se le dice versión. Yo subo covers a guitarra y voz a mi canal de YouTube, además de mis canciones.",
+ "secciones": [
+  {
+   "h2": "De dónde viene la palabra",
+   "bloques": [
+    "Cover empezó como jerga de las disqueras de Estados Unidos. Era la grabación rival de una canción que parecía éxito en otro sello.",
+    "A mediados del siglo pasado cada disquera sacaba su propia versión de la canción del momento. Con los años el cover dejó de ser competencia y se volvió una forma de hacer tuya una canción."
+   ]
+  },
+  {
+   "h2": "Original, cover y arreglo",
+   "bloques": [
+    {
+     "lista": [
+      [
+       "Original:",
+       "la primera grabación, casi siempre de quien la escribió o la estrenó."
+      ],
+      [
+       "Cover o versión:",
+       "otra persona la canta o la graba con su estilo."
+      ],
+      [
+       "Arreglo:",
+       "la misma canción con otros instrumentos o en otro ritmo. Pasó con [Nunca es suficiente](/nunca-es-suficiente/), que en 2018 salió en cumbia con Los Ángeles Azules."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "h2": "Covers famosos en español",
+   "bloques": [
+    "Muchas canciones que hoy creemos de un artista son covers. [Sabor a mí](/sabor-a-mi/) la escribió Álvaro Carrillo en 1959 y Luis Miguel la grabó en 1997. [La bikina](/la-bikina/) es de Rubén Fuentes, de 1964, y Luis Miguel la grabó en vivo en Monterrey en 2000.",
+    "[Bésame mucho](/besame-mucho/), de Consuelo Velázquez, se reconoció en 1999 como la canción más grabada en español."
+   ]
+  }
+ ],
+ "ligas": [
+  "mon-laferte",
+  "carla-morrison",
+  "natalia-lafourcade"
+ ],
+ "fuentes": [
+  {
+   "t": "Versión (música), Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Versi%C3%B3n_(m%C3%BAsica)"
+  },
+  {
+   "t": "Sabor a mí, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Sabor_a_m%C3%AD"
+  },
+  {
+   "t": "La bikina, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/La_bikina"
+  },
+  {
+   "t": "Bésame mucho, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/B%C3%A9same_mucho"
+  },
+  {
+   "t": "Mi canal de YouTube",
+   "url": "https://www.youtube.com/@AvelinaMartinetMolina"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "slug": "mon-laferte-vol-1",
+ "estado": "publicada",
+ "fecha": "2026-11-15",
+ "cola": "mon-laferte-vol-1",
+ "busqueda": "mon laferte vol. 1",
+ "variantes": [
+  "mon laferte vol 1",
+  "vol 1 mon laferte"
+ ],
+ "title": "Mon Laferte Vol. 1: canciones, año y certificaciones",
+ "description": "Mon Laferte, Vol. 1: el disco de 2015 con Tu falta de querer, Amor completo, Tormento y Si tú me quisieras. Sus canciones, sencillos y certificaciones.",
+ "h1": "Mon Laferte, Vol. 1",
+ "resumen": "El disco de 2015 con Tu falta de querer: canciones, sencillos y certificaciones.",
+ "respuesta": "Mon Laferte, Vol. 1 es el disco de 2015 que trae Tu falta de querer, Amor completo, Tormento y Si tú me quisieras. Lo produjo ella misma y lo publicó Universal Music México. En México tiene certificación de diamante más oro.",
+ "secciones": [
+  {
+   "h2": "Datos del disco",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Dato",
+       "Mon Laferte, Vol. 1"
+      ],
+      "filas": [
+       [
+        "Año",
+        "2015 (Wikipedia da dos fechas: 31 de enero y 21 de agosto)"
+       ],
+       [
+        "Producción",
+        "Mon Laferte"
+       ],
+       [
+        "Sello",
+        "Universal Music México"
+       ],
+       [
+        "Duración",
+        "41 minutos y 59 segundos"
+       ],
+       [
+        "Canciones",
+        "12, contando Bonita como pista extra"
+       ],
+       [
+        "Certificación en México",
+        "Diamante más oro (AMPROFON)"
+       ],
+       [
+        "Certificación en Chile",
+        "Cuatro veces platino"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Sus sencillos",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Sencillo",
+       "Salió",
+       "Certificación en México"
+      ],
+      "filas": [
+       [
+        "Tormento",
+        "3 de enero de 2015",
+        "Oro"
+       ],
+       [
+        "Amor completo",
+        "31 de julio de 2015",
+        "Platino"
+       ],
+       [
+        "[Tu falta de querer](/tu-falta-de-querer-mon-laferte/)",
+        "14 de octubre de 2015",
+        "Diamante"
+       ],
+       [
+        "[Si tú me quisieras](/si-tu-me-quisieras-mon-laferte/)",
+        "8 de mayo de 2016",
+        "Platino"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Las demás canciones",
+   "bloques": [
+    "El disco también trae El cristal, El diablo, La visita, Un alma en pena, Salvador, Malagradecido y una pieza corta de menos de un minuto. Si tú me quisieras se agregó cuando Universal lo reeditó.",
+    "Para el resto de su carrera, sus discos y sus premios, mira la página de [Mon Laferte](/mon-laferte/)."
+   ]
+  }
+ ],
+ "ligas": [
+  "mon-laferte",
+  "tu-falta-de-querer-mon-laferte",
+  "si-tu-me-quisieras-mon-laferte"
+ ],
+ "fuentes": [
+  {
+   "t": "Mon Laferte, Vol. 1, Wikipedia en inglés",
+   "url": "https://en.wikipedia.org/wiki/Mon_Laferte,_Vol._1"
+  },
+  {
+   "t": "Mon Laferte, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Mon_Laferte"
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "slug": "canciones-para-bailar-con-papa-en-la-boda",
+ "estado": "publicada",
+ "fecha": "2026-11-15",
+ "cola": "canciones-para-bailar-con-papa-en-la-boda",
+ "busqueda": "canciones para bailar con papá en la boda",
+ "variantes": [
+  "canción para bailar con papá en boda",
+  "canciones para baile con papá en boda"
+ ],
+ "title": "Canciones para bailar con papá en la boda, en español",
+ "description": "Canciones para bailar con papá en la boda: Mi viejo de Piero y las que los papás escribieron a sus hijas, como Si tuviera que elegir. Con artista y consejos.",
+ "h1": "Canciones para bailar con papá en la boda",
+ "resumen": "Mi viejo y canciones que los papás escribieron para sus hijas.",
+ "respuesta": "La canción en español más conocida para bailar con papá es Mi viejo, de Piero, de 1969. También funcionan las que un papá escribió para su hija, como Si tuviera que elegir de Ricardo Montaner. Escojan una que dure poco y que los dos conozcan.",
+ "secciones": [
+  {
+   "h2": "La lista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Por qué"
+      ],
+      "filas": [
+       [
+        "Mi viejo",
+        "Piero",
+        "De 1969, la canción de hijos a papá más conocida"
+       ],
+       [
+        "Si tuviera que elegir",
+        "Ricardo Montaner",
+        "La escribió para su hija Evaluna, de 2002"
+       ],
+       [
+        "Mi princesa",
+        "David Bisbal",
+        "Para su hija Ella"
+       ],
+       [
+        "Mi persona favorita",
+        "Alejandro Sanz con Camila Cabello",
+        "Para su hija Alma"
+       ],
+       [
+        "Ese que me dio la vida",
+        "Alejandro Sanz",
+        "De 1995, de hijo a papá"
+       ],
+       [
+        "Cuando yo quería ser grande",
+        "Alejandro Fernández",
+        "Con mariachi"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Para que salga bonito",
+   "bloques": [
+    {
+     "lista": [
+      "Bailen dos minutos. Pidan que la canción baje despacio y que luego entre mamá o el resto de la familia.",
+      "Si papá no baila, que sea un abrazo con una vuelta lenta. Nadie mira los pies.",
+      "Díganle antes cuál es. A muchos papás les gana el llanto si los agarra de sorpresa."
+     ]
+    },
+    "Hay más en [canciones para papá](/canciones-para-papa/) y en [canciones para dedicar a mi hija](/canciones-para-dedicar-a-mi-hija/). Para el baile con mamá, mira [canciones para mamá](/canciones-para-mama/)."
+   ]
+  }
+ ],
+ "ligas": [
+  "canciones-para-boda",
+  "canciones-para-papa",
+  "canciones-para-dedicar-a-mi-hija"
+ ],
+ "fuentes": [
+  {
+   "t": "Canciones para el Día del Padre, El Imparcial",
+   "url": "https://www.elimparcial.com/espectaculos/2026/06/21/canciones-para-el-dia-del-padre-15-temas-para-dedicar-y-celebrar-a-papa-este-2026/"
+  },
+  {
+   "t": "Canciones del Día del Padre, Canal Trece",
+   "url": "https://canaltrece.com.co/noticias/canciones-del-dia-del-padre-letra/"
+  },
+  {
+   "t": "Artistas que escribieron canciones a sus hijos, Panamá América",
+   "url": "https://www.panamaamerica.com.pa/variedades/artistas-que-han-creado-canciones-con-letras-dedicadas-sus-hijos-1205555"
+  },
+  {
+   "t": "Canciones para el Día del Padre, Billboard",
+   "url": "https://www.billboard.com/lists/canciones-dia-del-padre-lista/alejandro-fernandez-cuando-yo-queria-ser-grande-2"
+  }
+ ]
+}

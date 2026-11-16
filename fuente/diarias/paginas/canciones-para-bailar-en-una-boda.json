@@ -1,0 +1,105 @@
+{
+ "slug": "canciones-para-bailar-en-una-boda",
+ "estado": "publicada",
+ "fecha": "2026-11-15",
+ "cola": "canciones-para-bailar-en-una-boda",
+ "busqueda": "canciones para bailar en una boda",
+ "variantes": [
+  "canción para bailar en boda",
+  "temazos para bodas"
+ ],
+ "title": "Canciones para bailar en una boda: cumbias y clásicos",
+ "description": "Canciones para bailar en una boda y abrir pista: cumbias que todos corean, pop en español y mariachi para el final. Con artista, año y cómo ordenar la noche.",
+ "h1": "Canciones para bailar en una boda",
+ "resumen": "Cumbias para abrir pista y cómo ordenar la noche.",
+ "respuesta": "Para abrir pista en una boda funcionan las cumbias que todos corean, como Como la flor de Selena o Nunca es suficiente con Los Ángeles Azules. Después del vals, pon primero las que conocen todas las edades y deja las más nuevas para más noche.",
+ "secciones": [
+  {
+   "h2": "Para abrir pista",
+   "bloques": [
+    {
+     "tabla": {
+      "cab": [
+       "Canción",
+       "Artista",
+       "Dato"
+      ],
+      "filas": [
+       [
+        "[Como la flor](/como-la-flor-selena/)",
+        "Selena",
+        "Cumbia de 1992"
+       ],
+       [
+        "[Nunca es suficiente](/nunca-es-suficiente/)",
+        "Natalia Lafourcade con Los Ángeles Azules",
+        "Su versión en cumbia es de 2018"
+       ],
+       [
+        "[Amárrame](/amarrame-mon-laferte/)",
+        "Mon Laferte con Juanes",
+        "Cumbia de 2017"
+       ],
+       [
+        "[Limón y sal](/limon-y-sal-julieta-venegas/)",
+        "Julieta Venegas",
+        "De 2006, llegó al número uno de Latin Pop Songs de Billboard"
+       ],
+       [
+        "[Cielito lindo](/cielito-lindo/)",
+        "Quirino Mendoza y Cortés",
+        "Para el final, con todos cantando"
+       ],
+       [
+        "[La bikina](/la-bikina/)",
+        "Rubén Fuentes",
+        "Para la hora del mariachi"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "h2": "Cómo ordenar la noche",
+   "bloques": [
+    {
+     "pasos": [
+      "Vals y baile con los papás.",
+      "Cumbias que conocen todas las edades, para llenar la pista.",
+      "Pop en español para los amigos de los novios.",
+      "Mariachi o canciones para corear al final."
+     ]
+    },
+    "Guarda dos o tres lentas para que descanse la pista. Las de cada momento de la ceremonia están en [canciones para boda](/canciones-para-boda/), y las que todos se saben, en [canciones para karaoke](/canciones-para-karaoke/)."
+   ]
+  }
+ ],
+ "ligas": [
+  "canciones-para-boda",
+  "canciones-para-karaoke",
+  "como-la-flor-selena"
+ ],
+ "fuentes": [
+  {
+   "t": "Como la flor, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Como_la_flor"
+  },
+  {
+   "t": "Nunca es suficiente, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Nunca_es_suficiente"
+  },
+  {
+   "t": "Amárrame, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Am%C3%A1rrame"
+  },
+  {
+   "t": "Limón y sal (canción), Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/Lim%C3%B3n_y_sal_(canci%C3%B3n)"
+  },
+  {
+   "t": "La bikina, Wikipedia en español",
+   "url": "https://es.wikipedia.org/wiki/La_bikina"
+  }
+ ]
+}
