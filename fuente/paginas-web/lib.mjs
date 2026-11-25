@@ -37,7 +37,9 @@ export const COLECCIONES = {
     intro: 'Formatos listos para llenar y bajar, sin dejar tu correo.' },
 };
 // Carpetas y archivos que ya existen en public/ o rutas del sitio: ningún servicio puede usar estos nombres.
-export const RESERVADAS = fs.readdirSync(RAIZ).filter((f) => !f.startsWith('.')).concat(['herramientas', 'guias', 'plantillas', 'comparar', 'paginas-web', 'diseno-web']);
+// Lo que ya existe en la raíz, menos las carpetas que escribe este mismo generador (servicios).
+const PROPIAS = (() => { try { return JSON.parse(fs.readFileSync(path.join(RAIZ, 'fuente', 'paginas-web', 'lista.json'), 'utf8')).filter((l) => l.molde === 'servicio').map((l) => l.slug); } catch { return []; } })();
+export const RESERVADAS = fs.readdirSync(RAIZ).filter((f) => !f.startsWith('.') && !PROPIAS.includes(f)).concat(['herramientas', 'guias', 'plantillas', 'comparar', 'paginas-web', 'diseno-web']);
 
 // Páginas que ya existen en Pilsi (rutas de TanStack) y que las fijas pueden ligar por id.
 // Siempre cuentan como publicadas.
