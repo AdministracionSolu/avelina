@@ -1,0 +1,150 @@
+{
+ "id": "terminal-para-cobrar-con-tarjeta",
+ "slug": "terminal-para-cobrar-con-tarjeta",
+ "molde": "guia",
+ "cabeza": "terminal para cobrar con tarjeta",
+ "busquedas": [],
+ "categoria": "Cobros",
+ "herramienta": null,
+ "fuentes": [
+  {"texto": "Mercado Pago México, terminales Point (leído el 12-nov-2026)", "url": "https://www.mercadopago.com.mx/herramientas-para-vender/lectores-point"},
+  {"texto": "BBVA México, terminal punto de venta para empresas (leído el 12-nov-2026)", "url": "https://www.bbva.mx/empresas/productos/cobros-y-pagos/terminal-punto-de-venta.html"}
+ ],
+ "serp": [
+  {"posicion": 1, "url": "https://www.tiendanube.com/mx/blog/cual-es-la-mejor-terminal-punto-de-venta-mexico/", "titulo": "Terminal punto de venta: ¿cuál es la mejor opción para tu marca?", "promete": "Tabla de tasas con fecha de enero; no hace cuentas con ventas de un negocio chico"},
+  {"posicion": 2, "url": "https://www.mercadopago.com.mx/blog/comisiones-point-mercado-pago-mexico", "titulo": "Guía de comisiones Point", "promete": "Explica sólo sus terminales; no compara con bancos ni con link de pago"},
+  {"posicion": 3, "url": "https://www.mercadopago.com.mx/blog/mejores-terminales-de-pago", "titulo": "Las mejores terminales de pago para negocios", "promete": "Guía escrita por un proveedor; sin preguntas para revisar el contrato"}
+ ],
+ "title": "Terminal para cobrar con tarjeta en tu show o tu estudio",
+ "h1": "Terminal para cobrar con tarjeta si eres artista",
+ "description": "Qué terminal para cobrar con tarjeta conviene en tu mesa de mercancía, tu estudio de tatuaje o tu feria de arte. Comisiones de México, cuentas y requisitos.",
+ "resumen": "Cobrar con tarjeta tu mercancía, tu obra o tus sesiones",
+ "revisada": "2026-11",
+ "relacionadas": ["link-de-pago", "cobrar-con-qr", "recibo-de-pago", "lista-de-precios", "como-vender-por-internet", "tienda-en-linea"],
+ "respuesta": [
+  "Una terminal es el aparato que lee la tarjeta de quien te compra y manda el pago a tu cuenta. Las de empresas de cobro se compran una vez y las de banco se contratan con cuotas.",
+  "Para escoger compara la comisión, el precio del equipo, las cuotas al mes y cuándo te depositan. Haz la cuenta con lo que vendes en un mes real de shows o de sesiones."
+ ],
+ "cuerpo": [
+  {"h2": "Por qué aceptar tarjeta en tu mesa de mercancía"},
+  {"p": "Cada vez menos gente trae efectivo a un concierto. Si sólo recibes billetes, varias playeras se quedan en la caja."},
+  {"p": "Pasa igual en una feria de ilustración o en tu estudio. El que quería tu lámina se va si no puede pagar como acostumbra."},
+  {"p": "Además ganas orden. Cada venta queda anotada y el dinero cae en tu cuenta sin cargar efectivo de regreso."},
+  {"p": "El precio de esa comodidad es la comisión. Por eso conviene elegir con calma y fijar tus precios pensando en ella."},
+  {"h2": "Las clases de terminal que hay"},
+  {"p": "No todas funcionan igual. Cambian según cómo se conectan y quién te las da."},
+  {"tabla": {"titulo": "Tipos de terminal para cobrar con tarjeta", "columnas": ["Tipo", "Cómo funciona", "Para quién"], "filas": [["Lector que se conecta al celular", "Se enlaza por bluetooth con una aplicación", "Músicos que venden mercancía en cada fecha"], ["Terminal con chip de datos propio", "Trae su propia conexión e imprime o manda ticket", "Artistas en ferias y bazares sin wifi"], ["Terminal inteligente con pantalla", "Funciona como un pequeño punto de venta", "Estudios con varios productos e inventario"], ["Terminal bancaria", "La contratas con tu banco con cuotas y requisitos", "Estudios con ventas altas todos los meses"], ["Cobro con el celular sin terminal", "Quien paga acerca su tarjeta a tu teléfono, si tu servicio lo permite", "Quien vende poco y quiere probar"]]}},
+  {"h2": "Qué comparar antes de escoger"},
+  {"p": "La comisión es lo que más se anuncia. Hay otros cobros que pesan igual cuando vendes poco."},
+  {"tabla": {"titulo": "Puntos para comparar terminales", "columnas": ["Punto", "Qué es", "Qué preguntar"], "filas": [["Comisión por venta", "Un porcentaje de cada cobro", "¿Lleva IVA aparte? ¿Cambia con crédito o débito?"], ["Cuota fija por venta", "Un monto fijo por cada cobro", "¿Se cobra aunque vendas un solo sticker?"], ["Costo del equipo", "Lo que pagas por la terminal", "¿Es precio de promoción o de lista?"], ["Cuotas mensuales", "Renta o penalización por vender poco", "¿Hay mínimo de ventas al mes?"], ["Depósito", "Cuándo llega el dinero a tu cuenta", "¿Al instante, al día siguiente o en días?"], ["Meses sin intereses", "Si quien compra puede pagar a plazos", "¿Cuánto me cuesta cada plazo?"], ["Requisitos", "Lo que te piden para abrir", "¿Necesito RFC o cuenta de empresa?"]]}},
+  {"h2": "Dos casos con cifras de México"},
+  {"p": "Estas cifras las publican dos proveedores en su página al 12 de noviembre de 2026. Cambian a menudo, revísalas el día que contrates."},
+  {"tabla": {"titulo": "Terminales Point de Mercado Pago (12 de noviembre de 2026)", "columnas": ["Terminal", "Precio de promoción", "Precio de lista"], "filas": [["Point Mini", "$79", "$499"], ["Point Air", "$329", "$2,999"], ["Point Smart 2", "$419", "$4,499"]]}},
+  {"p": "Ahí marcan 3.5% + IVA por cobro de contado, con débito o crédito. A meses sin intereses se agrega otra tasa, como 4.69% + IVA a 3 meses."},
+  {"tabla": {"titulo": "Terminal punto de venta de BBVA empresas (12 de noviembre de 2026)", "columnas": ["Concepto", "Monto en su tabla"], "filas": [["Afiliación del comercio", "$300 una vez"], ["Penalización por facturar menos de $25,000 al mes", "$359 al mes"], ["Terminal adicional", "$150 al mes por equipo"], ["Procesamiento y comunicación por evento", "$0.42"], ["Tasa de descuento de terminal portátil", "2.15% por transacción"]]}},
+  {"p": "El banco aclara que una de sus cuotas de contratación es de un producto que ya no vende al público. Pídele a tu ejecutivo la cotización del día."},
+  {"h2": "La cuenta con lo que vendes de verdad"},
+  {"p": "Cuál sale más barata depende de tu volumen. Un solista que vende diez discos por fecha no elige igual que un estudio lleno."},
+  {"tabla": {"titulo": "Ejemplo de un cobro de $500 con comisión de 3.5% + IVA", "columnas": ["Concepto", "Monto"], "filas": [["Venta", "$500.00"], ["Comisión de 3.5%", "$17.50"], ["IVA de la comisión", "$2.80"], ["Total que pagas", "$20.30"], ["Lo que te queda", "$479.70"]]}},
+  {"p": "Ahora piensa en un mes completo. Suma lo que cobras con tarjeta, aplica la comisión y agrega las cuotas fijas."},
+  {"p": "Si vendes poco con tarjeta, una renta o una penalización se comen tu ganancia. Si vendes mucho, una tasa menor compensa las cuotas."},
+  {"p": "Un ejemplo inventado para comparar. Un estudio de tatuaje que cobra $15,000 al mes con tarjeta no llega al mínimo de $25,000."},
+  {"p": "Para ese estudio pesa más la penalización mensual que una tasa un poco más baja. Le conviene un equipo sin mínimo."},
+  {"h2": "Qué terminal le queda a cada artista"},
+  {"p": "Ninguna es la mejor para todos. Todo depende de dónde cobras y de cuánto."},
+  {"tabla": {"titulo": "Terminal sugerida por disciplina", "columnas": ["Artista", "Lo que necesita", "Tipo que suele convenir"], "filas": [["Banda que vende mercancía en gira", "Cobrar en cualquier foro con el celular", "Lector que se conecta al celular"], ["Ilustradora en bazares y convenciones", "Cobrar sin depender del wifi del lugar", "Terminal con chip de datos propio"], ["Estudio de tatuaje", "Ticket y cobros varias veces al día", "Terminal con impresora"], ["Galería pequeña o tienda de arte", "Registrar piezas y existencias", "Terminal inteligente con pantalla"], ["Fotógrafo que cobra en la sesión", "Llevar la terminal al lugar de la sesión", "Terminal portátil con batería"], ["Escuela de música con muchos alumnos", "Tasa más baja por volumen", "Terminal bancaria"]]}},
+  {"p": "Si vas empezando, busca una sin renta ni mínimo al mes. Cuando crezcan tus ventas, vuelve a comparar."},
+  {"h2": "Tus precios con la comisión adentro"},
+  {"p": "La comisión sale de lo que ganas. Si una playera te deja poco margen, la terminal se lo lleva."},
+  {"ul": [
+   "Calcula lo que te queda por pieza después de la comisión con IVA.",
+   "Si un sticker deja casi nada, súbelo un poco o véndelo en paquete.",
+   "Cobra el mismo precio sin importar cómo te paguen.",
+   "Pon un mínimo para pagar con tarjeta sólo si tu proveedor y la ley lo permiten."
+  ]},
+  {"p": "Revisa tus números cada tres meses. Las tasas cambian y tus costos de impresión también."},
+  {"p": "Si todavía no tienes tus precios por escrito, arma tu [lista de precios](id:lista-de-precios) antes de la siguiente fecha."},
+  {"h2": "Lo que te van a pedir"},
+  {"p": "Cada proveedor pide algo distinto. Junta esto antes de hacer tu solicitud."},
+  {"ul": [
+   "Identificación oficial vigente.",
+   "Una cuenta a tu nombre donde recibir el dinero.",
+   "Comprobante de domicilio.",
+   "RFC y constancia de situación fiscal, sobre todo si es banco.",
+   "Datos de tu actividad, como giro y dirección del estudio."
+  ]},
+  {"p": "Las empresas de cobro suelen pedir menos papeles. Los bancos piden más, pero a veces bajan la tasa a quien vende mucho."},
+  {"venta": true},
+  {"h2": "Pagos a meses en tu terminal"},
+  {"p": "Los meses sin intereses ayudan a vender una pieza cara o un tatuaje grande. El costo de esos meses lo absorbes tú."},
+  {"ul": [
+   "Cada plazo agrega una comisión extra sobre la venta.",
+   "Entre más meses, más alta la comisión.",
+   "Ofrécelos sólo en obras o sesiones con margen suficiente.",
+   "Fija un monto mínimo para pagar a meses."
+  ]},
+  {"p": "Haz la cuenta antes de anunciarlo en tus redes. A veces conviene ofrecer pocos plazos y no todos."},
+  {"h2": "Cómo cobrar sin contratiempos en una fecha"},
+  {"ul": [
+   "Deja que quien paga inserte o acerque su tarjeta.",
+   "Confirma que diga aprobado antes de entregar la playera.",
+   "Guarda los tickets o comprobantes digitales por cualquier aclaración.",
+   "Lleva la batería llena y un cargador en la mochila.",
+   "Si el foro no tiene señal, ten listo un QR de cobro o tu cuenta para transferencia.",
+   "Al final de la noche cuadra lo vendido con lo que marca la aplicación."
+  ]},
+  {"h2": "Contracargos y reclamos"},
+  {"p": "Un contracargo ocurre cuando el dueño de la tarjeta desconoce un cobro. El banco le puede regresar el dinero y quitártelo a ti."},
+  {"ul": [
+   "Guarda el ticket o el comprobante digital de cada venta.",
+   "En una obra cara, anota qué pieza vendiste y a quién.",
+   "Contesta pronto cuando tu proveedor te pida pruebas.",
+   "Sospecha de compras grandes con prisa y tarjeta ajena."
+  ]},
+  {"h2": "Terminal, link de pago o QR"},
+  {"p": "La terminal sirve cuando la persona está frente a ti. Para lo demás hay otras herramientas."},
+  {"tabla": {"titulo": "Qué usar en cada caso", "columnas": ["Caso", "Herramienta"], "filas": [["Fan en tu mesa de mercancía", "Terminal"], ["Anticipo de una boda que te contrata por WhatsApp", "[Link de pago](id:link-de-pago)"], ["Fila larga en una convención", "[Cobro con QR](id:cobrar-con-qr)"], ["Cliente que prefiere su banca en el celular", "Transferencia"]]}},
+  {"p": "Muchos proveedores dan las tres cosas en la misma cuenta. Así ves todos tus cobros juntos."},
+  {"p": "Si te piden comprobante del anticipo, entrégale un [recibo de pago](id:recibo-de-pago) con la fecha del evento."},
+  {"h2": "Lo que debes preguntar antes de firmar"},
+  {"ol": [
+   "¿La comisión trae el IVA incluido o va aparte?",
+   "¿Hay una cuota fija por cada cobro?",
+   "¿El precio del equipo es de promoción y hasta cuándo dura?",
+   "¿Hay renta, mínimo de ventas o penalización al mes?",
+   "¿En cuántos días me depositan?",
+   "¿Cuánto cuesta cada plazo de meses sin intereses?",
+   "¿Qué pasa si el equipo falla en plena gira?",
+   "¿Cómo se cancela y cuánto cobran por hacerlo?"
+  ]},
+  {"h2": "Un pintor que decide su terminal"},
+  {"p": "Otro ejemplo inventado para ver la decisión entera. Un pintor vende unas veinte obras chicas al mes en bazares y en su taller."},
+  {"p": "Compara un equipo sin renta contra una terminal de banco con mínimo mensual. Como no llega al mínimo, se queda con la que no cobra renta."},
+  {"p": "Para sus cuadros grandes ofrece tres meses sin intereses arriba de cierto monto. Así no pierde margen en las piezas chicas."},
+  {"h2": "Errores comunes al escoger"},
+  {"ul": [
+   "Elegir por el precio del aparato sin mirar la comisión.",
+   "Olvidar que la comisión también paga IVA.",
+   "Firmar con mínimo mensual sin vender lo necesario.",
+   "Ofrecer todos los plazos sin sacar cuentas.",
+   "Tirar los comprobantes y perder un contracargo."
+  ]}
+ ],
+ "faqs": [
+  {"pregunta": "¿Cuánto cobra una terminal por cada venta?", "respuesta": "Depende del proveedor. Mercado Pago publica 3.5% + IVA en sus terminales Point, leído el 12 de noviembre de 2026."},
+  {"pregunta": "¿Necesito RFC para tener una terminal?", "respuesta": "Depende de quién te la da. Los bancos suelen pedirlo y algunas empresas de cobro no lo piden para empezar."},
+  {"pregunta": "¿Cuánto cuesta el aparato?", "respuesta": "Varía bastante. Hay equipos con precio de promoción bajo y otros de varios miles de pesos de lista."},
+  {"pregunta": "¿Puedo cobrar un tatuaje a meses sin intereses?", "respuesta": "Sí, en muchas terminales. Cada plazo suma una comisión que pagas tú."},
+  {"pregunta": "¿Cuándo me cae el dinero?", "respuesta": "Depende del proveedor y del plan. Pregunta si es al instante, al día siguiente o en varios días."},
+  {"pregunta": "¿Puedo cobrar con tarjeta sin tener terminal?", "respuesta": "Sí, con link de pago o con QR. Depende de lo que ofrezca tu proveedor."}
+ ],
+ "venta": {
+  "puente": "Con un sitio tuyo puedes mostrar tu obra o tu mercancía con precio y recibir pedidos antes de cada fecha.",
+  "titulo": "¿Te hago un sitio para vender tu obra y tu mercancía?",
+  "tituloCorto": "Tu sitio para vender"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026"
+}

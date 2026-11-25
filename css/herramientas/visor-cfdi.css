@@ -1,0 +1,53 @@
+/* Herramienta «visor-cfdi». Prefijo acfdi-. Sin sombras ni degradados. */
+
+.acfdi > .ah-vista { position: static; }
+.acfdi-zona { justify-items: start; }
+.acfdi-soltar { margin: 0; font-size: 17px; font-weight: 500; }
+.acfdi-errores:empty { display: none; }
+.acfdi-archivo[aria-pressed="true"] { border-color: var(--ah-texto); }
+.acfdi-acciones { display: grid; gap: 12px; }
+.acfdi-vista:empty { display: none; }
+.acfdi-vista, .acfdi-hoja > *, .acfdi-hoja section { min-width: 0; }
+
+.acfdi-hoja {
+  background: #fff; color: #1a1a1a; border-radius: 4px; padding: 32px 36px; display: grid; gap: 24px;
+  font: 400 14px/1.45 Helvetica, Arial, sans-serif; min-width: 0;
+}
+.acfdi-hoja h4 { margin: 0 0 8px; font-size: 11px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: #1F3A5F; }
+.acfdi-hoja p { margin: 0; }
+.acfdi-gris { color: #666; font-size: 13px; }
+.acfdi-cab { display: flex; justify-content: space-between; gap: 18px; flex-wrap: wrap; padding-bottom: 16px; border-bottom: 2px solid #1F3A5F; }
+.acfdi-emisor { font-size: 20px; font-weight: 700; }
+.acfdi-tipo { text-align: right; }
+.acfdi-tipo p:first-child { font-weight: 700; color: #1F3A5F; }
+.acfdi-dos { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 24px; }
+.acfdi-dl { display: grid; grid-template-columns: 130px minmax(0, 1fr); gap: 4px 12px; margin: 0; font-size: 13px; }
+.acfdi-dl dt { color: #666; }
+.acfdi-dl dd { margin: 0; overflow-wrap: anywhere; }
+.acfdi-tabla-caja { overflow-x: auto; }
+.acfdi-tabla { border-collapse: collapse; width: 100%; font-size: 13px; min-width: 560px; }
+.acfdi-tabla th { background: #1F3A5F; color: #fff; text-align: left; font-weight: 700; padding: 7px 8px; font-size: 12px; }
+.acfdi-tabla td { padding: 8px; border-bottom: 1px solid #e6e6e6; vertical-align: top; }
+.acfdi-tabla td small { display: block; color: #666; font-size: 11.5px; }
+.acfdi-tabla td:nth-child(1), .acfdi-tabla td:nth-last-child(-n+2), .acfdi-tabla th:nth-last-child(-n+2) { text-align: right; white-space: nowrap; }
+.acfdi-totales { display: grid; gap: 4px; font-size: 13px; }
+.acfdi-totales p { display: flex; justify-content: space-between; gap: 12px; }
+.acfdi-totales span:first-child { color: #666; }
+.acfdi-total { background: #1F3A5F; color: #fff; padding: 7px 10px; font-weight: 700; font-size: 15px; border-radius: 2px; }
+.acfdi-total span:first-child { color: #fff; }
+.acfdi-timbre { display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 20px; align-items: start; padding-top: 18px; border-top: 1px solid #1F3A5F; }
+.acfdi-qr svg { display: block; width: 100%; height: auto; }
+.acfdi-sellos { margin-top: 12px; }
+.acfdi-sellos summary { cursor: pointer; font-size: 13px; color: #1F3A5F; }
+.acfdi-sellos .acfdi-dl { grid-template-columns: 1fr; margin-top: 10px; font-size: 11px; }
+.acfdi-sellos dd { font-family: ui-monospace, Menlo, monospace; color: #444; }
+.acfdi-alerta { color: #9b2c2c; font-weight: 700; }
+
+@media (max-width: 640px) {
+  .acfdi-hoja { padding: 20px 16px; }
+  .acfdi-dos, .acfdi-timbre { grid-template-columns: 1fr; }
+  .acfdi-tipo { text-align: left; }
+  .acfdi-dl { grid-template-columns: 1fr; gap: 0 0; }
+  .acfdi-dl dd { margin-bottom: 6px; }
+  .acfdi-qr { max-width: 130px; }
+}

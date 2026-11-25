@@ -1,0 +1,432 @@
+{
+ "id": "landing-page",
+ "slug": "landing-page",
+ "molde": "servicio",
+ "cabeza": "landing page",
+ "busquedas": [
+  "landing page",
+  "landing page precio",
+  "landing page para negocio",
+  "hacer landing page",
+  "diseño de landing page",
+  "página de aterrizaje"
+ ],
+ "categoria": "Página web",
+ "servicio": {
+  "nombre": "Landing page para artistas",
+  "tipo": "Diseño de landing page"
+ },
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.dolarapp.com/en-MX/blog/freelancer-tips/landing-page-que-es-para-que-sirve-ejemplos",
+   "titulo": "Landing page: qué es, para qué sirve y ejemplos",
+   "promete": "Definición para campañas; no la ofrece hecha ni da precio"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.salesforce.com/mx/marketing/how-to-create-landing-pages/",
+   "titulo": "Cómo crear landing pages",
+   "promete": "Guía para empresas grandes con su software de marketing"
+  },
+  {
+   "posicion": 3,
+   "url": "https://landingi.com/es/landing-page/costo/",
+   "titulo": "Costo de una landing page",
+   "promete": "Precios en euros y dólares de su constructor; no aplica a un negocio local en México"
+  }
+ ],
+ "title": "Landing page de artista por $1,500 con dominio",
+ "h1": "Landing page para tu música o tu arte",
+ "description": "Te hago la landing de tu banda, tu estudio o tu obra por $1,500 con dominio incluido y luego $99 al mes. Tu música arriba y WhatsApp para contratarte.",
+ "resumen": "Tu landing de artista con dominio incluido",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "ejemplos-de-landing-page",
+  "que-es-una-landing-page",
+  "pagina-web-para-negocio",
+  "diseno-de-paginas-web",
+  "comprar-dominio",
+  "favicon"
+ ],
+ "respuesta": [
+  "Una landing es una sola página larga que cuenta lo importante de tu proyecto y termina en un paso. Para un artista ese paso suele ser que te escriban para contratarte.",
+  "Yo la hago desde Pilsi por $1,500 con tu dominio incluido y una ronda de cambios. Después son $99 al mes para tenerla al día con los cambios que pidas."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Qué te llevas"
+  },
+  {
+   "p": "Una página hecha para tu disciplina que se recorre con el pulgar. Todo en ella acerca a quien te visita al botón de WhatsApp."
+  },
+  {
+   "ul": [
+    "Un diseño pensado para tu música o tu obra, con tus colores.",
+    "Tus videos, tu audio o tu galería en el mismo lugar.",
+    "El botón de WhatsApp en varias partes de la página.",
+    "Tu dominio incluido y registrado a tu nombre.",
+    "Una ronda de cambios antes de publicarla."
+   ]
+  },
+  {
+   "p": "Primero ves una muestra y después decides. Llenas un formulario corto con tus redes o tu material y te la mando."
+  },
+  {
+   "h2": "Precio"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Concepto",
+     "Costo"
+    ],
+    "filas": [
+     [
+      "Diseño y publicación",
+      "$1,500 de pago único"
+     ],
+     [
+      "Dominio a tu nombre",
+      "Incluido"
+     ],
+     [
+      "Ronda de cambios inicial",
+      "Incluida"
+     ],
+     [
+      "Mensualidad",
+      "$99 desde el mes siguiente"
+     ],
+     [
+      "Página al día y cambios que pidas",
+      "Incluidos en la mensualidad"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Todo es en pesos mexicanos y se paga con tarjeta. El primer pago cubre la página y la mensualidad empieza al otro mes."
+  },
+  {
+   "p": "Si más adelante quieres más secciones, puedes pasar al sitio completo de $5,000. Lo que pagaste por la landing se abona a ese precio."
+  },
+  {
+   "h2": "El orden de una landing de artista"
+  },
+  {
+   "p": "Dónde va cada cosa importa tanto como cómo se ve. Así acomodo las secciones de una página para alguien que vive de su arte."
+  },
+  {
+   "ol": [
+    "Tu nombre artístico, lo que haces y tu ciudad, con el botón de WhatsApp.",
+    "Tu mejor muestra, un clip en vivo, una canción o tu obra principal.",
+    "Lo que ofreces con precio desde, por ejemplo bodas o clases.",
+    "Fotos tuyas trabajando o en el escenario.",
+    "Opiniones de quien ya te contrató.",
+    "Las dudas de siempre contestadas.",
+    "Tus redes, tu zona y otra vez el botón."
+   ]
+  },
+  {
+   "p": "El mensaje de WhatsApp llega ya escrito. La persona sólo toca enviar y tú lees de qué se trata desde el primer renglón."
+  },
+  {
+   "h2": "Landing o sitio completo"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "",
+     "Landing",
+     "Sitio completo"
+    ],
+    "filas": [
+     [
+      "Precio",
+      "$1,500",
+      "$5,000"
+     ],
+     [
+      "Páginas",
+      "Una sola, larga",
+      "Hasta 10"
+     ],
+     [
+      "Dominio",
+      "Incluido",
+      "Lo compras tú y lo conectamos"
+     ],
+     [
+      "Conviene si",
+      "Ofreces pocos servicios y te contratan por WhatsApp",
+      "Tienes discografía, galería grande o agenda de eventos"
+     ],
+     [
+      "Aviso de privacidad y términos",
+      "Aparte",
+      "Incluidos"
+     ],
+     [
+      "Mensualidad",
+      "$99",
+      "$99"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "A casi todos los solistas y grupos que empiezan les alcanza la landing. Es la forma más sencilla de tener tu primera dirección propia."
+  },
+  {
+   "h2": "Cómo cambia según lo que haces"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Disciplina",
+     "Secciones de su landing"
+    ],
+    "filas": [
+     [
+      "Grupo para eventos",
+      "Video en vivo · formatos y precio desde · repertorio y botón para pedir fecha"
+     ],
+     [
+      "Tatuador",
+      "Estilos · galería de trabajos cicatrizados · cuidados y botón para cita"
+     ],
+     [
+      "Pintora",
+      "Obra disponible · encargos · proceso y botón para preguntar por una pieza"
+     ],
+     [
+      "Maestra de guitarra",
+      "Niveles · horarios · clase muestra y botón para inscribirse"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "En todos la meta es la misma. Que quien te escribe ya llegue con una pregunta concreta."
+  },
+  {
+   "h2": "Dos sitios que puedes abrir"
+  },
+  {
+   "p": "Ábrelos en tu celular y bájalos hasta el final. Cada uno te lleva a un solo paso."
+  },
+  {
+   "trabajos": true
+  },
+  {
+   "p": "Mi sitio te lleva a escuchar mi música y leer mis cartas. Pilsi te lleva a explorar talento creativo y crear tu perfil."
+  },
+  {
+   "h2": "Cómo trabajamos"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Pides tu demo",
+     "texto": "Llenas un formulario corto con tus redes o tu material. No pagas nada todavía."
+    },
+    {
+     "titulo": "Recibes la muestra",
+     "texto": "Armo una primera versión con lo tuyo para que la veas en tu celular."
+    },
+    {
+     "titulo": "La ajustamos y sale",
+     "texto": "Si te gusta, pagas, hacemos la ronda de cambios y se publica con tu dominio."
+    },
+    {
+     "titulo": "La mantenemos viva",
+     "texto": "Con los $99 al mes me pides lo que quieras cambiar, como una fecha nueva o un video."
+    }
+   ]
+  },
+  {
+   "h2": "Para qué te sirve aunque no hagas anuncios"
+  },
+  {
+   "p": "En publicidad la landing suele ser el destino de un anuncio. Para un artista funciona como su carta de presentación completa."
+  },
+  {
+   "ul": [
+    "Es la liga de tu perfil de Instagram y de tu canal.",
+    "Es a donde lleva el QR de tu flyer y de tu mesa de mercancía.",
+    "Es lo que mandas a quien te pide informes por mensaje.",
+    "Es lo que le enseñas a un organizador antes de cerrar la fecha."
+   ]
+  },
+  {
+   "p": "Si quieres entender bien el concepto, lee [qué es una landing page](id:que-es-una-landing-page). También hay [ejemplos de landing page](id:ejemplos-de-landing-page) para estrenos y preventas."
+  },
+  {
+   "h2": "Lo que arruina una landing hecha con prisa"
+  },
+  {
+   "ul": [
+    "El botón para contratarte escondido hasta abajo.",
+    "Fotos de banco en lugar de fotos tuyas.",
+    "Una biografía tan larga que nadie llega a tu música.",
+    "Videos tan pesados que la página tarda en abrir.",
+    "Un número viejo que ya no contestas."
+   ]
+  },
+  {
+   "p": "Cuido que tu página abra rápido con datos del celular. También reviso que tus datos sean los mismos en tus redes y en tu sitio."
+  },
+  {
+   "h2": "La primera pantalla decide"
+  },
+  {
+   "p": "Quien abre tu landing decide en segundos si se queda. Lo primero que ve en el celular tiene que resolver tres dudas."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Pregunta de quien te visita",
+     "Qué le contesta tu landing"
+    ],
+    "filas": [
+     [
+      "¿Qué hace este artista?",
+      "Una frase corta con tu disciplina y tu estilo"
+     ],
+     [
+      "¿Toca o trabaja cerca de mí?",
+      "Tu ciudad o la zona a la que viajas"
+     ],
+     [
+      "¿Cómo lo contrato?",
+      "El botón de WhatsApp a la vista"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Lo demás va más abajo. Tus videos, tus precios y tus opiniones convencen a quien ya decidió quedarse."
+  },
+  {
+   "h2": "Cómo escribo tus textos"
+  },
+  {
+   "p": "En el celular se lee poco y de prisa. Por eso cada bloque cuenta una sola cosa."
+  },
+  {
+   "ul": [
+    "Títulos cortos que se entienden solos.",
+    "Precios con número, aunque sea un precio desde.",
+    "Palabras de tu público y no de folleto.",
+    "Un botón al final de cada sección importante."
+   ]
+  },
+  {
+   "p": "Si ya tienes una biografía o textos en tus redes, los aprovecho. Tú sólo revisas que digan lo que quieres."
+  },
+  {
+   "h2": "Tu landing como destino de anuncios"
+  },
+  {
+   "p": "Si algún día pagas un anuncio para un show, necesitas un lugar a donde mandar a la gente. Tu landing ordena esa plática."
+  },
+  {
+   "p": "La persona ve tu muestra y tu precio antes de escribir. Te llegan mensajes de gente que ya sabe lo que quiere."
+  },
+  {
+   "p": "Cuando cambie tu promoción, me avisas y la actualizo. Así tu anuncio y tu página dicen lo mismo."
+  },
+  {
+   "h2": "Después de publicarla"
+  },
+  {
+   "p": "Tu landing no se congela. Con la mensualidad me pides los cambios que vayas necesitando."
+  },
+  {
+   "ul": [
+    "Subir tu sencillo nuevo o un video reciente.",
+    "Cambiar precios cuando suban tus costos.",
+    "Agregar las fechas del mes.",
+    "Avisar que estás de gira o de descanso.",
+    "Quitar un servicio que ya no das."
+   ]
+  },
+  {
+   "p": "Con el tiempo la página aprende de tu público. Si muchos preguntan lo mismo, se agrega la respuesta."
+  },
+  {
+   "h2": "Lo que necesito para empezar"
+  },
+  {
+   "ul": [
+    "Tu nombre artístico y tu logo si ya tienes uno.",
+    "Lo que ofreces con su precio.",
+    "Fotos o videos de tu trabajo.",
+    "El número de WhatsApp donde quieres recibir contrataciones."
+   ]
+  },
+  {
+   "p": "Si no tienes logo, escribo tu nombre con una letra que vaya con tu estilo. Mientras me mandas tu material uso lo que ya está en tus redes."
+  },
+  {
+   "h2": "Lo que no lleva"
+  },
+  {
+   "p": "La landing informa y trae botones de contacto. No incluye carrito ni cobros dentro de la página, ni venta de boletos en línea."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Cuánto cuesta la landing?",
+   "respuesta": "$1,500 con tu dominio incluido y una ronda de cambios. Luego $99 al mes."
+  },
+  {
+   "pregunta": "¿Cuánto tarda?",
+   "respuesta": "Pocos días. Primero recibes la muestra y luego la ajustamos juntos."
+  },
+  {
+   "pregunta": "¿La veo antes de pagar?",
+   "respuesta": "Sí la ves. Primero te llega la muestra y después decides si sigues."
+  },
+  {
+   "pregunta": "¿El dominio queda a mi nombre?",
+   "respuesta": "Sí. Se registra a tu nombre y no se paga aparte."
+  },
+  {
+   "pregunta": "¿Qué pasa si dejo de pagar los $99?",
+   "respuesta": "Se pausa la página. Tu dominio no se va a ningún lado."
+  },
+  {
+   "pregunta": "¿Puedo crecer a sitio completo?",
+   "respuesta": "Sí puedes. Lo que pagaste por la landing cuenta como abono a los $5,000."
+  },
+  {
+   "pregunta": "¿Sirve si no tengo estudio ni local?",
+   "respuesta": "Sí. Ponemos la zona donde tocas o trabajas en lugar de una dirección."
+  },
+  {
+   "pregunta": "¿Cuántos cambios puedo pedir?",
+   "respuesta": "Antes de salir hay una ronda. Ya publicada, la mensualidad cubre lo que vayas pidiendo."
+  },
+  {
+   "pregunta": "¿Necesito logo?",
+   "respuesta": "No. Si no tienes, escribo tu nombre con una letra que vaya con tu estilo."
+  },
+  {
+   "pregunta": "¿La landing vende boletos o cobra con tarjeta?",
+   "respuesta": "No. Lleva botones a tu WhatsApp y a tus redes, y el pago lo acuerdas tú."
+  }
+ ],
+ "venta": {
+  "puente": "Tu landing de artista junta tu muestra, tus precios y tu WhatsApp en una dirección con tu nombre.",
+  "titulo": "¿Te hago tu landing de artista?",
+  "tituloCorto": "Tu landing de artista"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

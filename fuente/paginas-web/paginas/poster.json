@@ -1,0 +1,214 @@
+{
+ "id": "poster",
+ "slug": "poster",
+ "molde": "herramienta",
+ "cabeza": "crear poster para imprimir",
+ "busquedas": [
+  "crear posters para imprimir",
+  "crear poster",
+  "hacer poster",
+  "hacer un poster",
+  "crear un poster",
+  "crear poster gratis",
+  "crear un poster gratis",
+  "hacer posters",
+  "creador de posters",
+  "poster publicitario",
+  "posters publicitario"
+ ],
+ "categoria": "Diseño para imprimir",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "editor-diseno",
+  "modo": "poster"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.canva.com/es_mx/crear/posters/",
+   "titulo": "Crear pósters (Canva)",
+   "promete": "Editor e impresión de pago"
+  },
+  {
+   "posicion": 2,
+   "url": "https://es.cyberlink.com/blog/editar-imagenes/5389/como-crear-posters",
+   "titulo": "Cómo hacer pósters con IA (CyberLink)",
+   "promete": "Guía que vende su app"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.visme.co/es/cartel-publicitario/",
+   "titulo": "Cartel publicitario (Visme)",
+   "promete": "Editor; PDF de imprenta de pago"
+  }
+ ],
+ "title": "Crear póster para imprimir gratis para tu tocada o expo",
+ "h1": "Crear póster para imprimir de tu tocada o tu exposición",
+ "description": "Arma el póster de tu concierto, tu exposición o tu taller en carta, tabloide o 60 × 90 cm. Sube tu foto de prensa y baja el PDF a escala real. Hazlo gratis.",
+ "resumen": "El póster de tu concierto o tu expo hasta 60 × 90 cm",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "cartel-publicitario",
+  "flyer",
+  "flyer-para-fiesta",
+  "lona-publicitaria",
+  "banner",
+  "generador-de-qr"
+ ],
+ "respuesta": [
+  "Escoge un estilo, escribe el nombre de tu tocada y la fecha, y agrega tu foto si quieres. El póster sale en carta, tabloide o 60 × 90 cm. El PDF va a tamaño real y las letras no se pixelean aunque lo mandes grande."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Cómo armar el póster de tu evento"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Imagina la pared donde va a quedar",
+     "texto": "En la entrada de un foro tu póster pelea con los de otras bandas. En una galería compite con las obras de alrededor."
+    },
+    {
+     "titulo": "Elige el estilo según los datos",
+     "texto": "Elegante luce con una buena foto y mucho espacio libre. Retícula acomoda mejor un cartel con varias bandas y horarios."
+    },
+    {
+     "titulo": "Usa tu foto original",
+     "texto": "En 60 × 90 cm una foto reenviada por chat se ve granulada. Busca el archivo que te dio el fotógrafo."
+    },
+    {
+     "titulo": "Revisa el PDF al cien por ciento",
+     "texto": "Acerca la imagen en tu computadora hasta verla en tamaño real. Lo que se ve borroso en pantalla también sale borroso en papel."
+    }
+   ]
+  },
+  {
+   "h2": "Póster de una fecha contra póster para colgar"
+  },
+  {
+   "p": "El póster de una tocada deja de servir al día siguiente. Tiene que decir qué es, cuándo, dónde y cuánto cuesta la entrada."
+  },
+  {
+   "p": "El póster de pared se queda colgado meses. Basta una frase, una imagen tuya y tu nombre, sin ninguna fecha."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Tipo",
+     "Lo que no puede faltar",
+     "Estilo sugerido"
+    ],
+    "filas": [
+     [
+      "Concierto o tocada",
+      "Fecha, foro y costo de entrada",
+      "Bloques"
+     ],
+     [
+      "Exposición de pintura o foto",
+      "Fecha de inauguración, cierre y horario",
+      "Elegante"
+     ],
+     [
+      "Taller o clase abierta",
+      "Día de inicio, cupo y cómo apartar lugar",
+      "Inscripciones"
+     ],
+     [
+      "Póster de tu disco o tu obra",
+      "Frase corta, imagen y tu nombre",
+      "Letra grande o elegante"
+     ],
+     [
+      "Festival con varias bandas",
+      "Orden de bandas y horarios",
+      "Retícula"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Dónde imprimir cada tamaño"
+  },
+  {
+   "p": "El tamaño carta lo sacas en tu casa o en cualquier papelería. El tabloide se pide en centros de copiado con impresora doble carta."
+  },
+  {
+   "p": "El de 60 × 90 cm necesita impresión de gran formato. Para interiores con luz fuerte pide papel fotográfico mate."
+  },
+  {
+   "p": "El PNG grande baja hasta 300 ppp para que tu navegador no se trabe. En tamaños grandes el PDF cuida mejor las letras."
+  },
+  {
+   "h2": "Detalles que hacen lucir un póster de artista"
+  },
+  {
+   "ul": [
+    "Un margen amplio para que el marco no se coma los textos.",
+    "Dos tipografías como máximo, una para el título y otra para lo demás.",
+    "La fecha en número grande y fácil de encontrar.",
+    "El nombre del foro o la galería tan visible como el tuyo.",
+    "Un QR abajo a la derecha, donde termina la mirada."
+   ]
+  },
+  {
+   "p": "Ese QR puede llevar a tus boletos o a tu música. Hazlo con el [generador de QR](id:generador-de-qr) y pégalo en el diseño."
+  },
+  {
+   "p": "Si quieres anunciar precios de clases o paquetes, mira el [cartel publicitario](id:cartel-publicitario). Para la calle, una [lona publicitaria](id:lona-publicitaria) aguanta más el sol."
+  },
+  {
+   "h2": "Cómo colgarlo sin maltratarlo"
+  },
+  {
+   "p": "La cinta adhesiva arranca pintura y deja marcas en la pared del foro. Mejor usa masilla reutilizable o clips en las esquinas."
+  },
+  {
+   "p": "Si va afuera pero techado, enmícalo o mételo en una funda de acetato. La humedad ondula el papel en pocos días."
+  },
+  {
+   "p": "Cuando pegues varios por la ciudad, guarda uno sin fecha. Te sirve como base para la siguiente tocada."
+  },
+  {
+   "h2": "El póster como mercancía"
+  },
+  {
+   "p": "Un póster bien hecho también se vende en tu mesa después del show. Muchos fans quieren llevarse algo de esa noche."
+  },
+  {
+   "p": "Para eso quita la fecha y deja sólo tu nombre y una imagen fuerte. Firma unos cuantos y súbeles el precio."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué tamaños trae el editor?",
+   "respuesta": "Tres. Carta, tabloide y 60 × 90 cm."
+  },
+  {
+   "pregunta": "¿Lo puedo imprimir en casa?",
+   "respuesta": "Sí, en carta. Los tamaños grandes necesitan una imprenta de gran formato."
+  },
+  {
+   "pregunta": "¿Puedo subir la foto de mi banda o de mi obra?",
+   "respuesta": "Sí. Usa fotos tuyas o con permiso de quien las tomó."
+  },
+  {
+   "pregunta": "¿Se queda guardado mi diseño?",
+   "respuesta": "Sí. Textos, colores y tamaño se quedan en este navegador. La foto y el logo los vuelves a subir cada vez."
+  },
+  {
+   "pregunta": "¿Tiene costo o marca de agua?",
+   "respuesta": "No. Diseñas y bajas tus pósters gratis."
+  }
+ ],
+ "venta": {
+  "puente": "Tu póster anuncia la fecha, y tu sitio de artista guarda todas las fechas, tu música y tus boletos.",
+  "aviso": "Tu póster está listo. ¿Quieres un sitio al que lleve su QR?",
+  "titulo": "¿Te hago el sitio al que manda tu póster?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

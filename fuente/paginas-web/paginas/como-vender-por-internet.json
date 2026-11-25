@@ -1,0 +1,177 @@
+{
+ "id": "como-vender-por-internet",
+ "slug": "como-vender-por-internet",
+ "molde": "guia",
+ "cabeza": "ventas en línea",
+ "busquedas": ["ventas online", "cómo vender por internet", "como y que vender por internet", "como vender por internet gratis", "venta por internet", "ventas por internet", "ventas internet"],
+ "categoria": "Negocio",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {"posicion": 1, "url": "https://www.tiendanube.com/mx/blog/vender-en-tiendanube-mexico", "titulo": "¿Cómo vender en Tiendanube en México? 15 tips para tener éxito", "promete": "Consejos dentro de su plataforma; no cubre vender por WhatsApp ni a negocios de servicio"},
+  {"posicion": 2, "url": "https://www.tiendanube.com/mx/blog/paginas-para-vender-por-internet-en-mexico/", "titulo": "Las mejores páginas para vender por internet en México", "promete": "Lista de mercados y plataformas; no dice cómo atender ni cómo entregar"},
+  {"posicion": 3, "url": "https://www.bbva.mx/educacion-financiera/empresa/como-vender-por-internet.html", "titulo": "¿Cómo vender mis productos por internet?", "promete": "Consejos generales de banco; sin pasos ni ejemplos de negocios chicos"}
+ ],
+ "title": "Ventas en línea para artistas y músicos en 7 pasos",
+ "h1": "Cómo vender tu arte y tu música por internet",
+ "description": "Cómo vender por internet tu obra, tu mercancía, tus clases o tus sesiones. Siete pasos, fotos, precios, cobro y envío pensados para artistas. Empieza hoy.",
+ "resumen": "Vender obra, mercancía y servicios de artista en línea",
+ "revisada": "2026-11",
+ "relacionadas": ["link-de-pago", "link-en-bio", "terminal-para-cobrar-con-tarjeta", "terminos-y-condiciones", "publicidad-en-facebook", "tienda-en-linea"],
+ "respuesta": [
+  "Para vender tu arte en línea necesitas tres piezas. Un lugar donde se vea tu trabajo, una forma de contestar rápido y una manera de cobrar y entregar.",
+  "No hace falta abrir una tienda enorme. Muchos artistas en México venden con un sitio, un catálogo y WhatsApp, y desde ahí crecen."
+ ],
+ "cuerpo": [
+  {"h2": "Siete pasos para vender tu trabajo en línea"},
+  {"p": "Vender por internet se parece a vender en tu mesa de mercancía. Lo que cambia es dónde te descubren y cómo te pagan."},
+  {"pasos": [
+   {"titulo": "Escoge qué vas a ofrecer primero", "texto": "No todo lo que haces sirve en línea. Arranca con lo que se entiende en una foto y viaja bien en un paquete."},
+   {"titulo": "Decide dónde te van a encontrar", "texto": "Tu sitio, tus redes, un mercado en línea o una mezcla. La tabla de abajo te ayuda a escoger."},
+   {"titulo": "Prepara fotos y precios", "texto": "Cada pieza con foto clara, precio final y medidas. Quien compra no puede tocar el cuadro ni la playera."},
+   {"titulo": "Define cómo vas a contestar", "texto": "WhatsApp, mensajes directos o correo. Publica un horario y respétalo."},
+   {"titulo": "Elige cómo te van a pagar", "texto": "Transferencia, link de pago o efectivo en la tocada. Ofrece dos o tres opciones."},
+   {"titulo": "Arma la entrega", "texto": "Paquetería, entrega en persona o recoger en tu estudio o en tu siguiente fecha."},
+   {"titulo": "Haz seguimiento", "texto": "Avisa cuando sale el pedido y pregunta si llegó bien. De ahí sale la segunda compra."}
+  ]},
+  {"h2": "Dónde vender si eres artista"},
+  {"p": "Cada canal trae gente distinta. La mayoría de los artistas combina dos o tres al mismo tiempo."},
+  {"tabla": {"titulo": "Canales para vender en línea", "columnas": ["Canal", "Qué te da", "Qué te pide"], "filas": [["WhatsApp Business", "Plática directa con quien te compra o te contrata", "Contestar a tiempo, todos los días"], ["Facebook e Instagram", "Gente que descubre tu obra o tu música", "Publicar seguido y con buenas fotos"], ["Mercados en línea", "Compradores que ya llegan buscando", "Comisiones por venta y reglas del mercado"], ["Sitio propio", "Un lugar que es tuyo y aparece en Google", "Mantener al día piezas, precios y fechas"], ["Tienda con carrito", "Ventas sin platicar con cada fan", "Inventario ordenado y cobro en línea"], ["Grupos y comunidades", "Coleccionistas y fans de tu escena", "Respetar las reglas del grupo"]]}},
+  {"p": "Tu sitio amarra todo lo demás. Tus redes, tu ficha de Google y tus tarjetas apuntan a la misma dirección."},
+  {"h2": "Lo que tu sitio necesita para vender"},
+  {"p": "Quien llega a tu sitio decide en segundos si te escribe. Estas cosas tienen que verse sin buscarlas."},
+  {"ul": [
+   "Qué haces, en una frase hasta arriba.",
+   "Fotos reales de tu obra, tu mercancía o tus shows.",
+   "El precio de cada pieza o un precio desde.",
+   "A qué ciudades envías y en cuántos días llega.",
+   "Las formas de pago que recibes.",
+   "Un botón de WhatsApp que abra con un mensaje escrito.",
+   "Tu ciudad, aunque sólo vendas en línea."
+  ]},
+  {"p": "Si falta algo de esto, la persona pregunta. Y si tiene que preguntarlo todo, muchas veces se va con otro artista."},
+  {"h2": "Con qué piezas arrancar"},
+  {"p": "No subas todo tu catálogo el primer día. Elige un grupo chico de piezas para aprender."},
+  {"ul": [
+   "Lo que más se vende en tu mesa de mercancía.",
+   "Lo que se entiende en una foto sin contexto.",
+   "Lo que aguanta un envío sin doblarse ni romperse.",
+   "Lo que deja margen después de la comisión y el envío."
+  ]},
+  {"p": "Si lo tuyo es un servicio, ofrece algo cerrado con precio. Una sesión de fotos de una hora o un retrato digital por encargo."},
+  {"h2": "Fotos de tu obra con el celular"},
+  {"p": "No hace falta un fotógrafo para empezar. Te basta buena luz, un fondo limpio y paciencia."},
+  {"ul": [
+   "Fotografía junto a una ventana con luz de día y sin flash.",
+   "Usa una pared blanca o una cartulina lisa detrás de la pieza.",
+   "Limpia la lente del celular antes de cada sesión.",
+   "Toma la obra de frente, de lado y colgada o en uso.",
+   "Pon algo conocido junto a la pieza para que se entienda el tamaño."
+  ]},
+  {"p": "Nombra cada foto con el título de la obra. Así la encuentras rápido cuando alguien pregunta por ella."},
+  {"h2": "El precio cuando vendes en línea"},
+  {"p": "En internet tu precio carga gastos que en la tocada no existen. Si no los sumas, vendes más y ganas menos."},
+  {"tabla": {"titulo": "Ejemplo inventado de precio para una lámina enmarcada", "columnas": ["Concepto", "Monto"], "filas": [["Costo de impresión y marco", "$120"], ["Empaque para envío", "$15"], ["Comisión aproximada del cobro con tarjeta", "$10"], ["Parte del envío que absorbes", "$40"], ["Ganancia que quieres", "$85"], ["Precio en línea", "$270"]]}},
+  {"p": "Haz esta cuenta con tus números reales. Si sale muy alto, cobra el envío aparte o arma paquetes de dos piezas."},
+  {"h2": "Cómo contestar a quien te escribe"},
+  {"p": "En línea gana quien responde primero. Un mensaje que espera horas suele ser una venta que se fue."},
+  {"ul": [
+   "Prende un saludo automático con tu horario y tu catálogo.",
+   "Guarda respuestas rápidas para precios, envíos y pagos.",
+   "Usa etiquetas para separar pedidos nuevos, pagados y enviados.",
+   "Llama a cada persona por su nombre y escribe completo.",
+   "Pide los datos de envío en un solo mensaje para no dar vueltas."
+  ]},
+  {"p": "Si te piden una pieza que ya vendiste, propón otra parecida o un encargo. Un no seco termina la plática."},
+  {"tabla": {"titulo": "Respuestas rápidas que conviene tener listas", "columnas": ["Atajo", "Texto de ejemplo"], "filas": [["precios", "Te comparto las piezas disponibles con su precio. ¿Cuál te gustó?"], ["envio", "Envío a todo el país con guía de rastreo. ¿A qué código postal sería?"], ["pago", "Puedes pagar con transferencia, tarjeta o en efectivo en mi próxima fecha. ¿Cuál prefieres?"], ["gracias", "Gracias por llevarte mi trabajo. Te aviso en cuanto salga tu paquete."]]}},
+  {"h2": "Cobrar sin que se caiga la venta"},
+  {"p": "El momento del pago es donde más gente se arrepiente. Hazlo fácil y sin dudas."},
+  {"ul": [
+   "Manda el total con envío incluido antes de pedir el dinero.",
+   "Ofrece un [link de pago](id:link-de-pago) a quien prefiere tarjeta.",
+   "Si cobras por transferencia, manda tu cuenta en una imagen con tu nombre.",
+   "Revisa que el dinero llegó antes de enviar.",
+   "Entrega un comprobante con el detalle de lo que se llevó."
+  ]},
+  {"p": "Ese comprobante lo puedes hacer con el [recibo de pago](id:recibo-de-pago). Sale en PDF y lo mandas por WhatsApp."},
+  {"p": "Si además vendes en persona, revisa qué [terminal para cobrar con tarjeta](id:terminal-para-cobrar-con-tarjeta) te conviene."},
+  {"venta": true},
+  {"h2": "Cuídate de los fraudes"},
+  {"p": "Los engaños en ventas en línea pasan de los dos lados. Unas cuantas reglas te protegen."},
+  {"ul": [
+   "No mandes la obra hasta ver el dinero en tu cuenta, no sólo una captura.",
+   "Desconfía de quien paga de más y te pide regresarle la diferencia.",
+   "Nunca compartas códigos que te llegan por mensaje, aunque digan ser del banco.",
+   "Usa guías con rastreo y toma foto del paquete cerrado.",
+   "En pagos contra entrega, confirma la dirección con un audio o una llamada."
+  ]},
+  {"p": "Y dale a tu público señales de que eres real. Tu nombre, tu ciudad y un sitio propio ayudan mucho."},
+  {"h2": "Entregar sin perder pedidos"},
+  {"p": "La entrega es lo último que recuerdan de ti. Un paquete bien cuidado vale más que un descuento."},
+  {"tabla": {"titulo": "Formas de entrega", "columnas": ["Forma", "Para quién", "Qué cuidar"], "filas": [["Paquetería nacional", "Fans y coleccionistas en otras ciudades", "Empaque firme y guía con rastreo"], ["Entrega en persona", "Gente de tu ciudad", "Horario acordado y forma de cobro"], ["Repartidor por aplicación", "Encargos urgentes en tu ciudad", "Costo por viaje y empaque cerrado"], ["Recoger en tu estudio o en tu fecha", "Fans que van a verte", "Pedido listo con su nombre"]]}},
+  {"p": "Avisa cuando sale el paquete y manda el número de guía. Dos días después pregunta si llegó en buen estado."},
+  {"h2": "Que te vuelvan a comprar"},
+  {"p": "Conseguir un fan nuevo cuesta más que cuidar al que ya te compró. Atiende bien a quien ya confió en ti."},
+  {"ul": [
+   "Anota su nombre y lo que se llevó en una lista.",
+   "Avísale cuando tengas algo parecido a lo que le gustó.",
+   "Cuéntale cuando estrenes disco, colección o fecha en su ciudad.",
+   "Pídele una reseña en Google si quedó contento."
+  ]},
+  {"p": "Para escribir esos avisos sin sonar insistente, revisa la guía de [mensaje de recordatorio para clientes](id:mensaje-de-recordatorio-para-clientes)."},
+  {"h2": "Un ejemplo con un servicio"},
+  {"p": "Un ejemplo inventado para ver los pasos con un servicio. Una fotógrafa en Mérida quiere vender sesiones de retrato en línea."},
+  {"p": "Pone en su sitio tres paquetes con precio, una galería y un botón de WhatsApp. Quien le escribe elige su paquete y aparta fecha por mensaje."},
+  {"p": "Cobra un anticipo con link de pago y el resto el día de la sesión. Un día antes manda un recordatorio con la hora y el lugar."},
+  {"h2": "Un ejemplo con piezas"},
+  {"p": "Otro ejemplo inventado, ahora con piezas físicas. Un ilustrador en Puebla vende láminas en bazares y quiere enviarlas a otras ciudades."},
+  {"p": "Escoge sus cuatro láminas más vendidas y prueba un tubo que aguante el viaje. Publica un catálogo con precio y envío incluido."},
+  {"p": "Cobra por transferencia o link de pago y manda todo con una sola paquetería. Cada mes revisa qué ciudad pide más y le dedica una publicación."},
+  {"h2": "Vender clases, sesiones y contrataciones"},
+  {"p": "En línea no sólo se venden objetos. Una maestra de canto, un DJ o una banda para eventos también venden por internet."},
+  {"ul": [
+   "Ofrece paquetes con precio cerrado en lugar de cotizar desde cero.",
+   "Enseña videos en vivo, trabajos terminados o comentarios de clientes.",
+   "Deja que te agenden o pidan cotización desde un botón.",
+   "Cobra un anticipo con link de pago para apartar la fecha.",
+   "Manda un recordatorio un día antes de la clase o el evento."
+  ]},
+  {"tabla": {"titulo": "Ejemplos de paquetes para artistas", "columnas": ["Artista", "Paquete"], "filas": [["Maestra de guitarra", "Ocho clases al mes con canciones a elegir"], ["Banda para eventos", "Tres horas de música en vivo con equipo de sonido"], ["Tatuador", "Sesión de tres horas con diseño incluido"], ["Fotógrafo", "Sesión de una hora con veinte fotos editadas"]]}},
+  {"p": "Un paquete claro se vende mejor que un precio por hora. La persona sabe qué recibe y cuánto paga."},
+  {"h2": "Cómo saber si vas por buen camino"},
+  {"p": "Anota cada semana unos cuantos números. Te dicen qué canal funciona sin adivinar."},
+  {"ul": [
+   "Cuánta gente te escribió y desde qué canal.",
+   "Cuántas personas terminaron comprando o contratando.",
+   "Cuánto vendiste en total y cuánto gasta cada persona en promedio.",
+   "Qué pieza o qué paquete preguntaron más.",
+   "Cuántos fans volvieron a comprarte."
+  ]},
+  {"p": "Con una libreta o una hoja de cálculo basta. Lo que importa es anotarlo siempre de la misma forma."},
+  {"h2": "Tropiezos de los primeros meses"},
+  {"ul": [
+   "Abrir cuenta en cinco redes y no contestar en ninguna.",
+   "Subir obra sin precio y pedir que pregunten por mensaje.",
+   "Dejar fuera del precio la comisión y el envío.",
+   "Mandar el paquete antes de confirmar el pago.",
+   "Olvidarte del fan después de su primera compra."
+  ]}
+ ],
+ "faqs": [
+  {"pregunta": "¿Puedo vender mi obra sin tener sitio web?", "respuesta": "Sí, al principio. Con el tiempo un sitio propio te da un lugar fijo que sale en Google."},
+  {"pregunta": "¿Qué es lo más fácil para empezar?", "respuesta": "Un catálogo con WhatsApp. Vendes sin carrito y aprendes qué te piden."},
+  {"pregunta": "¿Tengo que facturar lo que vendo por internet?", "respuesta": "Depende de tu régimen. Pregúntale a tu contador y prepárate por si te piden factura."},
+  {"pregunta": "¿Cómo sé que un pago es real?", "respuesta": "Revísalo en tu cuenta o en la app del banco. Una captura de pantalla no prueba nada."},
+  {"pregunta": "¿Qué tan rápido debo contestar?", "respuesta": "Lo antes posible. Pon un horario a la vista y cúmplelo todos los días."},
+  {"pregunta": "¿Me conviene vender en Mercado Libre?", "respuesta": "Puede convenirte. Te trae compradores a cambio de comisiones y reglas, y no sustituye tener tu propio canal."}
+ ],
+ "venta": {
+  "puente": "Un sitio tuyo junta tu obra, tus precios y tu WhatsApp en una sola dirección que puedes poner en todos lados.",
+  "titulo": "¿Te hago el sitio donde vendes tu trabajo?",
+  "tituloCorto": "Tu sitio para vender"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026"
+}

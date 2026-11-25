@@ -1,0 +1,202 @@
+{
+ "id": "codigo-qr-para-whatsapp",
+ "slug": "codigo-qr-para-whatsapp",
+ "molde": "herramienta",
+ "cabeza": "codigo qr para whatsapp",
+ "busquedas": [
+  "qr whatsapp",
+  "código qr whatsapp",
+  "código qr de whatsapp",
+  "códigos qr de whatsapp",
+  "qr de whatsapp",
+  "qr para whatsapp",
+  "codigo de qr de whatsapp",
+  "qr código whatsapp"
+ ],
+ "categoria": "Códigos QR",
+ "categoriaApp": "UtilitiesApplication",
+ "herramienta": {
+  "id": "qr",
+  "modo": "whatsapp"
+ },
+ "fuentes": [
+  {
+   "texto": "WhatsApp, cómo usar la función de clic para chatear",
+   "url": "https://faq.whatsapp.com/5913398998672934"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.crehana.com/blog/negocios/codigo-qr-de-whatsapp/",
+   "titulo": "Código QR de WhatsApp",
+   "promete": "Explica el QR personal de la app y el de WhatsApp Business; no genera nada en la página"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.kommo.com/es/codigo-qr-de-whatsapp/",
+   "titulo": "Código QR de WhatsApp",
+   "promete": "Generador con mensaje predefinido para vender su CRM; sin ideas de mensaje por lugar"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.qrcode-tiger.com/es/whatsapp-qr-code",
+   "titulo": "Cómo generar un código QR de WhatsApp en 9 sencillos pasos",
+   "promete": "Nueve pasos con QR dinámico; las funciones útiles piden plan de pago"
+  }
+ ],
+ "title": "Código QR para WhatsApp para recibir contrataciones",
+ "h1": "Código QR para WhatsApp de artistas",
+ "description": "Crea gratis un QR que abre tu WhatsApp con un mensaje ya escrito para pedir fecha, cotizar un show o comprar tu obra. Bájalo en PNG o SVG y no caduca.",
+ "resumen": "Un QR que abre tu chat para que te contraten",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "link-de-whatsapp",
+  "generador-de-qr",
+  "crear-qr-con-imagen",
+  "qr-de-instagram",
+  "flyer",
+  "imprimir-tarjetas-de-presentacion"
+ ],
+ "respuesta": [
+  "Pon tu número y el mensaje que quieres recibir, como «Hola, quiero cotizar un show». El QR abre tu chat con ese texto listo para enviar. La persona no tiene que guardarte como contacto. Lo bajas en PNG o SVG y sigue sirviendo mientras tengas ese número."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Arma el código para tus contrataciones"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Pon el número donde atiendes contrataciones",
+     "texto": "Son los 10 dígitos de tu celular. La clave 52 de México ya está puesta."
+    },
+    {
+     "titulo": "Escribe la primera frase que quieres leer",
+     "texto": "Algo como «Hola, quiero saber si tienes libre una fecha». Así sabes de qué va el chat antes de abrirlo."
+    },
+    {
+     "titulo": "Dale tu estilo",
+     "texto": "Cambia el color o pon el logo de tu banda al centro. Debajo puedes escribir «Escanea para contratar»."
+    },
+    {
+     "titulo": "Pruébalo antes de imprimir",
+     "texto": "Escanéalo con otro celular y confirma que abre tu chat. Después baja el PNG para redes o el SVG para la imprenta."
+    }
+   ]
+  },
+  {
+   "h2": "El QR de la app no hace lo mismo"
+  },
+  {
+   "p": "WhatsApp trae su propio código en los ajustes de tu perfil. Ése sólo sirve para que alguien te agregue a sus contactos."
+  },
+  {
+   "p": "El que haces en esta página abre directo una conversación contigo. Además lleva escrito el mensaje que tú elegiste."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "",
+     "QR de la app",
+     "QR de esta herramienta"
+    ],
+    "filas": [
+     [
+      "Qué hace al escanearlo",
+      "Te agrega como contacto",
+      "Abre un chat contigo"
+     ],
+     [
+      "Mensaje ya escrito",
+      "No",
+      "Sí, el que tú elijas"
+     ],
+     [
+      "Cambia si lo restableces",
+      "Sí",
+      "No, depende sólo de tu número"
+     ],
+     [
+      "Logo y colores",
+      "No",
+      "Sí"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Un mensaje distinto para cada lugar"
+  },
+  {
+   "p": "El texto que ya viene escrito te avisa desde dónde te encontraron. Cambia el mensaje según la pieza donde vaya el código."
+  },
+  {
+   "ul": [
+    "En el flyer de la tocada. «Hola, vi tu flyer y quiero contratarte»",
+    "En tu tarjeta. «Hola, me dieron tu tarjeta y quiero cotizar una boda»",
+    "En la mesa de mercancía. «Hola, quiero la playera de la banda»",
+    "En la ficha de tu obra. «Hola, me interesa la pieza de la exposición»"
+   ]
+  },
+  {
+   "p": "Con eso ves qué pieza te consigue más chats y no pagas ningún medidor aparte."
+  },
+  {
+   "h2": "Dónde lo escanean de verdad"
+  },
+  {
+   "p": "Ponlo donde la gente tiene tiempo para sacar el celular. La mesa de mercancía o el atril de tu estudio funcionan mejor que una pared al fondo."
+  },
+  {
+   "p": "Escribe junto al código lo que pasa al escanearlo. Una línea como «Escanea y aparta tu fecha» anima a más personas a usarlo."
+  },
+  {
+   "h2": "Ejemplo con un mariachi para eventos"
+  },
+  {
+   "p": "Un mariachi que toca en bodas y serenatas pone su QR en la tarjeta que entrega al final. El mensaje dice «Hola, quiero cotizar una serenata»."
+  },
+  {
+   "p": "El que contrata sólo agrega la fecha, la hora y la colonia. El representante junta las cotizaciones de la semana sin buscar números sueltos."
+  },
+  {
+   "p": "Para poner esa misma liga en tus redes usa el [link de WhatsApp](id:link-de-whatsapp). Si quieres el logo más grande en el código prueba el [QR con imagen](id:crear-qr-con-imagen)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Cuesta algo hacer el QR?",
+   "respuesta": "No cuesta nada. No pide registro y el archivo sale sin marca de agua."
+  },
+  {
+   "pregunta": "¿Sirve si uso WhatsApp Business?",
+   "respuesta": "Sí sirve. Abre el chat del número que pongas, sea personal o de negocio."
+  },
+  {
+   "pregunta": "¿Deja de funcionar si cambio de celular?",
+   "respuesta": "No deja de funcionar. Mientras conserves el número, el código sigue abriendo tu chat."
+  },
+  {
+   "pregunta": "¿Puedo cambiar el mensaje ya impreso?",
+   "respuesta": "No se puede. El mensaje va dentro del código y tendrías que hacer otro."
+  },
+  {
+   "pregunta": "¿Se ve mi número?",
+   "respuesta": "Sí se ve. Quien escanea lo ve al abrir el chat, así que usa el de contrataciones."
+  },
+  {
+   "pregunta": "¿Puedo usar un número de otro país?",
+   "respuesta": "Sí puedes. Cambia la clave por la de ese país y escribe el número sin ceros al inicio."
+  }
+ ],
+ "venta": {
+  "puente": "El QR abre tu chat, y tu sitio le enseña antes tu música, tus videos y tus fechas a quien te quiere contratar.",
+  "aviso": "Tu QR de WhatsApp está listo. ¿Quieres un sitio que cierre la contratación antes del chat?",
+  "titulo": "¿Te hago un sitio para que te contraten?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

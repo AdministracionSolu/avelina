@@ -1,0 +1,45 @@
+/* Creador de logos de Avelina. Usa las variables de .ah (css/herramientas.css).
+   Sin sombras, sin degradados, sin animaciones de la interfaz. */
+
+.ah.ahl { display: grid; grid-template-columns: minmax(0, 1fr); grid-template-areas: none; gap: 36px; }
+.ahl > * { grid-area: auto; min-width: 0; }
+.ahl .ahd-sub { font: 500 17px/1.3 var(--ah-sans); margin: 0; color: var(--ah-texto); }
+.ahl-datos { display: grid; grid-template-columns: 1.2fr 1fr 1fr; gap: 16px; align-items: start; }
+@media (max-width: 760px) { .ahl-datos { grid-template-columns: 1fr; } }
+.ahl-bloque { display: grid; gap: 14px; align-content: start; }
+.ahl-cabeza { display: flex; flex-wrap: wrap; gap: 10px 16px; justify-content: space-between; align-items: center; }
+
+.ahl-propuestas { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; }
+@media (max-width: 420px) { .ahl-propuestas { grid-template-columns: 1fr 1fr; gap: 8px; } }
+.ahl-prop {
+  background: #fff; border: 1px solid var(--ah-borde); border-radius: 6px; padding: 14px; cursor: pointer;
+  aspect-ratio: 4 / 3; display: flex; align-items: center; justify-content: center;
+}
+.ahl-prop svg { width: 100%; height: 100%; display: block; }
+.ahl-prop[aria-checked="true"] { outline: 2px solid var(--ah-texto); outline-offset: 2px; }
+.ahl-prop:focus-visible { outline: 2px solid #3b82f6; outline-offset: 2px; }
+
+.ahl-editor { display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); gap: 32px 40px; align-items: start; }
+@media (max-width: 860px) { .ahl-editor { grid-template-columns: minmax(0, 1fr); } .ahl-vista { order: -1; } }
+@media (min-width: 861px) { .ahl-vista { position: sticky; top: 24px; } }
+.ahl-ajustes { gap: 20px; }
+
+.ahl-simbolos { display: grid; grid-template-columns: repeat(auto-fill, minmax(48px, 1fr)); gap: 6px; max-height: 236px; overflow-y: auto; padding: 2px; }
+.ahl-sim {
+  aspect-ratio: 1; background: var(--ah-campo); color: var(--ah-texto); border: 1px solid var(--ah-borde);
+  border-radius: 4px; padding: 6px; cursor: pointer; min-height: 44px;
+}
+.ahl-sim svg { width: 100%; height: 100%; display: block; }
+.ahl-sim[aria-checked="true"] { background: var(--ah-texto); color: var(--ah-fondo); border-color: var(--ah-texto); }
+.ahl-sim:focus-visible { outline: 2px solid var(--ah-texto); outline-offset: 2px; }
+
+.ahl-muestras { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+@media (max-width: 420px) { .ahl-muestras { grid-template-columns: 1fr; } }
+.ahl-muestras figure { margin: 0; display: grid; gap: 6px; }
+.ahl-muestras figcaption { font-size: 13px; color: var(--ah-gris); }
+.ahl-muestra { background: #fff; border: 1px solid var(--ah-borde); border-radius: 6px; aspect-ratio: 4 / 3; display: flex; align-items: center; justify-content: center; padding: 18px; }
+.ahl-muestra.ahl-oscura { background: #141414; }
+.ahl-muestra svg { width: 100%; height: 100%; display: block; }
+.ahl-mas { display: flex; flex-wrap: wrap; gap: 8px 18px; }
+.ahl .ahd-colores { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 16px; }
+@media (max-width: 420px) { .ahl .ahd-colores { grid-template-columns: 1fr; } }

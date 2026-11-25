@@ -1,0 +1,531 @@
+{
+ "id": "analisis-foda",
+ "slug": "analisis-foda",
+ "molde": "guia",
+ "cabeza": "foda",
+ "busquedas": [
+  "ejemplo foda",
+  "foda ejemplos",
+  "ejemplo de foda",
+  "dofa matriz",
+  "matriz dofa",
+  "matriz dofa ejemplo",
+  "analisis dafo",
+  "dafo analisis",
+  "análisis foda",
+  "analisis de foda",
+  "analisis foda ejemplo",
+  "ejemplo de analisis foda",
+  "matriz foda",
+  "ejemplo matriz foda",
+  "dafo",
+  "matriz dafo",
+  "foda que es",
+  "informe dafo",
+  "foda de una empresa",
+  "ejemplo de foda de una empresa",
+  "analisis foda de una empresa",
+  "amenazas en foda",
+  "analisis dafo que es",
+  "analisis dofa",
+  "cuadro foda",
+  "foda que significa",
+  "foda significado"
+ ],
+ "categoria": "Negocio",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://blog.nubox.com/empresas/analisis-foda",
+   "titulo": "Análisis FODA",
+   "promete": "Definición y nueve pasos genéricos; ejemplo corto sin pasar a acciones ni a la matriz cruzada"
+  },
+  {
+   "posicion": 2,
+   "url": "https://questionpro.com/blog/es/analisis-foda",
+   "titulo": "Análisis FODA",
+   "promete": "Teoría y plantilla para empresas medianas; no aterriza en un negocio de barrio mexicano"
+  },
+  {
+   "posicion": 3,
+   "url": "https://xepelin.com/blog/emprendedores/analisis-foda",
+   "titulo": "Análisis FODA",
+   "promete": "Guía para emprendedores con ejemplos breves; sin preguntas guía por cuadrante ni errores comunes"
+  }
+ ],
+ "title": "FODA de una banda o de tu carrera artística con ejemplo",
+ "h1": "Análisis FODA para tu banda o tu carrera de artista",
+ "description": "Haz el FODA de tu banda, tu estudio o tu carrera como artista. Qué va en cada cuadro, preguntas para llenarlo, dos ejemplos completos y cómo volverlo plan.",
+ "resumen": "Los cuatro cuadros para ver dónde está tu carrera",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "plan-de-negocios",
+  "mision-y-vision",
+  "modelo-canvas",
+  "marketing-digital",
+  "como-registrar-una-marca",
+  "marketing-en-redes-sociales"
+ ],
+ "respuesta": [
+  "El FODA es una tabla de cuatro cuadros que te deja ver cómo está tu proyecto artístico hoy. Las letras son fortalezas, oportunidades, debilidades y amenazas.",
+  "Fortalezas y debilidades son de adentro y dependen de ti o de tu banda. Oportunidades y amenazas llegan de afuera y no las controlas."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Para qué le sirve a un artista"
+  },
+  {
+   "p": "Parece una herramienta de oficina, pero a una banda le sirve igual. Te obliga a mirar tu carrera con datos y no con corazonadas."
+  },
+  {
+   "p": "Cabe en una hoja y se llena en una tarde. Es útil cuando tienes que decidir algo, como grabar un disco o subir tu tarifa."
+  },
+  {
+   "p": "En otros países se llama DAFO o DOFA, y en inglés SWOT. Es lo mismo con las letras en otro orden."
+  },
+  {
+   "p": "Llenar los cuadros no resuelve nada por sí solo. Lo que vale es lo que decides hacer después."
+  },
+  {
+   "tabla": {
+    "titulo": "Los cuatro cuadros",
+    "columnas": [
+     "Letra",
+     "Significa",
+     "Origen",
+     "Pregunta clave"
+    ],
+    "filas": [
+     [
+      "F",
+      "Fortalezas",
+      "Interno",
+      "¿Qué hacemos mejor que otros artistas?"
+     ],
+     [
+      "O",
+      "Oportunidades",
+      "Externo",
+      "¿Qué pasa afuera que nos puede ayudar?"
+     ],
+     [
+      "D",
+      "Debilidades",
+      "Interno",
+      "¿Qué nos falta o hacemos mal?"
+     ],
+     [
+      "A",
+      "Amenazas",
+      "Externo",
+      "¿Qué pasa afuera que nos puede afectar?"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Adentro y afuera"
+  },
+  {
+   "p": "La confusión más común es revolver lo tuyo con lo del entorno. Una regla rápida te ayuda a separarlos."
+  },
+  {
+   "p": "Si mañana lo puedes cambiar tú, es de adentro. Si no está en tus manos, es de afuera."
+  },
+  {
+   "p": "Que tu audio en vivo suene mal es una debilidad, porque lo puedes arreglar. Que abra un foro nuevo en tu ciudad es una oportunidad, porque no lo decidiste tú."
+  },
+  {
+   "ul": [
+    "**Fortaleza** es algo tuyo que ya funciona.",
+    "**Debilidad** es algo tuyo que te detiene.",
+    "**Oportunidad** es un cambio de afuera que puedes aprovechar.",
+    "**Amenaza** es un cambio de afuera que te puede quitar fechas o compradores."
+   ]
+  },
+  {
+   "h2": "Seis pasos para hacerlo"
+  },
+  {
+   "p": "No necesitas a nadie que te cobre por esto. Necesitas una hora, una hoja y lo que de verdad pasó este año."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Escribe qué quieres decidir",
+     "texto": "Grabar un EP, salir de gira, abrir tu estudio o dejar de tocar covers. Todo el FODA gira alrededor de eso."
+    },
+    {
+     "titulo": "Junta datos primero",
+     "texto": "Cuántas fechas tuviste, cuánto cobraste, qué te dijeron quienes te contrataron. Revisa también a los artistas de tu zona."
+    },
+    {
+     "titulo": "Llena lo de adentro",
+     "texto": "Anota fortalezas y debilidades. Pide a otro integrante o a un fan cercano que te diga lo que tú no ves."
+    },
+    {
+     "titulo": "Llena lo de afuera",
+     "texto": "Piensa en tu ciudad, en los foros, en las plataformas y en los precios del equipo. Anota lo que cambió en el último año."
+    },
+    {
+     "titulo": "Recorta",
+     "texto": "Quédate con tres a cinco puntos por cuadro. Si todo pesa igual, nada pesa."
+    },
+    {
+     "titulo": "Vuélvelo acciones",
+     "texto": "Cruza los cuadros para sacar estrategias. Cada una lleva quién la hace y para cuándo."
+    }
+   ]
+  },
+  {
+   "h2": "Preguntas para cuando te quedes en blanco"
+  },
+  {
+   "p": "Contéstalas con lo que pasó, no con lo que te gustaría que pasara."
+  },
+  {
+   "h3": "Para tus fortalezas"
+  },
+  {
+   "ul": [
+    "¿Por qué te vuelven a contratar?",
+    "¿Qué canción o qué pieza te piden más?",
+    "¿Qué tienes que otros artistas de tu ciudad no tienen?",
+    "¿Qué repiten las opiniones buenas sobre ti?"
+   ]
+  },
+  {
+   "h3": "Para tus debilidades"
+  },
+  {
+   "ul": [
+    "¿De qué se han quejado quienes te contrataron?",
+    "¿Qué depende de una sola persona del grupo?",
+    "¿En qué gastas más de la cuenta?",
+    "¿Alguien que no te conoce te puede encontrar en internet?"
+   ]
+  },
+  {
+   "h3": "Para tus oportunidades"
+  },
+  {
+   "ul": [
+    "¿Abrieron foros, galerías o salones cerca?",
+    "¿Te piden algo que todavía no ofreces, como clases o sesiones privadas?",
+    "¿Hay un canal que otros artistas de tu zona no aprovechan?",
+    "¿Hay una temporada fuerte que dejas pasar, como diciembre o la época de bodas?"
+   ]
+  },
+  {
+   "h3": "Para tus amenazas"
+  },
+  {
+   "ul": [
+    "¿Llegó otro grupo con precios más bajos?",
+    "¿Subió la renta del local de ensayo o el costo del transporte?",
+    "¿Cambió cómo la gente descubre música o compra arte?",
+    "¿Dependes de un solo foro, de un solo organizador o de una sola red?"
+   ]
+  },
+  {
+   "h2": "Ejemplo con un grupo versátil"
+  },
+  {
+   "p": "Es un caso inventado de un grupo versátil de Guadalajara. Sirve para ver cómo se llena."
+  },
+  {
+   "tabla": {
+    "titulo": "FODA de un grupo versátil",
+    "columnas": [
+     "Cuadro",
+     "Puntos"
+    ],
+    "filas": [
+     [
+      "Fortalezas",
+      "Repertorio amplio de cumbia a rock. Puntualidad que los clientes mencionan. Una cantante con mucha presencia."
+     ],
+     [
+      "Debilidades",
+      "Las fechas se apuntan en una libreta. No tienen sitio ni perfil de Google completo. Si falta el bajista, no hay quién lo cubra."
+     ],
+     [
+      "Oportunidades",
+      "Abrieron dos salones de eventos en su zona. Los novios jóvenes buscan grupo por Google. Hay demanda de música para eventos de empresa."
+     ],
+     [
+      "Amenazas",
+      "Llegó una agencia que ofrece paquetes con grupo incluido. Subió la renta del equipo de audio. Los clientes comparan videos en redes antes de llamar."
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Con ver la tabla salen decisiones. El grupo toca bien, pero quien no lo conoce no lo encuentra."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "El FODA cruzado"
+  },
+  {
+   "p": "Aquí los cuadros se vuelven estrategias. Se combinan de dos en dos."
+  },
+  {
+   "tabla": {
+    "titulo": "Las cuatro estrategias del FODA cruzado",
+    "columnas": [
+     "Cruce",
+     "Nombre",
+     "Qué buscas"
+    ],
+    "filas": [
+     [
+      "Fortalezas con oportunidades",
+      "Estrategia ofensiva",
+      "Usar lo que haces bien para aprovechar lo de afuera"
+     ],
+     [
+      "Debilidades con oportunidades",
+      "Estrategia de mejora",
+      "Corregir lo que te falta para no perder la oportunidad"
+     ],
+     [
+      "Fortalezas con amenazas",
+      "Estrategia defensiva",
+      "Usar lo que haces bien para resistir lo de afuera"
+     ],
+     [
+      "Debilidades con amenazas",
+      "Estrategia de supervivencia",
+      "Reducir el riesgo donde eres más débil"
+     ]
+    ]
+   }
+  },
+  {
+   "h3": "Estrategias para el grupo"
+  },
+  {
+   "ul": [
+    "**Ofensiva.** Subir videos de bodas reales a un sitio y a Google para que los encuentren los novios de los salones nuevos.",
+    "**Mejora.** Pasar la agenda de la libreta a un calendario compartido con recordatorio por WhatsApp.",
+    "**Defensiva.** Ofrecer a los salones cercanos un trato de recomendación antes de que lo haga la agencia.",
+    "**Supervivencia.** Tener un bajista suplente ensayado y cotizar audio con un segundo proveedor."
+   ]
+  },
+  {
+   "p": "Cada estrategia necesita a alguien que la haga, una fecha y una forma de saber si funcionó. Si no, el FODA termina en el cajón."
+  },
+  {
+   "h2": "Otro ejemplo con una ilustradora"
+  },
+  {
+   "p": "El FODA cambia según la disciplina. Este caso inventado es de una ilustradora de Monterrey que vende láminas por Instagram."
+  },
+  {
+   "tabla": {
+    "titulo": "FODA de una ilustradora",
+    "columnas": [
+     "Cuadro",
+     "Puntos"
+    ],
+    "filas": [
+     [
+      "Fortalezas",
+      "Estilo propio que se reconoce. Impresiones de buena calidad. Trato cercano con quien le compra."
+     ],
+     [
+      "Debilidades",
+      "Todo se vende por mensaje directo y se pierden pedidos. No tiene catálogo con medidas y precios. Depende de una sola red."
+     ],
+     [
+      "Oportunidades",
+      "Cada vez hay más ferias de arte y diseño. Las marcas buscan ilustradores locales. Más gente compra arte por internet."
+     ],
+     [
+      "Amenazas",
+      "Copias de sus diseños en otras cuentas. Cambios en cómo la red enseña las publicaciones. Imágenes hechas por máquina a precios muy bajos."
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Lo más urgente es depender de una sola red. Un catálogo propio con botón de WhatsApp le baja ese riesgo."
+  },
+  {
+   "h2": "Qué atender primero"
+  },
+  {
+   "p": "Al terminar vas a tener más tareas de las que puedes hacer. Toca escoger."
+  },
+  {
+   "p": "Califica cada punto del uno al tres en dos cosas. Cuánto afecta tus ingresos y qué tan fácil es resolverlo."
+  },
+  {
+   "tabla": {
+    "titulo": "Ejemplo de priorización",
+    "columnas": [
+     "Punto",
+     "Impacto en ingresos",
+     "Facilidad",
+     "Total"
+    ],
+    "filas": [
+     [
+      "No tienen perfil de Google completo",
+      "3",
+      "3",
+      "6"
+     ],
+     [
+      "La agenda vive en una libreta",
+      "2",
+      "2",
+      "4"
+     ],
+     [
+      "Subió la renta del audio",
+      "2",
+      "1",
+      "3"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Arranca por lo que suma más. Casi siempre son cambios baratos que se notan rápido."
+  },
+  {
+   "h2": "Cuándo hacerlo"
+  },
+  {
+   "p": "Sirve más cuando hay una decisión de por medio. Hacerlo sin motivo da listas largas y ya."
+  },
+  {
+   "ul": [
+    "Antes de grabar un disco o invertir en equipo.",
+    "Cuando bajan las fechas sin razón clara.",
+    "Antes de sumar o despedir a un integrante.",
+    "Al preparar tu [plan de negocios](id:plan-de-negocios) como artista.",
+    "Una vez al año para revisar hacia dónde vas."
+   ]
+  },
+  {
+   "p": "Si apenas empiezas, combínalo con el [modelo Canvas](id:modelo-canvas). El Canvas explica cómo funciona tu proyecto y el FODA te dice dónde está parado."
+  },
+  {
+   "h2": "FODA personal"
+  },
+  {
+   "p": "El mismo método funciona para una sola persona. Muchas escuelas de arte lo piden como tarea o en una audición."
+  },
+  {
+   "p": "Tus fortalezas son tus habilidades y tus logros. Tus debilidades son lo que te falta aprender, como leer partitura o mezclar."
+  },
+  {
+   "p": "Tus oportunidades son becas, convocatorias o contactos a tu alcance. Tus amenazas son la competencia por esos lugares o los cambios en tu oficio."
+  },
+  {
+   "h2": "Errores comunes"
+  },
+  {
+   "ul": [
+    "Poner como oportunidad algo que depende de ti.",
+    "Escribir cosas vagas como tocamos bien sin decir en qué.",
+    "Llenar cada cuadro con diez puntos sin orden.",
+    "Hacerlo sin escuchar a tu público ni a tu banda.",
+    "No convertirlo en acciones con fecha.",
+    "Hacerlo una vez y no volver a mirarlo."
+   ]
+  },
+  {
+   "h2": "Plantilla para tu FODA"
+  },
+  {
+   "p": "Copia esta tabla en una hoja o en un documento. Llena primero lo de adentro y luego lo de afuera."
+  },
+  {
+   "tabla": {
+    "titulo": "Plantilla de análisis FODA",
+    "columnas": [
+     "Cuadro",
+     "Punto 1",
+     "Punto 2",
+     "Punto 3"
+    ],
+    "filas": [
+     [
+      "Fortalezas",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Debilidades",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Oportunidades",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Amenazas",
+      "",
+      "",
+      ""
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Al final escribe debajo tus cuatro estrategias cruzadas. Ponle a cada una quién la hace y para cuándo."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué significa FODA?",
+   "respuesta": "Fortalezas, oportunidades, debilidades y amenazas. Son los cuatro cuadros de la tabla."
+  },
+  {
+   "pregunta": "¿FODA, DAFO y DOFA son distintos?",
+   "respuesta": "No. Es el mismo análisis con las letras en otro orden según el país."
+  },
+  {
+   "pregunta": "¿Cuáles son los factores internos?",
+   "respuesta": "Las fortalezas y las debilidades. Dependen de ti y las puedes cambiar."
+  },
+  {
+   "pregunta": "¿Cuántos puntos van en cada cuadro?",
+   "respuesta": "De tres a cinco. Con más cuesta decidir qué atender primero."
+  },
+  {
+   "pregunta": "¿Cada cuándo lo hago?",
+   "respuesta": "Una vez al año o antes de una decisión grande. También cuando tus fechas cambian mucho."
+  },
+  {
+   "pregunta": "¿Para qué sirve el FODA cruzado?",
+   "respuesta": "Para volver el análisis estrategias. Cruzas cada cuadro de adentro con uno de afuera."
+  },
+  {
+   "pregunta": "¿Puedo hacer el FODA de una banda que apenas empieza?",
+   "respuesta": "Sí. Usa lo que ya saben hacer y lo que ven en su ciudad, y revísalo a los seis meses."
+  }
+ ],
+ "venta": {
+  "puente": "Si tu FODA dice que quien no te conoce no te encuentra, un sitio con tu nombre es la primera estrategia.",
+  "titulo": "¿Te hago el sitio que tu FODA está pidiendo?",
+  "tituloCorto": "El sitio que pide tu FODA"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

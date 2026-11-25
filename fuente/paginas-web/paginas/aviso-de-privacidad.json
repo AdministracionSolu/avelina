@@ -1,0 +1,214 @@
+{
+ "id": "aviso-de-privacidad",
+ "slug": "aviso-de-privacidad",
+ "molde": "herramienta",
+ "cabeza": "avisos de privacidad ejemplos",
+ "busquedas": [
+  "avisos de privacidad ejemplos",
+  "ejemplos avisos de privacidad",
+  "aviso de privacidad",
+  "aviso de privacidad que es",
+  "aviso de privacidad simplificado",
+  "aviso de privacidad integral",
+  "generador de aviso de privacidad"
+ ],
+ "categoria": "Textos legales",
+ "categoriaApp": "BusinessApplication",
+ "herramienta": {
+  "id": "texto-legal",
+  "modo": "aviso-privacidad"
+ },
+ "fuentes": [
+  {
+   "texto": "Ley Federal de Protección de Datos Personales en Posesión de los Particulares (DOF 20-03-2025, última reforma 14-11-2025), Cámara de Diputados",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://contadormx.com/ejemplos-de-aviso-de-privacidad-y-para-la-proteccion-de-datos-personales-en-mexico/",
+   "titulo": "Ejemplos de aviso de privacidad en México (ContadorMX)",
+   "promete": "Ejemplos y multas; sin generador"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.legiscope.com/blog/aviso-privacidad-mexico-lfpdppp.html",
+   "titulo": "Aviso de privacidad México 2026 (Legiscope)",
+   "promete": "Tipos integral, simplificado y corto con modelo"
+  },
+  {
+   "posicion": 3,
+   "url": "https://mexico.justia.com/derecho-corporativo/aviso-de-privacidad/preguntas-y-respuestas-sobre-aviso-de-privacidad",
+   "titulo": "Preguntas y respuestas sobre aviso de privacidad (Justia)",
+   "promete": "Preguntas generales; sin plantilla"
+  }
+ ],
+ "title": "Avisos de privacidad ejemplos para artistas y estudios",
+ "h1": "Aviso de privacidad para artistas",
+ "description": "Arma gratis el aviso de privacidad de tu estudio de tatuaje, tu academia o tu lista de fans. Versión integral y simplificada según la ley de 2025. Cópialo.",
+ "resumen": "El aviso para los datos de tus fans y clientes",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "terminos-y-condiciones",
+  "boletin-informativo",
+  "pagina-web-para-negocio",
+  "tienda-en-linea",
+  "firma-de-correo",
+  "formato-de-cotizacion"
+ ],
+ "respuesta": [
+  "Un aviso de privacidad le cuenta a tus fans y clientes qué datos suyos guardas y para qué. Llenas el formulario con tus datos y sale el texto completo. Es un modelo, así que conviene que lo revise un abogado antes de publicarlo."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Por qué un artista necesita uno"
+  },
+  {
+   "p": "En cuanto anotas el correo de alguien para tu boletín ya estás guardando datos personales. Pasa igual con la libreta de citas del estudio."
+  },
+  {
+   "p": "Un tatuador suele preguntar por alergias o enfermedades antes de una sesión. Ésos son datos de salud y la ley los trata con más cuidado."
+  },
+  {
+   "ul": [
+    "Estudios de tatuaje que guardan fichas de cada cliente.",
+    "Academias de música o de baile con datos de alumnos y papás.",
+    "Fotógrafas que reciben datos de los novios para una boda.",
+    "Bandas que juntan correos en la mesa de mercancía.",
+    "Artistas que venden obra en línea y piden dirección de envío."
+   ]
+  },
+  {
+   "h2": "Tu aviso en cuatro pasos"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Pon tus datos de responsable",
+     "texto": "Tu nombre o el de tu estudio, un domicilio y un correo. Sin esos tres datos el texto no se deja copiar."
+    },
+    {
+     "titulo": "Escoge la versión",
+     "texto": "La integral va en una página de tu sitio. La simplificada va junto al formulario o en la hoja de registro."
+    },
+    {
+     "titulo": "Marca lo que pides",
+     "texto": "Puede ser domicilio, datos para facturar o datos de pago. También salud si tatúas o navegación si tienes sitio."
+    },
+    {
+     "titulo": "Marca para qué lo usas",
+     "texto": "Agendar citas, mandar cotizaciones o entregar obra. Las promociones y el boletín se marcan aparte."
+    }
+   ]
+  },
+  {
+   "p": "Al final copias el texto o el HTML, o bajas el PDF. Lo que escribiste se queda en tu equipo por si quieres corregir algo después."
+  },
+  {
+   "h2": "Integral o simplificado"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "",
+     "Integral",
+     "Simplificado"
+    ],
+    "filas": [
+     [
+      "Dónde va",
+      "En una página propia de tu sitio",
+      "En la hoja de registro o el formulario donde pides datos"
+     ],
+     [
+      "Qué tan largo es",
+      "Completo con todos los apartados",
+      "Corto con lo esencial"
+     ],
+     [
+      "Qué lleva",
+      "Responsable · datos · finalidades y derechos",
+      "Responsable, finalidades y liga al integral"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Lo normal es tener ambos. El corto manda a la persona al largo si quiere leer todo."
+  },
+  {
+   "h2": "Lo que trae el modelo"
+  },
+  {
+   "ul": [
+    "Quién responde por los datos y cómo escribirle.",
+    "Qué datos personales vas a usar.",
+    "Para qué los usas y cuáles usos se pueden rechazar.",
+    "Con quién los compartes.",
+    "Cómo pedir que dejes de usarlos.",
+    "Cómo pedir acceso, corrección, cancelación u oposición.",
+    "Cómo los proteges y cómo avisas si cambia algo."
+   ]
+  },
+  {
+   "p": "Si marcas datos de navegación, se agrega una parte sobre cookies. Si marcas salud, el aviso la nombra por separado."
+  },
+  {
+   "h2": "En qué ley se basa"
+  },
+  {
+   "p": "El texto sigue la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Es la ley nueva que salió en el DOF el 20 de marzo de 2025."
+  },
+  {
+   "p": "Incluye los plazos para contestar a quien pide ver o corregir sus datos. Tienes 20 días hábiles para responder y 15 más para cumplir si procede."
+  },
+  {
+   "p": "También cita el artículo 36, que habla de cuándo compartes datos sin pedir permiso. Por ejemplo cuando una autoridad te los requiere."
+  },
+  {
+   "h2": "Dónde lo pones"
+  },
+  {
+   "p": "La versión integral vive en una página de tu sitio y se liga desde el pie. La corta va impresa en la hoja de registro del estudio."
+  },
+  {
+   "p": "Si juntas correos para tu [boletín](id:boletin-informativo), pon la versión corta junto a la casilla. Si vendes en línea, combínalo con tus [términos y condiciones](id:terminos-y-condiciones)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Es obligatorio tener aviso de privacidad?",
+   "respuesta": "Sí, si guardas datos personales de otras personas. La ley pide avisarles antes."
+  },
+  {
+   "pregunta": "¿Puedo usar el modelo tal cual?",
+   "respuesta": "Es sólo un modelo. Revísalo con un abogado según lo que haces."
+  },
+  {
+   "pregunta": "¿Dónde publico la versión integral?",
+   "respuesta": "En una página de tu sitio, por ejemplo /aviso-de-privacidad."
+  },
+  {
+   "pregunta": "¿Lo bajo en PDF?",
+   "respuesta": "Sí. También lo copias como texto o como HTML."
+  },
+  {
+   "pregunta": "¿Lo que escribo se manda a algún lado?",
+   "respuesta": "No. El formulario se llena y se guarda en tu equipo."
+  },
+  {
+   "pregunta": "¿Qué son los derechos ARCO?",
+   "respuesta": "Acceso, rectificación, cancelación y oposición. La persona los pide escribiendo a tu correo."
+  }
+ ],
+ "venta": {
+  "puente": "Tu aviso necesita una página donde vivir, y tu sitio de artista la trae junto a tu música y tu contacto.",
+  "aviso": "Tu aviso está listo. ¿Quieres un sitio de artista donde publicarlo?",
+  "titulo": "¿Te hago el sitio donde va tu aviso?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

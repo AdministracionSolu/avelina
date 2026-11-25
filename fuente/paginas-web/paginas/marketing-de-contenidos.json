@@ -1,0 +1,530 @@
+{
+ "id": "marketing-de-contenidos",
+ "slug": "marketing-de-contenidos",
+ "molde": "guia",
+ "cabeza": "marketing de contenidos",
+ "busquedas": [],
+ "categoria": "Publicidad y marketing",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.getresponse.com/es/ayuda/marketing-de-contenido.html",
+   "titulo": "Marketing de contenido",
+   "promete": "Definición breve de glosario; sin método para sacar temas ni ejemplo de negocio pequeño"
+  },
+  {
+   "posicion": 2,
+   "url": "https://metricool.com/es/marketing-de-contenidos/",
+   "titulo": "Qué es el Marketing de Contenidos",
+   "promete": "Guía extensa que lleva a su herramienta; no aterriza en un taller o un consultorio"
+  },
+  {
+   "posicion": 3,
+   "url": "https://neilpatel.com/es/que-es-el-marketing-de-contenidos-una-guia-paso-a-paso/",
+   "titulo": "Qué es el Marketing de Contenidos: una guía paso a paso",
+   "promete": "Pasos pensados para blogs grandes; no dice cómo reutilizar una pieza en varios formatos"
+  }
+ ],
+ "title": "Marketing de contenidos para artistas, qué publicar",
+ "h1": "Marketing de contenidos para músicos y artistas",
+ "description": "El marketing de contenidos te consigue público enseñando tu proceso, tus covers o tus consejos en vez de anuncios. Temas, formatos y calendario de un mes.",
+ "resumen": "Ganar público enseñando tu proceso en lugar de anunciarte",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "marketing-en-redes-sociales",
+  "marketing-digital",
+  "seo",
+  "palabras-clave",
+  "boletin-informativo",
+  "plantillas-para-instagram"
+ ],
+ "respuesta": [
+  "El marketing de contenidos consiste en atraer público con algo útil o valioso en vez de un anuncio. Para un artista pueden ser tutoriales y procesos. También covers, la historia de una canción o respuestas a lo que te preguntan.",
+  "Funciona porque la gente busca, aprende y se encariña antes de contratar o comprar. Si tu contenido le resuelve algo, te recuerda cuando necesita lo que haces."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Qué significa para alguien que crea"
+  },
+  {
+   "p": "Un anuncio dice «contrátame para tu boda». Un contenido muestra cómo elegir las canciones de la ceremonia."
+  },
+  {
+   "p": "Quien vio esa guía ya siente que sabes de lo tuyo. Cuando le toque contratar, tu nombre le viene a la cabeza."
+  },
+  {
+   "p": "Puede ser un texto, un video o un audio. Lo que cuenta es que deje algo a quien lo ve."
+  },
+  {
+   "p": "Yo subo covers y escribo cartas en mi sitio. Es mi manera de compartir lo que hago sin estar vendiendo todo el tiempo."
+  },
+  {
+   "h2": "Por qué le sirve a un artista independiente"
+  },
+  {
+   "p": "Las disqueras y las grandes marcas pagan anuncios todo el año. Tú casi nunca tienes ese presupuesto."
+  },
+  {
+   "p": "Un buen contenido sigue trabajando meses después de subirlo. Un tutorial en tu sitio puede traer visitas desde Google por mucho tiempo."
+  },
+  {
+   "p": "También te separa del resto. Mucha gente toca, pinta o tatúa bien, pero poca enseña su forma de trabajar."
+  },
+  {
+   "tabla": {
+    "titulo": "Anuncio contra contenido",
+    "columnas": [
+     "Punto",
+     "Anuncio",
+     "Contenido"
+    ],
+    "filas": [
+     [
+      "Qué hace",
+      "Pide que te contraten ya",
+      "Ayuda o emociona primero y la venta llega después"
+     ],
+     [
+      "Cuánto dura",
+      "Mientras pagas",
+      "Mientras siga sirviendo"
+     ],
+     [
+      "Qué genera",
+      "Visitas inmediatas",
+      "Confianza y visitas que se acumulan"
+     ],
+     [
+      "Qué cuesta",
+      "Dinero por clic o por vista",
+      "Tu tiempo"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Lo mejor es juntarlos. El contenido atrae y el anuncio empuja lo que ya demostró funcionar."
+  },
+  {
+   "h2": "De dónde salen los temas"
+  },
+  {
+   "p": "Tus mejores ideas ya están en tus mensajes. Son las preguntas que te hacen fans y clientes una y otra vez."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Junta las preguntas",
+     "texto": "Revisa tus últimos cien mensajes y comentarios. Apunta cada pregunta tal como la escribieron."
+    },
+    {
+     "titulo": "Suma las del final del show",
+     "texto": "Lo que te preguntan en persona después de tocar o en tu mesa de mercancía también cuenta."
+    },
+    {
+     "titulo": "Mira lo que sugiere Google",
+     "texto": "Escribe tu disciplina en el buscador y fíjate en las preguntas que aparecen."
+    },
+    {
+     "titulo": "Ordénalas",
+     "texto": "Arriba van las que más se repiten."
+    },
+    {
+     "titulo": "Toma una por semana",
+     "texto": "Cada pregunta se convierte en una pieza de contenido."
+    }
+   ]
+  },
+  {
+   "p": "Con cincuenta preguntas tienes material para un año entero. Y cada una es algo que tu público sí quiere saber."
+  },
+  {
+   "p": "Para descubrir con qué palabras busca la gente, revisa la guía de [palabras clave](id:palabras-clave)."
+  },
+  {
+   "h3": "Ideas de temas por disciplina"
+  },
+  {
+   "tabla": {
+    "titulo": "Temas de contenido por disciplina",
+    "columnas": [
+     "Disciplina",
+     "Pregunta de tu público",
+     "Pieza de contenido"
+    ],
+    "filas": [
+     [
+      "Maestra de guitarra",
+      "¿Cuánto tardo en tocar mi primera canción?",
+      "Guía de las primeras ocho semanas con acordes"
+     ],
+     [
+      "Grupo para bodas",
+      "¿Qué canciones van en la ceremonia?",
+      "Lista por momento de la boda"
+     ],
+     [
+      "Tatuador",
+      "¿Cómo cuido mi tatuaje nuevo?",
+      "Video con los cuidados día por día"
+     ],
+     [
+      "Fotógrafa",
+      "¿Qué ropa uso en mi sesión?",
+      "Galería con combinaciones que funcionan"
+     ],
+     [
+      "Ilustrador",
+      "¿Cuánto tarda un retrato por encargo?",
+      "El proceso completo en fotos, del boceto al final"
+     ],
+     [
+      "Cantautora",
+      "¿De qué trata tu canción?",
+      "La historia detrás de la letra"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Ninguna de esas piezas dice «contrátame». Pero todas dejan claro que dominas lo tuyo."
+  },
+  {
+   "h2": "Dónde publicar"
+  },
+  {
+   "p": "Cada lugar tiene su ventaja. Lo ideal es tener una casa principal y llevar desde ahí el contenido a otros lados."
+  },
+  {
+   "tabla": {
+    "titulo": "Lugares para tu contenido",
+    "columnas": [
+     "Lugar",
+     "Ventaja",
+     "Cuidado"
+    ],
+    "filas": [
+     [
+      "Tu sitio de artista",
+      "Es tuyo y Google lo encuentra",
+      "Necesitas tener sitio propio"
+     ],
+     [
+      "Redes sociales",
+      "Llega rápido a tus seguidores",
+      "Dura poco en pantalla"
+     ],
+     [
+      "Video largo",
+      "La gente lo busca para aprender",
+      "Pide más tiempo de grabación y edición"
+     ],
+     [
+      "Boletín por correo",
+      "Llega directo a quien se suscribió",
+      "Tienes que juntar correos"
+     ],
+     [
+      "WhatsApp",
+      "Llega a tu gente de siempre",
+      "No abuses de los envíos"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Tu sitio debe ser la casa principal. Lo que guardas ahí no depende de que una red cambie sus reglas."
+  },
+  {
+   "p": "Si quieres mandar novedades por correo, revisa la guía de [boletín informativo](id:boletin-informativo)."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Una idea, cinco formatos"
+  },
+  {
+   "p": "No necesitas inventar algo distinto para cada red. Haz una pieza principal y pártela en pedazos."
+  },
+  {
+   "tabla": {
+    "titulo": "Ejemplo con la guía de canciones para una boda",
+    "columnas": [
+     "Formato",
+     "Cómo queda"
+    ],
+    "filas": [
+     [
+      "Guía en tu sitio",
+      "La lista completa por momento, con ligas a cada canción"
+     ],
+     [
+      "Carrusel en Instagram",
+      "Cinco imágenes, una por momento de la boda"
+     ],
+     [
+      "Video corto",
+      "El grupo tocando quince segundos de la entrada de la novia"
+     ],
+     [
+      "Historia",
+      "Una encuesta sobre qué canción eligieron para el vals"
+     ],
+     [
+      "Mensaje de WhatsApp",
+      "La lista corta con la liga a la guía"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Así una sola idea te alcanza para la semana. Y cada formato regresa a la guía de tu sitio."
+  },
+  {
+   "h2": "Un mes de contenido"
+  },
+  {
+   "p": "Este calendario piensa en unas cuatro horas a la semana. Acomódalo a tu tiempo de ensayo."
+  },
+  {
+   "tabla": {
+    "titulo": "Calendario de ejemplo",
+    "columnas": [
+     "Semana",
+     "Pieza principal",
+     "Derivados"
+    ],
+    "filas": [
+     [
+      "1",
+      "Respuesta a la pregunta que más te hacen",
+      "Carrusel, video corto y mensaje a tu lista"
+     ],
+     [
+      "2",
+      "Errores comunes en tu disciplina",
+      "Tres historias y un video"
+     ],
+     [
+      "3",
+      "El proceso de una obra o un show reciente",
+      "Fotos del antes y el después y testimonio"
+     ],
+     [
+      "4",
+      "Tus paquetes o tus precios explicados",
+      "Publicación con precio desde y liga a tu sitio"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "La cuarta semana es la más comercial. Después de tres semanas compartiendo, hablar de precios se siente natural."
+  },
+  {
+   "h2": "Cómo hacer que se lea o se vea completo"
+  },
+  {
+   "ul": [
+    "Contesta la pregunta en las primeras líneas o en los primeros segundos.",
+    "Usa frases cortas y palabras de tu público.",
+    "Pon listas, pasos y ejemplos concretos.",
+    "Usa imágenes reales de tu trabajo.",
+    "Cierra con una forma de contactarte."
+   ]
+  },
+  {
+   "p": "La primera regla es la que más pesa. Nadie quiere aguantar un minuto de introducción para llegar a la respuesta."
+  },
+  {
+   "h2": "Si no te gusta escribir"
+  },
+  {
+   "p": "No a todos les late escribir. Hay maneras de crear contenido sin pasar horas frente a la computadora."
+  },
+  {
+   "ul": [
+    "Graba un audio contestando la pregunta y pásalo a texto después.",
+    "Pide a alguien de tu banda que te entreviste con tres preguntas.",
+    "Graba un video mientras ensayas, pintas o tatúas y explica qué haces.",
+    "Usa tus respuestas de WhatsApp como borrador y ordénalas."
+   ]
+  },
+  {
+   "p": "Lo importante es lo que enseñas, no que suene elegante. Tu público quiere aprender o conocerte."
+  },
+  {
+   "p": "Si trabajas en grupo, repartan las piezas. Quien atiende los mensajes conoce las preguntas mejor que nadie."
+  },
+  {
+   "h2": "Cómo mantener vivo lo viejo"
+  },
+  {
+   "p": "Una guía de hace dos años puede tener precios o datos que ya cambiaron. Revísala antes de que te cueste la confianza de alguien."
+  },
+  {
+   "p": "Ponle fecha de revisión a cada guía. Cada seis meses abre las más visitadas y corrige lo que cambió."
+  },
+  {
+   "p": "Actualizar una guía que ya recibe visitas casi siempre rinde más que escribir otra. Ya tiene lectores y Google ya la conoce."
+  },
+  {
+   "h2": "Contenido para cada etapa de tu público"
+  },
+  {
+   "p": "No todos llegan listos para contratar. Algunos apenas están pensando en lo que necesitan."
+  },
+  {
+   "tabla": {
+    "titulo": "Contenido por etapa",
+    "columnas": [
+     "Etapa",
+     "Qué piensa la persona",
+     "Contenido que le sirve"
+    ],
+    "filas": [
+     [
+      "Descubre",
+      "Quiero música en vivo para mi boda",
+      "Qué tipo de grupo va con cada estilo de boda"
+     ],
+     [
+      "Compara",
+      "¿Mariachi, trío o banda de versiones?",
+      "Diferencias de precio, duración y equipo"
+     ],
+     [
+      "Decide",
+      "¿A quién contrato?",
+      "Tus paquetes, reseñas y cómo apartar"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Ten por lo menos una pieza para cada etapa. Así acompañas a la persona desde la duda hasta el anticipo."
+  },
+  {
+   "h2": "Contenido y Google"
+  },
+  {
+   "p": "Cuando alguien busca una pregunta, Google intenta enseñar la mejor respuesta. Si tu guía es clara, puede aparecer."
+  },
+  {
+   "p": "Nadie te asegura un lugar. Lo que sí ayuda es responder mejor que lo que ya sale."
+  },
+  {
+   "p": "Busca tu pregunta antes de escribir. Lee las tres primeras respuestas y apunta lo que les falta."
+  },
+  {
+   "p": "Para entender cómo decide Google, lee la guía de [SEO](id:seo)."
+  },
+  {
+   "h2": "Cómo saber si está funcionando"
+  },
+  {
+   "p": "El contenido tarda en dar frutos. Mide cada mes y compara contra el anterior."
+  },
+  {
+   "tabla": {
+    "titulo": "Qué medir",
+    "columnas": [
+     "Número",
+     "Dónde se ve",
+     "Qué te dice"
+    ],
+    "filas": [
+     [
+      "Visitas a tus guías",
+      "Estadísticas de tu sitio",
+      "Si la gente encuentra tu contenido"
+     ],
+     [
+      "Búsquedas que te traen",
+      "Search Console",
+      "Qué preguntas contestas bien"
+     ],
+     [
+      "Guardados y compartidos",
+      "Estadísticas de redes",
+      "Qué contenido les pareció valioso"
+     ],
+     [
+      "Mensajes que mencionan una guía",
+      "Tu WhatsApp",
+      "Si el contenido te trae contrataciones"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Pregunta a cada cliente nuevo cómo te encontró. Si menciona una guía, ya sabes qué tema repetir."
+  },
+  {
+   "h2": "Un ejemplo con una academia de baile"
+  },
+  {
+   "p": "Este caso es inventado para explicar. Una academia en Guadalajara recibía cada enero las mismas dudas sobre edades y horarios."
+  },
+  {
+   "p": "Escribió en su sitio una guía sobre a qué edad empezar cada estilo. La compartió en redes y en su lista de WhatsApp."
+  },
+  {
+   "p": "Al enero siguiente la guía volvió a recibir visitas. Varias mamás escribieron diciendo que la habían leído."
+  },
+  {
+   "p": "La academia la actualiza cada año. Se volvió su mejor manera de llenar grupos en temporada de inscripciones."
+  },
+  {
+   "h2": "Errores comunes"
+  },
+  {
+   "ul": [
+    "Hablar sólo de ti y nada de lo que le importa a tu público.",
+    "Publicar mucho un mes y desaparecer los tres siguientes.",
+    "Copiar textos de otros sitios.",
+    "Dejar todo en redes y nada en tu sitio.",
+    "Usar palabras técnicas que tu público no conoce.",
+    "No decir cómo contactarte al final."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es el marketing de contenidos?",
+   "respuesta": "Es atraer público con algo útil o valioso. Publicas guías, videos o procesos en lugar de puros anuncios."
+  },
+  {
+   "pregunta": "¿En qué se distingue de la publicidad?",
+   "respuesta": "La publicidad pide la venta ya. El contenido ayuda primero y la venta llega después."
+  },
+  {
+   "pregunta": "¿Cada cuánto debo publicar?",
+   "respuesta": "Una pieza principal por semana es buen ritmo. Importa más la constancia que la cantidad."
+  },
+  {
+   "pregunta": "¿Necesito un blog?",
+   "respuesta": "No es obligatorio. Pero tener tus guías en tu sitio ayuda a que Google las encuentre."
+  },
+  {
+   "pregunta": "¿Cuánto tarda en dar resultados?",
+   "respuesta": "Meses. El contenido se acumula y sigue trayendo visitas mucho tiempo después."
+  },
+  {
+   "pregunta": "¿De dónde saco ideas?",
+   "respuesta": "De las preguntas de tu público. Revisa tus mensajes y comentarios y apunta lo que más se repite."
+  }
+ ],
+ "venta": {
+  "puente": "Tu contenido necesita una casa propia, y un sitio de artista es el lugar donde se queda y suma visitas.",
+  "titulo": "¿Te hago el sitio donde vivan tus guías y tus videos?",
+  "tituloCorto": "Tu sitio de artista"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

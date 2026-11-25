@@ -1,0 +1,500 @@
+{
+ "id": "mensajes-automaticos-whatsapp",
+ "slug": "mensajes-automaticos-whatsapp",
+ "molde": "guia",
+ "cabeza": "mensajes automáticos whatsapp",
+ "busquedas": [
+  "mensajes automáticos whatsapp business",
+  "respuesta automatica whatsapp",
+  "mensaje automático whatsapp",
+  "mensaje automático whatsapp business"
+ ],
+ "categoria": "WhatsApp",
+ "herramienta": {
+  "id": "whatsapp-link",
+  "modo": "link"
+ },
+ "fuentes": [
+  {
+   "texto": "Ayuda de WhatsApp, cómo usar los mensajes de bienvenida (leída el 12-nov-2026)",
+   "url": "https://faq.whatsapp.com/501866148528310/?locale=es_LA"
+  },
+  {
+   "texto": "Ayuda de WhatsApp, cómo usar los mensajes de ausencia (leída el 12-nov-2026)",
+   "url": "https://faq.whatsapp.com/2565868990219715/?locale=es_LA"
+  },
+  {
+   "texto": "Ayuda de WhatsApp, cómo usar las respuestas rápidas (consultada el 12-nov-2026)",
+   "url": "https://faq.whatsapp.com/2740839775981177/?locale=es_ES"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.brevo.com/es/blog/mensajes-automaticos-whatsapp/",
+   "titulo": "Mensajes automáticos WhatsApp",
+   "promete": "Mezcla la app con su plataforma de pago; los pasos de la app quedan en segundo plano"
+  },
+  {
+   "posicion": 2,
+   "url": "https://zenvia.com/es/blog/autoresponder-whatsapp/",
+   "titulo": "Auto responder para WhatsApp: ejemplos de mensajes",
+   "promete": "Ejemplos genéricos sin regla de los 14 días ni opciones de destinatarios"
+  },
+  {
+   "posicion": 3,
+   "url": "https://sinch.com/es/blog/mensaje-automatico-en-whatsapp/",
+   "titulo": "Mensaje automático en WhatsApp",
+   "promete": "Empuja la API; no trae textos por giro de negocio mexicano"
+  }
+ ],
+ "title": "Mensajes automáticos WhatsApp para músicos y artistas",
+ "h1": "Mensajes automáticos de WhatsApp para artistas",
+ "description": "Activa en WhatsApp Business la bienvenida, la ausencia y las respuestas rápidas para contestar contrataciones y citas. Pasos oficiales y textos para copiar.",
+ "resumen": "Bienvenida, ausencia y respuestas rápidas para tus contrataciones",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "link-de-whatsapp",
+  "whatsapp-business-para-empresas",
+  "codigo-qr-para-whatsapp",
+  "formato-de-cotizacion",
+  "link-en-bio"
+ ],
+ "respuesta": [
+  "WhatsApp Business tiene tres funciones para no escribir lo mismo a cada persona. Son el mensaje de bienvenida, el mensaje de ausencia y las respuestas rápidas.",
+  "Las tres se activan desde la pestaña Herramientas de la app. Abajo van los pasos de la ayuda oficial y textos pensados para quien vive de tocar, tatuar o dar clases."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Por qué le sirven a quien vive de su arte"
+  },
+  {
+   "p": "Si cantas en bodas o tatúas con cita, tu WhatsApp se llena de las mismas preguntas. Te preguntan si tienes la fecha libre y cuánto cobras."
+  },
+  {
+   "p": "Mientras estás en el escenario o con la aguja en la mano no puedes contestar. Un mensaje automático le avisa a la persona que sí la viste."
+  },
+  {
+   "p": "La app de WhatsApp Business es gratis y trae estas funciones. No tienes que pagar un programa aparte ni instalar nada más."
+  },
+  {
+   "tabla": {
+    "titulo": "Las tres funciones y cuándo salen",
+    "columnas": [
+     "Herramienta",
+     "Cuándo sale",
+     "Para qué sirve"
+    ],
+    "filas": [
+     [
+      "Mensaje de bienvenida",
+      "Cuando alguien te escribe por primera vez o tras 14 días sin plática",
+      "Saludar y dar lo básico de inmediato"
+     ],
+     [
+      "Mensaje de ausencia",
+      "Cuando tú decides, por horario o siempre",
+      "Avisar que no estás y cuándo contestas"
+     ],
+     [
+      "Respuestas rápidas",
+      "Cuando tú las eliges con una diagonal",
+      "Pegar textos que repites todo el día"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "La bienvenida y la ausencia se mandan sin que hagas nada. Las respuestas rápidas las mandas tú, pero ya no las tecleas completas."
+  },
+  {
+   "p": "Todas están en la pestaña Herramientas. En algunos teléfonos aparecen dentro de Configuración, en Herramientas para la empresa."
+  },
+  {
+   "h2": "Activa tu mensaje de bienvenida"
+  },
+  {
+   "p": "La ayuda oficial de WhatsApp da los mismos pasos para Android y para iPhone."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Entra a Herramientas",
+     "texto": "Abre WhatsApp Business, ve a la pestaña Herramientas y toca Mensaje de bienvenida."
+    },
+    {
+     "titulo": "Enciéndelo",
+     "texto": "Activa la opción que dice Enviar mensaje de bienvenida."
+    },
+    {
+     "titulo": "Escribe tu saludo",
+     "texto": "Toca el texto para cambiarlo y después toca Guardar."
+    },
+    {
+     "titulo": "Elige quién lo recibe",
+     "texto": "Toca Destinatarios y decide a quién le llega el saludo."
+    }
+   ]
+  },
+  {
+   "p": "Hay cuatro opciones de destinatarios. Puedes elegir a todos o sólo a quien no está en tu libreta."
+  },
+  {
+   "p": "Las otras dos son todos menos algunos, o nada más algunos que tú marques."
+  },
+  {
+   "p": "A un artista le conviene casi siempre la de contactos que no están guardados. Así tus músicos y tu familia no reciben el saludo de contrataciones."
+  },
+  {
+   "h3": "El saludo respeta 14 días"
+  },
+  {
+   "p": "La bienvenida sólo le llega a quien te escribe por primera vez. También le llega a quien llevaba 14 días sin escribirte."
+  },
+  {
+   "p": "Si un cliente te escribió hace una semana para la boda, no la verá de nuevo. Eso evita que el novio reciba el mismo saludo cada mañana."
+  },
+  {
+   "h3": "Si el saludo no sale"
+  },
+  {
+   "p": "La ayuda oficial menciona varias causas. Revisa una por una en este orden."
+  },
+  {
+   "ul": [
+    "Fíjate si conectaste el agente de inteligencia artificial de Meta. Al conectarlo se apaga la bienvenida.",
+    "Revisa los destinatarios, porque una excepción puede dejar fuera a quien buscas.",
+    "Acuérdate de la regla de los 14 días.",
+    "Apaga la opción, espera un poco y vuelve a encenderla.",
+    "Actualiza la app y reinicia tu teléfono."
+   ]
+  },
+  {
+   "p": "El teléfono necesita internet para mandar el saludo. Si está apagado, el mensaje sale cuando vuelve a conectarse."
+  },
+  {
+   "h2": "Activa tu mensaje de ausencia"
+  },
+  {
+   "p": "La ausencia le avisa a la persona que ahora no puedes contestar. Los pasos oficiales son éstos."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Entra a Herramientas",
+     "texto": "Ve a la pestaña Herramientas y toca Mensaje de ausencia."
+    },
+    {
+     "titulo": "Enciéndelo",
+     "texto": "Activa Enviar mensaje de ausencia."
+    },
+    {
+     "titulo": "Escribe el aviso",
+     "texto": "Toca el mensaje, cámbialo a tu gusto y toca Guardar."
+    },
+    {
+     "titulo": "Decide cuándo sale",
+     "texto": "Toca Programar y escoge una de las tres opciones de horario."
+    },
+    {
+     "titulo": "Elige quién lo recibe",
+     "texto": "Toca Destinatarios y marca a quién le llega."
+    }
+   ]
+  },
+  {
+   "tabla": {
+    "titulo": "Las tres formas de programar la ausencia",
+    "columnas": [
+     "Opción",
+     "Qué hace",
+     "Cuándo usarla"
+    ],
+    "filas": [
+     [
+      "Enviar siempre",
+      "Contesta a toda hora mientras esté activo",
+      "Una gira o una semana de descanso"
+     ],
+     [
+      "Horario personalizado",
+      "Contesta sólo en las fechas y horas que marques",
+      "El día de un festival o de una grabación"
+     ],
+     [
+      "Fuera del horario comercial",
+      "Contesta sólo cuando tu estudio está cerrado",
+      "El uso diario de estudios y academias"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "La tercera opción aparece sólo si guardaste tu horario en el perfil de empresa. Llénalo antes en Ajustes, dentro de Perfil de empresa."
+  },
+  {
+   "p": "Para los destinatarios tienes las mismas cuatro opciones que en la bienvenida."
+  },
+  {
+   "h2": "Crea tus respuestas rápidas"
+  },
+  {
+   "p": "Una respuesta rápida es un texto guardado que pegas con un atajo. Sirve para tu tarifa, tu rider técnico o tus datos de pago."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Entra a Herramientas",
+     "texto": "Toca Respuestas rápidas."
+    },
+    {
+     "titulo": "Agrega una",
+     "texto": "Toca el botón para agregar y escribe el texto completo."
+    },
+    {
+     "titulo": "Ponle un atajo",
+     "texto": "Usa una palabra corta, por ejemplo tarifa o rider."
+    },
+    {
+     "titulo": "Úsala en el chat",
+     "texto": "Escribe la diagonal en la conversación y elige la respuesta de la lista."
+    }
+   ]
+  },
+  {
+   "p": "Según la ayuda oficial puedes guardar hasta 50 respuestas rápidas. En la versión web no aceptan archivos adjuntos."
+  },
+  {
+   "p": "La app arma algunas respuestas sola con los datos de tu perfil. Por ejemplo tu horario y la dirección de tu estudio."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Textos para copiar según tu disciplina"
+  },
+  {
+   "p": "Son ejemplos para que arranques. Cambia nombres, precios y horarios por los tuyos antes de activarlos."
+  },
+  {
+   "h3": "Bienvenida"
+  },
+  {
+   "tabla": {
+    "titulo": "Saludos de ejemplo",
+    "columnas": [
+     "Disciplina",
+     "Texto"
+    ],
+    "filas": [
+     [
+      "Grupo versátil",
+      "Hola, gracias por escribir a Grupo Luna. Dime la fecha, la ciudad y el tipo de evento para revisar la agenda."
+     ],
+     [
+      "Mariachi",
+      "Hola, gracias por pensar en nosotros. ¿Es serenata, boda o misa, y para qué día?"
+     ],
+     [
+      "Tatuador",
+      "Hola, bienvenido al estudio. Mándame la idea, el tamaño en centímetros y la zona del cuerpo."
+     ],
+     [
+      "Maestra de guitarra",
+      "Hola, gracias por escribir. ¿Las clases son para ti o para tu hijo, y qué edad tiene?"
+     ],
+     [
+      "Fotógrafa",
+      "Hola, gracias por escribir. Cuéntame qué sesión buscas y en qué fecha la quieres."
+     ],
+     [
+      "Pintora",
+      "Hola, gracias por tu interés en mi obra. ¿Buscas una pieza que ya existe o un encargo?"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Un buen saludo termina con una pregunta. Así la persona sabe qué te tiene que contestar."
+  },
+  {
+   "h3": "Ausencia"
+  },
+  {
+   "tabla": {
+    "titulo": "Avisos de ausencia de ejemplo",
+    "columnas": [
+     "Situación",
+     "Texto"
+    ],
+    "filas": [
+     [
+      "Tocando en vivo",
+      "Ahorita estoy tocando. Te contesto al terminar la presentación, gracias por esperar."
+     ],
+     [
+      "Fuera de horario",
+      "Gracias por escribir. Contesto de lunes a viernes de 10 a 7 y mañana te leo."
+     ],
+     [
+      "En sesión de tatuaje",
+      "Estoy tatuando y no puedo ver el teléfono. Te respondo en cuanto termine."
+     ],
+     [
+      "De gira",
+      "Ando de gira hasta el lunes 6. Deja tu fecha y te confirmo al volver."
+     ],
+     [
+      "Grabando",
+      "Hoy estoy en el estudio de grabación. Mañana a primera hora te contesto."
+     ],
+     [
+      "Temporada alta",
+      "En diciembre tengo muchas solicitudes. Te contesto en orden de llegada."
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Di siempre cuándo vas a contestar. Un aviso sin hora deja a la persona sin saber si buscar a otro."
+  },
+  {
+   "h3": "Respuestas rápidas"
+  },
+  {
+   "tabla": {
+    "titulo": "Atajos útiles para artistas",
+    "columnas": [
+     "Atajo",
+     "Texto"
+    ],
+    "filas": [
+     [
+      "tarifa",
+      "Mi tarifa depende de la fecha, las horas y la ciudad. Pásame esos datos y te mando la cotización."
+     ],
+     [
+      "rider",
+      "Aquí va mi rider técnico con lo que necesito de audio y escenario."
+     ],
+     [
+      "anticipo",
+      "Para apartar la fecha pido un anticipo. Te paso los datos para la transferencia."
+     ],
+     [
+      "portafolio",
+      "Aquí puedes ver mis trabajos y escuchar mi música."
+     ],
+     [
+      "gracias",
+      "Gracias por contratarme. Si te gustó, una reseña me ayuda mucho."
+     ],
+     [
+      "cita",
+      "Para tu cita necesito tu nombre, la idea del diseño y el día que prefieres."
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Empieza la plática con una liga que ya trae mensaje"
+  },
+  {
+   "p": "La herramienta de arriba hace una liga de WhatsApp con un mensaje escrito por ti. La pones en tu perfil, en tu sitio o en un QR del flyer."
+  },
+  {
+   "p": "Quien la toca abre tu chat con ese texto listo. Ya no tiene que pensar cómo pedirte una fecha."
+  },
+  {
+   "p": "Si juntas la liga con tu bienvenida, la conversación arranca en orden. La persona dice qué busca y el saludo le contesta lo básico."
+  },
+  {
+   "p": "Lee la guía del [link de WhatsApp](id:link-de-whatsapp) para ver más usos. Para imprimirlo en tu tarjeta usa el [QR de WhatsApp](id:codigo-qr-para-whatsapp)."
+  },
+  {
+   "h2": "Un caso inventado para verlo completo"
+  },
+  {
+   "p": "Imagina un dueto acústico que toca en bodas de jueves a domingo."
+  },
+  {
+   "p": "Un sábado a las 10 de la noche, una novia escribe para pedir fecha. Recibe la ausencia que dice que el dueto está tocando y contesta al terminar."
+  },
+  {
+   "p": "Al otro día el dueto abre el chat y pega la respuesta de tarifa. Luego manda la de anticipo cuando la novia confirma."
+  },
+  {
+   "p": "La novia no se quedó esperando sin respuesta. El dueto tampoco escribió todo desde cero un domingo temprano."
+  },
+  {
+   "h2": "Lo que estas funciones no hacen"
+  },
+  {
+   "p": "Las funciones de la app mandan siempre un texto fijo. No leen lo que escribe la persona ni deciden qué responder."
+  },
+  {
+   "p": "Un menú con opciones que cambia según la pregunta ya es otra cosa. Eso lo hace un bot, y la app no lo trae."
+  },
+  {
+   "p": "Tampoco mandan recordatorios en una fecha. Para eso necesitas otra herramienta o anotarlo en tu agenda."
+  },
+  {
+   "h2": "Errores comunes en los mensajes"
+  },
+  {
+   "ul": [
+    "Saludos tan largos que nadie termina de leer.",
+    "La ausencia encendida en pleno horario de trabajo.",
+    "Un horario en el perfil y otro distinto en la ausencia.",
+    "Respuestas rápidas con la tarifa del año pasado.",
+    "Prometer respuesta en minutos y tardar un día.",
+    "Un saludo que no hace ninguna pregunta."
+   ]
+  },
+  {
+   "p": "Revisa tus textos cada vez que cambie tu tarifa o tu horario. Antes de la temporada de bodas y de diciembre conviene leerlos otra vez."
+  },
+  {
+   "p": "Un aviso con datos viejos te trae más preguntas en lugar de quitártelas."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Estos mensajes cuestan algo?",
+   "respuesta": "No cuestan. Vienen en la app gratuita de WhatsApp Business."
+  },
+  {
+   "pregunta": "¿Funcionan en el WhatsApp normal?",
+   "respuesta": "No funcionan. Sólo están en la app WhatsApp Business."
+  },
+  {
+   "pregunta": "¿Por qué no llega mi saludo de bienvenida?",
+   "respuesta": "Puede ser la regla de los 14 días. También influyen los destinatarios o el agente de inteligencia artificial de Meta conectado."
+  },
+  {
+   "pregunta": "¿Cuántas respuestas rápidas puedo guardar?",
+   "respuesta": "Hasta 50. Así lo dice la ayuda oficial de WhatsApp."
+  },
+  {
+   "pregunta": "¿Puedo dejar la ausencia sólo de noche?",
+   "respuesta": "Sí puedes. Elige fuera del horario comercial después de llenar tu horario en el perfil."
+  },
+  {
+   "pregunta": "¿Salen con el teléfono apagado?",
+   "respuesta": "No salen. El teléfono necesita internet para mandarlos."
+  },
+  {
+   "pregunta": "¿Puedo poner la liga de mi música en el saludo?",
+   "respuesta": "Sí puedes. Pega dentro del texto la liga de tu sitio o de tu portafolio."
+  }
+ ],
+ "venta": {
+  "puente": "Tu saludo automático puede mandar a un sitio tuyo con tu música, tus videos y tu tarifa de contratación.",
+  "titulo": "¿Te hago el sitio que va en tu saludo?",
+  "tituloCorto": "Un sitio para tu saludo"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

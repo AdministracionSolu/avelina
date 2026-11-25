@@ -1,0 +1,228 @@
+{
+ "id": "favicon",
+ "slug": "favicon",
+ "molde": "herramienta",
+ "cabeza": "favicon",
+ "busquedas": [
+  "favicon google"
+ ],
+ "categoria": "Página web",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "favicon",
+  "modo": ""
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.ionos.com/es-us/tools/crear-favicon",
+   "titulo": "Favicon Generator",
+   "promete": "Convierte imagen o dibujo en favicon; pensado para su hosting"
+  },
+  {
+   "posicion": 2,
+   "url": "https://coddy.tech/tools/es/favicon-generator",
+   "titulo": "Generador de favicon",
+   "promete": "Desde imagen, texto o emoji en el navegador; poca guía para que se lea a 16 px"
+  },
+  {
+   "posicion": 3,
+   "url": "https://miniwebtool.com/es/generador-de-favicon/",
+   "titulo": "Generador de favicon",
+   "promete": "Tamaños de 16 a 512 px; sin vista en pestaña ni código explicado"
+  }
+ ],
+ "title": "Favicon gratis para tu sitio de artista desde tu logo",
+ "h1": "Favicon para el sitio de tu banda o tu estudio",
+ "description": "Haz el favicon de tu sitio de artista con tus iniciales, un emoji o el símbolo de tu banda. Mira cómo queda en la pestaña y baja el ZIP gratis.",
+ "resumen": "El ícono de la pestaña de tu sitio de artista",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "crear-logo-gratis",
+  "isotipo-imagotipo-logotipo",
+  "paleta-de-colores",
+  "como-crear-una-pagina-web",
+  "buscar-dominio"
+ ],
+ "respuesta": [
+  "Pon tus iniciales, pega un emoji o sube el símbolo de tu banda. Al instante ves cómo luce en la pestaña del navegador y en la pantalla de un celular. Descargas un ZIP con el favicon.ico, los PNG y el código para tu sitio, todo hecho en tu equipo."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Qué es y por qué le importa a un artista"
+  },
+  {
+   "p": "El favicon es el ícono diminuto junto al nombre de tu sitio en la pestaña. También sale en favoritos y en algunos resultados de búsqueda."
+  },
+  {
+   "p": "Si no tienes uno, el navegador pone un dibujo genérico. Con el tuyo, un fan encuentra tu sitio entre diez pestañas abiertas."
+  },
+  {
+   "p": "Es un detalle chico que hace ver tu proyecto cuidado. Igual que afinar antes de salir al escenario."
+  },
+  {
+   "h2": "Cómo hacerlo"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Decide con qué",
+     "texto": "Letras, emoji o imagen. Tus iniciales se leen mejor que cualquier dibujo en tamaño mínimo."
+    },
+    {
+     "titulo": "Elige forma y color",
+     "texto": "Cuadrado, redondeado, círculo o sin fondo. Usa los colores de tu portada o tu logo."
+    },
+    {
+     "titulo": "Míralo en contexto",
+     "texto": "Revisa cómo se ve junto al título de tu sitio en la pestaña."
+    },
+    {
+     "titulo": "Descarga el ZIP",
+     "texto": "Viene con todos los tamaños y el bloque de código para pegar."
+    }
+   ]
+  },
+  {
+   "h2": "Lo que viene en el ZIP"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Archivo",
+     "Tamaño",
+     "Dónde se usa"
+    ],
+    "filas": [
+     [
+      "favicon.ico",
+      "16, 32 y 48 px en un archivo",
+      "Pestaña del navegador y favoritos"
+     ],
+     [
+      "apple-touch-icon.png",
+      "180 px",
+      "Acceso directo en iPhone"
+     ],
+     [
+      "PNG 192",
+      "192 px",
+      "Acceso directo en Android"
+     ],
+     [
+      "PNG 512",
+      "512 px",
+      "Pantalla de inicio y vista de la app"
+     ],
+     [
+      "Manifiesto",
+      "Archivo de texto",
+      "Nombre y colores al instalar el sitio"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "El código se pega dentro de la etiqueta head. Los archivos van en la carpeta principal de tu sitio."
+  },
+  {
+   "h2": "Ideas según lo que haces"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Proyecto",
+     "Qué usar en el favicon"
+    ],
+    "filas": [
+     [
+      "Banda con nombre de dos palabras",
+      "Las dos iniciales en letra gruesa"
+     ],
+     [
+      "Cantautora",
+      "Tu inicial o la nota de tu logo"
+     ],
+     [
+      "Estudio de tatuaje",
+      "El símbolo del sello sin las letras"
+     ],
+     [
+      "Fotógrafo",
+      "Tu monograma sobre fondo oscuro"
+     ],
+     [
+      "Ilustradora",
+      "Un trazo de tu personaje más conocido"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo lograr que se lea"
+  },
+  {
+   "p": "A 16 píxeles todo detalle se borra. Lo que luce en grande casi nunca funciona en chiquito."
+  },
+  {
+   "ul": [
+    "Usa una o dos letras gruesas y no tu logo entero.",
+    "Pon mucho contraste entre la letra y el fondo.",
+    "Evita palabras largas o líneas delgadas.",
+    "Si usas tu logo, recorta nada más el símbolo.",
+    "Revisa cómo se ve con el navegador en modo oscuro."
+   ]
+  },
+  {
+   "p": "Si tu logo es horizontal, quédate con sus iniciales. Para ver qué parte de tu logo es el símbolo, lee sobre [isotipo, imagotipo y logotipo](id:isotipo-imagotipo-logotipo)."
+  },
+  {
+   "h2": "Dónde ponerlo"
+  },
+  {
+   "p": "En un sitio hecho a mano subes los archivos y pegas el código. En un creador de sitios busca la opción en los ajustes."
+  },
+  {
+   "p": "Si tu sitio ya tenía uno viejo, el navegador puede tardar en cambiarlo. Ábrelo en una ventana privada para comprobar."
+  },
+  {
+   "p": "Conviene tener tu logo antes. Puedes [crear un logo gratis](id:crear-logo-gratis) y usar aquí su símbolo."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿El generador de favicon es gratis?",
+   "respuesta": "Sí. No pide cuenta y los íconos salen sin marca de agua."
+  },
+  {
+   "pregunta": "¿Mi logo se sube a algún servidor?",
+   "respuesta": "No. La imagen se procesa en tu navegador y no sale de tu equipo."
+  },
+  {
+   "pregunta": "¿De qué tamaño debe ser?",
+   "respuesta": "De varios. El .ico lleva 16, 32 y 48 px y los de celular van de 180 a 512 px."
+  },
+  {
+   "pregunta": "¿Lo puedo hacer con un emoji?",
+   "respuesta": "Sí. Pega una guitarra o un micrófono y elige el fondo."
+  },
+  {
+   "pregunta": "¿Uso PNG o .ico?",
+   "respuesta": "Los dos. El ZIP trae ambos para navegadores viejos y nuevos."
+  },
+  {
+   "pregunta": "¿Por qué no veo el favicon nuevo?",
+   "respuesta": "Es la memoria del navegador. Ábrelo en ventana privada o espera unas horas."
+  }
+ ],
+ "venta": {
+  "puente": "El favicon es el último detalle de un sitio de artista, y yo te puedo hacer el sitio completo.",
+  "aviso": "Tu favicon está listo. ¿Quieres el sitio donde va a aparecer?",
+  "titulo": "¿Te hago el sitio que lleva tu favicon?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

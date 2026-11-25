@@ -1,0 +1,477 @@
+{
+ "id": "marketing-en-redes-sociales",
+ "slug": "marketing-en-redes-sociales",
+ "molde": "guia",
+ "cabeza": "marketing en redes sociales",
+ "busquedas": [],
+ "categoria": "Publicidad y marketing",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.getresponse.com/es/ayuda/marketing-en-redes-sociales.html",
+   "titulo": "Marketing en redes sociales",
+   "promete": "Definición de glosario; sin plan semanal ni ejemplo de negocio local"
+  },
+  {
+   "posicion": 2,
+   "url": "https://mailchimp.com/es/marketing-glossary/social-media-marketing/",
+   "titulo": "Social Media Marketing",
+   "promete": "Conceptos generales para marcas grandes; no ayuda a elegir red según el giro"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.arsys.es/blog/como-hacer-marketing-en-redes-sociales",
+   "titulo": "¿Cómo hacer marketing en redes sociales?",
+   "promete": "Pasos de estrategia desde España; no habla de WhatsApp ni de medir mensajes y ventas"
+  }
+ ],
+ "title": "Marketing en redes sociales para músicos y artistas",
+ "h1": "Marketing en redes sociales para artistas",
+ "description": "Cómo usar Instagram, TikTok, Facebook y WhatsApp para que te contraten o te compren obra. Qué red elegir, qué publicar cada semana y qué números sí importan.",
+ "resumen": "Un plan de redes para que te contraten",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "marketing-digital",
+  "marketing-de-contenidos",
+  "publicidad-en-instagram",
+  "plantillas-para-instagram",
+  "link-en-bio",
+  "mensajes-automaticos-whatsapp"
+ ],
+ "respuesta": [
+  "El marketing en redes es todo lo que haces en Instagram, TikTok, Facebook o WhatsApp para que la gente descubra tu trabajo y te escriba. Cuenta lo que subes, cómo respondes y los anuncios que llegues a pagar.",
+  "Si eres independiente, rinde más escoger una o dos redes y subir algo cada semana sin falta. Abajo van la elección de red, un plan semanal y los números que vale la pena mirar."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Seguidores no es lo mismo que público"
+  },
+  {
+   "p": "El objetivo no es juntar miles de cuentas. Es que te encuentre la gente que sí puede ir a tu show, comprarte una pieza o contratarte."
+  },
+  {
+   "p": "Un trío que toca en bodas de su ciudad puede vivir con 900 seguidores de ahí. Otro con 30,000 de todo el mundo quizá no cierra ni una fecha."
+  },
+  {
+   "p": "Piensa en tus redes como una vitrina con mostrador. La vitrina atrae, pero la venta pasa en la plática."
+  },
+  {
+   "h2": "Qué red le va a tu disciplina"
+  },
+  {
+   "p": "No hace falta estar en todas. Vale más llevar bien dos que tener cinco abandonadas."
+  },
+  {
+   "tabla": {
+    "titulo": "Redes y para qué le sirven a un artista",
+    "columnas": [
+     "Red",
+     "Para qué funciona",
+     "Quién la aprovecha más"
+    ],
+    "filas": [
+     [
+      "Instagram",
+      "Fotos y videos cuidados, portafolio visual",
+      "Tatuadores, ilustradoras, fotógrafos y pintores"
+     ],
+     [
+      "TikTok",
+      "Videos cortos que enseñan o entretienen",
+      "Cantantes, covers, bailarines y procesos de obra"
+     ],
+     [
+      "Facebook",
+      "Comunidad local, grupos y eventos",
+      "Grupos para fiestas, mariachis y academias"
+     ],
+     [
+      "WhatsApp",
+      "Plática directa y listas de fans",
+      "Casi todos los artistas en México"
+     ],
+     [
+      "YouTube",
+      "Videos largos y en vivo completos",
+      "Músicos con repertorio, maestros y tutoriales"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Pregunta a quien ya te contrató dónde te encontró. Esa respuesta pesa más que cualquier tabla."
+  },
+  {
+   "h2": "Cuatro clases de publicación"
+  },
+  {
+   "p": "Un perfil que sólo vende aburre y uno que sólo entretiene no cierra nada. Mezcla estas cuatro."
+  },
+  {
+   "tabla": {
+    "titulo": "Tipos de publicación",
+    "columnas": [
+     "Tipo",
+     "Qué es",
+     "Ejemplo para un grupo versátil"
+    ],
+    "filas": [
+     [
+      "Oferta",
+      "Lo que ofreces con precio o fecha",
+      "Paquete de tres horas para boda con precio desde"
+     ],
+     [
+      "Proceso",
+      "Cómo trabajas cuando nadie ve",
+      "El ensayo del martes o la prueba de sonido"
+     ],
+     [
+      "Testimonio",
+      "Opiniones y momentos de quien te contrató",
+      "Los novios bailando su canción, con su permiso"
+     ],
+     [
+      "Útil",
+      "Algo que sirve aunque no te contraten",
+      "Qué canción elegir para el vals"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Lo de proceso suele crear cercanía. A un artista se le contrata cuando la gente siente que ya lo conoce."
+  },
+  {
+   "h2": "Una semana de publicaciones"
+  },
+  {
+   "p": "Este plan te pide unas tres horas a la semana. Muévelo a tu ritmo y a tus fechas."
+  },
+  {
+   "tabla": {
+    "titulo": "Plan de una semana",
+    "columnas": [
+     "Día",
+     "Qué publicar",
+     "Formato"
+    ],
+    "filas": [
+     [
+      "Lunes",
+      "Tu oferta principal con precio o fecha",
+      "Foto o carrusel"
+     ],
+     [
+      "Martes",
+      "Un momento del ensayo o del taller",
+      "Video corto o historia"
+     ],
+     [
+      "Miércoles",
+      "Un consejo de tu disciplina",
+      "Carrusel o video corto"
+     ],
+     [
+      "Jueves",
+      "La opinión de alguien que te contrató",
+      "Foto con texto o captura con permiso"
+     ],
+     [
+      "Viernes",
+      "Dónde tocas o qué obra está disponible este fin",
+      "Historia y publicación"
+     ],
+     [
+      "Sábado",
+      "Historias del show o del día",
+      "Historias"
+     ],
+     [
+      "Domingo",
+      "Descanso o una historia tranquila",
+      "Historia"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Arma todo lo de la semana en una sola sentada. Cuesta menos que inventar algo cada mañana."
+  },
+  {
+   "p": "Graba pedazos de todo lo que haces. El día que no tengas idea, ya tienes material guardado."
+  },
+  {
+   "p": "Las [plantillas para Instagram](id:plantillas-para-instagram) te ayudan a que tus diseños se vean de la misma familia."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Textos que provocan un mensaje"
+  },
+  {
+   "p": "Cada texto debería contar qué ofreces y qué paso sigue. El segundo es el que casi todos olvidan."
+  },
+  {
+   "ul": [
+    "Abre con lo importante en el primer renglón.",
+    "Pon un precio o un precio desde cuando aplique.",
+    "Di tu ciudad o hasta dónde viajas.",
+    "Cierra con una acción concreta, como escríbeme por WhatsApp.",
+    "Usa pocas etiquetas, las que tu público sí buscaría."
+   ]
+  },
+  {
+   "p": "Un ejemplo inventado para una fotógrafa. «Sesión de XV años en exterior desde $2,500 en Morelia. Me quedan dos sábados de diciembre, apártalo por WhatsApp.»"
+  },
+  {
+   "h2": "Responder también es vender"
+  },
+  {
+   "p": "Las redes son pláticas. Un comentario que nadie contesta es una contratación que se va con otro grupo."
+  },
+  {
+   "p": "Contesta mensajes y comentarios el mismo día. Si se puede, dentro de la primera hora."
+  },
+  {
+   "p": "Ten escritas las respuestas de siempre. Tarifa, zona, qué incluye y cómo se aparta la fecha."
+  },
+  {
+   "p": "Para no dejar a nadie esperando mientras tocas, activa los [mensajes automáticos de WhatsApp](id:mensajes-automaticos-whatsapp)."
+  },
+  {
+   "h2": "Videos cortos sin pena"
+  },
+  {
+   "p": "Los videos cortos suelen llegar más lejos que las fotos. A muchos artistas les cuesta salir a cuadro, pero no es obligatorio."
+  },
+  {
+   "p": "Puedes grabar tus manos en el diapasón, el pincel sobre el lienzo o la aguja trabajando. El público quiere ver el oficio."
+  },
+  {
+   "tabla": {
+    "titulo": "Ideas de video corto por disciplina",
+    "columnas": [
+     "Disciplina",
+     "Idea de video"
+    ],
+    "filas": [
+     [
+      "Cantautora",
+      "Un pedazo de canción nueva en la sala de tu casa"
+     ],
+     [
+      "Tatuador",
+      "Un diseño de la hoja a la piel en cámara rápida"
+     ],
+     [
+      "Pintora",
+      "Una obra de la primera mancha al cuadro terminado"
+     ],
+     [
+      "Bailarina",
+      "Una coreografía corta que otros puedan aprender"
+     ],
+     [
+      "Grupo versátil",
+      "La reacción del público en el momento más fuerte de la fiesta"
+     ],
+     [
+      "Maestro de guitarra",
+      "Un acorde difícil explicado en treinta segundos"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Graba en vertical con luz de día. Entre quince y treinta segundos alcanza."
+  },
+  {
+   "p": "Escribe en pantalla la idea principal. Mucha gente mira sin sonido, aunque en música el audio importa mucho."
+  },
+  {
+   "h2": "Colaborar con otros artistas"
+  },
+  {
+   "p": "Una forma barata de llegar a gente nueva es juntarte con alguien que tiene un público parecido. Sus seguidores pueden ser los tuyos."
+  },
+  {
+   "p": "Una banda y un ilustrador pueden lanzar juntos una playera. Una fotógrafa y una maquillista pueden armar un paquete para XV años."
+  },
+  {
+   "p": "Busca a quien le habla a tu mismo público sin competir contigo. Propón algo concreto y con fecha."
+  },
+  {
+   "h2": "Cuando llega un comentario feo"
+  },
+  {
+   "p": "Tarde o temprano alguien va a criticar tu trabajo. Cómo respondes lo leen todos los demás."
+  },
+  {
+   "ul": [
+    "Responde con calma y sin pelear en público.",
+    "Si algo sí salió mal, dilo.",
+    "Ofrece resolverlo por mensaje privado.",
+    "No borres una crítica real, sólo insultos o publicidad ajena."
+   ]
+  },
+  {
+   "p": "Quien llega después mira más tu respuesta que la queja. Un problema bien resuelto puede ganarte un fan para siempre."
+  },
+  {
+   "h2": "Anuncios pagados"
+  },
+  {
+   "p": "Lo que publicas gratis llega sólo a una parte de tus seguidores. Un anuncio te deja llegar a más gente de tu zona."
+  },
+  {
+   "p": "No pagues por mover cualquier cosa. Promueve lo que ya funcionó sin pagar, como el video que más mensajes trajo."
+  },
+  {
+   "p": "Los pasos están en la guía de [publicidad en Instagram](id:publicidad-en-instagram)."
+  },
+  {
+   "h2": "Los números que sí cuentan"
+  },
+  {
+   "p": "Las redes te dan muchísimos datos. Muy pocos te dicen si te están contratando."
+  },
+  {
+   "tabla": {
+    "titulo": "Números que importan",
+    "columnas": [
+     "Número",
+     "Qué te dice",
+     "Dónde lo ves"
+    ],
+    "filas": [
+     [
+      "Alcance",
+      "Cuántas personas vieron lo que subiste",
+      "Estadísticas de la red"
+     ],
+     [
+      "Guardados y compartidos",
+      "Qué les pareció útil o bonito",
+      "Estadísticas de cada publicación"
+     ],
+     [
+      "Mensajes recibidos",
+      "Cuántos se interesaron de verdad",
+      "Tu bandeja y tu WhatsApp"
+     ],
+     [
+      "Clics a tu sitio",
+      "Cuántos quisieron saber más",
+      "Estadísticas de la red o de tu sitio"
+     ],
+     [
+      "Contrataciones que vinieron de redes",
+      "Lo que de verdad importa",
+      "Pregunta a cada cliente cómo te conoció"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Los corazones se ven bonitos, pero dicen poco. Un video con pocos corazones y diez mensajes vale más que uno viral sin ninguna fecha."
+  },
+  {
+   "p": "Pregunta siempre cómo te encontraron. Anótalo y en un mes sabes qué red te trae trabajo."
+  },
+  {
+   "h2": "Un caso inventado"
+  },
+  {
+   "p": "Daniela da clases de violín en Toluca y publicaba cuando se acordaba."
+  },
+  {
+   "p": "Preguntó a los papás de sus alumnos y casi todos usaban Facebook y WhatsApp. Dejó TikTok para después."
+  },
+  {
+   "p": "Empezó a publicar tres veces por semana con el plan de arriba. Los martes subía un video corto de un alumno tocando, con permiso de sus papás."
+  },
+  {
+   "p": "Esos videos fueron los más compartidos. Las inscripciones llegaban por WhatsApp desde la liga de su perfil."
+  },
+  {
+   "p": "A los tres meses sabía en qué semanas llegaban más mensajes. Ahí puso sus clases muestra."
+  },
+  {
+   "h2": "Tus redes y tu sitio propio"
+  },
+  {
+   "p": "Tus redes son prestadas. La plataforma cambia sus reglas, baja tu alcance o te cierra la cuenta."
+  },
+  {
+   "p": "Un sitio con tu dominio es tuyo. Ahí ordenas tu música, tus videos, tus precios y tu contacto."
+  },
+  {
+   "p": "Pon la liga de tu sitio en todas tus redes. Lee cómo usar una sola liga en [link en bio](id:link-en-bio)."
+  },
+  {
+   "h2": "Cuánto esperar antes de juzgar"
+  },
+  {
+   "p": "Las redes no dan frutos en una semana. Dales por lo menos tres meses seguidos para ver un patrón."
+  },
+  {
+   "p": "Cada fin de mes compara tus cinco números con el mes anterior. Repite lo que trajo mensajes y suelta lo que no."
+  },
+  {
+   "p": "Si en tres meses no llega ni un mensaje, cambia algo grande. Puede ser la red, el tipo de video o lo que ofreces."
+  },
+  {
+   "h2": "Errores comunes en redes de artistas"
+  },
+  {
+   "ul": [
+    "Abrir cuenta en todas las redes y dejarlas tiradas.",
+    "Subir sólo carteles de fechas sin enseñar cómo suenas.",
+    "No decir tu ciudad ni cómo contratarte.",
+    "Tardar días en contestar a quien pregunta por una fecha.",
+    "Comprar seguidores que nunca van a ir a un show.",
+    "Medir el éxito por corazones y no por mensajes.",
+    "Usar fotos de otros en lugar de las tuyas."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es el marketing en redes sociales?",
+   "respuesta": "Es usar las redes para que te conozcan y te contraten. Incluye publicar, responder y pagar anuncios."
+  },
+  {
+   "pregunta": "¿En qué red debo estar?",
+   "respuesta": "En la que usa tu público. Pregúntale y arranca con una o dos."
+  },
+  {
+   "pregunta": "¿Cuántas veces a la semana publico?",
+   "respuesta": "De tres a cinco para empezar. La constancia pesa más que la cantidad."
+  },
+  {
+   "pregunta": "¿Tengo que pagar anuncios?",
+   "respuesta": "No al principio. Conviene cuando ya sabes qué publicación trae mensajes."
+  },
+  {
+   "pregunta": "¿Cómo sé si mis redes me consiguen trabajo?",
+   "respuesta": "Preguntando a cada cliente cómo te conoció. Cuenta mensajes y fechas cerradas."
+  },
+  {
+   "pregunta": "¿Las redes reemplazan a un sitio propio?",
+   "respuesta": "No. Las redes atraen y el sitio guarda todo en un lugar que es tuyo."
+  }
+ ],
+ "venta": {
+  "puente": "Tus redes atraen gente, y tu sitio es donde esa gente escucha tu música completa y te contrata.",
+  "titulo": "¿Te hago el sitio al que llevan tus redes?",
+  "tituloCorto": "El sitio de tus redes"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

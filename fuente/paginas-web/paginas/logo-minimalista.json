@@ -1,0 +1,191 @@
+{
+ "id": "logo-minimalista",
+ "slug": "logo-minimalista",
+ "molde": "herramienta",
+ "cabeza": "logo minimalista",
+ "busquedas": [
+  "logotipo minimalista"
+ ],
+ "categoria": "Logos",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "logo",
+  "modo": "minimalista"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.tailorbrands.com/es/logo-maker/tipos-de-logos/logotipos-minimalistas",
+   "titulo": "Logotipos minimalistas (Tailor Brands)",
+   "promete": "Consejos y creador de pago"
+  },
+  {
+   "posicion": 2,
+   "url": "https://zoviz.com/es/logo-maker/minimalist",
+   "titulo": "Logo minimalista (Zoviz)",
+   "promete": "Creador con descarga de pago"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.tiendanube.com/herramientas/creador-de-logos/logos-minimalistas",
+   "titulo": "Logos minimalistas (Tiendanube)",
+   "promete": "Creador gratis; empuja a abrir tienda"
+  }
+ ],
+ "title": "Logo minimalista gratis para tu firma o tu estudio",
+ "h1": "Crea un logo minimalista de artista",
+ "description": "Haz gratis un logo minimalista para tu nombre artístico, tu estudio de foto o tu taller. Letra delgada, mucho aire y una tinta. Bájalo en SVG o PNG sin fondo.",
+ "resumen": "Un logo sobrio para tu nombre o tu estudio",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "crear-logo-gratis",
+  "letras-para-logo",
+  "isotipo-imagotipo-logotipo",
+  "paleta-de-colores",
+  "logo-para-camisetas",
+  "imprimir-tarjetas-de-presentacion"
+ ],
+ "respuesta": [
+  "En este modo el creador sólo te propone logos sobrios. Trae letras delgadas, letras separadas, símbolos chicos y una sola tinta. Pones tu nombre, eliges la propuesta y la bajas en SVG o en PNG sin fondo."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Qué vuelve minimalista a un logo"
+  },
+  {
+   "p": "Minimalista no quiere decir vacío. Quiere decir que cada trazo está por algo y que nada estorba cuando el logo se ve pequeño."
+  },
+  {
+   "p": "Aquí el símbolo sale al setenta por ciento de su tamaño de siempre. Tu nombre se lleva la atención y el dibujo lo acompaña."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Rasgo",
+     "Cómo lo aplica el creador"
+    ],
+    "filas": [
+     [
+      "Pocos elementos",
+      "Un símbolo abstracto pequeño o ninguno"
+     ],
+     [
+      "Letra ligera",
+      "Tipografías delgadas, geométricas o con remate fino"
+     ],
+     [
+      "Aire entre letras",
+      "Espaciado abierto desde la primera propuesta"
+     ],
+     [
+      "Un color",
+      "Negro, gris o tonos apagados como olivo y vino"
+     ],
+     [
+      "Acomodos limpios",
+      "Horizontal, sólo nombre, vertical o iniciales"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "A qué artistas les queda"
+  },
+  {
+   "p": "Lo sobrio comunica calma y oficio. Funciona cuando quien te contrata busca confianza más que ruido."
+  },
+  {
+   "ul": [
+    "Fotógrafas de bodas y de retrato.",
+    "Pintores e ilustradoras que firman su obra con su nombre.",
+    "Estudios de tatuaje de línea fina.",
+    "Cantautores y proyectos acústicos.",
+    "Maestras de piano o de canto con estudio propio."
+   ]
+  },
+  {
+   "p": "No le queda tanto a una banda de punk o a un sonidero. Ahí el público espera algo fuerte que se reconozca de lejos."
+  },
+  {
+   "h2": "Cómo sacarle provecho"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Usa un nombre corto",
+     "texto": "Con letra fina, tu nombre y apellido se leen mejor que un nombre de cuatro palabras."
+    },
+    {
+     "titulo": "Prueba sin símbolo",
+     "texto": "El acomodo «Sólo nombre» suele ser el más elegante si tu nombre tiene buena forma."
+    },
+    {
+     "titulo": "Revísalo en chico",
+     "texto": "La letra delgada se borra en una foto de perfil. Si te pasa, cambia a la versión de iniciales."
+    },
+    {
+     "titulo": "Quédate con una tinta",
+     "texto": "Un segundo color casi siempre le quita sobriedad. Usa el mismo tono en símbolo y nombre."
+    }
+   ]
+  },
+  {
+   "h2": "Tropiezos frecuentes"
+  },
+  {
+   "ul": [
+    "Escoger una letra tan delgada que se rompe al imprimir.",
+    "Poner gris claro sobre blanco y perder contraste.",
+    "Imitar tanto a un artista famoso que parece copia.",
+    "Quitar tanto que ya no se entiende a qué te dedicas."
+   ]
+  },
+  {
+   "p": "Baja también la versión para fondo oscuro antes de imprimir. Un trazo fino en blanco sobre negro necesita un poco más de grosor."
+  },
+  {
+   "p": "Si te gusta una marca hecha sólo con tipografía, revisa las [letras para logo](id:letras-para-logo). Para tonos sobrios usa la [paleta de colores](id:paleta-de-colores)."
+  },
+  {
+   "h2": "Dónde luce tu logo sobrio"
+  },
+  {
+   "p": "Se ve muy bien en papel con textura, como kraft o algodón. La sencillez del diseño deja que el material se note."
+  },
+  {
+   "p": "Úsalo en la ficha de cada obra, en el sello de tus láminas y en tus [tarjetas de presentación](id:imprimir-tarjetas-de-presentacion). Repite siempre el mismo color para que te reconozcan."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Le puedo poner un segundo color?",
+   "respuesta": "Sí. En los ajustes cambias aparte el color del símbolo y el del nombre."
+  },
+  {
+   "pregunta": "¿Qué símbolos trae este modo?",
+   "respuesta": "Sólo formas abstractas. Trae círculos partidos, arcos y rombos, sin dibujos de giro."
+  },
+  {
+   "pregunta": "¿Sirve para bordar?",
+   "respuesta": "Con cuidado. La letra delgada se pierde en el hilo, así que pide una versión más gruesa."
+  },
+  {
+   "pregunta": "¿En qué formato lo bajo?",
+   "respuesta": "En SVG y en PNG. El SVG va a la imprenta y el PNG sin fondo a redes."
+  },
+  {
+   "pregunta": "¿Es gratis?",
+   "respuesta": "Sí. No pide cuenta y la línea «Hecho con Avelina» se quita con una casilla."
+  }
+ ],
+ "venta": {
+  "puente": "Un logo sobrio pide un sitio igual de cuidado, con tu obra o tu música en primer plano.",
+  "aviso": "Tu logo está listo. ¿Quieres un sitio igual de limpio para tu obra?",
+  "titulo": "¿Te hago un sitio a juego con tu logo?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

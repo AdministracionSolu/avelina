@@ -1,0 +1,84 @@
+{
+ "id": "flyer",
+ "slug": "flyer",
+ "molde": "herramienta",
+ "cabeza": "flyer",
+ "busquedas": ["flyers online", "flyers editables", "flyer publicitario", "flyers publicitarios", "crear flyer", "cómo hacer un flyers", "hacer flyers", "crear flyers", "crear un flyer", "creador de flyer", "crear flyer gratis", "crear flyers gratis", "crear un flyer gratis", "como hacer un flyer gratis", "flyer digital", "flyers digitales", "flyer publicidad", "flyers de publicidad", "aplicaciones para hacer flyers", "aplicaciones para hacer flyers gratis", "flyer promocional", "flyers promocionales", "diseño de flyers"],
+ "categoria": "Diseño para imprimir",
+ "categoriaApp": "DesignApplication",
+ "herramienta": { "id": "editor-diseno", "modo": "flyer" },
+ "fuentes": [],
+ "serp": [
+  { "posicion": 1, "url": "https://www.canva.com/es_mx/crear/flyers/", "titulo": "Crea flyers gratis (Canva)", "promete": "Miles de plantillas y descarga gratis; pide cuenta, no explica medidas mexicanas ni media carta" },
+  { "posicion": 2, "url": "https://www.adobe.com/es/express/create/flyer", "titulo": "Crear flyer (Adobe Express)", "promete": "Plantillas gratis con cuenta; nada de medidas de imprenta ni QR a WhatsApp" },
+  { "posicion": 3, "url": "https://picsart.com/es/design/flyers/", "titulo": "Creador de flyers gratis", "promete": "Editor con IA y plantillas; pide registro y no habla de impreso contra digital" }
+ ],
+ "title": "Flyer gratis para tu tocada, tu expo o tu taller",
+ "h1": "Haz el flyer de tu tocada gratis",
+ "description": "Diseña el flyer de tu tocada, tu exposición o tu taller en media carta, carta o para redes. Cambia textos y colores y baja el PDF para imprenta o el PNG.",
+ "resumen": "El flyer de tu próxima fecha en papel y en redes",
+ "revisada": "2026-11",
+ "relacionadas": ["flyer-para-fiesta", "cartel-publicitario", "poster", "volantes", "flyer-informativo", "generador-de-qr"],
+ "respuesta": [
+  "Toma uno de los seis diseños de arriba y escribe encima los datos de tu fecha. Sale en media carta, en carta o en vertical para tus redes. Lo bajas en PDF a tamaño real o en PNG a 300 ppp sin registrarte."
+ ],
+ "cuerpo": [
+  { "h2": "El flyer de tu fecha en cuatro pasos" },
+  { "pasos": [
+   { "titulo": "Elige el diseño que mejor va con tu evento", "texto": "Son seis de arranque con su nombre. El de fiesta y el informativo le quedan bien a una tocada o a un taller." },
+   { "titulo": "Fija la medida antes de escribir", "texto": "La media carta sale más barata por pieza. La carta se ve mejor pegada en la puerta del foro." },
+   { "titulo": "Llena sólo lo que tu evento necesita", "texto": "Los campos vacíos se quitan solos del diseño. No se cuelan frases de ejemplo en tu flyer." },
+   { "titulo": "Revisa el PDF en tamaño real", "texto": "Ábrelo al cien por ciento antes de imprimir. Lee dos veces la fecha, la hora y el precio del cover." }
+  ] },
+  { "h2": "Medidas de flyer que piden en las imprentas de México" },
+  { "p": "Casi todas las imprentas trabajan el flyer en media carta o en carta. El editor trae esas dos y otra vertical para publicar." },
+  { "tabla": {
+   "columnas": ["Medida", "Tamaño", "Para qué sirve"],
+   "filas": [
+    ["Media carta", "13.97 × 21.59 cm", "Repartir a la salida de otros shows y dejar en cafés"],
+    ["Carta", "21.59 × 27.94 cm", "Pegar en la puerta del foro, la galería o la escuela de música"],
+    ["Para redes", "1080 × 1350 px", "Historias, estados de WhatsApp y publicaciones verticales"]
+   ]
+  } },
+  { "p": "Antes de un tiraje grande pregunta cuántas piezas salen por pliego. A veces la media carta baja el costo casi a la mitad." },
+  { "h2": "Qué debe decir el flyer de un evento de arte" },
+  { "p": "Quien recibe tu flyer le da dos o tres segundos. En ese momento tiene que saber quién toca, cuándo y dónde." },
+  { "ul": [
+   "El nombre de tu banda o de la expo en grande y arriba.",
+   "La fecha y la hora con letra que se lea desde lejos.",
+   "El lugar con su colonia para que nadie se pierda.",
+   "El precio del cover o la palabra «entrada libre».",
+   "Un código QR que abra tu música o la venta de boletos."
+  ] },
+  { "p": "El editor arma el QR con el WhatsApp de tus datos. También puede llevar a un link, como tu canción o tu página de fechas." },
+  { "h2": "En papel y en redes con el mismo diseño" },
+  { "p": "El impreso trabaja en la zona del foro y entre la gente que ya va a shows. El digital viaja por grupos y llega a quien no conoce tu música todavía." },
+  { "p": "Haz ambos sin empezar de cero. Cambia la medida a «Para redes» y tu texto se reacomoda solo." },
+  { "h2": "Ideas de flyer para artistas" },
+  { "ul": [
+   "Una banda de rock que presenta su disco en un bar de la ciudad.",
+   "Una cantautora con su fecha acústica en una cafetería.",
+   "Una ilustradora que abre su taller de acuarela de los sábados.",
+   "Un estudio de tatuaje con su jornada de diseños pequeños.",
+   "Una academia de baile que anuncia su función de fin de curso."
+  ] },
+  { "p": "Para una fiesta con DJ mira el [flyer para fiesta](id:flyer-para-fiesta). Si quieres algo más grande para la pared, usa el [cartel](id:cartel-publicitario) o el [póster](id:poster)." }
+ ],
+ "faqs": [
+  { "pregunta": "¿Cobra algo el editor de flyers?", "respuesta": "No cobra. No pide cuenta ni tarjeta y tu flyer sale sin marca de agua." },
+  { "pregunta": "¿La imprenta acepta el PDF que sale de aquí?", "respuesta": "Sí lo acepta. Sale a tamaño real con las letras en vectores y abre igual en cualquier computadora." },
+  { "pregunta": "¿Le puedo poner la foto de la banda?", "respuesta": "Sí. Sube un PNG o un JPG y acomódalo arrastrando. La foto se queda en tu equipo." },
+  { "pregunta": "¿Cambio colores y tipografía?", "respuesta": "Sí. Hay combinaciones listas o pones los colores de tu disco. También cambias las letras de títulos y textos." },
+  { "pregunta": "¿Se guarda mi flyer si cierro la página?", "respuesta": "Sí, en este navegador. Si vuelves desde el mismo equipo ahí está tu último diseño." },
+  { "pregunta": "¿El PDF trae sangrado para el corte?", "respuesta": "Sí trae. Marca la casilla de imprenta y sale con 3 mm de sangrado y marcas de corte." }
+ ],
+ "venta": {
+  "puente": "Tu flyer anuncia la fecha y tu sitio la guarda para quien la busque después del show.",
+  "aviso": "Tu flyer está listo. ¿Quieres que su QR lleve a tu propio sitio de artista?",
+  "titulo": "¿Te hago el sitio al que lleva tu flyer?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026"
+}

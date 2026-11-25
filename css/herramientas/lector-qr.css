@@ -1,0 +1,21 @@
+/* Lector de QR de Avelina. Usa las variables de .ah (css/herramientas.css). */
+.ah.alq { gap: 28px; }
+.alq-zona { display: grid; gap: 14px; }
+.alq-archivo { position: absolute; width: 1px; height: 1px; opacity: 0; overflow: hidden; clip: rect(0 0 0 0); }
+.alq-subir { cursor: pointer; }
+.alq-subir:focus-visible, .alq-archivo:focus-visible + .alq-subir { outline: 2px solid var(--ah-texto); outline-offset: 2px; }
+.alq-encima { outline: 2px dashed var(--ah-borde-fuerte); outline-offset: -10px; }
+.alq-camara { position: relative; max-width: 520px; width: 100%; aspect-ratio: 4 / 3; background: #000; border-radius: 6px; overflow: hidden; }
+.alq-video { width: 100%; height: 100%; object-fit: cover; display: block; }
+.alq-mira { position: absolute; inset: 18% 22%; border: 2px solid rgba(255, 255, 255, .85); border-radius: 8px; }
+.alq-aviso:empty { display: none; }
+.alq-resultado { border: 1px solid var(--ah-borde); border-radius: 6px; padding: 20px; display: grid; gap: 14px; background: var(--ah-campo); min-width: 0; }
+.alq-cabeza { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: baseline; }
+.alq-tipo { font-size: 13px; border: 1px solid var(--ah-borde-fuerte); border-radius: 3px; padding: 1px 8px; }
+.alq-datos { margin: 0; display: grid; gap: 10px; }
+.alq-fila { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 4px 16px; align-items: baseline; }
+@media (max-width: 520px) { .alq-fila { grid-template-columns: 1fr; } }
+.alq-fila dt { color: var(--ah-gris); font-size: 14px; }
+.alq-fila dd { margin: 0; display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: baseline; min-width: 0; }
+.alq-valor { font: 500 18px/1.35 var(--ah-sans); overflow-wrap: anywhere; user-select: all; }
+.alq-url, .alq-texto { margin: 0; font: 400 15px/1.5 ui-monospace, "SF Mono", Menlo, monospace; overflow-wrap: anywhere; white-space: pre-wrap; }

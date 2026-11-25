@@ -1,0 +1,85 @@
+{
+ "id": "logo-3d",
+ "slug": "logo-3d",
+ "molde": "herramienta",
+ "cabeza": "logo 3d",
+ "busquedas": ["logo en 3d", "crear logo gratis 3d", "crear logo 3d gratis"],
+ "categoria": "Logos",
+ "categoriaApp": "DesignApplication",
+ "herramienta": { "id": "logo", "modo": "3d" },
+ "fuentes": [],
+ "serp": [
+  { "posicion": 1, "url": "https://www.canva.com/es_ar/crear/logos-3d/", "titulo": "Logos 3D (Canva)", "promete": "Creador con cuenta" },
+  { "posicion": 2, "url": "https://www.capcut.com/es-es/create/3d-logo", "titulo": "Creador de logotipos 3D (CapCut)", "promete": "Creador con cuenta" },
+  { "posicion": 3, "url": "https://hyper3d.ai/es/blog/3d-logo-design-es", "titulo": "Diseño de logotipos 3D (Hyper3D)", "promete": "Guía que vende su generador" }
+ ],
+ "title": "Logo 3D gratis con relieve para tu banda o tu canal",
+ "h1": "Logo con relieve 3D para artistas",
+ "description": "Dale relieve 3D al nombre de tu banda o tu canal, como letras de bloque con fondo. Elige letra gruesa y colores y baja SVG y PNG sin fondo, sin registro.",
+ "resumen": "El nombre de tu proyecto con relieve de bloque",
+ "revisada": "2026-11",
+ "relacionadas": ["logo-animado", "letras-para-logo", "crear-logo-gratis", "logo-minimalista", "logo-para-camisetas", "portada-de-facebook"],
+ "respuesta": [
+  "Aquí el nombre de tu proyecto gana grosor en diagonal, igual que una marquesina de cine. Las capas de atrás heredan el tono de cada letra y se ajustan cuando mueves los colores. Ojo, se trata de un dibujo plano que aparenta volumen y no de una pieza que gira."
+ ],
+ "cuerpo": [
+  { "h2": "De dónde sale el volumen" },
+  { "p": "El truco son seis duplicados escondidos atrás del original. Cada duplicado se recorre hacia la esquina inferior derecha con un color más profundo." },
+  { "p": "Juntos dan la sensación de un bloque sólido. Como todo es vector, puedes agrandar el SVG para una manta sin que se deforme." },
+  { "p": "Esa dirección simula una lámpara arriba a la izquierda. Es la luz que tu vista supone casi siempre, y por eso el efecto convence." },
+  { "p": "Aquí la casilla «Relieve» arranca prendida. Si prefieres otro estilo del creador, búscala también ahí y actívala." },
+  { "h2": "Letras que soportan el relieve" },
+  { "p": "Para que el grosor se note, la letra debe tener cuerpo. Con trazos finos el borde casi no aparece y luce como una falla de impresión." },
+  { "tabla": {
+   "columnas": ["Estilo de letra", "Cómo se ve con relieve"],
+   "filas": [
+    ["Angosta y gruesa", "Muy marcada, como cartel de lucha libre o de rock"],
+    ["Redonda", "Amable, como música para niños o un canal de dibujos"],
+    ["Egipcia pesada", "Firme, como un grupo norteño o un taller de serigrafía"],
+    ["Palo seco moderna", "Limpia, como un productor de música electrónica"]
+   ]
+  } },
+  { "h2": "Dónde luce un logo 3D en tu carrera" },
+  { "ul": [
+   "La miniatura de tus videos y el banner de tu canal.",
+   "La portada de un sencillo con estilo de los años ochenta.",
+   "El cartel de un festival que quiere verse llamativo desde lejos.",
+   "Tu perfil de transmisiones en vivo mientras tocas o dibujas.",
+   "Las estampas que regalas en la mesa de mercancía."
+  ] },
+  { "p": "Para el sello de tus grabados o la firma de tus fotos baja también la versión plana. Apaga la casilla y descarga otra vez." },
+  { "h2": "Haz tu logo 3D paso a paso" },
+  { "pasos": [
+   { "titulo": "Usa un nombre corto", "texto": "Una o dos palabras dejan respirar el efecto. Con un nombre largo conviene probar sólo las iniciales del proyecto." },
+   { "titulo": "Escoge la propuesta más robusta", "texto": "Este modo sólo ofrece seis tipografías y todas son de trazo pesado." },
+   { "titulo": "Prueba varios tonos de base", "texto": "Con una base clara el bloque de atrás contrasta mucho. Con una base oscura la profundidad se vuelve discreta." },
+   { "titulo": "Revísalo con fondo oscuro", "texto": "Ahí las capas de atrás se aclaran para no desaparecer. Es la prueba para tu portada nocturna." }
+  ] },
+  { "h2": "Lo que este modo no hace" },
+  { "p": "Tampoco genera piezas para imprimir en tres dimensiones ni giros animados. Para que tu nombre se mueva al inicio de tus videos usa el [logo animado](id:logo-animado), que entrega GIF y video." },
+  { "p": "¿Quieres letras con cuerpo real sobre el escenario? Entrega el SVG a un rotulista y él corta las piezas en acrílico o PVC." },
+  { "h2": "Errores comunes con el efecto 3D" },
+  { "ul": [
+   "Ponerlo sobre una foto de concierto que se come el volumen.",
+   "Elegir dos colores casi iguales y ensuciar el borde.",
+   "Usarlo con el nombre de cuatro palabras de tu proyecto.",
+   "Imprimirlo diminuto en un boleto, donde parece una mancha."
+  ] }
+ ],
+ "faqs": [
+  { "pregunta": "¿El logo 3D sirve para una impresora 3D?", "respuesta": "No. Recibes un dibujo plano que aparenta volumen, en SVG y PNG." },
+  { "pregunta": "¿Le puedo quitar el relieve después?", "respuesta": "Sí. Desmarca «Relieve» y vuelve a bajarlo." },
+  { "pregunta": "¿El PNG sale con fondo?", "respuesta": "No. Todo baja sin fondo menos la versión cuadrada para perfil." },
+  { "pregunta": "¿Se imprime bien en una camiseta de la banda?", "respuesta": "Sí. El SVG guarda las capas en vector y el taller lo imprime nítido." },
+  { "pregunta": "¿Cuesta algo?", "respuesta": "No cuesta. Tampoco te pide registro." }
+ ],
+ "venta": {
+  "puente": "Un logo llamativo luce más en un sitio con tu dominio que sólo en tus redes.",
+  "aviso": "Tu logo ya tiene relieve. ¿Quieres un sitio de artista donde se luzca?",
+  "titulo": "¿Pongo tu logo en tu propio sitio?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026"
+}

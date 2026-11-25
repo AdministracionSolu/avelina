@@ -1,0 +1,94 @@
+{
+ "id": "lista-de-precios",
+ "slug": "lista-de-precios",
+ "molde": "herramienta",
+ "cabeza": "lista de precios",
+ "busquedas": ["formato de lista de precios", "lista de precios pdf", "lista de precios para imprimir", "hacer lista de precios"],
+ "categoria": "Formatos y documentos",
+ "categoriaApp": "BusinessApplication",
+ "herramienta": { "id": "documento", "modo": "lista-precios" },
+ "fuentes": [],
+ "serp": [
+  { "posicion": 1, "url": "https://www.tiendanube.com/blog/como-hacer-una-lista-de-precios-con-plantilla/", "titulo": "Cómo hacer una lista de precios con plantilla (Tiendanube)", "promete": "Qué lleva y planilla en Google Sheets; empuja a abrir tienda" },
+  { "posicion": 2, "url": "https://www.crehana.com/business/descargables/lista-de-precios/", "titulo": "Lista de precios (Crehana)", "promete": "Plantilla en Excel con registro" },
+  { "posicion": 3, "url": "https://www.canva.com/es_mx/listas/plantillas/precios/", "titulo": "Plantillas de listas de precios (Canva)", "promete": "Diseños editables con cuenta" }
+ ],
+ "title": "Lista de precios para músicos, fotógrafos y tatuadores",
+ "h1": "Lista de precios para artistas",
+ "description": "Haz tu lista de precios de shows, sesiones de fotos o tatuajes con clave, descripción, precio y vigencia. Ponle tu logo y bájala en PDF o imagen, gratis.",
+ "resumen": "Tus shows, sesiones o piezas con precio y vigencia en PDF",
+ "revisada": "2026-11",
+ "relacionadas": ["formato-de-cotizacion", "recibo-de-pago", "formato-de-factura", "link-de-pago", "cobrar-con-qr", "pagina-web-para-negocio"],
+ "respuesta": [
+  "Escribe cada servicio con su clave y su precio, y la hoja se arma con tu logo. Anota hasta qué día respetas esas tarifas.",
+  "La bajas en PDF o en imagen para mandarla por WhatsApp. No pide registro ni pone marca de agua."
+ ],
+ "cuerpo": [
+  { "h2": "Para qué te sirve una lista de precios" },
+  { "p": "La pregunta que más llega a un artista es «¿cuánto cobras?». Una hoja con tus tarifas la contesta antes de que la hagan dos veces." },
+  { "p": "Un músico la manda a quien organiza eventos. Un fotógrafo la deja junto a su portafolio. Un tatuador la pega en el estudio con sus tamaños." },
+  { "h2": "Arma tu lista paso a paso" },
+  { "pasos": [
+   { "titulo": "Sube tu logo y tus datos", "texto": "El nombre de tu proyecto, tu teléfono y tu ciudad. Así saben a quién escribirle." },
+   { "titulo": "Un renglón por servicio", "texto": "Clave, descripción y precio. La clave evita que confundan un show acústico con uno de banda completa." },
+   { "titulo": "Pon la fecha de vigencia", "texto": "Escribe hasta cuándo valen tus tarifas. Nadie podrá pedirte el precio de una lista vieja." },
+   { "titulo": "Bájala y compártela", "texto": "El PDF va por correo o impreso. La imagen sirve para estados y grupos de clientes." }
+  ] },
+  { "h2": "Ejemplo de lista de un músico de eventos" },
+  { "tabla": {
+   "titulo": "Voz y guitarra para eventos · Precios válidos hasta el 31 de diciembre de 2026",
+   "columnas": ["Clave", "Descripción", "Precio"],
+   "filas": [
+    ["SH-01", "Ceremonia con voz y guitarra, 45 minutos", "$3,500"],
+    ["SH-02", "Cóctel acústico de dos horas", "$6,000"],
+    ["SH-03", "Show de banda completa de tres horas", "$18,000"],
+    ["EX-01", "Canción especial fuera del repertorio", "$1,200"]
+   ]
+  } },
+  { "p": "Las cifras del ejemplo son inventadas. Escribe las tuyas en la herramienta de arriba." },
+  { "p": "Un fotógrafo cambiaría las claves por paquetes de sesión. Un tatuador las ordenaría por tamaño en centímetros." },
+  { "h2": "Cómo ordenar tus tarifas" },
+  { "ul": [
+   "Agrupa por tipo de trabajo, como shows, clases o encargos.",
+   "Empieza por lo que más te contratan.",
+   "Escribe la duración o la medida en la descripción.",
+   "Deja los extras en renglones aparte, como traslado o canción especial."
+  ] },
+  { "p": "Las claves cortas como SH-01 sirven cuando te piden por mensaje. El cliente escribe la clave y tú sabes de qué habla." },
+  { "h2": "Lista de precios, cotización o portafolio" },
+  { "tabla": {
+   "columnas": ["Documento", "Para qué sirve", "A quién se manda"],
+   "filas": [
+    ["Lista de precios", "Todas tus tarifas en una hoja", "Organizadores y clientes que regresan"],
+    ["Cotización", "El precio de un evento concreto", "Quien ya te dio fecha y lugar"],
+    ["Portafolio", "Tus fotos, videos o piezas", "Quien todavía no conoce tu trabajo"]
+   ]
+  } },
+  { "p": "La lista va bien con quien ya te escuchó o ya vio tu obra. Para una boda con fecha y horario arma una [cotización](id:formato-de-cotizacion) con totales." },
+  { "h2": "El IVA en tu lista" },
+  { "p": "La hoja arranca con precios con IVA incluido. Si trabajas con empresas que te piden factura, cambia la opción a IVA aparte." },
+  { "p": "Escríbelo claro en la hoja. Así nadie te pide quitar un impuesto que ya venía dentro del precio." },
+  { "h2": "Cómo mandarla por WhatsApp" },
+  { "p": "Envíala como documento y no como foto. El organizador puede acercar la imagen y los números no se pierden." },
+  { "p": "La versión en imagen luce en tus estados. Cuando cambies tarifas sube la nueva y borra la anterior." },
+  { "p": "Fija el mensaje en los chats de quienes te contratan seguido. La encuentran sin volver a preguntar." }
+ ],
+ "faqs": [
+  { "pregunta": "¿La lista de precios es gratis?", "respuesta": "Sí. No pide registro y no lleva marca de agua." },
+  { "pregunta": "¿Cuántos servicios caben?", "respuesta": "Los que necesites. Si no caben en una hoja, agrega páginas sola." },
+  { "pregunta": "¿Puedo poner fotos de mis tatuajes?", "respuesta": "No en esta hoja. Las fotos van mejor en tu portafolio o en tu sitio." },
+  { "pregunta": "¿Se edita en Excel?", "respuesta": "No. La editas aquí y se guarda en tu navegador." },
+  { "pregunta": "¿Cada cuándo la cambio?", "respuesta": "Cada vez que subas una tarifa. La vigencia te recuerda cuándo revisarla." },
+  { "pregunta": "¿Lleva folio?", "respuesta": "No. Lleva fecha de vigencia, que es lo que pide una lista." }
+ ],
+ "venta": {
+  "puente": "Tus tarifas pueden vivir en tu sitio de artista, junto a tu música o tu portafolio.",
+  "aviso": "Tu hoja de precios quedó. ¿Quieres tus tarifas en tu propio sitio con dominio?",
+  "titulo": "¿Te hago el sitio donde vean tus precios?",
+  "tituloCorto": "Tus precios en tu propio sitio"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

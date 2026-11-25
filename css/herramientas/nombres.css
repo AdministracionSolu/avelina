@@ -1,0 +1,26 @@
+/* Generador de nombres de Avelina. Usa las variables de .ah (css/herramientas.css). */
+.ah.ahn { grid-template-columns: minmax(0, 1fr); grid-template-areas: none; gap: 40px; }
+.ah.ahn > *, .ah.ahn > .ah-vista, .ah.ahn > .ah-columna { grid-area: auto; min-width: 0; }
+.ah.ahn > .ah-vista { position: static; }
+.ahn-fila { display: grid; grid-template-columns: 1fr 1.3fr 1fr; gap: 16px; align-items: start; }
+@media (max-width: 860px) { .ahn-fila { grid-template-columns: 1fr; } }
+.ahn-cabeza { display: flex; flex-wrap: wrap; gap: 10px 16px; justify-content: space-between; align-items: center; }
+.ahn-cabeza .ah-acciones { margin: 0; gap: 8px; }
+.ahn-cabeza .ah-boton, .ahn-favoritos .ah-boton { min-height: 40px; padding: 8px 14px; font-size: 15px; }
+.ahn-lista, .ahn-favs { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; }
+@media (max-width: 420px) { .ahn-lista, .ahn-favs { grid-template-columns: 1fr; } }
+.ahn-item { border: 1px solid var(--ah-borde); border-radius: 6px; padding: 14px 16px; display: grid; gap: 6px; background: var(--ah-campo); min-width: 0; }
+.ahn-nombre { font: 500 20px/1.25 var(--ah-sans); margin: 0; overflow-wrap: anywhere; }
+.ahn-dominio { margin: 0; font-size: 13px; color: var(--ah-gris); display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; }
+.ahn-dominio > span:first-child { overflow-wrap: anywhere; }
+.ahn-tag { border: 1px solid var(--ah-borde-fuerte); border-radius: 3px; padding: 0 6px; font-size: 12px; color: var(--ah-texto); }
+.ahn-largo .ahn-tag { color: var(--ah-gris); border-color: var(--ah-borde); }
+.ahn-ver { font-size: 13px; }
+.ahn-botones { display: flex; gap: 18px; align-items: center; margin-top: 2px; }
+.ahn-fav {
+  background: none; border: 1px solid var(--ah-borde-fuerte); color: var(--ah-texto); border-radius: 4px;
+  padding: 6px 12px; min-height: 36px; font: 400 14px var(--ah-sans); cursor: pointer;
+}
+.ahn-fav[aria-pressed="true"] { background: var(--ah-texto); color: var(--ah-fondo); border-color: var(--ah-texto); }
+.ahn-fav:focus-visible { outline: 2px solid var(--ah-texto); outline-offset: 2px; }
+.ahn-favoritos { gap: 14px; }

@@ -1,0 +1,25 @@
+/* Herramienta «catalogo». Prefijo acat-. Sin sombras ni degradados. */
+
+.acat-hojas { display: grid; gap: 14px; max-height: 82vh; overflow: auto; border-radius: 4px; }
+.acat-hoja { display: block; width: 100%; height: auto; border-radius: 2px; background: #fff; }
+.acat-logo { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
+.acat-logo img { max-width: 120px; max-height: 56px; background: #fff; border-radius: 4px; padding: 4px; }
+.acat-logo:empty { display: none; }
+.acat-lista { display: grid; gap: 16px; }
+.acat-prod { border: 1px solid var(--ah-borde); border-radius: 6px; padding: 14px; margin: 0; display: grid; gap: 8px; min-width: 0; }
+.acat-prod > legend { padding: 0 6px; }
+.acat-fila { display: grid; grid-template-columns: minmax(0, 1fr) 110px; gap: 8px; }
+.acat-fila3 { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+.acat-mini { display: flex; gap: 4px; align-items: center; flex-wrap: wrap; }
+.acat-png { margin-right: 8px; font-size: 14px; }
+.acat-btn {
+  width: 38px; height: 38px; border: 1px solid var(--ah-borde); border-radius: 4px; background: transparent;
+  color: var(--ah-gris); font: 400 17px/1 var(--ah-sans); cursor: pointer; padding: 0;
+}
+.acat-btn:hover, .acat-btn:focus-visible { color: var(--ah-texto); border-color: var(--ah-gris); outline: none; }
+.acat-foto { display: flex; gap: 10px; align-items: center; min-width: 0; }
+.acat-foto img { width: 48px; height: 48px; object-fit: cover; border-radius: 4px; }
+.acat-foto-btn { position: relative; display: inline-flex; align-items: center; min-height: 38px; padding: 0 12px; border: 1px dashed var(--ah-borde-fuerte); border-radius: 4px; color: var(--ah-gris); font-size: 14px; cursor: pointer; }
+.acat-foto-btn:hover, .acat-foto-btn:focus-within { color: var(--ah-texto); border-color: var(--ah-texto); }
+.acat-foto-btn input { position: absolute; inset: 0; opacity: 0; cursor: pointer; width: 100%; }
+@media (max-width: 420px) { .acat-fila { grid-template-columns: minmax(0, 1fr) 92px; } .acat-prod { padding: 12px 10px; } }

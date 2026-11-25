@@ -1,0 +1,252 @@
+{
+ "id": "link-de-whatsapp",
+ "slug": "link-de-whatsapp",
+ "molde": "herramienta",
+ "cabeza": "link de whatsapp",
+ "busquedas": [
+  "wa link",
+  "url whatsapp",
+  "enlace de whatsapp",
+  "link de whatsapp gratis",
+  "crear link de whatsapp",
+  "generar link de whatsapp",
+  "generador de link de whatsapp",
+  "crear enlace de whatsapp",
+  "como crear un link de whatsapp",
+  "como hacer un link de whatsapp",
+  "wa me link",
+  "sacar link de whatsapp",
+  "link de mi whatsapp",
+  "enlace para whatsapp"
+ ],
+ "categoria": "WhatsApp",
+ "categoriaApp": "UtilitiesApplication",
+ "herramienta": {
+  "id": "whatsapp-link",
+  "modo": "link"
+ },
+ "fuentes": [
+  {
+   "texto": "WhatsApp, cómo usar la función de clic para chatear",
+   "url": "https://faq.whatsapp.com/5913398998672934"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.tiendanube.com/herramientas/generador-link-whatsapp",
+   "titulo": "Generador de link de WhatsApp",
+   "promete": "Link con mensaje para tiendas en línea; no explica cómo se arma ni errores con la lada"
+  },
+  {
+   "posicion": 2,
+   "url": "https://leadsales.io/herramientas/generador-de-link-de-whatsapp/",
+   "titulo": "Generador de link de WhatsApp",
+   "promete": "Link gratis que lleva a su CRM; sin QR descargable en la misma vista"
+  },
+  {
+   "posicion": 3,
+   "url": "https://aunoa.ai/generador-de-links-de-whatsapp",
+   "titulo": "Generador de links de WhatsApp",
+   "promete": "Link con mensaje y aviso de que no guarda el número; sin idea de un link por canal"
+  }
+ ],
+ "title": "Link de WhatsApp gratis para contrataciones y fans",
+ "h1": "Link de WhatsApp para artistas",
+ "description": "Arma tu link de WhatsApp con un mensaje listo para que te contraten para bodas, eventos o clases. Sale también su QR para el flyer. Cópialo gratis y sin cuenta.",
+ "resumen": "Un link que abre tu chat con el mensaje ya escrito",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "codigo-qr-para-whatsapp",
+  "acortar-link",
+  "mensajes-automaticos-whatsapp",
+  "whatsapp-business-para-empresas",
+  "link-en-bio",
+  "generador-de-qr"
+ ],
+ "respuesta": [
+  "Pon tu número y un mensaje de arranque, y tu link de WhatsApp queda listo para copiar. Quien lo toca abre un chat contigo con ese mensaje escrito. Debajo aparece su código QR para tus impresos, sin cuenta y sin caducidad."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Cómo sacar el link para que te contraten"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Escribe tu número de celular",
+     "texto": "Son diez dígitos y pueden ir con espacios. La lada de México ya viene incluida."
+    },
+    {
+     "titulo": "Prepara el mensaje de entrada",
+     "texto": "Algo como «Hola, quiero cotizar música para mi evento». La persona puede editarlo antes de mandarlo."
+    },
+    {
+     "titulo": "Copia la liga y pruébala",
+     "texto": "Usa «Copiar liga» y después «Probar liga». Confirma que se abre tu chat y no otro."
+    },
+    {
+     "titulo": "Pégalo donde te descubren",
+     "texto": "Va en tu biografía de Instagram, en tu página de Facebook y en tu perfil de Google."
+    }
+   ]
+  },
+  {
+   "h2": "Qué lleva adentro un link de WhatsApp"
+  },
+  {
+   "p": "WhatsApp tiene una forma oficial de abrir chats desde una liga. Empieza con wa.me y sigue con tu número en formato internacional."
+  },
+  {
+   "p": "El número se escribe sin signo de más ni guiones. En México va 52 y después tus diez dígitos."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Parte",
+     "Ejemplo",
+     "Qué hace"
+    ],
+    "filas": [
+     [
+      "Dirección base",
+      "https://wa.me/",
+      "Abre WhatsApp en cualquier celular"
+     ],
+     [
+      "País y número",
+      "523312345678",
+      "Lada 52 y tus 10 dígitos"
+     ],
+     [
+      "Mensaje",
+      "?text=Hola%20quiero%20cotizar",
+      "El texto ya escrito con los espacios codificados"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "La herramienta codifica el mensaje sola. Los acentos y los saltos de línea quedan bien sin que muevas nada."
+  },
+  {
+   "h2": "Un mensaje distinto para cada tipo de chamba"
+  },
+  {
+   "p": "Si haces varias cosas, saca un link por cada una. Así sabes de inmediato qué te están pidiendo."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Para quién eres",
+     "Mensaje de arranque"
+    ],
+    "filas": [
+     [
+      "Grupo para bodas",
+      "Hola, quiero cotizar música para mi boda"
+     ],
+     [
+      "Maestra de guitarra",
+      "Hola, me interesan las clases de guitarra"
+     ],
+     [
+      "Tatuador",
+      "Hola, quiero agendar una cita para un diseño"
+     ],
+     [
+      "Fotógrafo",
+      "Hola, quiero información de una sesión"
+     ],
+     [
+      "Ilustradora",
+      "Hola, quiero encargar un retrato ilustrado"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Un link por red para saber cuál te trae trabajo"
+  },
+  {
+   "p": "Pon un mensaje diferente en cada canal. Uno puede decir «Vengo de Instagram» y otro «Vengo de Facebook»."
+  },
+  {
+   "p": "Cada vez que te escriban sabrás por dónde llegaron. Al mes ya ves qué red te consigue más fechas."
+  },
+  {
+   "h2": "Dónde pegar tu link de artista"
+  },
+  {
+   "ul": [
+    "La biografía de Instagram y el botón de contacto de Facebook.",
+    "La descripción de tu canal de videos.",
+    "La firma de tu correo de contrataciones.",
+    "El flyer de cada tocada, en forma de QR.",
+    "El botón principal de tu sitio de artista."
+   ]
+  },
+  {
+   "h2": "Errores que rompen el link"
+  },
+  {
+   "ul": [
+    "Escribir ceros o prefijos antes del número.",
+    "Olvidar la lada 52 de México.",
+    "Usar un número que no tiene WhatsApp activo.",
+    "Poner el celular de alguien que no contesta las contrataciones."
+   ]
+  },
+  {
+   "h2": "Ejemplo con un trío para eventos"
+  },
+  {
+   "p": "Piensa en un trío que toca en bodas y cumpleaños. En su biografía pone un link con «Hola, quiero cotizar el trío»."
+  },
+  {
+   "p": "Los clientes llegan diciendo la fecha y el lugar. El trío contesta en orden y no pierde pedidos entre comentarios."
+  },
+  {
+   "p": "Para un QR más grande o con tu logo usa el [código QR para WhatsApp](id:codigo-qr-para-whatsapp). Si tu liga de otra página es muy larga, revisa cómo [acortar un link](id:acortar-link)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿El link de WhatsApp cuesta?",
+   "respuesta": "No cuesta. WhatsApp define el formato oficial y aquí sólo se arma con tus datos."
+  },
+  {
+   "pregunta": "¿Deja de funcionar con el tiempo?",
+   "respuesta": "No. Sirve mientras tu número siga teniendo WhatsApp."
+  },
+  {
+   "pregunta": "¿Funciona con WhatsApp Business?",
+   "respuesta": "Sí. Da igual si tu número es personal o de negocio."
+  },
+  {
+   "pregunta": "¿Puedo cambiar el mensaje luego?",
+   "respuesta": "Sí, sacando un link nuevo. El número se queda igual."
+  },
+  {
+   "pregunta": "¿Se guarda mi número en algún lado?",
+   "respuesta": "No. Todo se arma en tu navegador y no viaja a ningún servidor."
+  },
+  {
+   "pregunta": "¿Abre en computadora?",
+   "respuesta": "Sí. Se abre WhatsApp Web o la aplicación de escritorio si la tienes."
+  },
+  {
+   "pregunta": "¿Cómo lo pongo en Instagram?",
+   "respuesta": "En los enlaces de tu perfil. Pega ahí la liga completa que copiaste."
+  }
+ ],
+ "venta": {
+  "puente": "Tu link de WhatsApp puede vivir en un sitio de artista con tus videos, tus fechas y tu botón para contratarte.",
+  "aviso": "Tu link está listo. ¿Quieres un sitio donde ese botón luzca con tu música?",
+  "titulo": "¿Te hago un sitio con tu botón de WhatsApp?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

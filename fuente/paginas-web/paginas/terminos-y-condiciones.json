@@ -1,0 +1,243 @@
+{
+ "id": "terminos-y-condiciones",
+ "slug": "terminos-y-condiciones",
+ "molde": "herramienta",
+ "cabeza": "términos y condiciones",
+ "busquedas": [
+  "términos y condiciones",
+  "terminos y condiciones ejemplo",
+  "términos y condiciones de una tienda en línea",
+  "generador de términos y condiciones"
+ ],
+ "categoria": "Textos legales",
+ "categoriaApp": "BusinessApplication",
+ "herramienta": {
+  "id": "texto-legal",
+  "modo": "terminos"
+ },
+ "fuentes": [
+  {
+   "texto": "Ley Federal de Protección al Consumidor (última reforma DOF 12-12-2025), Cámara de Diputados",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.amda.mx/wp-content/uploads/Terminos-y-Condiciones-certificacion.amda_.mx_.pdf",
+   "titulo": "Términos y condiciones (AMDA)",
+   "promete": "Documento de una asociación; no es plantilla"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.wix.com/templateses/2681-fast-food-resta/términos-y-condiciones",
+   "titulo": "Términos y condiciones (plantilla de Wix)",
+   "promete": "Texto de relleno de plantilla"
+  },
+  {
+   "posicion": 3,
+   "url": "https://downloads.telmex.com/pdf/terminosy-condiciones-Mitelmex.pdf",
+   "titulo": "Términos y condiciones (Telmex)",
+   "promete": "Documento de una empresa grande"
+  }
+ ],
+ "title": "Términos y condiciones gratis para tu sitio de artista",
+ "h1": "Términos y condiciones para músicos y artistas",
+ "description": "Arma los términos y condiciones de tu sitio si vendes mercancía, boletos, clases u obras por encargo. Modelo apegado a la ley del consumidor. Hazlo gratis.",
+ "resumen": "Las reglas de compra de tu mercancía, tus clases o tus encargos",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "aviso-de-privacidad",
+  "tienda-en-linea",
+  "como-vender-por-internet",
+  "link-de-pago",
+  "pagina-web-para-negocio"
+ ],
+ "respuesta": [
+  "Este texto le cuenta a tus fans qué pasa cuando te compran algo en línea. Respondes unas preguntas sobre envíos y cobros, y el documento queda escrito. Tómalo como borrador y pásaselo a un abogado antes de subirlo."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Cuándo los necesita un artista"
+  },
+  {
+   "p": "Si sólo muestras tu música, el texto es corto. Al vender mercancía o encargos ya hay reglas que explicar."
+  },
+  {
+   "p": "Quien te compra quiere saber cuándo le llega, qué pasa si viene dañado y cómo cancela. Tenerlo escrito evita discusiones por chat."
+  },
+  {
+   "h2": "Cómo llenarlo"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Pon tus datos",
+     "texto": "Tu nombre o el de tu proyecto, un domicilio y un correo de contacto. Los tres son obligatorios."
+    },
+    {
+     "titulo": "Di cómo vendes",
+     "texto": "Puede ser con cobro en línea, por chat, con cita previa o nada más mostrando tu trabajo."
+    },
+    {
+     "titulo": "Marca pagos y entregas",
+     "texto": "Indica cómo te pagan, a dónde envías y en cuántos días hábiles."
+    },
+    {
+     "titulo": "Suscripciones y ciudad",
+     "texto": "Señala si cobras pagos automáticos y en qué ciudad se resolverían las controversias."
+    }
+   ]
+  },
+  {
+   "h2": "Qué cambia según lo que vendes"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Tipo",
+     "Lo que agrega el modelo"
+    ],
+    "filas": [
+     [
+      "Tienda con pago en línea",
+      "Precios · pagos con tarjeta · envíos y derecho a revocar la compra"
+     ],
+     [
+      "Pedidos por WhatsApp",
+      "Confirmación del pedido, entrega y formas de pago"
+     ],
+     [
+      "Servicios o citas",
+      "Cómo se agenda y qué pasa si el servicio falla"
+     ],
+     [
+      "Sólo informativa",
+      "Uso del contenido, ligas a otros sitios y quejas"
+     ]
+    ]
+   }
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Si eres",
+     "Tipo que te queda"
+    ],
+    "filas": [
+     [
+      "Banda que vende playeras y discos en línea",
+      "Tienda con pago en línea"
+     ],
+     [
+      "Ilustradora que recibe encargos por chat",
+      "Pedidos por WhatsApp"
+     ],
+     [
+      "Tatuador o maestra de canto",
+      "Servicios o citas"
+     ],
+     [
+      "Cantautora que sólo comparte su música",
+      "Sólo informativa"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Apartados que trae el texto"
+  },
+  {
+   "ul": [
+    "Quién vende y cómo contactarlo.",
+    "Precios y formas de pago que aceptas.",
+    "Envíos, plazos de entrega y paquetes dañados.",
+    "Cambios, devoluciones y garantías.",
+    "Suscripciones y cobros automáticos si los tienes.",
+    "Uso de datos, contenido del sitio y ligas externas.",
+    "Cómo presentar una queja y qué ley se aplica."
+   ]
+  },
+  {
+   "h2": "Lo que dice la ley y ya viene incluido"
+  },
+  {
+   "p": "La base del documento es la ley federal que protege a quien compra. Cada regla importante menciona su artículo."
+  },
+  {
+   "p": "Si alguien te compra una playera en línea, el artículo 56 le da cinco días hábiles para echarse para atrás. Esos días se cuentan desde que la recibe."
+  },
+  {
+   "p": "Un print que llega roto o un disco rayado caen en los artículos 92 y 92 TER. Tu fan puede escoger reposición o reembolso y también recibe una compensación."
+  },
+  {
+   "p": "Los cobros que se repiten solos entran en el artículo 76 BIS. Debes avisar con cinco días naturales de anticipación y dejar cancelar sin castigo."
+  },
+  {
+   "p": "Una suscripción puede ser tu club de fans con contenido mensual o tus clases con cobro automático. Ahí ese aviso previo es obligatorio."
+  },
+  {
+   "h2": "Errores comunes al copiar términos"
+  },
+  {
+   "ul": [
+    "Pegar los términos de otro artista con su nombre todavía adentro.",
+    "Usar reglas escritas para otro país que aquí no valen.",
+    "Prometer envíos de mercancía en plazos que no vas a cumplir.",
+    "No explicar cómo se cancela una suscripción.",
+    "Poner un correo que nadie revisa para las quejas."
+   ]
+  },
+  {
+   "p": "Como el borrador nace de tus respuestas, cada regla habla de lo que tú haces."
+  },
+  {
+   "h2": "Dónde se ponen"
+  },
+  {
+   "p": "Lo normal es ligarlos desde la parte baja de cada página. Cuando hay carrito, repite la liga cerca del pago."
+  },
+  {
+   "p": "Al lado de tus términos debe ir tu [aviso de privacidad](id:aviso-de-privacidad). Si apenas vas a abrir tu tienda, lee cómo armar una [tienda en línea](id:tienda-en-linea)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Mi sitio de artista necesita términos y condiciones?",
+   "respuesta": "Sí, en cuanto cobras algo por internet. Le dicen a tu fan qué esperar."
+  },
+  {
+   "pregunta": "¿El texto sirve tal cual?",
+   "respuesta": "No del todo. Es un borrador para que lo revise alguien que sepa de leyes."
+  },
+  {
+   "pregunta": "¿Y si mi sitio sólo muestra mi música?",
+   "respuesta": "Queda más corto. Habla del uso de tus canciones e imágenes y de cómo contactarte."
+  },
+  {
+   "pregunta": "¿Lo puedo bajar en PDF?",
+   "respuesta": "Sí. O si prefieres, lo pegas como texto o código en tu sitio."
+  },
+  {
+   "pregunta": "¿Cada cuánto los actualizo?",
+   "respuesta": "Cuando cambies cómo cobras o cómo envías. Arriba del texto aparece el día del último cambio."
+  },
+  {
+   "pregunta": "¿Se guardan los datos que escribo?",
+   "respuesta": "Sí, sólo en tu equipo. Así los corriges sin empezar de cero."
+  },
+  {
+   "pregunta": "¿Menciona a la Profeco?",
+   "respuesta": "Sí. Explica que cualquier comprador puede quejarse ante esa procuraduría."
+  }
+ ],
+ "venta": {
+  "puente": "Tus términos ponen las reglas, y tu sitio de artista es donde la gente compra tu mercancía o aparta su clase.",
+  "aviso": "Tus términos están listos. ¿Quieres un sitio de artista donde publicarlos?",
+  "titulo": "¿Te hago el sitio donde van tus términos?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

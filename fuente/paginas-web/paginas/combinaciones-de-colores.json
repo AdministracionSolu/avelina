@@ -1,0 +1,230 @@
+{
+ "id": "combinaciones-de-colores",
+ "slug": "combinaciones-de-colores",
+ "molde": "herramienta",
+ "cabeza": "paleta de colores para combinar",
+ "busquedas": [
+  "paletas de colores para combinar",
+  "paleta de colores combinaciones",
+  "paleta de colores complementarios",
+  "combinaciones de colores",
+  "colores complementarios",
+  "colores que combinan"
+ ],
+ "categoria": "Colores",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "paleta",
+  "modo": "complementarios"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://piktochart.com/es/blog/como-elegir-la-paleta-de-colores-parte-ii-herramientas-para-combinar-colores/",
+   "titulo": "Herramientas para combinar colores (Piktochart)",
+   "promete": "Lista de herramientas y teoría; vende su editor"
+  },
+  {
+   "posicion": 2,
+   "url": "https://visme.co/blog/es/combinacion-de-colores/",
+   "titulo": "Combinación de colores (Visme)",
+   "promete": "Ejemplos de paletas; vende su editor"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.figma.com/es-la/resource-library/combinaciones-de-colores/",
+   "titulo": "Combinaciones de colores (Figma)",
+   "promete": "Ideas de uso de tonos; para diseñadores"
+  }
+ ],
+ "title": "Paleta de colores para combinar con el color de tu arte",
+ "h1": "Combinaciones de colores para artistas",
+ "description": "Escribe el color de tu logo, tu disco o tu obra y mira con cuáles combina. Su opuesto y cuatro reglas más del círculo de color con su HEX, en PNG o CSS.",
+ "resumen": "Con qué combina el color de tu disco o tu marca",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "paleta-de-colores",
+  "crear-logo-gratis",
+  "logo-minimalista",
+  "plantillas-para-instagram",
+  "iconos-para-historias-destacadas",
+  "diseno-de-paginas-web"
+ ],
+ "respuesta": [
+  "Pon el tono que ya te identifica y verás qué colores le hacen buena compañía. Arriba aparece su opuesto y abajo otras cuatro fórmulas clásicas. Copias cada código HEX o descargas la mezcla en PNG o CSS, sin cuenta."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Encuentra la pareja de tu color"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Pon tu color",
+     "texto": "Sirve el código del logo o el tono que domina tu obra. Si no conoces el código, elígelo a ojo con el selector."
+    },
+    {
+     "titulo": "Revisa el complementario",
+     "texto": "Es el tono del lado contrario de la rueda. Con él logras la pareja que más resalta."
+    },
+    {
+     "titulo": "Mira las demás reglas",
+     "texto": "Más abajo aparecen las otras fórmulas. Todas parten del tono que escribiste."
+    },
+    {
+     "titulo": "Copia lo que te funcione",
+     "texto": "Toca un color para copiar su código o baja la combinación entera."
+    }
+   ]
+  },
+  {
+   "h2": "Parejas complementarias que se usan mucho"
+  },
+  {
+   "p": "Estas parejas salieron de la herramienta de arriba. En cada renglón el segundo tono queda justo enfrente del primero."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Color base",
+     "Su complementario",
+     "Dónde se ve"
+    ],
+    "filas": [
+     [
+      "Azul #1F6FB2",
+      "Cobre #B2621F",
+      "Portadas de jazz y carteles de festival"
+     ],
+     [
+      "Rojo #D62828",
+      "Turquesa #28D6D6",
+      "Flyers de cumbia y de fiesta"
+     ],
+     [
+      "Verde #2E9E44",
+      "Magenta #9E2E88",
+      "Ilustración infantil y carteles de teatro"
+     ],
+     [
+      "Rosa mexicano #E4007C",
+      "Verde #00E468",
+      "Arte popular y fiestas patrias"
+     ],
+     [
+      "Amarillo #F2C230",
+      "Azul rey #3060F2",
+      "Carteles de academias y talleres"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "El complementario puro casi siempre pega muy fuerte. Úsalo en un solo detalle, como el título del cartel o el botón de comprar boleto."
+  },
+  {
+   "h2": "Qué regla te conviene"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Necesitas",
+     "Regla",
+     "Ejemplo con azul #1F6FB2"
+    ],
+    "filas": [
+     [
+      "Que el título brinque",
+      "Complementarios",
+      "#1F6FB2 con #B2621F"
+     ],
+     [
+      "Un fondo tranquilo para tus fotos",
+      "Análogos",
+      "#1FA0B2 #1F6FB2 #1F3EB2"
+     ],
+     [
+      "Variedad sin que choque",
+      "Tríada",
+      "#1F6FB2 con #B21F6F y #6FB21F"
+     ],
+     [
+      "Un contraste más amable",
+      "Complementarios divididos",
+      "#1F6FB2 con #B21F26 y #B2AB1F"
+     ],
+     [
+      "Orden y sobriedad",
+      "Monocromático",
+      "Del azul más oscuro al más claro"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Si ya tienes dos colores"
+  },
+  {
+   "p": "A veces el grupo hereda dos colores que nadie eligió. Pasa con la portada del primer disco o con el uniforme del mariachi."
+  },
+  {
+   "p": "Mete como base el que más pesa en tu imagen. Después compara el segundo con las propuestas que aparecen."
+  },
+  {
+   "p": "Si el segundo no se parece a nada de lo propuesto, aléjalos. Un blanco roto o un negro en medio baja la tensión."
+  },
+  {
+   "ul": [
+    "Dos colores fuertes juntos se pelean. Deja que uno mande.",
+    "Un gris o un crema en medio hace que dos tonos vivos se lleven.",
+    "Escribe las letras con el color más oscuro de tu mezcla.",
+    "Imprime una prueba antes de mandar a hacer la lona."
+   ]
+  },
+  {
+   "h2": "Dónde se nota la combinación"
+  },
+  {
+   "p": "Usa la misma pareja en tu logo, tus carteles y tus [portadas de destacados](id:iconos-para-historias-destacadas). Así la gente te reconoce antes de leer tu nombre."
+  },
+  {
+   "p": "Si quieres sacar los colores de una foto de tu obra, usa el [generador de paleta de colores](id:paleta-de-colores). Te da los tonos que ya viven en esa imagen."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué son los colores complementarios?",
+   "respuesta": "Son parejas que viven en lados contrarios de la rueda. El caso clásico es azul con naranja."
+  },
+  {
+   "pregunta": "¿Siempre combinan?",
+   "respuesta": "Sí, con medida. Si usas la misma cantidad de cada uno, la pieza se vuelve pesada."
+  },
+  {
+   "pregunta": "¿Qué son los análogos?",
+   "respuesta": "Son tonos que están juntos en la rueda. Un ejemplo es pasar del azul al turquesa."
+  },
+  {
+   "pregunta": "¿Qué es una tríada?",
+   "respuesta": "Es un triángulo dentro de la rueda. Sus tres puntas dan colores distintos que se equilibran."
+  },
+  {
+   "pregunta": "¿Puedo usar más de tres colores?",
+   "respuesta": "Sí puedes. Cuida que al menos dos sean tonos calmados como el gris o el crema."
+  },
+  {
+   "pregunta": "¿Funciona con el color de mi marca?",
+   "respuesta": "Sí funciona. Pega el código de tu marca y todas las propuestas parten de ahí."
+  }
+ ],
+ "venta": {
+  "puente": "Tu combinación de colores puede vestir un sitio entero con tu música, tu obra y tus fechas.",
+  "aviso": "Ya tienes tus colores. ¿Quieres un sitio de artista con esa misma paleta?",
+  "titulo": "¿Te hago un sitio con tus colores?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

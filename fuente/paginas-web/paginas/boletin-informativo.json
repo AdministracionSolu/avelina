@@ -1,0 +1,473 @@
+{
+ "id": "boletin-informativo",
+ "slug": "boletin-informativo",
+ "molde": "guia",
+ "cabeza": "como hacer un boletin informativo",
+ "busquedas": [],
+ "categoria": "Diseño para imprimir",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.benchmarkemail.com/es/blog/boletin-informativo/",
+   "titulo": "Boletín informativo",
+   "promete": "Ocho pasos para boletines por correo con su herramienta; no cubre boletines impresos ni escolares"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.godaddy.com/resources/latam/diseno/7-pasos-para-hacer-un-boletin-exitoso",
+   "titulo": "7 pasos para hacer un boletín exitoso",
+   "promete": "Pasos generales y aviso de privacidad; sin ejemplo completo armado"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.crehana.com/blog/negocios/como-hacer-boletin-informativo/",
+   "titulo": "Cómo hacer un boletín informativo",
+   "promete": "Explica base de datos y diseño; sin secciones modelo ni ideas por tipo de negocio"
+  }
+ ],
+ "title": "Cómo hacer un boletín informativo para tus fans",
+ "h1": "Cómo hacer un boletín informativo de artista",
+ "description": "Aprende a hacer el boletín de tu banda, tu estudio o tu taller de arte. Partes, pasos, qué escribir, impreso o por correo y un ejemplo completo para copiar hoy.",
+ "resumen": "El boletín de tu banda, tu estudio o tu taller",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "flyer-informativo",
+  "folleto",
+  "marketing-de-contenidos",
+  "correo-corporativo",
+  "aviso-de-privacidad",
+  "link-en-bio"
+ ],
+ "respuesta": [
+  "Un boletín informativo es una hoja o un correo que mandas cada cierto tiempo a la gente que ya te sigue. Lleva tus fechas, tus estrenos y alguna historia del taller o del ensayo.",
+  "Para hacerlo decide a quién va y cada cuándo sale. Junta tres o cuatro notas cortas con un diseño fijo y cierra con algo que la persona pueda hacer, como apartar boleto."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Qué es un boletín y por qué le sirve a un artista"
+  },
+  {
+   "p": "Un boletín es una publicación corta que sale con calendario fijo. Su trabajo es tener al tanto a un grupo que ya te conoce."
+  },
+  {
+   "p": "No es un anuncio suelto en tus redes. Es una cita que tu público espera, como el capítulo nuevo de una serie."
+  },
+  {
+   "p": "En redes no todos tus seguidores ven lo que subes. El boletín llega directo a quien te dio su correo o su número."
+  },
+  {
+   "p": "Puede ser impreso y doblado sobre la mesa de mercancía. También puede ser un correo, un PDF o un mensaje largo por WhatsApp."
+  },
+  {
+   "tabla": {
+    "titulo": "Tipos de boletín en el mundo del arte",
+    "columnas": [
+     "Tipo",
+     "Para quién",
+     "Ejemplo de contenido"
+    ],
+    "filas": [
+     [
+      "Boletín de banda o solista",
+      "Fans y público de tus tocadas",
+      "Fechas, estreno de sencillo y fotos del último show"
+     ],
+     [
+      "Boletín de academia",
+      "Alumnos y papás",
+      "Horarios, recital de fin de curso y avisos de cuotas"
+     ],
+     [
+      "Boletín de galería o taller",
+      "Coleccionistas y amigos del taller",
+      "Obra nueva, inauguraciones y piezas disponibles"
+     ],
+     [
+      "Boletín de estudio de tatuaje",
+      "Clientes del estudio",
+      "Agenda abierta, diseños para elegir y cuidados"
+     ],
+     [
+      "Boletín de colectivo",
+      "Integrantes y aliados",
+      "Reuniones, cuentas del festival y proyectos"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Las partes de tu boletín"
+  },
+  {
+   "p": "Casi todos los boletines usan la misma estructura. Si la dejas fija, cada número te cuesta menos trabajo."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Encabezado",
+     "texto": "El nombre del boletín, tu logo, el número y la fecha. Se repite igual cada vez."
+    },
+    {
+     "titulo": "Nota principal",
+     "texto": "Lo más importante del periodo, como el estreno de tu disco, con una foto."
+    },
+    {
+     "titulo": "Notas cortas",
+     "texto": "Dos o tres avisos de un párrafo, por ejemplo una colaboración o un cambio de foro."
+    },
+    {
+     "titulo": "Sección fija",
+     "texto": "Algo que aparece siempre, como la canción que te inspiró este mes o el boceto de la semana."
+    },
+    {
+     "titulo": "Próximas fechas",
+     "texto": "Un calendario corto con tus tocadas, talleres o inauguraciones."
+    },
+    {
+     "titulo": "Lo que quieres que hagan",
+     "texto": "Comprar boleto, apartar cita o escuchar el sencillo nuevo."
+    },
+    {
+     "titulo": "Pie",
+     "texto": "Tus datos de contacto, tus redes y la forma de dejar de recibirlo."
+    }
+   ]
+  },
+  {
+   "h2": "Ocho pasos para sacar el primer número"
+  },
+  {
+   "p": "Sirven igual para un boletín en papel o por correo. Lo único que cambia es cómo lo entregas."
+  },
+  {
+   "ol": [
+    "Decide para quién es y qué buscas con él, ya sea llenar fechas o vender obra.",
+    "Escoge cada cuándo sale. Una vez al mes es buen arranque.",
+    "Ponle un nombre que se recuerde, como Notas desde el ensayo.",
+    "Haz una lista de temas para tus próximos tres números.",
+    "Escribe cada nota en pocas líneas con un título que diga de qué va.",
+    "Usa fotos tuyas y claras, una por nota.",
+    "Arma el diseño con tu logo y tus colores y guárdalo como plantilla.",
+    "Revisa fechas, precios y nombres antes de mandarlo."
+   ]
+  },
+  {
+   "p": "El cuarto paso es el que casi todos se saltan. Con la lista de temas lista, cada número sale en una tarde."
+  },
+  {
+   "h2": "Qué contar en cada número"
+  },
+  {
+   "p": "Primero regala algo que valga la pena leer y después pide algo. Si cada número es pura venta, tus fans dejan de abrirlo."
+  },
+  {
+   "ul": [
+    "Cómo nació una canción o una pieza.",
+    "Tu próxima fecha, con lugar, hora y precio.",
+    "Una foto del ensayo o del taller que no subiste a redes.",
+    "Un estreno, con la liga para escucharlo o verlo.",
+    "Una preventa o un descuento sólo para quien recibe el boletín.",
+    "Una pregunta para que te contesten, como qué canción quieren en el próximo show."
+   ]
+  },
+  {
+   "tabla": {
+    "titulo": "Ideas de nota según tu disciplina",
+    "columnas": [
+     "Disciplina",
+     "Idea de nota"
+    ],
+    "filas": [
+     [
+      "Banda de rock",
+      "La lista de canciones del próximo concierto votada por los fans"
+     ],
+     [
+      "Cantautora",
+      "La historia detrás de la letra del sencillo nuevo"
+     ],
+     [
+      "Pintor",
+      "El proceso de una obra en cuatro fotos, del boceto al cuadro"
+     ],
+     [
+      "Tatuador",
+      "Los diseños disponibles del mes para elegir en la jornada"
+     ],
+     [
+      "Fotógrafa",
+      "Cinco consejos para la sesión de quince años"
+     ],
+     [
+      "Academia de danza",
+      "El calendario de ensayos para el recital de diciembre"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo escribir para que lo lean hasta el final"
+  },
+  {
+   "p": "Un boletín se lee de prisa o se queda sin leer. Escribe como si le contaras algo a un fan a la salida del show."
+  },
+  {
+   "ul": [
+    "Títulos cortos que digan la noticia sin adornos.",
+    "Párrafos de tres o cuatro líneas como máximo.",
+    "Una sola idea en cada nota.",
+    "Fechas y precios escritos completos.",
+    "Nombres reales de tus músicos o colaboradores cuando hables de ellos."
+   ]
+  },
+  {
+   "h2": "En papel o por correo"
+  },
+  {
+   "p": "Cada formato tiene su momento. Muchos artistas usan los dos al mismo tiempo."
+  },
+  {
+   "tabla": {
+    "titulo": "Impreso contra correo",
+    "columnas": [
+     "Punto",
+     "Impreso",
+     "Por correo"
+    ],
+    "filas": [
+     [
+      "Costo",
+      "Papel e impresión por cada copia",
+      "Casi nada por cada envío"
+     ],
+     [
+      "Alcance",
+      "Quien llega a tu tocada o tu taller",
+      "Toda tu lista, esté donde esté"
+     ],
+     [
+      "Medición",
+      "Difícil saber quién lo leyó",
+      "Puedes ver aperturas y clics"
+     ],
+     [
+      "Diseño",
+      "Tamaño carta o media carta",
+      "Una columna que se vea bien en celular"
+     ],
+     [
+      "Vida",
+      "Se queda pegado en el refri o en el atril",
+      "Se pierde en la bandeja si no se abre"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "En una academia de música el impreso sigue funcionando con los papás. Para tus fans el correo o un PDF por WhatsApp llega a más personas."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "El diseño ayuda a leer"
+  },
+  {
+   "p": "El diseño no está para lucirse. Repite la misma estructura cada número para que la gente sepa dónde buscar."
+  },
+  {
+   "ul": [
+    "Tu logo y tus colores en el encabezado.",
+    "Una letra cómoda de leer para el texto.",
+    "Espacio suficiente entre una nota y otra.",
+    "La nota principal arriba y más grande.",
+    "En papel, márgenes de un centímetro o más.",
+    "En correo, una sola columna con botones grandes."
+   ]
+  },
+  {
+   "p": "Para una hoja de avisos rápida usa el [flyer informativo](id:flyer-informativo), que baja en PDF listo para imprimir. Si necesitas varias caras, usa el [folleto](id:folleto)."
+  },
+  {
+   "h2": "Cómo juntar tu lista de contactos"
+  },
+  {
+   "p": "Un boletín por correo sólo llega a quien está en tu lista. Esa lista crece poco a poco, tocada tras tocada."
+  },
+  {
+   "ul": [
+    "Pon una hoja de registro en la mesa de mercancía.",
+    "Agrega en tu [link en bio](id:link-en-bio) una opción para pedir el boletín.",
+    "Pide el dato al cobrar una pintura o una sesión, con permiso de la persona.",
+    "Nunca compres listas de correos."
+   ]
+  },
+  {
+   "p": "Agrega sólo a quien te dio permiso. Pon siempre una forma clara de darse de baja."
+  },
+  {
+   "p": "Cuida esos datos igual que cuidas tus instrumentos. Tu [aviso de privacidad](id:aviso-de-privacidad) debe decir para qué los usas."
+  },
+  {
+   "h2": "Ejemplo completo de una banda"
+  },
+  {
+   "p": "Éste es un número de ejemplo. La banda Los Faroles manda un boletín al mes a sus fans."
+  },
+  {
+   "tabla": {
+    "titulo": "Número de noviembre de ejemplo",
+    "columnas": [
+     "Sección",
+     "Contenido"
+    ],
+    "filas": [
+     [
+      "Encabezado",
+      "Notas desde el ensayo, número 4, noviembre"
+     ],
+     [
+      "Nota principal",
+      "Sale el sencillo nuevo el viernes 21. Foto de la grabación."
+     ],
+     [
+      "Nota corta",
+      "Ya tenemos nueva baterista y la presentamos en el próximo show."
+     ],
+     [
+      "Sección fija",
+      "La canción que más escuchamos en la camioneta este mes."
+     ],
+     [
+      "Fechas",
+      "Sábado 6 de diciembre en el foro del centro, 9 pm."
+     ],
+     [
+      "Lo que pedimos",
+      "Aparta tu boleto en preventa desde nuestro sitio."
+     ],
+     [
+      "Pie",
+      "Correo de contrataciones, redes y cómo dejar de recibirlo."
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Todo cabe en una hoja y se lee en dos minutos. Cada mes cambia lo que cuentan, pero el orden se queda igual."
+  },
+  {
+   "h2": "Ejemplo de una academia de baile"
+  },
+  {
+   "p": "Ahora una academia de ejemplo que manda su boletín cada quincena, en papel y en PDF."
+  },
+  {
+   "ul": [
+    "Encabezado con el nombre de la academia y la quincena.",
+    "Un mensaje corto de la maestra directora.",
+    "Fechas de ensayos generales y del recital.",
+    "Un logro de un grupo con foto, si los papás dieron permiso.",
+    "Recordatorio de cuotas y del vestuario.",
+    "Teléfono y horario de atención."
+   ]
+  },
+  {
+   "h2": "Tu boletín por WhatsApp"
+  },
+  {
+   "p": "En México mucha gente revisa más WhatsApp que su correo. Ahí funciona si respetas a quien lo recibe."
+  },
+  {
+   "ul": [
+    "Usa una lista de difusión o un canal, nunca un grupo donde todos contestan.",
+    "Mándalo sólo a quien guardó tu número y aceptó recibir noticias.",
+    "Manda una imagen o un PDF de una página en lugar de diez mensajes.",
+    "Escribe arriba una línea con lo más importante por si no abren el archivo.",
+    "Explica al final cómo dejar de recibirlo."
+   ]
+  },
+  {
+   "p": "Con un mensaje al mes basta. Si mandas uno diario, la gente silencia tu chat."
+  },
+  {
+   "h2": "Cómo saber si está funcionando"
+  },
+  {
+   "p": "No necesitas un sistema caro para medirlo. Fíjate en lo que pasa los días después de cada envío."
+  },
+  {
+   "ul": [
+    "Cuántas personas te contestan o preguntan por lo que contaste.",
+    "Cuántos boletos salen con el código de la preventa.",
+    "Cuántas personas se dan de baja después de cada número.",
+    "Si va por correo, cuántos lo abren y cuántos tocan la liga."
+   ]
+  },
+  {
+   "p": "Si un tema trae muchas respuestas, repítelo desde otro ángulo. Si nada mueve a nadie, cambia los temas antes de cambiar el diseño."
+  },
+  {
+   "h2": "Cada cuándo mandarlo"
+  },
+  {
+   "p": "Importa más la constancia que la frecuencia. Un boletín mensual que nunca falla le gana a uno semanal que sale cuando puedes."
+  },
+  {
+   "p": "Escoge el mismo día de cada mes. Tus fans se acostumbran y lo esperan."
+  },
+  {
+   "p": "Si ese mes no hubo show, cuenta cómo va la canción nueva. Un número corto es mejor que saltarte un mes."
+  },
+  {
+   "h2": "Errores que apagan un boletín"
+  },
+  {
+   "ul": [
+    "Llenarlo de ventas sin nada que valga la pena leer.",
+    "Cambiar el diseño en cada número.",
+    "Mandarlo a quien nunca pidió recibirlo.",
+    "Olvidar decir qué quieres que hagan.",
+    "Escribir párrafos largos que nadie termina.",
+    "Sacar un número y no volver a mandar otro."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué lleva un boletín informativo?",
+   "respuesta": "Encabezado, nota principal, notas cortas y una acción clara. Al final van tus datos de contacto."
+  },
+  {
+   "pregunta": "¿Cada cuándo se manda?",
+   "respuesta": "Una vez al mes para empezar. Lo importante es mandarlo siempre el mismo día."
+  },
+  {
+   "pregunta": "¿Lo puedo hacer en Word?",
+   "respuesta": "Sí puedes. Ordena las notas con columnas o una tabla y guárdalo en PDF antes de compartirlo."
+  },
+  {
+   "pregunta": "¿Lo puedo mandar por WhatsApp?",
+   "respuesta": "Sí. Mándalo en PDF o como imagen a quien te dio permiso de escribirle."
+  },
+  {
+   "pregunta": "¿Necesito permiso para mandarlo por correo?",
+   "respuesta": "Sí lo necesitas. Agrega sólo a quien aceptó recibirlo y da una forma de darse de baja."
+  },
+  {
+   "pregunta": "¿En qué se distingue de un folleto?",
+   "respuesta": "El boletín sale cada cierto tiempo con noticias. El folleto se hace una vez para explicar lo que ofreces."
+  }
+ ],
+ "venta": {
+  "puente": "Tu boletín cuenta las novedades, y tu sitio es donde tus fans escuchan, ven tus fechas y se apuntan al siguiente número.",
+  "titulo": "¿Te hago el sitio donde se apuntan tus fans?",
+  "tituloCorto": "Un sitio para tus fans"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

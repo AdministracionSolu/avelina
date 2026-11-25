@@ -1,0 +1,200 @@
+{
+ "id": "flyer-para-fiesta",
+ "slug": "flyer-para-fiesta",
+ "molde": "herramienta",
+ "cabeza": "flyer discoteca",
+ "busquedas": [
+  "flyer disco"
+ ],
+ "categoria": "Diseño para imprimir",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "editor-diseno",
+  "modo": "flyer",
+  "opciones": {
+   "diseno": "fiesta"
+  }
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.canva.com/es_ar/flyers/plantillas/fiestas/",
+   "titulo": "Flyers para fiestas (Canva)",
+   "promete": "Plantillas con cuenta"
+  },
+  {
+   "posicion": 2,
+   "url": "https://design.tutsplus.com/es/articles/free-club-party-flyer-background-template--cms-34621",
+   "titulo": "Fondo de flyer para club (Envato Tuts+)",
+   "promete": "Plantillas de pago"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.vistaprint.com/es/materiales-de-mercadeo/flyers/plantillas/comida-bebida-sector/bares-discotecas",
+   "titulo": "Flyers de bares y discotecas (Vistaprint)",
+   "promete": "Plantillas e impresión de pago"
+  }
+ ],
+ "title": "Flyer discoteca gratis para tu tocada o tu set de DJ",
+ "h1": "Flyer de fiesta para tu tocada",
+ "description": "Haz gratis el flyer de tu noche en el antro, tu set de DJ o el baile con tu grupo. Diseño oscuro que se lee de noche, vertical para historias o en media carta.",
+ "resumen": "El flyer de tu noche en el antro o tu set",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "flyer",
+  "poster",
+  "flyer-de-rifa",
+  "plantillas-para-instagram",
+  "cartel-publicitario",
+  "codigo-qr-para-whatsapp"
+ ],
+ "respuesta": [
+  "El editor ya abre en el diseño «Fiesta», con fondo oscuro y letra angosta que se lee de noche. Pon el nombre de la noche, quién toca, el cover y las promos. Bájalo vertical para tus historias o en media carta para repartirlo en la puerta."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Lo que tu público busca en dos segundos"
+  },
+  {
+   "p": "Tu flyer compite en el celular con todos los planes del fin de semana. En un vistazo tiene que decir quién toca y cuánto cuesta entrar."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Dato",
+     "Ejemplo",
+     "Dónde va en el diseño"
+    ],
+    "filas": [
+     [
+      "Nombre de la noche",
+      "Noche de cumbia rebajada",
+      "Título grande arriba"
+     ],
+     [
+      "Quién toca",
+      "Grupo en vivo y DJ invitado",
+      "Subtítulo"
+     ],
+     [
+      "Cover",
+      "Cover $150",
+      "Dato grande al centro"
+     ],
+     [
+      "Promociones",
+      "Entrada libre antes de las 10",
+      "Lista de detalles"
+     ],
+     [
+      "Día y hora",
+      "Sábado 29 · 9 pm",
+      "Arriba del título"
+     ],
+     [
+      "Lugar",
+      "Nombre del foro o del bar y calle",
+      "Pie con contacto"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Arma tu flyer de noche"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Empieza en el diseño Fiesta",
+     "texto": "Viene con fondo casi negro y un acento naranja. Cámbialo a morado o rosa si va con tu música."
+    },
+    {
+     "titulo": "Pon un título que suene a plan",
+     "texto": "«Noche de los 80» se entiende más rápido que el nombre del bar."
+    },
+    {
+     "titulo": "Una promo por renglón",
+     "texto": "Tres promos se leen. Seis se pierden en la pantalla."
+    },
+    {
+     "titulo": "Escoge la medida según dónde lo mueves",
+     "texto": "«Para redes» sirve para estados e historias. Media carta es para repartir en la entrada."
+    }
+   ]
+  },
+  {
+   "h2": "Por qué el fondo oscuro funciona"
+  },
+  {
+   "p": "La gente ve los flyers de noche en el celular, con poca luz alrededor. Un fondo oscuro con letra clara cansa menos y resalta entre las fotos."
+  },
+  {
+   "p": "No pongas el texto directo sobre una foto del público. Las caras y las luces de colores se tragan las letras."
+  },
+  {
+   "p": "Si subes la foto de la banda o del DJ, que tenga fondo limpio. El editor la acomoda sin tapar el título."
+  },
+  {
+   "h2": "Para qué noches sirve"
+  },
+  {
+   "ul": [
+    "Tu set semanal en un bar con noche temática.",
+    "El baile con tu grupo versátil en un salón.",
+    "La presentación de tu sencillo en un foro chico.",
+    "Una posada o una noche de karaoke donde tocas.",
+    "Una fiesta de graduación con boletos anticipados."
+   ]
+  },
+  {
+   "h2": "Detalles que llenan más el lugar"
+  },
+  {
+   "p": "Escribe la hora con «pm» o en formato de 24 horas. Así nadie llega a las nueve de la mañana."
+  },
+  {
+   "p": "Si hay edad mínima o código de vestimenta, agrégalo a la lista. Te ahorras problemas en la puerta."
+  },
+  {
+   "p": "Sube el flyer cuatro o cinco días antes. El mismo día por la tarde vuelve a subirlo con un «Hoy» encima del título."
+  },
+  {
+   "p": "Pon un [QR de WhatsApp](id:codigo-qr-para-whatsapp) para que te aparten mesa o te contraten para otra fecha."
+  },
+  {
+   "p": "Si esa noche hay rifa, haz también el [flyer de rifa](id:flyer-de-rifa). Para la entrada del foro luce más un [póster](id:poster) en tabloide."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Dónde está el diseño de fiesta?",
+   "respuesta": "Ya está abierto. El editor arranca en el diseño «Fiesta»."
+  },
+  {
+   "pregunta": "¿Sirve para historias de Instagram?",
+   "respuesta": "Sí sirve. La medida «Para redes» sale vertical y se ve completa."
+  },
+  {
+   "pregunta": "¿Puedo poner la foto del DJ o del grupo?",
+   "respuesta": "Sí puedes. Usa una foto que el artista te haya dado permiso de usar."
+  },
+  {
+   "pregunta": "¿Le puedo poner un QR para apartar mesa?",
+   "respuesta": "Sí. Que abra tu WhatsApp o la página de boletos."
+  },
+  {
+   "pregunta": "¿Es gratis?",
+   "respuesta": "Sí es gratis. No pide cuenta y el pie «Hecho con Avelina» se quita con una casilla."
+  }
+ ],
+ "venta": {
+  "puente": "El flyer llena una noche, y tu sitio junta tus fechas, tus sets y tu contacto para la siguiente.",
+  "aviso": "Tu flyer está listo. ¿Quieres un sitio con todas tus fechas y tus sets?",
+  "titulo": "¿Te hago el sitio de tus noches?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

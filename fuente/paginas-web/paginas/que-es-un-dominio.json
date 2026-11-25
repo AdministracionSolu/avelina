@@ -1,0 +1,514 @@
+{
+ "id": "que-es-un-dominio",
+ "slug": "que-es-un-dominio",
+ "molde": "guia",
+ "cabeza": "dominio",
+ "busquedas": [
+  "dominio gratis",
+  "mi dominio",
+  "dominios gratis",
+  "mis dominios",
+  "dominios es",
+  "el dominios",
+  "registro de dominios",
+  "dominios web",
+  "web dominios",
+  "web y dominio",
+  "dominio web gratis",
+  "web dominio gratis",
+  "qué es un dominio",
+  "dominio que es",
+  "que es dominios web",
+  "que es un dominio web",
+  "definir dominio",
+  "que significa dominio",
+  "q significa dominio",
+  "define dominio",
+  "dominio propio",
+  "dominio propio que es"
+ ],
+ "categoria": "Dominio y hosting",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://blog.hubspot.es/website/que-es-un-dominio",
+   "titulo": "Qué es un dominio, para qué sirve y qué tipos existen",
+   "promete": "Definición y tipos de extensión; pensado para España y en general, sin consejos para elegir un nombre en México"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.godaddy.com/resources/es/dominios/que-es-un-dominio",
+   "titulo": "Qué es un dominio",
+   "promete": "Explica nombre y extensión y empuja a comprar en su tienda; no aclara a nombre de quién queda"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.arsys.es/blog/que-es-dominio",
+   "titulo": "Qué es un dominio en Internet y cómo funciona",
+   "promete": "Explicación técnica de DNS; sin tabla de extensiones mexicanas ni errores comunes"
+  }
+ ],
+ "title": "Dominio para artistas: qué es y cómo elegir el tuyo",
+ "h1": "Qué es un dominio y cuál le queda a tu nombre artístico",
+ "description": "Un dominio es la dirección de tu sitio, como tunombre.mx. Entiende sus partes, qué terminación usar y cómo dejarlo a tu nombre. Elige el de tu proyecto hoy.",
+ "resumen": "La dirección propia de tu música o tu obra en internet",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "dominio-y-hosting",
+  "buscar-dominio",
+  "comprar-dominio",
+  "certificado-ssl",
+  "que-es-un-sitio-web",
+  "correo-corporativo"
+ ],
+ "respuesta": [
+  "Un dominio es la dirección de tu sitio en internet, como tunombre.mx o tubanda.com. Es lo que tu público teclea para escuchar tu música o ver tu obra.",
+  "Lleva un nombre que tú escoges y una terminación como .mx. Se paga cada año y conviene que el registro diga tu nombre."
+ ],
+ "cuerpo": [
+  {
+   "h2": "El dominio explicado para quien hace música o arte"
+  },
+  {
+   "p": "Todo sitio vive en una computadora que se identifica con una serie de números. A esa serie se le dice dirección IP."
+  },
+  {
+   "p": "Nadie en tu público va a memorizar esos números. Por eso existe el dominio, que es un nombre fácil que apunta hacia ellos."
+  },
+  {
+   "p": "Piensa en tu nombre artístico dentro de la agenda de un promotor. Él no recuerda tu número de teléfono, recuerda cómo te llamas."
+  },
+  {
+   "p": "Cuando alguien escribe tu dominio, internet busca el número que le corresponde. En menos de un segundo aparece tu sitio con tus canciones."
+  },
+  {
+   "p": "Cada dominio existe una sola vez en el mundo. Si otra persona ya registró lunaroja.mx, tu banda tendrá que buscar otra variante."
+  },
+  {
+   "h2": "Cómo se arma un dominio"
+  },
+  {
+   "p": "Un dominio se lee de derecha a izquierda. Primero va la terminación y antes de ella va el nombre que eliges."
+  },
+  {
+   "tabla": {
+    "titulo": "Piezas de un dominio con ejemplos de artista",
+    "columnas": [
+     "Pieza",
+     "Ejemplo",
+     "Qué hace"
+    ],
+    "filas": [
+     [
+      "Terminación",
+      ".mx",
+      "Indica el país o el tipo de sitio"
+     ],
+     [
+      "Nombre",
+      "lunaroja",
+      "Tu nombre artístico o el de tu banda"
+     ],
+     [
+      "Subdominio",
+      "tienda.lunaroja.mx",
+      "Una parte aparte, como tu mercancía"
+     ],
+     [
+      "Dirección completa",
+      "lunaroja.mx/fechas",
+      "El dominio más una página concreta"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "No confundas el dominio con la dirección completa. El dominio es el nombre, la dirección completa ya incluye la página de fechas o de discos."
+  },
+  {
+   "h2": "Qué terminación conviene a un artista en México"
+  },
+  {
+   "p": "Las terminaciones se agrupan en dos familias. Unas pertenecen a un país y otras son genéricas para todo el mundo."
+  },
+  {
+   "tabla": {
+    "titulo": "Terminaciones más comunes en México",
+    "columnas": [
+     "Terminación",
+     "Tipo",
+     "Cuándo le queda a un artista"
+    ],
+    "filas": [
+     [
+      ".mx",
+      "De país",
+      "Si tocas, expones o tatúas sobre todo en México"
+     ],
+     [
+      ".com.mx",
+      "De país, comercial",
+      "Si tu nombre ya está ocupado en .mx"
+     ],
+     [
+      ".org.mx",
+      "De país, organizaciones",
+      "Para un colectivo o una asociación cultural"
+     ],
+     [
+      ".edu.mx",
+      "De país, educación",
+      "Para una escuela de música con registro"
+     ],
+     [
+      ".gob.mx",
+      "De país, gobierno",
+      "Sólo para dependencias de gobierno"
+     ],
+     [
+      ".com",
+      "Genérica",
+      "Si tu público está en varios países"
+     ],
+     [
+      ".net y .org",
+      "Genéricas",
+      "Proyectos de red y organizaciones"
+     ],
+     [
+      ".shop, .online y otras",
+      "Genéricas nuevas",
+      "Si buscas un nombre corto que ya no hay en .mx"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "La terminación de país le avisa a Google desde dónde trabajas. Si tus fechas son en México, .mx o .com.mx es la opción natural."
+  },
+  {
+   "h2": "Para qué le sirve un dominio a tu carrera"
+  },
+  {
+   "p": "Tus redes cambian de reglas cada año. Tu dominio es lo único que se queda igual mientras lo renueves."
+  },
+  {
+   "ul": [
+    "Tu sitio siempre abre en la misma dirección, cambies o no de plataforma.",
+    "Tu correo de contrataciones puede ser booking@tunombre.mx en vez de una cuenta gratis.",
+    "Puedes mudarte de proveedor sin que tus fans pierdan el camino.",
+    "Tus flyers, tus discos y tu lona de escenario llevan un nombre que no caduca.",
+    "Un promotor o una galería ve que tu proyecto va en serio."
+   ]
+  },
+  {
+   "p": "También protege tu nombre artístico. Si tú no lo registras, alguien más puede apartarlo y luego pedirte dinero por él."
+  },
+  {
+   "h2": "Dominio, hosting y sitio no son lo mismo"
+  },
+  {
+   "p": "Son tres palabras que se revuelven seguido. Cada una cumple una función distinta y necesitas las tres."
+  },
+  {
+   "tabla": {
+    "titulo": "Las tres piezas comparadas con una tocada",
+    "columnas": [
+     "Pieza",
+     "Qué es",
+     "En una tocada sería"
+    ],
+    "filas": [
+     [
+      "Dominio",
+      "El nombre y la dirección",
+      "La dirección del foro en el flyer"
+     ],
+     [
+      "Hosting",
+      "La computadora donde vive el sitio",
+      "El foro con su escenario"
+     ],
+     [
+      "Sitio web",
+      "Lo que ve tu público",
+      "El show que das esa noche"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Para entender la segunda pieza lee [qué es hosting](id:que-es-hosting). Ahí se explica dónde se guardan tus fotos y tus audios."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Qué pasa cuando alguien escribe tu dominio"
+  },
+  {
+   "p": "No necesitas saber esto para tener tu sitio. Sirve para entender por qué un cambio a veces tarda en verse."
+  },
+  {
+   "ol": [
+    "Una fan escribe tunombre.mx en su celular.",
+    "Su celular consulta un directorio de internet para saber dónde vive ese nombre.",
+    "El directorio responde con la dirección numérica de la computadora correcta.",
+    "El celular le pide tu sitio a esa computadora.",
+    "Tu sitio llega y la fan ve tu próxima fecha."
+   ]
+  },
+  {
+   "p": "Ese directorio se llama DNS. Guarda los registros que dicen a dónde va tu sitio y a dónde va tu correo."
+  },
+  {
+   "p": "Si cambias de hosting, se cambian esos registros. El cambio puede tardar unas horas en llegar a todos lados."
+  },
+  {
+   "h2": "Los registros que vas a encontrar"
+  },
+  {
+   "p": "En la cuenta de tu dominio hay una lista corta de registros. Cada uno manda una parte del tráfico a su lugar."
+  },
+  {
+   "tabla": {
+    "titulo": "Registros más frecuentes",
+    "columnas": [
+     "Registro",
+     "Para qué sirve"
+    ],
+    "filas": [
+     [
+      "A",
+      "Indica la computadora donde vive tu sitio"
+     ],
+     [
+      "CNAME",
+      "Manda un nombre hacia otro, como www hacia tu dominio"
+     ],
+     [
+      "MX",
+      "Indica qué servicio recibe tu correo"
+     ],
+     [
+      "TXT",
+      "Guarda textos que prueban que el dominio es tuyo"
+     ],
+     [
+      "NS",
+      "Dice quién administra todos los demás registros"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Quien te haga el sitio quizá te pida tocar alguno. Dale acceso de técnico si tu registrador lo permite y guarda tu contraseña para ti."
+  },
+  {
+   "h2": "Cómo averiguar quién tiene un dominio"
+  },
+  {
+   "p": "Cada dominio deja un registro público con sus datos básicos. Se consulta con una búsqueda que se llama WHOIS o RDAP."
+  },
+  {
+   "p": "Ahí aparecen la fecha de alta, la de vencimiento y la empresa que lo registró. Los datos personales del dueño casi siempre salen ocultos."
+  },
+  {
+   "p": "Si el nombre de tu banda está ocupado, mira cuándo vence. A veces su dueño no lo renueva y queda libre."
+  },
+  {
+   "h2": "Un correo con tu nombre artístico"
+  },
+  {
+   "p": "Un promotor contesta más rápido a contrataciones@tubanda.mx que a una cuenta gratis con números. Se nota que hay alguien detrás."
+  },
+  {
+   "p": "El correo necesita su propio servicio para recibir mensajes. El dominio sólo indica hacia dónde mandarlos."
+  },
+  {
+   "p": "Una banda puede tener una cuenta por integrante o una por tema. Si alguien sale del grupo, la cuenta de booking se queda con el proyecto."
+  },
+  {
+   "h2": "Cómo escoger el dominio de tu proyecto"
+  },
+  {
+   "p": "Ese nombre va a ir en cada flyer y en cada portada. Vale la pena darle una vuelta antes de pagarlo."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Parte de tu nombre artístico",
+     "texto": "Si te presentas como Mar Ortega, busca marortega.mx primero. Es lo que tu público va a intentar."
+    },
+    {
+     "titulo": "Dilo desde el escenario",
+     "texto": "Imagina que lo anuncias entre canciones. Si necesitas deletrearlo, busca otra forma."
+    },
+    {
+     "titulo": "Corto y sin guiones",
+     "texto": "Nadie recuerda dónde iba el guion. Menos letras dejan menos lugar para errores."
+    },
+    {
+     "titulo": "Quita acentos y la ñ",
+     "texto": "Mucha gente no los teclea en la barra del navegador. Registra la palabra sin acento."
+    },
+    {
+     "titulo": "Cuidado con los números",
+     "texto": "Un 2 se puede leer como dos o como letra. Si lo usas, aparta también la versión escrita."
+    },
+    {
+     "titulo": "Confirma que está libre",
+     "texto": "Búscalo antes de encariñarte con él. Usa el [buscador de dominios](id:buscar-dominio)."
+    },
+    {
+     "titulo": "Aparta la variante si te alcanza",
+     "texto": "Con el .mx libre, piensa en tomar también el .com.mx para cuidar tu nombre."
+    }
+   ]
+  },
+  {
+   "h2": "Ejemplos de dominios que funcionan y que no"
+  },
+  {
+   "tabla": {
+    "titulo": "Ejemplos para artistas en México",
+    "columnas": [
+     "Proyecto",
+     "Mejor opción",
+     "Opción a evitar",
+     "Por qué"
+    ],
+    "filas": [
+     [
+      "Cantautora Mar Ortega",
+      "marortega.mx",
+      "mar-ortega-cantautora-oficial.com",
+      "Corto y sin guiones"
+     ],
+     [
+      "Banda Luna Roja",
+      "lunaroja.mx",
+      "bandaderocklunarojadeguadalajara.mx",
+      "Se dice de un jalón"
+     ],
+     [
+      "Estudio de tatuaje Tinta Fina",
+      "tintafina.mx",
+      "tintafina2026.mx",
+      "Sin un año que se vuelva viejo"
+     ],
+     [
+      "Fotógrafa de bodas en Mérida",
+      "fotobodasmerida.mx",
+      "fotografabaratamerida.com",
+      "No amarra tu precio al nombre"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Por qué el dominio debe ir a tu nombre"
+  },
+  {
+   "p": "El dominio se registra a nombre de una persona o una empresa. Ese titular es el dueño mientras pague la renta."
+  },
+  {
+   "p": "Si tu mánager o tu diseñador lo registra como suyo, tu dirección depende de esa relación. Si se rompe, puedes quedarte sin ella."
+  },
+  {
+   "p": "Pide que el titular seas tú o la razón social de tu proyecto. También pide entrar a la cuenta donde quedó."
+  },
+  {
+   "ul": [
+    "El titular aparece con tu nombre o el de tu banda.",
+    "El correo de contacto es uno que tú lees.",
+    "Puedes entrar a la cuenta o pedir el código de traslado.",
+    "La renovación queda activa para que no se venza."
+   ]
+  },
+  {
+   "h2": "Si se te olvida renovarlo"
+  },
+  {
+   "p": "El dominio se renta por uno o varios años. Al vencer sin pago, deja de funcionar."
+  },
+  {
+   "p": "Lo primero que cae son tu sitio y tu correo. Luego viene un periodo de gracia para recuperarlo con un cargo extra."
+  },
+  {
+   "p": "Cuando termina ese periodo, el nombre queda libre. Cualquier persona puede tomarlo, incluso un fan que lo revenda."
+  },
+  {
+   "p": "Activa la renovación automática y revisa que tu tarjeta siga vigente. Así tu dirección no se pierde en medio de una gira."
+  },
+  {
+   "h2": "Lo que llaman dominio gratis"
+  },
+  {
+   "p": "Algunas plataformas te regalan una dirección dentro de su propio dominio. Se ve como tunombre.plataforma.com."
+  },
+  {
+   "p": "Ese nombre no es tuyo. Es un subdominio de otra empresa y se pierde cuando dejas su servicio."
+  },
+  {
+   "p": "Hay planes de hosting que incluyen el dominio el primer año. Antes de aceptar, revisa cuánto cuesta renovarlo."
+  },
+  {
+   "p": "Si ya vas a imprimir flyers o prensar discos, conviene un dominio propio desde el arranque. Cambiarlo luego obliga a reimprimir."
+  },
+  {
+   "h2": "Errores frecuentes al registrar el dominio"
+  },
+  {
+   "ul": [
+    "Dejar el dominio a nombre del diseñador o del mánager.",
+    "Escoger un nombre tan largo que nadie lo repite.",
+    "Meter guiones o números que no lleva tu nombre artístico.",
+    "Olvidar la renovación automática.",
+    "Poner la dirección gratis de la plataforma en tu lona.",
+    "Esperar a tener el sitio para apartar el nombre."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es un dominio en internet?",
+   "respuesta": "Es la dirección de tu sitio, como tunombre.mx. Tu público la escribe para llegar a tu música."
+  },
+  {
+   "pregunta": "¿El dominio es mío para siempre?",
+   "respuesta": "No. Lo rentas por uno o varios años y lo renuevas. Mientras pagues, sigue siendo tuyo."
+  },
+  {
+   "pregunta": "¿Dominio y URL son lo mismo?",
+   "respuesta": "No. El dominio es el nombre y la URL es la dirección de una página concreta dentro de él."
+  },
+  {
+   "pregunta": "¿Me conviene .mx o .com?",
+   "respuesta": "Si tocas o expones sobre todo en México, .mx. Le dice a tu público y a Google dónde estás."
+  },
+  {
+   "pregunta": "¿Existe un dominio propio gratis?",
+   "respuesta": "No. Lo gratis suele ser una dirección dentro del dominio de otra empresa."
+  },
+  {
+   "pregunta": "¿Puedo cambiar mi dominio después?",
+   "respuesta": "Sí, pero da trabajo. Tienes que avisar a tus fans y cambiar todo lo impreso."
+  },
+  {
+   "pregunta": "¿Puedo tener correo de contrataciones con mi dominio?",
+   "respuesta": "Sí. Con un servicio de correo creas cuentas como booking@tunombre.mx."
+  }
+ ],
+ "venta": {
+  "puente": "Tu dominio luce más cuando abre un sitio tuyo con tu música, tus fechas y tu contacto de contrataciones.",
+  "titulo": "¿Te hago el sitio para tu dominio?",
+  "tituloCorto": "Tu sitio con dominio"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

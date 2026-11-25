@@ -1,0 +1,580 @@
+{
+ "id": "campana-publicitaria",
+ "slug": "campana-publicitaria",
+ "molde": "guia",
+ "cabeza": "qué es una campaña publicitaria",
+ "busquedas": [
+  "que es una campañas publicitarias",
+  "campañas de marketing",
+  "campañas digitales",
+  "campaña digital",
+  "como hacer una campaña"
+ ],
+ "categoria": "Publicidad y marketing",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.tiendanube.com/mx/blog/campanas-publicitarias",
+   "titulo": "¿Qué es una campaña publicitaria y cómo hacer una? Guía 2026",
+   "promete": "Definición y pasos generales; ejemplos de marcas grandes y poco de negocios con presupuesto chico"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.cyberclick.es/publicidad/campana-publicitaria",
+   "titulo": "Campaña publicitaria",
+   "promete": "Tipos y fases con vocabulario de agencia; escrito para España"
+  },
+  {
+   "posicion": 3,
+   "url": "https://blog.hubspot.es/marketing/campana-marketing",
+   "titulo": "Cómo crear una campaña de marketing exitosa",
+   "promete": "Guía amplia ligada a su software; sin plantilla de plan de una hoja"
+  }
+ ],
+ "title": "Qué es una campaña publicitaria y cómo llenar tu tocada",
+ "h1": "Campaña publicitaria para artistas: qué es y cómo armarla",
+ "description": "Qué es una campaña publicitaria, qué partes lleva y cómo armar una en 8 pasos para un concierto, un disco o una expo. Con plan en una hoja. Arma la tuya.",
+ "resumen": "Las partes de una campaña, 8 pasos y un plan de ejemplo para tu próximo concierto",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "marketing-digital",
+  "publicidad-en-instagram",
+  "publicidad-en-facebook",
+  "flyer",
+  "landing-page",
+  "cartel-publicitario"
+ ],
+ "respuesta": [
+  "Una campaña publicitaria es un grupo de anuncios que comparten mensaje y meta durante un tiempo fijo. Por ejemplo, tres semanas de carteles y publicaciones para vender los boletos de tu concierto.",
+  "Para armarla eliges meta, público y mensaje. Luego decides medios, presupuesto y fechas. Al cerrar revisas qué pasó y qué vale la pena repetir."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Qué es una campaña publicitaria"
+  },
+  {
+   "p": "Un cartel suelto es sólo una pieza. Una campaña es el plan que pone varias piezas a jalar hacia lo mismo."
+  },
+  {
+   "p": "El flyer de la tocada, el video del ensayo y la manta del foro pueden ser una sola campaña. Cambian de formato, pero cuentan la misma idea."
+  },
+  {
+   "p": "Toda campaña tiene día de arranque y día de cierre. Así puedes revisar si sirvió y aprender para el siguiente lanzamiento."
+  },
+  {
+   "tabla": {
+    "titulo": "Anuncio suelto contra campaña",
+    "columnas": [
+     "Punto",
+     "Anuncio suelto",
+     "Campaña"
+    ],
+    "filas": [
+     [
+      "Meta",
+      "No siempre está clara",
+      "Una meta medible"
+     ],
+     [
+      "Duración",
+      "Sale una vez",
+      "Tiene fecha de inicio y fin"
+     ],
+     [
+      "Mensaje",
+      "Puede cambiar en cada pieza",
+      "Un mismo mensaje en todas las piezas"
+     ],
+     [
+      "Medios",
+      "Uno",
+      "Uno o varios coordinados"
+     ],
+     [
+      "Medición",
+      "Difícil",
+      "Se compara contra la meta"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Las ocho partes de una campaña"
+  },
+  {
+   "p": "Sea para un estadio o para un bar de veinte mesas, la campaña lleva las mismas partes. Si falta una, todo el plan cojea."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Meta",
+     "texto": "Lo que quieres lograr con un número y una fecha. Por ejemplo, cuarenta boletos vendidos antes del 15 de enero."
+    },
+    {
+     "titulo": "Público",
+     "texto": "A quién le hablas. Qué edad tiene, en qué zona vive, qué escucha y dónde pasa el rato."
+    },
+    {
+     "titulo": "Mensaje",
+     "texto": "La idea principal en una sola frase. Lo que quieres que recuerden al salir del cartel."
+    },
+    {
+     "titulo": "Oferta",
+     "texto": "Lo que gana quien actúa ya. Un precio de preventa, un regalo o una fecha límite."
+    },
+    {
+     "titulo": "Medios",
+     "texto": "Dónde va a aparecer la campaña. Pueden ser redes y Google, o carteles, radio comunitaria y el propio foro."
+    },
+    {
+     "titulo": "Presupuesto",
+     "texto": "Cuánto vas a gastar en total y cómo lo divides entre los medios."
+    },
+    {
+     "titulo": "Calendario",
+     "texto": "El día que empieza, el día que termina y lo que publicas cada semana."
+    },
+    {
+     "titulo": "Medición",
+     "texto": "El número que te dice si llegaste o no a la meta."
+    }
+   ]
+  },
+  {
+   "h2": "Tipos de campaña para artistas"
+  },
+  {
+   "p": "Las campañas se ordenan según lo que persiguen. Para un proyecto independiente, estos tipos cubren casi todo."
+  },
+  {
+   "tabla": {
+    "titulo": "Tipos de campaña",
+    "columnas": [
+     "Tipo",
+     "Qué busca",
+     "Ejemplo"
+    ],
+    "filas": [
+     [
+      "De lanzamiento",
+      "Dar a conocer algo nuevo",
+      "Estreno de un sencillo o de una serie de obra"
+     ],
+     [
+      "De temporada",
+      "Aprovechar una fecha",
+      "Posadas, bodas de primavera o Día de Muertos"
+     ],
+     [
+      "De promoción",
+      "Vender más en poco tiempo",
+      "Preventa de boletos a mitad de precio"
+     ],
+     [
+      "De recordación",
+      "Que no te olviden",
+      "Avisar cada mes tus fechas libres para eventos"
+     ],
+     [
+      "De reputación",
+      "Mejorar cómo te ven",
+      "Mostrar cómo cuidas la higiene en tu estudio de tatuaje"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo armar tu campaña en 8 pasos"
+  },
+  {
+   "p": "Los pasos sirven igual con mucho o con poco dinero. Lo único que cambia es el tamaño de cada pieza."
+  },
+  {
+   "ol": [
+    "Pon tu meta con una cifra y una fecha.",
+    "Describe en tres renglones a quien va a tus tocadas.",
+    "Busca una oferta que de verdad le mueva.",
+    "Reduce tu mensaje central a una sola frase.",
+    "Escoge dos o tres medios donde ya está tu público.",
+    "Divide el presupuesto entre esos medios y nada más.",
+    "Haz todas las piezas con la misma frase y la misma imagen.",
+    "Lanza, revisa cada semana y cambia lo que no responda."
+   ]
+  },
+  {
+   "p": "El paso ocho distingue una campaña de un gasto. Si no revisas los números, no sabes qué repetir en la próxima fecha."
+  },
+  {
+   "h2": "Plan de campaña en una hoja"
+  },
+  {
+   "p": "Pasa esta tabla a tu cuaderno y llénala antes de gastar un peso. Si una fila se queda vacía, esa parte todavía no está pensada."
+  },
+  {
+   "tabla": {
+    "titulo": "Plan de campaña en una hoja",
+    "columnas": [
+     "Campo",
+     "Qué escribir"
+    ],
+    "filas": [
+     [
+      "Nombre de la campaña",
+      "Un nombre corto para identificarla"
+     ],
+     [
+      "Meta",
+      "Número y fecha"
+     ],
+     [
+      "Público",
+      "Quién es, dónde vive, qué escucha o qué compra"
+     ],
+     [
+      "Mensaje central",
+      "Una frase"
+     ],
+     [
+      "Oferta",
+      "Qué gana la persona y hasta cuándo"
+     ],
+     [
+      "Medios",
+      "Dónde va a salir"
+     ],
+     [
+      "Presupuesto total",
+      "Cuánto y cómo se reparte"
+     ],
+     [
+      "Fechas",
+      "Inicio y fin"
+     ],
+     [
+      "Página de llegada",
+      "A dónde manda cada pieza"
+     ],
+     [
+      "Cómo se mide",
+      "Qué número revisas cada semana"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo escribir la frase que se repite"
+  },
+  {
+   "p": "El mensaje central aparece en cada pieza de la campaña. Tiene que entenderse de un vistazo, aunque el flyer pase rápido en una historia."
+  },
+  {
+   "ul": [
+    "Cuenta lo que vive quien va y no lo que tú necesitas.",
+    "Habla como habla tu público y no como un comunicado.",
+    "Incluye algo concreto, como una fecha, un lugar o un precio.",
+    "Que quepa igual en una manta que en una historia."
+   ]
+  },
+  {
+   "tabla": {
+    "titulo": "Mensajes de ejemplo",
+    "columnas": [
+     "Proyecto",
+     "Mensaje central"
+    ],
+    "filas": [
+     [
+      "Banda de rock",
+      "Presentamos el disco completo en vivo el 15 de enero en el foro de siempre."
+     ],
+     [
+      "Estudio de tatuaje",
+      "Diseños pequeños a precio fijo todo febrero, con cita previa."
+     ],
+     [
+      "Ilustradora",
+      "Aparta tu calendario ilustrado y recógelo firmado en la feria."
+     ],
+     [
+      "Academia de baile",
+      "Clase de prueba sin costo en enero si llegas con alguien más."
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si quieres más ideas de piezas, abre la guía para hacer un [flyer](id:flyer) de tu evento."
+  },
+  {
+   "h2": "La página a la que llega la gente"
+  },
+  {
+   "p": "Cada pieza de la campaña lleva a un mismo lugar. A ese lugar se le llama página de llegada."
+  },
+  {
+   "p": "Ahí se repiten la frase y la oferta del cartel. Si el flyer dice preventa y la página no la menciona, la gente duda y se va."
+  },
+  {
+   "ul": [
+    "La misma frase y la misma imagen que vio en el anuncio.",
+    "La oferta con su fecha de cierre bien visible.",
+    "Un botón claro para comprar boleto, apartar o escribirte.",
+    "La dirección del foro y cómo llegar."
+   ]
+  },
+  {
+   "p": "Lo más cómodo es que esa página viva en tu propio sitio. Así cada concierto nuevo es una sección más y no una liga suelta."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Cómo repartir poco dinero"
+  },
+  {
+   "p": "Un presupuesto chico se concentra en pocos medios. Si lo partes en diez lugares, nadie te ve en ninguno."
+  },
+  {
+   "tabla": {
+    "titulo": "Ejemplo inventado de reparto con $3,000 al mes",
+    "columnas": [
+     "Medio",
+     "Monto",
+     "Para qué"
+    ],
+    "filas": [
+     [
+      "Anuncio en redes para tu ciudad",
+      "$1,500",
+      "Que te descubra gente de tu zona"
+     ],
+     [
+      "Carteles en cafés y escuelas de música",
+      "$800",
+      "Llegar a quien no te sigue todavía"
+     ],
+     [
+      "Manta en la entrada del foro",
+      "$700",
+      "Que lo vea quien pasa por la calle"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Guarda una parte para la segunda mitad. Si un medio responde bien, le pones más dinero a ese."
+  },
+  {
+   "h2": "Fechas del año que dan pretexto"
+  },
+  {
+   "p": "El calendario mexicano está lleno de ocasiones para tocar, exponer o vender obra. Planea cada una con un mes de ventaja."
+  },
+  {
+   "tabla": {
+    "titulo": "Calendario de ideas de campaña",
+    "columnas": [
+     "Mes",
+     "Fecha o temporada",
+     "Idea de campaña"
+    ],
+    "filas": [
+     [
+      "Enero",
+      "Reyes y propósitos de año nuevo",
+      "Inscripciones a clases de música o de baile"
+     ],
+     [
+      "Febrero",
+      "Día del amor y la amistad",
+      "Serenatas por encargo o retratos de pareja"
+     ],
+     [
+      "Marzo y abril",
+      "Primavera y Semana Santa",
+      "Temporada de bodas y festivales al aire libre"
+     ],
+     [
+      "Mayo",
+      "Día del niño y Día de las madres",
+      "Serenatas, talleres infantiles y retratos familiares"
+     ],
+     [
+      "Junio",
+      "Día del padre y fin de clases",
+      "Cursos de verano y recitales de fin de curso"
+     ],
+     [
+      "Julio y agosto",
+      "Vacaciones y regreso a clases",
+      "Talleres intensivos y fotos escolares"
+     ],
+     [
+      "Septiembre",
+      "Fiestas patrias",
+      "Música mexicana para eventos y fiestas"
+     ],
+     [
+      "Octubre y noviembre",
+      "Día de Muertos y Buen Fin",
+      "Exposiciones de altares, catrinas y preventas"
+     ],
+     [
+      "Diciembre",
+      "Posadas, Navidad y fin de año",
+      "Contrataciones para posadas y obra para regalar"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "No necesitas doce campañas al año. Escoge las tres o cuatro fechas que más trabajo te traen."
+  },
+  {
+   "h2": "Campañas dentro de las redes"
+  },
+  {
+   "p": "Si tu campaña corre en Facebook e Instagram, la plataforma te pide armarla por niveles. Conviene entenderlos antes de meter dinero."
+  },
+  {
+   "ul": [
+    "La campaña guarda el objetivo, como recibir mensajes o visitas a tu sitio.",
+    "Adentro van uno o varios grupos con su público, su zona y su presupuesto.",
+    "Cada grupo lleva sus anuncios con sus videos, fotos y textos."
+  ]
+  },
+  {
+   "p": "Prueba dos anuncios diferentes con el mismo público. A los pocos días, quédate con el que trae más mensajes."
+  },
+  {
+   "p": "El paso a paso está en la guía de [publicidad en Instagram](id:publicidad-en-instagram)."
+  },
+  {
+   "h2": "Cómo revisar tu campaña mientras corre"
+  },
+  {
+   "p": "Desde el primer día decide qué número vas a mirar. Revísalo cada semana y no hasta el final."
+  },
+  {
+   "ul": [
+    "Mensajes de WhatsApp que mencionan la preventa.",
+    "Boletos vendidos, encargos o citas durante la campaña.",
+    "Personas que llegaron con el flyer o con un código.",
+    "Visitas a tu página de llegada.",
+    "Lo que te costó cada persona nueva en tu público."
+   ]
+  },
+  {
+   "p": "Cuando termine, anota qué funcionó y qué no. Agrega lo que harías distinto en el próximo lanzamiento."
+  },
+  {
+   "h2": "Una campaña completa para un concierto"
+  },
+  {
+   "p": "Este ejemplo es inventado y va de principio a fin. Una banda de rock en Querétaro quiere llenar su concierto de enero."
+  },
+  {
+   "tabla": {
+    "titulo": "Campaña de enero de la banda",
+    "columnas": [
+     "Campo",
+     "Plan"
+    ],
+    "filas": [
+     [
+      "Meta",
+      "40 boletos vendidos antes del 15 de enero"
+     ],
+     [
+      "Público",
+      "Jóvenes de 18 a 30 años en tres colonias cercanas al foro"
+     ],
+     [
+      "Mensaje",
+      "Presentamos el disco completo en vivo el 15 de enero"
+     ],
+     [
+      "Oferta",
+      "Preventa con precio especial hasta el 10 de enero"
+     ],
+     [
+      "Medios",
+      "Anuncio en redes, carteles en dos cafés y manta en la entrada"
+     ],
+     [
+      "Presupuesto",
+      "$3,000 en total"
+     ],
+     [
+      "Fechas",
+      "Del 26 de diciembre al 15 de enero"
+     ],
+     [
+      "Página de llegada",
+      "Sección del sitio con fecha, precio y botón de WhatsApp"
+     ],
+     [
+      "Medición",
+      "Boletos por semana y de dónde vino cada compra"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "A la mitad notan que los carteles en cafés venden más que el anuncio. Pasan parte del dinero a imprimir más carteles."
+  },
+  {
+   "p": "Al terminar guardan su hoja de plan. Para el siguiente concierto ya saben por dónde empezar."
+  },
+  {
+   "h2": "Fallas que hunden una campaña"
+  },
+  {
+   "ul": [
+    "Arrancar sin una meta que se pueda contar.",
+    "Cambiar la frase en cada pieza.",
+    "Mandar a tu perfil general en vez de a una página con la oferta.",
+    "Gastar todo el presupuesto en la primera semana.",
+    "No preguntar a la gente cómo se enteró del concierto.",
+    "Olvidar poner cuándo termina la preventa."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es una campaña publicitaria?",
+   "respuesta": "Es un grupo de anuncios con una sola meta. Todos llevan el mismo mensaje y corren durante un tiempo fijo."
+  },
+  {
+   "pregunta": "¿Cuánto debe durar una campaña?",
+   "respuesta": "Según la meta. Para un concierto o un lanzamiento, de dos a seis semanas suelen bastar para medir."
+  },
+  {
+   "pregunta": "¿Cuánto cuesta hacer una campaña?",
+   "respuesta": "Lo que tú decidas invertir. Una campaña local puede empezar con poco si eliges bien los medios."
+  },
+  {
+   "pregunta": "¿En qué se distingue de una campaña de marketing?",
+   "respuesta": "La publicitaria se centra en anuncios. La de marketing también toca precio, producto y atención."
+  },
+  {
+   "pregunta": "¿Necesito agencia para hacer una campaña?",
+   "respuesta": "No. Con un plan de una hoja puedes llevar tú una campaña pequeña."
+  },
+  {
+   "pregunta": "¿Cómo sé si mi campaña funcionó?",
+   "respuesta": "Compara lo logrado con la meta del inicio. Sin meta no hay forma de saberlo."
+  }
+ ],
+ "venta": {
+  "puente": "Cada campaña necesita una página de llegada que repita lo que promete tu cartel. Te la hago dentro de tu propio sitio.",
+  "titulo": "¿Te hago la página de llegada de tu campaña?",
+  "tituloCorto": "¿Tu concierto ya tiene a dónde llevar?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026. Ejemplos inventados (banda en Querétaro, $3,000) con los mismos montos y fechas de la base. Sin cifras con fuente."
+}

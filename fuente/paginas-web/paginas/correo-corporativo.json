@@ -1,0 +1,481 @@
+{
+ "id": "correo-corporativo",
+ "slug": "correo-corporativo",
+ "molde": "guia",
+ "cabeza": "correo corporativo",
+ "busquedas": [
+  "correo empresarial",
+  "correo corporativo gmail",
+  "dominio de correo electrónico"
+ ],
+ "categoria": "Correo",
+ "herramienta": null,
+ "fuentes": [
+  {
+   "texto": "Google Workspace, planes y precios en México (leído el 12-nov-2026, precios en pesos sin impuestos)",
+   "url": "https://workspace.google.com/intl/es-419/pricing.html"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.godaddy.com/resources/latam/emprender/correo-corporativo-para-tu-marca",
+   "titulo": "Correo corporativo para tu marca",
+   "promete": "Ventajas generales que llevan a su servicio; sin comparar opciones ni explicar los registros del dominio"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.godaddy.com/resources/latam/stories/correo-electronico-empresarial-en-comparacion-con-el-correo-personal",
+   "titulo": "Correo corporativo versus correo personal",
+   "promete": "Comparación conceptual; no da pasos de configuración"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.neo.space/es/correo-corporativo",
+   "titulo": "Correo corporativo",
+   "promete": "Página de producto de un proveedor; no ayuda a elegir entre opciones"
+  }
+ ],
+ "title": "Correo corporativo para artistas con tu propio dominio",
+ "h1": "Correo corporativo para tu banda o tu estudio",
+ "description": "Ten un correo de contrataciones con tu dominio, como booking@tubanda.mx. Opciones, precios de Google Workspace, buzones, alias y registros para no caer en spam.",
+ "resumen": "Un correo de contrataciones con el nombre de tu proyecto",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "que-es-un-dominio",
+  "comprar-dominio",
+  "firma-de-correo",
+  "que-es-hosting",
+  "buscar-dominio",
+  "pagina-web-para-negocio"
+ ],
+ "respuesta": [
+  "Hablamos de una dirección que lleva el nombre de tu proyecto después de la arroba, como contrataciones@tubanda.mx. Luce más seria que una cuenta gratis y ese nombre es tuyo.",
+  "Te hacen falta dos piezas, tu propio dominio y alguien que maneje los buzones. A veces el hosting ya los trae, y si no los rentas con Google Workspace, Microsoft 365 u otro servicio."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Por qué le importa a un artista"
+  },
+  {
+   "p": "Un organizador de festivales recibe cientos de correos. Uno que dice booking@losfarolesrotos.mx se distingue de otro que parece cuenta personal."
+  },
+  {
+   "p": "Lo mismo pasa con marcas que buscan colaboraciones o agencias que contratan fotógrafos. La dirección es lo primero que ven antes de abrir."
+  },
+  {
+   "h2": "Qué es exactamente"
+  },
+  {
+   "p": "Es un correo que termina con tu dominio. Por ejemplo hola@anaperezfoto.mx en lugar de una cuenta gratuita con tu nombre y números."
+  },
+  {
+   "p": "También se le dice correo empresarial o correo con dominio. Las tres formas nombran lo mismo."
+  },
+  {
+   "p": "Quien lo recibe ve el nombre de tu proyecto desde la bandeja. Eso da confianza, sobre todo a empresas y foros."
+  },
+  {
+   "h2": "Gratuito contra correo con tu dominio"
+  },
+  {
+   "tabla": {
+    "titulo": "Correo gratuito contra correo con dominio",
+    "columnas": [
+     "Punto",
+     "Correo gratuito",
+     "Correo con tu dominio"
+    ],
+    "filas": [
+     [
+      "Imagen",
+      "Parece personal",
+      "Se ve como proyecto establecido"
+     ],
+     [
+      "Propiedad",
+      "La cuenta es tuya pero el nombre es del proveedor",
+      "El dominio es tuyo y puedes cambiar de proveedor"
+     ],
+     [
+      "Varios buzones",
+      "Una cuenta por persona sin relación",
+      "Contrataciones, prensa y facturas bajo el mismo dominio"
+     ],
+     [
+      "Si alguien deja la banda",
+      "Se puede llevar su cuenta",
+      "Tú controlas el buzón y lo reasignas"
+     ],
+     [
+      "Confianza de empresas",
+      "Algunas áreas de compras desconfían",
+      "Lo esperan de un proveedor serio"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Lo de la propiedad es lo que más pesa. Si un día cambias de proveedor, tu dirección se queda igual y nadie pierde tu contacto."
+  },
+  {
+   "h2": "Lo que necesitas"
+  },
+  {
+   "ul": [
+    "Un dominio propio, como tubanda.mx o tunombre.com.",
+    "Un servicio de correo que acepte tu dominio.",
+    "Acceso a la configuración del dominio para conectar el correo."
+   ]
+  },
+  {
+   "p": "Si todavía no tienes dominio, revisa si tu nombre está libre en [buscar dominio](id:buscar-dominio). Para entender qué es, lee [qué es un dominio](id:que-es-un-dominio)."
+  },
+  {
+   "h2": "Tus opciones"
+  },
+  {
+   "tabla": {
+    "titulo": "Opciones de correo con dominio",
+    "columnas": [
+     "Opción",
+     "Cómo funciona",
+     "Para quién"
+    ],
+    "filas": [
+     [
+      "Correo incluido en tu hosting",
+      "Tu plan de hosting trae buzones",
+      "Quien ya tiene hosting con correo"
+     ],
+     [
+      "Google Workspace",
+      "Gmail con tu dominio, más calendario y documentos",
+      "Quien ya usa Gmail y quiere seguir igual"
+     ],
+     [
+      "Microsoft 365",
+      "Outlook con tu dominio, más programas de oficina",
+      "Quien trabaja todo el día en Word y Excel"
+     ],
+     [
+      "Otros proveedores de correo",
+      "Servicios dedicados sólo al correo",
+      "Quien sólo necesita buzones"
+     ],
+     [
+      "Reenvío de correo",
+      "Lo que llega a tu dominio se reenvía a tu correo gratuito",
+      "Quien empieza y sólo quiere recibir"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Reenviar sale casi gratis, aunque cojea. Los mensajes llegan bien, pero al responder se nota tu cuenta de siempre."
+  },
+  {
+   "h2": "Precios de Google Workspace en México"
+  },
+  {
+   "p": "Estos montos vienen de la tabla oficial para México, consultada el 12 de noviembre de 2026. Se cobran por persona cada mes, en pesos y antes de impuestos."
+  },
+  {
+   "tabla": {
+    "titulo": "Planes de Google Workspace leídos el 12 de noviembre de 2026",
+    "columnas": [
+     "Plan",
+     "Precio por usuario al mes"
+    ],
+    "filas": [
+     [
+      "Business Starter",
+      "140 pesos"
+     ],
+     [
+      "Business Standard",
+      "280 pesos"
+     ],
+     [
+      "Business Plus",
+      "440 pesos"
+     ],
+     [
+      "Enterprise",
+      "Sin precio publicado, se cotiza"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Puedes probarlo dos semanas sin pagar. Si firmas por un año, Google anuncia precios más bajos."
+  },
+  {
+   "p": "Los precios cambian con el tiempo. Revisa la página oficial antes de contratar."
+  },
+  {
+   "p": "Las tarifas de Microsoft y de los hostings quedaron fuera porque no hubo forma de comprobarlas. Míralas directo con cada empresa."
+  },
+  {
+   "h2": "Cuántos buzones te hacen falta"
+  },
+  {
+   "p": "Un buzón es una cuenta con su propia contraseña. Muchos proveedores cobran por cada buzón."
+  },
+  {
+   "p": "No ocupas un buzón por cada tarea. Los alias son direcciones extra que caen en el mismo buzón."
+  },
+  {
+   "tabla": {
+    "titulo": "Ejemplo de buzones y alias para una banda de tres integrantes",
+    "columnas": [
+     "Dirección",
+     "Tipo",
+     "Quién lo lee"
+    ],
+    "filas": [
+     [
+      "ana@tubanda.mx",
+      "Buzón",
+      "Ana, la vocalista que lleva las fechas"
+     ],
+     [
+      "luis@tubanda.mx",
+      "Buzón",
+      "Luis, el bajista que ve la mercancía"
+     ],
+     [
+      "booking@tubanda.mx",
+      "Alias",
+      "Llega al buzón de Ana"
+     ],
+     [
+      "prensa@tubanda.mx",
+      "Alias",
+      "Llega al buzón de Ana"
+     ],
+     [
+      "tienda@tubanda.mx",
+      "Alias",
+      "Llega al buzón de Luis"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Con dos buzones y tres alias la banda tiene cinco direcciones. Revisa si tu proveedor da alias sin cobrar extra."
+  },
+  {
+   "p": "Piensa en cómo suena tu dirección dicha en una entrevista de radio. Sin guiones ni cifras, y con palabras que nadie dude cómo se escriben."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Cómo se configura"
+  },
+  {
+   "p": "Los pasos cambian un poco con cada proveedor. Este es el orden general."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Contrata el servicio",
+     "texto": "Elige proveedor y plan. Te va a pedir tu dominio."
+    },
+    {
+     "titulo": "Comprueba que eres dueño",
+     "texto": "Te dan una clave que copias en el panel donde compraste tu dominio."
+    },
+    {
+     "titulo": "Cambia los registros MX",
+     "texto": "Son los que indican a dónde llega el correo de tu dominio."
+    },
+    {
+     "titulo": "Pon los candados del correo",
+     "texto": "Tres registros con siglas raras evitan que tus propuestas acaben en spam."
+    },
+    {
+     "titulo": "Crea buzones y alias",
+     "texto": "Da de alta a cada integrante y las direcciones extra."
+    },
+    {
+     "titulo": "Llévalo en el teléfono",
+     "texto": "Baja la aplicación del servicio o suma la cuenta a la que ya usas."
+    },
+    {
+     "titulo": "Haz una prueba",
+     "texto": "Manda y recibe desde otra cuenta y revisa que no caiga en spam."
+    }
+   ]
+  },
+  {
+   "p": "Todos estos ajustes se hacen en el panel de tu dominio. Ese panel está con quien te vendió el dominio o con tu hosting."
+  },
+  {
+   "h2": "SPF, DKIM y DMARC sin enredos"
+  },
+  {
+   "p": "Son tres registros que protegen tu correo. Le avisan a otros servidores que tus mensajes son legítimos."
+  },
+  {
+   "tabla": {
+    "titulo": "Los tres registros de seguridad",
+    "columnas": [
+     "Registro",
+     "Qué hace",
+     "Si falta"
+    ],
+    "filas": [
+     [
+      "SPF",
+      "Dice qué servidores pueden mandar correo con tu dominio",
+      "Tus correos pueden ir al correo no deseado"
+     ],
+     [
+      "DKIM",
+      "Firma cada correo para probar que no se alteró",
+      "Menos confianza de los servidores que reciben"
+     ],
+     [
+      "DMARC",
+      "Dice qué hacer con correos que fallan las pruebas",
+      "Otros pueden suplantar tu dominio más fácil"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Tu proveedor te da los valores exactos. Sólo los copias en la configuración de tu dominio."
+  },
+  {
+   "p": "Si tu propuesta para un festival cae en spam, revisa primero esos tres. Es la causa más común."
+  },
+  {
+   "h2": "Correo con tu dominio usando Gmail"
+  },
+  {
+   "p": "Mucha gente quiere seguir en Gmail con su dominio. Hay dos caminos."
+  },
+  {
+   "p": "Una es pagar Workspace, que te deja la misma bandeja de Gmail pero con tu nombre. Se cobra por cada persona."
+  },
+  {
+   "p": "La otra es conectar tu cuenta gratis a un buzón que tengas en otro lado. Funciona, pero pide más paciencia técnica."
+  },
+  {
+   "p": "Si el correo es tu canal principal de contrataciones, el primer camino da menos dolores de cabeza."
+  },
+  {
+   "h2": "Tu firma de correo"
+  },
+  {
+   "p": "Remata cada mensaje con una firma cuidada. Pon tu nombre artístico y lo que haces, y abajo tu teléfono, tu sitio y tu logo."
+  },
+  {
+   "p": "Puedes armarla con el generador de [firma de correo](id:firma-de-correo). Ahí también cabe la liga a tu canción más reciente."
+  },
+  {
+   "h2": "Si sólo quieres entrar al correo de tu trabajo"
+  },
+  {
+   "p": "Hay quien busca correo corporativo porque necesita entrar al de su escuela o su empresa. En ese caso no tienes que crear nada."
+  },
+  {
+   "p": "Averigua con quien lleva la tecnología qué servicio tienen. Lo normal es que sea de Google o de Microsoft."
+  },
+  {
+   "p": "Abre su página e inicia sesión con tu dirección entera. Una clave olvidada sólo la repone quien administra las cuentas."
+  },
+  {
+   "h2": "Cómo llevarte tus correos viejos"
+  },
+  {
+   "p": "Si usabas un correo gratuito, no pierdas años de conversaciones con foros y clientes. Casi todos los proveedores permiten importar."
+  },
+  {
+   "ul": [
+    "Busca en tu nuevo proveedor la opción de importar correo.",
+    "Conecta tu cuenta vieja con su usuario y contraseña.",
+    "Deja que copie correos y contactos, aunque tarde horas.",
+    "Configura un reenvío en la cuenta vieja durante unos meses.",
+    "Avisa tu dirección nueva en tu firma y en tus redes."
+   ]
+  },
+  {
+   "p": "El reenvío temporal evita perder la propuesta de alguien que todavía tiene tu dirección vieja."
+  },
+  {
+   "h2": "Seguridad del correo de tu proyecto"
+  },
+  {
+   "p": "Tu correo abre muchas puertas. Quien entre a él puede cambiar las contraseñas de tu banco, tu dominio y tus redes."
+  },
+  {
+   "p": "Pídele a cada buzón un segundo código al entrar. Y que ninguna clave se repita."
+  },
+  {
+   "p": "Desconfía de mensajes que piden datos o pagos urgentes. Antes de transferir a alguien que cambió de cuenta, confirma por teléfono."
+  },
+  {
+   "h2": "Ejemplo con un fotógrafo de bodas"
+  },
+  {
+   "p": "Este caso es inventado para explicar. Un fotógrafo de bodas en Hermosillo usaba un correo gratuito con su apodo de la prepa."
+  },
+  {
+   "p": "Compró su dominio y un plan con un buzón. Creó alias para cotizaciones y para mandar galerías."
+  },
+  {
+   "p": "Las organizadoras de bodas empezaron a reenviar sus correos sin dudar. La dirección nueva le dio la seriedad que su trabajo ya tenía."
+  },
+  {
+   "h2": "Errores comunes"
+  },
+  {
+   "ul": [
+    "Contratar correo sin tener control del dominio.",
+    "Olvidar los registros SPF, DKIM y DMARC.",
+    "Pagar un buzón por cada dirección cuando bastaba un alias.",
+    "Usar la misma contraseña en todos los buzones.",
+    "No activar la verificación en dos pasos.",
+    "Dejar el buzón de un exintegrante sin cambiar la contraseña."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es un correo corporativo?",
+   "respuesta": "Es un correo con el dominio de tu proyecto. Por ejemplo booking@tubanda.mx."
+  },
+  {
+   "pregunta": "¿Necesito dominio para tenerlo?",
+   "respuesta": "Sí. Es la parte que va después de la arroba."
+  },
+  {
+   "pregunta": "¿Cuánto cuesta Google Workspace en México?",
+   "respuesta": "El plan básico marcaba 140 pesos mensuales por persona, antes de impuestos. Es la cifra oficial vista el 12 de noviembre de 2026."
+  },
+  {
+   "pregunta": "¿Puedo tener correo con dominio gratis?",
+   "respuesta": "A medias. Recibir reenviado no cuesta, responder con tu nombre casi siempre sí."
+  },
+  {
+   "pregunta": "¿Por qué mis correos caen en spam?",
+   "respuesta": "Lo más probable es que falte algún registro de seguridad. Tu servicio de correo te dice cuáles poner."
+  },
+  {
+   "pregunta": "¿Puedo usar Gmail con mi dominio?",
+   "respuesta": "Sí. Lo más cómodo es Workspace, que te deja la bandeja de siempre."
+  }
+ ],
+ "venta": {
+  "puente": "Tu correo con dominio necesita un sitio con el mismo nombre, y en el sitio que te hago el dominio ya va incluido.",
+  "titulo": "¿Te hago el sitio con tu dominio incluido?",
+  "tituloCorto": "Tu sitio de artista"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

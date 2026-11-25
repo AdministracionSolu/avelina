@@ -1,0 +1,572 @@
+{
+ "id": "palabras-clave",
+ "slug": "palabras-clave",
+ "molde": "guia",
+ "cabeza": "palabras clave",
+ "busquedas": [
+  "planificador de palabras clave",
+  "frases seo"
+ ],
+ "categoria": "SEO",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://es.semrush.com/blog/palabras-clave-organicas-es/",
+   "titulo": "Palabras clave orgánicas: qué son y cómo encontrarlas",
+   "promete": "Guía que lleva a su herramienta de pago; pocos ejemplos de negocios locales en México"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.seo.com/es/basics/glossary/keywords/",
+   "titulo": "Palabras clave",
+   "promete": "Definición de glosario y tipos; no explica dónde ponerlas en una página chica"
+  },
+  {
+   "posicion": 3,
+   "url": "https://ahrefs.com/blog/es/tipos-palabras-clave",
+   "titulo": "Tipos de palabras clave",
+   "promete": "Clasificación detallada para expertos; sin método gratis para un dueño de negocio"
+  }
+ ],
+ "title": "Palabras clave: cómo te busca quien quiere contratarte",
+ "h1": "Palabras clave para músicos y artistas",
+ "description": "Las palabras clave son lo que la gente escribe en Google cuando busca un grupo, un tatuador o clases de canto. Cómo encontrar las tuyas gratis y dónde ponerlas.",
+ "resumen": "Las frases con las que te busca quien te contrata",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "seo",
+  "google-mi-negocio",
+  "marketing-de-contenidos",
+  "que-es-un-sitio-web",
+  "landing-page",
+  "marketing-digital"
+ ],
+ "respuesta": [
+  "Las palabras clave son lo que la gente teclea en Google cuando busca algo. Para un artista son la pista de cómo lo buscan, como mariachi para serenata en Guadalajara o clases de guitarra para niños.",
+  "Las encuentras escuchando cómo te piden las cosas y viendo lo que Google sugiere al escribir. Luego van en el título, los subtítulos y el texto de tu sitio, sin forzarlas."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Cómo busca alguien que te quiere contratar"
+  },
+  {
+   "p": "Nadie escribe en Google una oración completa con buena ortografía. Escribe pedazos, de prisa y desde el celular."
+  },
+  {
+   "p": "Esos pedazos son las palabras clave. Por ejemplo, grupo versátil para boda en Querétaro o cuánto cuesta un tatuaje pequeño."
+  },
+  {
+   "p": "Si tu sitio dice lo mismo que esa persona escribió, Google entiende que puedes ser la respuesta. Si dices otra cosa, a lo mejor ni te toma en cuenta."
+  },
+  {
+   "p": "Pasa mucho con los artistas. Un dueto se presenta como propuesta musical acústica, pero la gente busca música para boda civil."
+  },
+  {
+   "h2": "No todas las búsquedas buscan lo mismo"
+  },
+  {
+   "p": "Conviene separar las frases según lo que la persona quiere hacer en ese momento."
+  },
+  {
+   "tabla": {
+    "titulo": "Tipos de búsqueda según la intención",
+    "columnas": [
+     "Tipo",
+     "Qué quiere la persona",
+     "Ejemplo"
+    ],
+    "filas": [
+     [
+      "Informativa",
+      "Aprender algo",
+      "cómo afinar una guitarra"
+     ],
+     [
+      "Comparativa",
+      "Elegir entre opciones",
+      "mejor mariachi en Guadalajara"
+     ],
+     [
+      "De compra",
+      "Contratar o comprar ya",
+      "grupo para fiesta este sábado"
+     ],
+     [
+      "De marca",
+      "Llegar a alguien que ya conoce",
+      "nombre de la banda próximas fechas"
+     ],
+     [
+      "Local",
+      "Algo cerca de donde está",
+      "estudio de tatuaje cerca de mí"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Para un artista que trabaja en su ciudad, las de compra y las locales valen oro. Las escribe alguien que ya decidió y sólo busca a quién."
+  },
+  {
+   "h2": "Frases cortas y frases largas"
+  },
+  {
+   "p": "Las frases cortas, como música en vivo, tienen muchas búsquedas y mucha competencia. Las largas se buscan menos, pero dicen justo lo que la persona quiere."
+  },
+  {
+   "tabla": {
+    "titulo": "Cortas contra largas",
+    "columnas": [
+     "Tipo",
+     "Ejemplo",
+     "Ventaja",
+     "Desventaja"
+    ],
+    "filas": [
+     [
+      "Corta",
+      "mariachi",
+      "Mucha gente la busca",
+      "Compites con agencias y directorios"
+     ],
+     [
+      "Media",
+      "mariachi para boda",
+      "La intención es más clara",
+      "Todavía hay mucha competencia"
+     ],
+     [
+      "Larga",
+      "mariachi para boda en Tlaquepaque con misa",
+      "Persona lista para contratar",
+      "Pocas búsquedas al mes"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Un artista independiente gana más con frases largas. Son menos personas, pero casi todas te pueden contratar."
+  },
+  {
+   "h2": "Encuéntralas gratis"
+  },
+  {
+   "p": "No te hace falta pagar una herramienta para empezar. Todo esto lo tienes a la mano."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Escucha a quien te escribe",
+     "texto": "Apunta cómo te piden las cosas por WhatsApp o al final de un show. Ésas son tus primeras frases."
+    },
+    {
+     "titulo": "Usa el autocompletado",
+     "texto": "Escribe en Google el inicio de una búsqueda y mira qué te sugiere. Cambia la última letra para ver más."
+    },
+    {
+     "titulo": "Lee las preguntas relacionadas",
+     "texto": "En los resultados salen preguntas que hace otra gente. Cada una puede ser una sección o una pregunta frecuente."
+    },
+    {
+     "titulo": "Baja hasta el final",
+     "texto": "Abajo de los resultados hay búsquedas parecidas con más ideas."
+    },
+    {
+     "titulo": "Revisa a otros artistas",
+     "texto": "Abre los tres primeros resultados de tu búsqueda y fíjate qué palabras usan en títulos y subtítulos."
+    },
+    {
+     "titulo": "Usa Search Console",
+     "texto": "Si ya tienes sitio, esta herramienta gratis de Google te dice con qué búsquedas apareces."
+    },
+    {
+     "titulo": "Prueba el planificador",
+     "texto": "Está dentro de Google Ads. Te da rangos aproximados de búsquedas y más ideas."
+    }
+   ]
+  },
+  {
+   "p": "Anota todo en una hoja. Al terminar tendrás treinta o cuarenta frases para ordenar."
+  },
+  {
+   "h2": "Quédate con las que sirven"
+  },
+  {
+   "p": "No todas las frases de tu lista merecen una página. Pásalas por estas preguntas."
+  },
+  {
+   "ul": [
+    "¿Quien busca esto podría contratarme o comprarme?",
+    "¿Puedo dar una mejor respuesta que la que ya aparece?",
+    "¿La frase habla de mi ciudad o de mi zona?",
+    "¿Hay gente que de verdad la busca, aunque sea poca?",
+    "¿Va con lo que hago hoy y no con lo que hacía antes?"
+   ]
+  },
+  {
+   "p": "Cinco síes significan que esa frase merece trabajo. Con sólo dos, apártala para otro momento."
+  },
+  {
+   "h2": "Una lista ya ordenada"
+  },
+  {
+   "p": "Éste es un ejemplo inventado de una maestra de canto en Puebla."
+  },
+  {
+   "tabla": {
+    "titulo": "Lista de ejemplo para una maestra de canto en Puebla",
+    "columnas": [
+     "Frase",
+     "Tipo",
+     "Dónde va"
+    ],
+    "filas": [
+     [
+      "clases de canto en Puebla",
+      "Local y de compra",
+      "Título de la página de inicio"
+     ],
+     [
+      "clases de canto precio",
+      "De compra",
+      "Sección de paquetes con precio"
+     ],
+     [
+      "clases de canto para niños en Puebla",
+      "Local y de compra",
+      "Sección propia con horarios"
+     ],
+     [
+      "cómo cuidar la voz antes de cantar",
+      "Informativa",
+      "Pregunta frecuente con respuesta corta"
+     ],
+     [
+      "clases de canto en línea",
+      "De compra",
+      "Sección con cómo funcionan a distancia"
+     ],
+     [
+      "técnica vocal para principiantes",
+      "Informativa",
+      "Texto de blog con ejercicios"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Cada frase tiene su lugar. No se meten todas en el mismo párrafo."
+  },
+  {
+   "h2": "Agrúpalas"
+  },
+  {
+   "p": "Una lista de cuarenta frases asusta. Si las juntas por tema, se vuelve un plan."
+  },
+  {
+   "p": "Une las frases que piden lo mismo con palabras diferentes. Por ejemplo, tatuaje fine line, tatuaje de línea fina y tatuaje minimalista."
+  },
+  {
+   "p": "Cada grupo es una sección o una página. Dentro del grupo, la frase con más búsquedas queda como principal."
+  },
+  {
+   "tabla": {
+    "titulo": "Grupos de ejemplo para un grupo versátil",
+    "columnas": [
+     "Grupo",
+     "Frase principal",
+     "Frases parecidas"
+    ],
+    "filas": [
+     [
+      "Bodas",
+      "grupo versátil para boda",
+      "música para boda, banda para recepción"
+     ],
+     [
+      "XV años",
+      "grupo para xv años",
+      "música para quinceañera, show de xv años"
+     ],
+     [
+      "Empresas",
+      "música en vivo para evento de empresa",
+      "grupo para posada de oficina"
+     ],
+     [
+      "Precios",
+      "cuánto cobra un grupo versátil",
+      "precio de grupo para fiesta"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Con esta tabla sabes qué secciones necesita tu sitio. También sabes qué preguntas poner al final."
+  },
+  {
+   "h2": "Dónde van en tu sitio"
+  },
+  {
+   "p": "Ya que las tienes, se acomodan donde Google pone más atención."
+  },
+  {
+   "tabla": {
+    "titulo": "Lugares donde ponerlas",
+    "columnas": [
+     "Lugar",
+     "Qué poner",
+     "Ejemplo"
+    ],
+    "filas": [
+     [
+      "Título de la página",
+      "La frase principal al inicio",
+      "Clases de canto en Puebla para todas las edades"
+     ],
+     [
+      "Descripción",
+      "La frase y un beneficio",
+      "Clases de canto en Puebla con clase muestra gratis"
+     ],
+     [
+      "Encabezado principal",
+      "La frase dicha con naturalidad",
+      "Aprende a cantar en Puebla"
+     ],
+     [
+      "Subtítulos",
+      "Frases secundarias",
+      "Clases para niños, horarios y precios"
+     ],
+     [
+      "Dirección de la página",
+      "Pocas palabras con guiones",
+      "tunombre.mx/clases-de-canto"
+     ],
+     [
+      "Texto de las fotos",
+      "Lo que se ve en la foto",
+      "Alumna cantando en el recital de fin de curso"
+     ],
+     [
+      "Preguntas frecuentes",
+      "Las preguntas tal como las escriben",
+      "¿Cuánto cuestan las clases de canto?"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "La dirección de cada página es la parte que va después de tu dominio. Que sea corta, con guiones y sin acentos."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Cuántas veces repetirlas"
+  },
+  {
+   "p": "No existe un número mágico. Escribe para la persona y la frase sale sola."
+  },
+  {
+   "p": "Lee tu texto en voz alta. Si suena repetido, sobra."
+  },
+  {
+   "p": "El buscador ya reconoce palabras con el mismo sentido. Martillar una frase una y otra vez se ve mal y te puede perjudicar."
+  },
+  {
+   "tabla": {
+    "titulo": "Texto natural contra texto relleno",
+    "columnas": [
+     "Natural",
+     "Relleno"
+    ],
+    "filas": [
+     [
+      "Somos un mariachi en Guadalajara. Tocamos en bodas, misas y serenatas.",
+      "Mariachi Guadalajara, el mejor mariachi Guadalajara para tu mariachi."
+     ],
+     [
+      "Doy clases de guitarra en Mérida para niños y adultos.",
+      "Clases guitarra Mérida clases baratas guitarra Mérida clases."
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Una búsqueda por página"
+  },
+  {
+   "p": "A cada página le toca responder una búsqueda. Una página que habla de todo confunde al buscador."
+  },
+  {
+   "p": "Si das clases y también tocas en eventos, dale a cada cosa su sección o su página. Así cada una tiene su título y su respuesta."
+  },
+  {
+   "p": "Si tu sitio es una sola página, elige la búsqueda que más contrataciones te traería. El resto se reparte entre secciones y preguntas."
+  },
+  {
+   "h2": "Si trabajas en una ciudad"
+  },
+  {
+   "p": "Quien contrata música para su fiesta casi siempre agrega el lugar. Escribe tu ciudad, porque así te van a buscar."
+  },
+  {
+   "ul": [
+    "Escribe en tu sitio tu ciudad y las zonas a las que viajas.",
+    "Si tienes estudio, pon la dirección completa y un mapa.",
+    "Usa las mismas palabras en tu [perfil de Google](id:google-mi-negocio).",
+    "Pide reseñas donde te digan para qué evento te contrataron."
+   ]
+  },
+  {
+   "h2": "Fuera de tu sitio también cuentan"
+  },
+  {
+   "ul": [
+    "En tu perfil de Google, en la descripción y los servicios.",
+    "En tu biografía de Instagram y en la información de Facebook.",
+    "En el título y la descripción de tus videos.",
+    "En los nombres de tu catálogo de WhatsApp Business."
+   ]
+  },
+  {
+   "p": "Si usas las mismas palabras en todos lados, te reconocen más rápido. La persona ve lo mismo en Google, en tus redes y en tu sitio."
+  },
+  {
+   "h2": "Ideas por disciplina"
+  },
+  {
+   "p": "Cada disciplina tiene sus frases. Éstas son ideas inventadas para arrancar tu lista."
+  },
+  {
+   "tabla": {
+    "titulo": "Ideas de palabras clave para artistas",
+    "columnas": [
+     "Disciplina",
+     "Frases de compra",
+     "Frases informativas"
+    ],
+    "filas": [
+     [
+      "Grupo para eventos",
+      "grupo versátil para boda, música en vivo para fiesta",
+      "cuántas horas toca un grupo en una boda"
+     ],
+     [
+      "Mariachi",
+      "mariachi para serenata, mariachi para misa",
+      "qué canciones pedir en una serenata"
+     ],
+     [
+      "Tatuador",
+      "tatuaje de línea fina, estudio de tatuaje cerca de mí",
+      "cómo cuidar un tatuaje nuevo"
+     ],
+     [
+      "Fotógrafa",
+      "fotógrafa de bodas, sesión de fotos de xv años",
+      "qué ropa usar en una sesión de fotos"
+     ],
+     [
+      "Maestro de música",
+      "clases de guitarra para niños, clases de piano en línea",
+      "a qué edad aprender guitarra"
+     ],
+     [
+      "Pintora",
+      "retrato al óleo por encargo, cuadros para sala",
+      "cómo colgar un cuadro grande"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Las frases para contratar van arriba y en tus servicios. Las que buscan aprender sirven para tus preguntas o tus publicaciones."
+  },
+  {
+   "h2": "Revisa si están funcionando"
+  },
+  {
+   "p": "Después de un par de meses con tu sitio publicado, revisa los resultados. Search Console te enseña con qué búsquedas apareces."
+  },
+  {
+   "ul": [
+    "Busca si aparecen las frases que escogiste.",
+    "Revisa cuántas personas te vieron en Google y cuántas entraron.",
+    "Pon atención a búsquedas sorpresa que te mandan gente.",
+    "Compara un mes contra otro, nunca un día contra otro."
+   ]
+  },
+  {
+   "p": "Si una frase importante no sale, revisa que esté en tu título y en un subtítulo. A veces basta con decirla más claro."
+  },
+  {
+   "h2": "Errores comunes"
+  },
+  {
+   "ul": [
+    "Usar las palabras que tú dices y tu público no.",
+    "Perseguir sólo frases cortas donde ganan los directorios.",
+    "Meter la misma frase diez veces en un párrafo.",
+    "Hacer varias páginas casi iguales cambiando una palabra.",
+    "Olvidar la ciudad cuando sólo tocas en una zona.",
+    "No revisar después qué búsquedas sí te traen visitas."
+   ]
+  },
+  {
+   "h2": "Cada cuándo revisarlas"
+  },
+  {
+   "p": "Las búsquedas cambian con la temporada. En diciembre se buscan posadas y en primavera se buscan bodas."
+  },
+  {
+   "p": "Revisa tu lista cada tres o cuatro meses. Si aparece una frase nueva que sí haces, dale su sección."
+  },
+  {
+   "p": "Si una frase ya no trae a nadie, revisa si tu texto todavía contesta lo que la gente busca. Para el panorama completo lee la guía de [SEO](id:seo)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es una palabra clave?",
+   "respuesta": "Es lo que alguien teclea en el buscador. A veces es una palabra y a veces una frase entera."
+  },
+  {
+   "pregunta": "¿Cuántas debe tener mi sitio?",
+   "respuesta": "Una principal por página y varias secundarias. Lo que importa es que cada página conteste una búsqueda clara."
+  },
+  {
+   "pregunta": "¿Con palabras clave salgo primero en Google?",
+   "respuesta": "No hay garantía. Ayudan a que Google te entienda, pero la posición depende de muchas cosas."
+  },
+  {
+   "pregunta": "¿Hay herramientas gratis?",
+   "respuesta": "Sí hay. Lo que Google sugiere al escribir y Search Console ya te dan mucho material."
+  },
+  {
+   "pregunta": "¿Las escribo con acentos?",
+   "respuesta": "Sí, en el texto. Escribe bien y Google entiende las búsquedas con y sin acento."
+  },
+  {
+   "pregunta": "¿Sirven las etiquetas ocultas?",
+   "respuesta": "Poco. Cuentan el título, el texto visible y los subtítulos."
+  },
+  {
+   "pregunta": "¿Puedo usar las palabras de otro artista?",
+   "respuesta": "Sí, si haces lo mismo. Escribe tu propia respuesta y nunca copies su texto."
+  }
+ ],
+ "venta": {
+  "puente": "Las palabras clave necesitan un sitio tuyo donde vivir, con tu música, tus servicios y tu ciudad bien dichos.",
+  "titulo": "¿Te hago un sitio que diga lo que te buscan?",
+  "tituloCorto": "Un sitio que diga lo que buscan"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

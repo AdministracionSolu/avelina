@@ -380,7 +380,7 @@ escribe("404.html", pagina("es", "404", T["es"]["no_hay"], f'<section class="lie
 urls = "".join(f"<url><loc>{BASE}/{r}</loc></url>" for par in RUTAS.values() for r in par)
 # Las fijas publicadas (fuente/fijas/generar.py) también van al sitemap; los borradores nunca.
 _fijas = os.path.join(RAIZ, "fuente/fijas/fijas_sitemap.txt")
-for _f in (_fijas, os.path.join(RAIZ, "fuente/diarias/diarias_sitemap.txt")):  # fijas y diarias (la libreta) publicadas
+for _f in (_fijas, os.path.join(RAIZ, "fuente/diarias/diarias_sitemap.txt"), os.path.join(RAIZ, "fuente/paginas-web/paginas_sitemap.txt")):  # fijas, diarias (la libreta) y páginas para artistas (fuente/paginas-web) publicadas
     if os.path.exists(_f): urls += "".join(f"<url><loc>{u}</loc><lastmod>{f}</lastmod></url>" for u, f in (l.split("\t") for l in open(_f, encoding="utf-8").read().split("\n") if l))
 palabras = {p: USADAS[p] for p in sorted(USADAS)}
 json.dump(palabras, open(PALABRAS_JSON, "w", encoding="utf-8"), ensure_ascii=False, indent=0)

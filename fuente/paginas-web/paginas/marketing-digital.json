@@ -1,0 +1,491 @@
+{
+ "id": "marketing-digital",
+ "slug": "marketing-digital",
+ "molde": "guia",
+ "cabeza": "marketing digital",
+ "busquedas": [
+  "digital marketing digital",
+  "marketing marketing digital",
+  "marketing digital online",
+  "online marketing digital",
+  "digital mkt",
+  "marketing online",
+  "marketing online marketing",
+  "mercadotecnia digital",
+  "mkt online",
+  "publicidad digital",
+  "publicidad y marketing digital"
+ ],
+ "categoria": "Publicidad y marketing",
+ "herramienta": null,
+ "fuentes": [
+  {
+   "texto": "INEGI, ENDUTIH 2025, reporte de resultados del 16 de junio de 2026 (leído el 12-nov-2026)",
+   "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/endutih/ENDUTIH_25_RR.pdf"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.salesforce.com/mx/blog/marketing-digital/",
+   "titulo": "Marketing digital: qué es y cómo funciona",
+   "promete": "Definición amplia pensada para empresas grandes; sin plan para un negocio pequeño ni datos de México"
+  },
+  {
+   "posicion": 2,
+   "url": "https://mailchimp.com/es/marketing-glossary/digital-marketing/",
+   "titulo": "Marketing digital: qué es y cómo funciona",
+   "promete": "Glosario con tipos de marketing; vende su correo masivo y no aterriza costos ni canales para México"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.tiendanube.com/blog/guia-marketing-digital/",
+   "titulo": "Marketing digital: lo que debes saber para aplicarlo con éxito",
+   "promete": "Lista larga de tipos; enfocada en tienda en línea, sin orden de prioridad para un local"
+  }
+ ],
+ "title": "Marketing digital para músicos y artistas que empiezan",
+ "h1": "Marketing digital para artistas: qué es y por dónde empezar",
+ "description": "Qué es el marketing digital y cómo usarlo para llenar tus tocadas o vender tu obra con poco dinero. Plan de 30 días y cifras del INEGI. Arma el tuyo hoy.",
+ "resumen": "Los canales del marketing digital y un plan de 30 días para una banda o un artista",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "marketing-en-redes-sociales",
+  "marketing-de-contenidos",
+  "campana-publicitaria",
+  "publicidad-en-instagram",
+  "link-en-bio",
+  "seo"
+ ],
+ "respuesta": [
+  "El marketing digital es lo que haces en internet para que la gente descubra tu música o tu obra y te contrate. Abarca tu sitio, tus redes, tus mensajes y tus anuncios.",
+  "Si vas empezando, arranca por lo que no cuesta. Primero tu sitio con WhatsApp y tu perfil en Google, después una red y al final algún anuncio."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Qué es el marketing digital para un artista"
+  },
+  {
+   "p": "Marketing es la manera en que alguien da a conocer lo que hace y convence a otros de pagar por ello. Si eso pasa en internet, se le dice digital."
+  },
+  {
+   "p": "Pegar carteles de tu tocada en los cafés del centro es la forma de siempre. Subir un video del ensayo que abre tu WhatsApp ya es digital."
+  },
+  {
+   "p": "Lo nuevo es que puedes medirlo. Sabes cuánta gente vio tu clip y cuántas personas te escribieron después."
+  },
+  {
+   "p": "Además empezar cuesta menos. Varios canales sólo te piden constancia y un celular con buena cámara."
+  },
+  {
+   "h2": "Dónde está tu público en México"
+  },
+  {
+   "p": "Quien va a tus tocadas o compra tu obra ya vive en el teléfono. El INEGI estimó 104.9 millones de personas usuarias de internet en 2025."
+  },
+  {
+   "p": "Son el 86.1% de la población de 6 años y más. De ellas, el 97.3% se conecta con un celular inteligente."
+  },
+  {
+   "tabla": {
+    "titulo": "Qué hace la gente en internet en México (2025)",
+    "columnas": [
+     "Uso",
+     "Porcentaje",
+     "De quién"
+    ],
+    "filas": [
+     [
+      "Mensajería instantánea",
+      "90.6%",
+      "Usuarios de celular inteligente"
+     ],
+     [
+      "Redes sociales",
+      "80.4%",
+      "Usuarios de celular inteligente"
+     ],
+     [
+      "Audio y video",
+      "77.8%",
+      "Usuarios de celular inteligente"
+     ],
+     [
+      "Comprar por internet",
+      "37.3%",
+      "Usuarios de internet"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Las cifras salen de la ENDUTIH 2025 del INEGI. Para quien hace música importa la fila de audio y video, que pasa de tres de cada cuatro."
+  },
+  {
+   "p": "La otra lección es la mensajería. Quien te quiere contratar prefiere mandarte un mensaje antes que llamarte."
+  },
+  {
+   "h2": "Los canales que te sirven"
+  },
+  {
+   "p": "Hay mil nombres de moda, pero casi todo cabe en siete canales. Cada uno hace un trabajo distinto en tu carrera."
+  },
+  {
+   "tabla": {
+    "titulo": "Canales de marketing digital para un artista",
+    "columnas": [
+     "Canal",
+     "Qué es",
+     "Costo de empezar",
+     "Cuándo da resultados"
+    ],
+    "filas": [
+     [
+      "Página web",
+      "Tu propio sitio con tu dominio",
+      "Pago único y mensualidad baja",
+      "Desde que la publicas"
+     ],
+     [
+      "Ficha de Google",
+      "Tu estudio o academia en Google Maps",
+      "Gratis",
+      "En días o semanas"
+     ],
+     [
+      "SEO",
+      "Aparecer en Google sin pagar anuncios",
+      "Tu tiempo o una agencia",
+      "En meses"
+     ],
+     [
+      "Redes sociales",
+      "Publicar en Facebook, Instagram o TikTok",
+      "Gratis",
+      "Depende de la constancia"
+     ],
+     [
+      "WhatsApp",
+      "Hablar con quien te contrata y mandar avisos",
+      "Gratis",
+      "Inmediato"
+     ],
+     [
+      "Correo",
+      "Mandar noticias a quien te dio su correo",
+      "Bajo",
+      "En semanas"
+     ],
+     [
+      "Anuncios pagados",
+      "Pagar por aparecer en Google o redes",
+      "Lo que tú decidas",
+      "Inmediato mientras pagas"
+     ]
+    ]
+   }
+  },
+  {
+   "h3": "Tu sitio"
+  },
+  {
+   "p": "Tu sitio es la casa a la que mandas a todos. Llega quien te vio en un festival, en una historia o en el cartel de un bar."
+  },
+  {
+   "p": "Es lo único que de verdad te pertenece. Una red puede bajarte el alcance de un día para otro y tu dominio sigue igual."
+  },
+  {
+   "p": "Ahí van tus canciones, tu agenda y el botón para contratarte. Las redes cambian de moda y tu dirección se queda."
+  },
+  {
+   "h3": "Tu ficha de Google"
+  },
+  {
+   "p": "Si tienes un lugar físico, como un estudio de tatuaje o una academia de baile, la ficha es lo primero que ve quien busca cerca. No cuesta nada."
+  },
+  {
+   "p": "La guía de [Google Mi Negocio](id:google-mi-negocio) te lleva por el alta paso a paso. Si trabajas sin local, tu sitio cumple ese papel."
+  },
+  {
+   "h3": "SEO"
+  },
+  {
+   "p": "El SEO es lo que haces para que tu sitio salga en Google sin pagar. Tarda en dar fruto, pero lo que ganas no se esfuma."
+  },
+  {
+   "p": "Un ejemplo es que te encuentren al buscar trío para boda en tu ciudad. La guía de [SEO](id:seo) explica qué puedes hacer tú sola."
+  },
+  {
+   "h3": "Redes sociales"
+  },
+  {
+   "p": "Sirven para que vean tu trabajo y no se olviden de ti. Funcionan mejor con material real y una frecuencia que puedas sostener."
+  },
+  {
+   "p": "No necesitas estar en todas. Una o dos donde ya está tu público alcanzan para empezar."
+  },
+  {
+   "h3": "WhatsApp"
+  },
+  {
+   "p": "Casi toda contratación chica se cierra por chat. Un link directo a tu WhatsApp le quita pasos a quien te quiere para su evento."
+  },
+  {
+   "p": "Prepara un saludo automático y respuestas rápidas con tus paquetes. Así contestas bien aunque estés en pleno ensayo."
+  },
+  {
+   "h3": "Correo"
+  },
+  {
+   "p": "El correo rinde con quien ya te siguió de cerca. Sirve para avisar de un lanzamiento, una exposición o una gira."
+  },
+  {
+   "h3": "Anuncios pagados"
+  },
+  {
+   "p": "Un anuncio trae gente desde el primer día. En cuanto dejas de pagar, esa gente deja de llegar."
+  },
+  {
+   "p": "Anúnciate cuando ya tengas un sitio que convenza. De otro modo pagas por visitas que se van sin escribirte."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Tu arranque en 30 días"
+  },
+  {
+   "p": "No hace falta un presupuesto grande para empezar. Hace falta orden y aparecer cada semana."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Semana 1. Tu propuesta",
+     "texto": "Define quién te escucha o te compra y qué te hace distinto. Escríbelo en dos frases que quepan en tu bio."
+    },
+    {
+     "titulo": "Semana 1. Tu material",
+     "texto": "Elige tres canciones, tres obras o tres videos que te representen. Ese es tu muestrario."
+    },
+    {
+     "titulo": "Semana 2. Tu sitio",
+     "texto": "Publica un sitio con tu dominio que muestre tu trabajo y tenga botón de WhatsApp."
+    },
+    {
+     "titulo": "Semana 2. Tu WhatsApp",
+     "texto": "Activa WhatsApp Business con tu catálogo de paquetes y un saludo de bienvenida."
+    },
+    {
+     "titulo": "Semana 3. Tu red",
+     "texto": "Escoge una red y publica tres veces por semana con material propio."
+    },
+    {
+     "titulo": "Semana 3. Tus recomendaciones",
+     "texto": "Pide un comentario a cada persona que quedó contenta con tu show o tu encargo."
+    },
+    {
+     "titulo": "Semana 4. Tus números",
+     "texto": "Cuenta mensajes, contrataciones y visitas. Anota por dónde llegó cada persona."
+    },
+    {
+     "titulo": "Semana 4. Tu siguiente paso",
+     "texto": "Repite lo que dio resultado. Si sobra dinero, prueba un anuncio pequeño antes de tu próxima fecha."
+    }
+   ]
+  },
+  {
+   "h2": "Cuánto dinero necesitas"
+  },
+  {
+   "p": "Puedes empezar en cero pesos. Tus redes, WhatsApp Business y la ficha de Google son gratis."
+  },
+  {
+   "p": "Lo que se paga es tu sitio y los anuncios. El sitio es un gasto fijo pequeño y los anuncios suben o bajan según tú."
+  },
+  {
+   "p": "Lo sensato es cubrir lo fijo primero y luego probar anuncios con poco. Sube la inversión sólo donde lleguen contrataciones."
+  },
+  {
+   "p": "Un sitio de artista conmigo cuesta $1,500 con dominio y $99 al mes. Es el único gasto fijo que de verdad necesitas al principio."
+  },
+  {
+   "h2": "Un plan de ejemplo para una banda"
+  },
+  {
+   "p": "Un caso concreto lo aterriza. Imagina una banda de cumbia que quiere más contrataciones para fiestas y bodas."
+  },
+  {
+   "p": "La primera semana graban tres canciones en vivo con buen audio. Eligen la mejor para que abra su sitio."
+  },
+  {
+   "p": "La segunda semana estrenan sitio con repertorio, videos, paquetes y botón de WhatsApp. Ponen esa liga en todas sus redes."
+  },
+  {
+   "p": "La tercera semana imprimen un QR en la manta del escenario. El código lleva a su sitio para quien quiera contratarlos."
+  },
+  {
+   "p": "La cuarta semana piden recomendaciones a los novios de sus últimas bodas. También avisan por WhatsApp sus fechas libres de diciembre."
+  },
+  {
+   "p": "Al mes cuentan cuántas cotizaciones llegaron y de dónde. Con eso deciden si les conviene un anuncio chico en su ciudad."
+  },
+  {
+   "h2": "Palabras que vas a escuchar"
+  },
+  {
+   "p": "Estos términos salen en cualquier curso o propuesta de agencia. Entiéndelos antes de pagarle a alguien."
+  },
+  {
+   "tabla": {
+    "titulo": "Términos de marketing digital",
+    "columnas": [
+     "Término",
+     "Qué significa"
+    ],
+    "filas": [
+     [
+      "Alcance",
+      "Cuántas personas distintas vieron tu publicación o anuncio"
+     ],
+     [
+      "Clic",
+      "Cuando alguien toca tu enlace o tu anuncio"
+     ],
+     [
+      "Conversión",
+      "Cuando alguien hace lo que buscabas, como escribirte o comprar"
+     ],
+     [
+      "Embudo",
+      "El camino desde que te conocen hasta que te contratan"
+     ],
+     [
+      "Landing page",
+      "Una página enfocada en una sola acción"
+     ],
+     [
+      "Orgánico",
+      "Lo que llega sin pagar anuncios"
+     ],
+     [
+      "SEO",
+      "Lo que haces para aparecer en Google sin pagar"
+     ],
+     [
+      "SEM",
+      "Los anuncios pagados en buscadores"
+     ],
+     [
+      "Segmentación",
+      "Elegir a qué personas les sale tu anuncio"
+     ],
+     [
+      "Costo por clic",
+      "Lo que pagas cada vez que alguien toca tu anuncio"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo saber si te está funcionando"
+  },
+  {
+   "p": "Lo que no cuentas no lo puedes mejorar. Por suerte, en internet casi todo deja huella."
+  },
+  {
+   "ul": [
+    "Pregúntale a cada persona que te contrata cómo dio contigo.",
+    "Usa una liga distinta en el cartel, en la bio y en el flyer.",
+    "Revisa una vez al mes cuántas visitas tuvo tu sitio.",
+    "Lleva la cuenta de los mensajes que te llegan cada semana.",
+    "Compara lo que gastaste en anuncios contra lo que te pagaron."
+   ]
+  },
+  {
+   "p": "Con tres meses de notas ya sabes qué canal te trae trabajo. Ahí pones más tiempo y dinero."
+  },
+  {
+   "h2": "Qué subir cuando no sabes qué decir"
+  },
+  {
+   "p": "La duda de siempre es qué publicar cada semana. Estas ideas le sirven a casi cualquier disciplina."
+  },
+  {
+   "ul": [
+    "Un fragmento del ensayo con la fecha de tu próxima tocada.",
+    "El proceso de una obra de principio a fin.",
+    "Las preguntas que más te hacen, contestadas en una frase.",
+    "Una foto con público que acepte salir en ella.",
+    "Tus fechas libres para la temporada de bodas.",
+    "Una canción nueva o una serie recién terminada.",
+    "El detrás de cámaras de una sesión o de un tatuaje."
+   ]
+  },
+  {
+   "p": "Repite lo que más mensajes te trajo. Lo que funcionó una vez suele volver a funcionar."
+  },
+  {
+   "h2": "Hacerlo tú o contratar una agencia"
+  },
+  {
+   "p": "Si tienes tiempo y te gusta aprender, lo puedes hacer tú. Así empieza casi todo artista independiente."
+  },
+  {
+   "p": "Una agencia conviene cuando ya sabes qué te funciona y quieres crecer. Pide que te digan qué van a medir y cada cuánto te reportan."
+  },
+  {
+   "p": "Desconfía de quien promete un lugar fijo en Google o cierto número de contrataciones. Nadie controla esos resultados."
+  },
+  {
+   "h2": "Tropiezos de quien empieza"
+  },
+  {
+   "ul": [
+    "Abrir perfil en todas las redes y dejarlos tirados al mes.",
+    "Pagar anuncios sin tener listo el sitio ni el WhatsApp.",
+    "Publicar puros carteles de fechas sin enseñar tu trabajo.",
+    "Tardar días en contestar a quien te quiere contratar.",
+    "Copiar a artistas famosos que tienen otro presupuesto.",
+    "No anotar de dónde llega cada contratación."
+   ]
+  },
+  {
+   "p": "Si sólo arreglas uno, que sea contestar rápido. Un mensaje sin respuesta es una fecha que se va con otra banda."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es el marketing digital en pocas palabras?",
+   "respuesta": "Es darte a conocer por internet. Incluye tu sitio, tus redes, tus mensajes y tus anuncios."
+  },
+  {
+   "pregunta": "¿Se puede hacer marketing digital sin dinero?",
+   "respuesta": "Sí, en buena parte. Tus redes y WhatsApp Business son gratis. El sitio y los anuncios sí cuestan."
+  },
+  {
+   "pregunta": "¿Qué canal le conviene más a un músico que empieza?",
+   "respuesta": "Un sitio con WhatsApp y una sola red. Con eso ya te pueden escuchar y contratar."
+  },
+  {
+   "pregunta": "¿En cuánto tiempo veo resultados?",
+   "respuesta": "Depende del canal. Los anuncios responden al momento y el SEO tarda meses."
+  },
+  {
+   "pregunta": "¿Necesito sitio si ya tengo Instagram?",
+   "respuesta": "Sí, te conviene. Tu sitio es tuyo y sale en Google. Tu red depende de las reglas de otra empresa."
+  },
+  {
+   "pregunta": "¿En qué se distingue de la publicidad digital?",
+   "respuesta": "La publicidad es sólo una parte. Es lo que pagas para salir en anuncios."
+  }
+ ],
+ "venta": {
+  "puente": "Todo tu marketing necesita un lugar a donde mandar a la gente. Te hago ese sitio con tu dominio y tu WhatsApp.",
+  "titulo": "¿Te hago el sitio a donde llega tu marketing?",
+  "tituloCorto": "¿A dónde mandas a quien te descubre?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026. Cifras ENDUTIH 2025 iguales a la base."
+}

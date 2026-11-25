@@ -1,0 +1,186 @@
+{
+ "id": "logo-para-camisetas",
+ "slug": "logo-para-camisetas",
+ "molde": "herramienta",
+ "cabeza": "logo para camisetas",
+ "busquedas": [
+  "logos para camisetas",
+  "logotipos para camisetas"
+ ],
+ "categoria": "Logos",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "logo",
+  "modo": "camisetas"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.capcut.com/es-es/create/tshirt-logo-maker",
+   "titulo": "Creador de logotipos de camisetas (CapCut)",
+   "promete": "Creador con cuenta"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.canva.com/es_mx/playeras/plantillas/logo/",
+   "titulo": "Playeras con logo (Canva)",
+   "promete": "Plantillas e impresión de pago"
+  },
+  {
+   "posicion": 3,
+   "url": "https://zawa.ai/es/t-shirt-logo-maker",
+   "titulo": "Creador de logos para camisetas (Zawa)",
+   "promete": "Generador con descarga de pago"
+  }
+ ],
+ "title": "Logo para camisetas de tu banda, en SVG para serigrafía",
+ "h1": "Logo para las camisetas de tu banda",
+ "description": "Haz gratis el logo para la mercancía de tu banda o tu estudio. Sellos, letra gótica y letra de bloque listos para serigrafía, vinil o bordado. Baja el SVG hoy.",
+ "resumen": "El logo de la mercancía de tu banda",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "crear-logo-gratis",
+  "logo-minimalista",
+  "letras-para-logo",
+  "isotipo-imagotipo-logotipo",
+  "tienda-en-linea",
+  "paleta-de-colores"
+ ],
+ "respuesta": [
+  "Escribe el nombre de la banda y una frase, como tu ciudad o el nombre de la gira. El creador propone sellos redondos, letra gótica y letra de bloque que lucen estampadas. Bajas el SVG que te piden en serigrafía, vinil o bordado."
+ ],
+ "cuerpo": [
+  {
+   "h2": "La tela no es una pantalla"
+  },
+  {
+   "p": "La tela se bebe la tinta y el hilo tiene grosor. Un trazo que se ve fino en el celular puede salir como mancha en la playera."
+  },
+  {
+   "p": "Por eso este modo arranca con sellos y letras gruesas. Son formas que aguantan bien el estampado."
+  },
+  {
+   "h2": "Qué técnica pide qué diseño"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Técnica",
+     "Qué conviene en el logo",
+     "Qué evitar"
+    ],
+    "filas": [
+     [
+      "Serigrafía",
+      "Pocos colores planos, cada uno es una malla",
+      "Degradados y sombras"
+     ],
+     [
+      "Vinil textil",
+      "Formas cerradas fáciles de recortar",
+      "Letras diminutas y trazos sueltos"
+     ],
+     [
+      "Bordado",
+      "Letra gruesa y tamaño de pecho",
+      "Detalles más finos que el hilo"
+     ],
+     [
+      "Sublimación",
+      "Cualquier color sobre tela clara",
+      "Telas oscuras o de algodón puro"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "En serigrafía cada color de más casi siempre sube el precio, porque necesita otra malla. Con una o dos tintas te sale más barato el tiraje de la gira."
+  },
+  {
+   "p": "Antes de mandar a hacer cien, pide una playera de muestra. Lávala dos veces y revisa que el estampado no se cuartee."
+  },
+  {
+   "h2": "Medidas que se usan al estampar"
+  },
+  {
+   "ul": [
+    "Escudo en el pecho izquierdo, de ocho a diez centímetros de ancho.",
+    "Frente completo, unos treinta centímetros de ancho en talla mediana.",
+    "Espalda alta bajo el cuello, una franja de veinticinco centímetros.",
+    "Manga, un sello chico de cinco a siete centímetros."
+   ]
+  },
+  {
+   "p": "Pide al taller que pruebe estas medidas con tu talla más chica. Un diseño que llena el frente de una grande se sale en una chica."
+  },
+  {
+   "h2": "Haz el logo de tu mercancía"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Nombre y frase",
+     "texto": "La frase puede ser tu ciudad, el año de la banda o el nombre del disco. En el sello aparece en curva abajo."
+    },
+    {
+     "titulo": "Escoge sello o letra sola",
+     "texto": "El sello luce en el pecho. La letra sola luce a todo el frente."
+    },
+    {
+     "titulo": "Deja una tinta si va a serigrafía",
+     "texto": "En los ajustes pon el mismo color para el símbolo y el nombre."
+    },
+    {
+     "titulo": "Baja el SVG y la versión clara",
+     "texto": "La versión para fondo oscuro te sirve en playeras negras sin rehacer nada."
+    }
+   ]
+  },
+  {
+   "h2": "Ideas para la mesa de mercancía"
+  },
+  {
+   "ul": [
+    "Un sello con el nombre de la banda y el año en que empezó.",
+    "Letra gótica para un proyecto de metal o de corridos.",
+    "Letra de bloque con el nombre de tu estudio de tatuaje para el equipo.",
+    "Un sello con estrella para la playera de una gira."
+   ]
+  },
+  {
+   "p": "Si quieres vender esas playeras en línea, revisa la guía de [tienda en línea](id:tienda-en-linea). Para un logo más versátil está el [creador de logos](id:crear-logo-gratis)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué archivo le doy al serigrafista?",
+   "respuesta": "El SVG. Crece sin perder calidad y separa bien cada color."
+  },
+  {
+   "pregunta": "¿Sirve para playeras negras?",
+   "respuesta": "Sí sirve. Baja la versión para fondo oscuro, que aclara los colores."
+  },
+  {
+   "pregunta": "¿Puedo usar mi propia imagen?",
+   "respuesta": "No se puede. Usa sus símbolos y letras, y cambia colores y acomodo."
+  },
+  {
+   "pregunta": "¿Puedo vender las playeras?",
+   "respuesta": "Sí. El diseño es para tu uso, también para vender."
+  },
+  {
+   "pregunta": "¿Es gratis?",
+   "respuesta": "Sí es gratis. No pide cuenta y la línea «Hecho con Avelina» se quita con una casilla."
+  }
+ ],
+ "venta": {
+  "puente": "Las playeras se venden en la tocada, y en tu sitio las pueden pedir los fans que no fueron.",
+  "aviso": "Tu logo para camisetas está listo. ¿Quieres un sitio donde vender tu mercancía?",
+  "titulo": "¿Te hago un sitio para vender tu mercancía?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

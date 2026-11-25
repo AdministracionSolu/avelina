@@ -1,0 +1,234 @@
+{
+ "id": "crear-logo-gratis",
+ "slug": "crear-logo-gratis",
+ "molde": "herramienta",
+ "cabeza": "logo gratis",
+ "busquedas": [
+  "logos gratis",
+  "logo editable",
+  "logo online",
+  "logotipos gratis",
+  "logo gratis online",
+  "logo online gratis",
+  "logo crea",
+  "crear logo",
+  "crear logo gratis",
+  "crea logos",
+  "crear un logo",
+  "creador logos",
+  "crear logotipo",
+  "creador de logo",
+  "creador de logos",
+  "creador de logotipos",
+  "crear logotipo gratis",
+  "creador de logo gratis",
+  "creador de logos gratis",
+  "creador de logotipos gratis",
+  "generador de logos",
+  "hacer logo",
+  "generar logo",
+  "crea tu logo",
+  "hacer logotipos",
+  "generador de logo",
+  "logo empresa",
+  "logo para negocio",
+  "logos de negocios",
+  "logo para empresa",
+  "logos para empresas",
+  "logotipos para negocios",
+  "logo para emprendimiento",
+  "aplicación para hacer logos",
+  "app para crear logos",
+  "diseño de logos",
+  "diseñar logo",
+  "diseñar logo gratis",
+  "paginas para crear logos",
+  "diseñador de logos",
+  "logos bonitos para editar"
+ ],
+ "categoria": "Logos",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "logo",
+  "modo": "general"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.renderforest.com/es/logo-maker",
+   "titulo": "Crear logo gratis con el creador de logos",
+   "promete": "Logo en minutos; la descarga en alta calidad y vector es de pago"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.ionos.com/es-us/tools/crear-logo",
+   "titulo": "Generador de logos (IONOS)",
+   "promete": "Gratis con PNG, JPG y SVG; giros genéricos, nada pensado para negocios mexicanos"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.canva.com/es_mx/crear/logos/",
+   "titulo": "Crea logos gratis (Canva)",
+   "promete": "Plantillas con registro; el SVG pide plan de pago"
+  }
+ ],
+ "title": "Logo gratis para tu banda o tu estudio, en SVG y PNG",
+ "h1": "Crea gratis el logo de tu banda",
+ "description": "Haz gratis el logo de tu banda, tu estudio de fotos o tu taller. Doce propuestas por tanda y descarga en SVG, PNG sin fondo y versión oscura, sin registro.",
+ "resumen": "El logo de tu banda o tu estudio en minutos",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "logo-minimalista",
+  "logo-para-camisetas",
+  "isotipo-imagotipo-logotipo",
+  "letras-para-logo",
+  "paleta-de-colores",
+  "crear-logo-con-ia"
+ ],
+ "respuesta": [
+  "Escribe el nombre de tu banda o tu estudio y elige tu giro entre 39 opciones. Hay giros de música o eventos y de fotografía. Salen 12 propuestas con símbolos de ese giro y puedes pedir otra tanda. Lo bajas en SVG, en PNG sin fondo y en versión para fondo oscuro."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Tu logo en cuatro pasos"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Escribe cómo te llamas",
+     "texto": "Pon el nombre del grupo y elige el giro. Si quieres, suma una línea chica con tu género o tu ciudad."
+    },
+    {
+     "titulo": "Revisa las doce opciones",
+     "texto": "Cada vuelta mezcla otros dibujos y otras tipografías. Si ninguna te late, pide una vuelta nueva."
+    },
+    {
+     "titulo": "Retoca la que elegiste",
+     "texto": "Puedes mover el dibujo, la letra, la separación y los dos colores. Lo ves cambiar mientras mueves."
+    },
+    {
+     "titulo": "Descarga el ZIP",
+     "texto": "Viene con el SVG, el PNG en tres medidas, la variante oscura y un cuadro para tu foto de perfil."
+    }
+   ]
+  },
+  {
+   "h2": "Qué acomodo le queda a tu proyecto"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Acomodo",
+     "Cómo se ve",
+     "Dónde funciona mejor"
+    ],
+    "filas": [
+     [
+      "Símbolo y nombre",
+      "Símbolo a la izquierda y nombre a la derecha",
+      "Lona del escenario, encabezado de tu sitio"
+     ],
+     [
+      "Símbolo arriba",
+      "Símbolo centrado sobre el nombre",
+      "Portada de disco, perfiles cuadrados"
+     ],
+     [
+      "Sólo nombre",
+      "El nombre con su tipografía, sin dibujo",
+      "Bandas con nombre corto y con carácter"
+     ],
+     [
+      "Sólo símbolo",
+      "El dibujo solo",
+      "Parche, calcomanía del estuche, bombo de la batería"
+     ],
+     [
+      "Sello",
+      "Círculo con el nombre en curva",
+      "Playeras, botones y empaques de mercancía"
+     ],
+     [
+      "Escudo",
+      "Escudo con banda y nombre",
+      "Sólo en el creador para equipo de fútbol"
+     ],
+     [
+      "Iniciales",
+      "Monograma con marco",
+      "Firma de un pintor, marca personal de fotógrafa"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Por qué importa más el SVG"
+  },
+  {
+   "p": "Un PNG está hecho de puntitos y tiene un límite. Si lo estiras para la lona del escenario se nota borroso."
+  },
+  {
+   "p": "Un SVG guarda líneas y curvas, y crece sin perder filo. Lo piden la imprenta, quien serigrafía tus playeras y quien borda parches."
+  },
+  {
+   "p": "Dentro del SVG la tipografía ya va convertida en trazos. Por eso se ve igual en una compu que no tenga esa letra instalada."
+  },
+  {
+   "h2": "Antes de quedarte con uno"
+  },
+  {
+   "ul": [
+    "Míralo chiquito, del tamaño de tu foto de perfil en las plataformas de música.",
+    "Revisa la versión para fondo oscuro, la vas a usar en escenarios y videos.",
+    "Prueba si se entiende en un solo color para sellos y serigrafía.",
+    "Enséñalo a gente que no te conoce y pregunta qué música le sugiere.",
+    "Busca el nombre en el IMPI antes de mandar a hacer mercancía."
+   ]
+  },
+  {
+   "p": "Si quieres entender qué es isotipo, imagotipo y logotipo, lee [la guía de los tres tipos](id:isotipo-imagotipo-logotipo). Para escoger colores con calma usa la [paleta de colores](id:paleta-de-colores)."
+  },
+  {
+   "h2": "Otros logos para artistas"
+  },
+  {
+   "p": "Si tu estilo es limpio, prueba el [logo minimalista](id:logo-minimalista). Si lo quieres para la mercancía de la banda, usa el [logo para camisetas](id:logo-para-camisetas)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿El logo es mío?",
+   "respuesta": "Sí. Lo usas sin pagar nada, y para protegerlo como marca lo registras en el IMPI."
+  },
+  {
+   "pregunta": "¿Sirve para playeras y lonas?",
+   "respuesta": "Sí sirve. Entrega el SVG y lo agrandan sin perder calidad."
+  },
+  {
+   "pregunta": "¿El PNG viene sin fondo?",
+   "respuesta": "Sí viene así. Nada más el cuadro de perfil de 1080 px trae fondo para las redes."
+  },
+  {
+   "pregunta": "¿Puedo subir mi propio dibujo?",
+   "respuesta": "No se puede. El creador usa sus propios símbolos, y un diseñador puede vectorizar tu dibujo."
+  },
+  {
+   "pregunta": "¿Otra banda puede tener uno parecido?",
+   "respuesta": "Puede pasar. Los dibujos son de todos, así que mueve colores, letra y acomodo hasta que sea tuyo."
+  },
+  {
+   "pregunta": "¿Tengo que crear cuenta?",
+   "respuesta": "No. Todo pasa en tu navegador y no pide correo."
+  }
+ ],
+ "venta": {
+  "puente": "Con el logo listo, el siguiente paso es un sitio donde tu nombre se vea junto a tu música y tus fechas.",
+  "aviso": "Tu logo está listo. ¿Quieres un sitio de artista que lo luzca?",
+  "titulo": "¿Te hago el sitio para tu logo nuevo?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

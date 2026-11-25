@@ -40,3 +40,10 @@ El sitio se genera con `fuente/build.py` (Python, sin dependencias). No edites a
 - No hay claves ni contraseñas: no hacen falta. Con ser colaboradora del repo basta para editar y publicar.
 
 Si quieres pasar a un framework (Astro, Next, Vite), se puede: se agrega el paso de build en `.github/workflows/netlify.yml` y se publica la carpeta que genere.
+
+## Páginas para artistas (desde el 24-nov-2026)
+
+82 páginas para músicos y artistas en `/herramientas/`, `/guias/`, `/plantillas/`, `/comparar/` y 3 de servicio
+(QR, flyers, logos, dominio, tu sitio, cobros…). Cierran con «Pide una demo», que llega a pilsi.art/admin → Demos
+marcada «avelina.com.mx». Reglas en `fuente/paginas-web/CONTRATO.md`; una página = `fuente/paginas-web/paginas/<id>.json`.
+`python3 fuente/publicar.py` ya las regenera al final, así que no hay paso extra.

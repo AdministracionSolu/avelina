@@ -1,0 +1,93 @@
+{
+ "id": "paleta-de-colores",
+ "slug": "paleta-de-colores",
+ "molde": "herramienta",
+ "cabeza": "paleta de colores",
+ "busquedas": ["paleta de color", "paletas de color", "paleta colores", "generador de paleta de colores", "crear paleta de colores", "crear paletas de colores", "creador de paletas de colores", "paletas de colores codigos", "codigo de paleta de colores", "html paleta de colores", "paleta de color hexadecimal", "paleta de color rgb", "paleta de colores hex", "tableta de colores"],
+ "categoria": "Colores",
+ "categoriaApp": "DesignApplication",
+ "herramienta": { "id": "paleta", "modo": "generador" },
+ "fuentes": [],
+ "serp": [
+  { "posicion": 1, "url": "https://www.crehana.com/blog/estilo-vida/como-crear-una-paleta-de-colores-aqui-esta-el-truco/", "titulo": "Cómo crear una paleta de colores", "promete": "Teoría del color y consejos; no trae un generador que funcione en la página" },
+  { "posicion": 2, "url": "https://www.tiendanube.com/blog/mx/paleta-de-colores", "titulo": "Paleta de colores: ¿qué es y cómo usarla en marketing?", "promete": "Definición y uso en marca; sin herramienta ni códigos para copiar" },
+  { "posicion": 3, "url": "https://www.shopify.com/es/blog/62615749-14-generadores-de-paletas-de-color-online-para-diseno-web", "titulo": "14 generadores de paletas de color online", "promete": "Lista de herramientas de terceros; manda a otros sitios en vez de resolver ahí" }
+ ],
+ "title": "Paleta de colores gratis desde la portada de tu disco",
+ "h1": "Paleta de colores para tu proyecto",
+ "description": "Arma la paleta de tu proyecto desde un color o la portada de tu disco. Copia cada código HEX y RGB y bájala en PNG o en variables CSS, sin cuenta.",
+ "resumen": "Los colores de tu disco o tu obra con sus códigos",
+ "revisada": "2026-11",
+ "relacionadas": ["combinaciones-de-colores", "logo-minimalista", "crear-logo-gratis", "portada-de-facebook", "plantillas-para-instagram", "diseno-de-paginas-web"],
+ "respuesta": [
+  "Escoge un color de partida y salen cinco paletas que combinan con él. Cada tono enseña su código HEX, su RGB y un nombre.",
+  "También puedes sacar los colores de la portada de tu disco o de una foto de tu obra. Se bajan en PNG o en variables CSS sin registrarte."
+ ],
+ "cuerpo": [
+  { "h2": "Tu paleta en cuatro pasos" },
+  { "pasos": [
+   { "titulo": "Elige el color que define tu proyecto", "texto": "Escribe su HEX o búscalo con el selector. Si no tienes uno, pide un tono al azar y ve qué te inspira." },
+   { "titulo": "Compara las cinco armonías", "texto": "Cada fila sigue otra regla del círculo de color. Quédate con la que se parezca a tu música o a tu obra." },
+   { "titulo": "Copia los códigos", "texto": "Toca una franja y su HEX se copia solo. Pégalo en tu flyer, tu portada o tu sitio." },
+   { "titulo": "Baja la paleta", "texto": "El PNG sirve para mandársela a quien diseña tu portada. El CSS va directo al código de tu página." }
+  ] },
+  { "h2": "Las cinco armonías que salen de tu color" },
+  { "p": "Las cinco nacen del mismo tono. Cambia la regla y cambia el ánimo de todo el conjunto." },
+  { "tabla": {
+   "columnas": ["Armonía", "Cómo se arma", "Para qué te sirve"],
+   "filas": [
+    ["Complementarios", "Tu color y su opuesto en el círculo", "Carteles de tocada que deben brincar a la vista"],
+    ["Análogos", "Tu color y sus vecinos", "Portadas tranquilas de música acústica o ambiental"],
+    ["Tríada", "Tres colores a la misma distancia", "Ilustración infantil o un festival con mucho color"],
+    ["Monocromático", "Un solo tono de oscuro a claro", "Portafolios de fotografía y sitios sobrios"],
+    ["Complementarios divididos", "Tu color y los vecinos de su opuesto", "Contraste fuerte sin que los colores peleen"]
+   ]
+  } },
+  { "h2": "Saca los colores de tu portada o tu obra" },
+  { "p": "Elige «Desde una imagen» y sube un JPG, PNG o WebP. La herramienta toma los seis colores que más pesan en esa imagen." },
+  { "p": "Así tu sitio y tus carteles combinan con el disco que estás promoviendo. La imagen se lee en tu navegador y no se sube a ningún servidor." },
+  { "p": "A una pintora le sirve para que su portafolio repita los tonos de su serie nueva. A un tatuador le ayuda a vestir su perfil con los colores de su estilo." },
+  { "h2": "HEX y RGB, cuál te van a pedir" },
+  { "p": "Los dos nombran el mismo color con distinta escritura. El HEX son seis letras y cifras después de un gato, como #1F6FB2." },
+  { "p": "El RGB dice cuánto rojo, verde y azul lleva, de 0 a 255. Los programas de diseño y las páginas web aceptan cualquiera de los dos." },
+  { "p": "La imprenta de tus carteles o de tus discos trabaja en CMYK o con números de tinta. Lleva tus HEX y pide una prueba impresa antes del tiraje." },
+  { "h2": "Cómo repartir los colores en tu sitio" },
+  { "p": "Una proporción que funciona es 60, 30 y 10. El tono más claro va de fondo y cubre casi toda la página." },
+  { "p": "El segundo vive en títulos y bloques. El más vivo se guarda para el botón de escuchar o de contratar." },
+  { "ul": [
+   "Usa de tres a cinco colores en total.",
+   "Escribe con tono oscuro sobre fondo claro para leer en el celular.",
+   "Reserva el color más fuerte para lo que pide un clic.",
+   "Repite la misma paleta en tu sitio, tus redes y tu mercancía."
+  ] },
+  { "h2": "Ejemplos según tu disciplina" },
+  { "tabla": {
+   "columnas": ["Proyecto", "Color base sugerido", "Armonía que mejor le queda"],
+   "filas": [
+    ["Cantautora de folk", "#2C7DA0", "Análogos para un ambiente tranquilo"],
+    ["Banda de punk", "#D62828", "Complementarios para carteles que se vean de lejos"],
+    ["Ilustradora de pop", "#E4007C", "Monocromático con rosas claros"],
+    ["Fotógrafo de retrato", "#0B1F3A", "Monocromático con grises fríos"],
+    ["Grupo de música tropical", "#2E9E44", "Tríada para fiestas y carteles alegres"]
+   ]
+  } },
+  { "p": "Si ya usas dos colores y quieres saber si se llevan, ve a [combinaciones de colores](id:combinaciones-de-colores)." }
+ ],
+ "faqs": [
+  { "pregunta": "¿El generador de paletas es gratis?", "respuesta": "Sí es gratis. No pide correo ni cuenta y bajas todas las paletas que quieras." },
+  { "pregunta": "¿Cuántos colores necesita la identidad de mi banda?", "respuesta": "De tres a cinco. Cada paleta trae cinco y usas sólo los que te funcionen." },
+  { "pregunta": "¿Puedo sacar los colores de mi logo o mi portada?", "respuesta": "Sí. Toca «Desde una imagen» y sube el archivo en PNG o JPG." },
+  { "pregunta": "¿La foto de mi obra se guarda en algún lado?", "respuesta": "No se guarda. Se procesa dentro de tu navegador y no sale de tu equipo." },
+  { "pregunta": "¿Para qué me sirve el archivo CSS?", "respuesta": "Para tu sitio. Lo pegas arriba de tu hoja de estilos y cada color queda como variable con nombre." },
+  { "pregunta": "¿Mis colores salen iguales en el disco impreso?", "respuesta": "No siempre. La tinta y la pantalla mezclan distinto, por eso conviene una prueba impresa." }
+ ],
+ "venta": {
+  "puente": "Tu paleta puede vestir un sitio propio con tu dominio, tu música y tu obra.",
+  "aviso": "Ya tienes tus colores. ¿Quieres verlos en tu propio sitio de artista?",
+  "titulo": "¿Te hago el sitio con esta paleta?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026"
+}

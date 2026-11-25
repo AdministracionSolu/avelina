@@ -1,0 +1,484 @@
+{
+ "id": "publicidad-en-facebook",
+ "slug": "publicidad-en-facebook",
+ "molde": "guia",
+ "cabeza": "anuncios facebook",
+ "cabeza_titulo": [
+  "anuncios en facebook"
+ ],
+ "busquedas": [
+  "anuncio en facebook",
+  "anuncios en facebook",
+  "anuncios de facebook",
+  "publicidad en facebook",
+  "como hacer publicidad en facebook",
+  "cómo pagar publicidad en facebook",
+  "anuncios de fb"
+ ],
+ "categoria": "Redes sociales",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.godaddy.com/resources/es/marketing/como-crear-una-campana-de-anuncios-en-facebook",
+   "titulo": "Cómo crear una campaña de anuncios en Facebook",
+   "promete": "Pasos con capturas de versiones viejas; no explica a dónde conviene mandar a la gente"
+  },
+  {
+   "posicion": 2,
+   "url": "https://es.semrush.com/blog/como-hacer-facebook-ads-guia/",
+   "titulo": "¿Cómo hacer Facebook ads? Guía paso a paso",
+   "promete": "Guía extensa para expertos; poco para un negocio con presupuesto chico"
+  },
+  {
+   "posicion": 3,
+   "url": "https://blog.hubspot.es/marketing/facebook-ads-que-funcionan",
+   "titulo": "Facebook Ads: cómo crear publicidad efectiva",
+   "promete": "Ejemplos de marcas grandes; sin ejemplo de un negocio de barrio en México"
+  }
+ ],
+ "title": "Anuncios Facebook para artistas, tu primer anuncio",
+ "h1": "Anuncios en Facebook para músicos y artistas",
+ "description": "Cómo anunciar tu tocada, tus clases o tus sesiones en Facebook. Objetivo, público, presupuesto, imagen y texto para tu primer anuncio. Empieza con poco y mide.",
+ "resumen": "Tu primer anuncio para llenar una fecha o conseguir alumnos",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "pagina-de-facebook-para-negocio",
+  "publicidad-en-instagram",
+  "campana-publicitaria",
+  "link-en-bio",
+  "portada-de-facebook",
+  "link-de-whatsapp"
+ ],
+ "respuesta": [
+  "Para anunciarte en Facebook necesitas una página de artista y un método de pago en el administrador de anuncios. Ahí eliges qué buscas, a quién se lo muestras, cuánto gastas y con qué imagen.",
+  "Si tocas o das clases en tu ciudad, empieza con un anuncio que lleve a tu WhatsApp o a tu sitio. Muéstralo sólo en tu zona con poco dinero al día, mide los mensajes y ajusta antes de gastar más."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Lo que tienes que tener listo antes"
+  },
+  {
+   "p": "Revisa lo básico antes de gastar el primer peso. Un buen anuncio que lleva a una página a medias se desperdicia."
+  },
+  {
+   "ul": [
+    "Una página de Facebook de artista y no tu perfil personal.",
+    "Foto de perfil con tu logo o tu foto de prensa y una portada clara.",
+    "Ciudad, WhatsApp y botón de contacto en la página.",
+    "Publicaciones recientes con fotos o videos tuyos de verdad.",
+    "Una tarjeta u otro método de pago para los anuncios.",
+    "Un lugar a donde llegar, como tu WhatsApp o tu sitio."
+   ]
+  },
+  {
+   "p": "Si aún no tienes página, empieza por la guía de [página de Facebook para negocio](id:pagina-de-facebook-para-negocio). Funciona igual para un proyecto artístico."
+  },
+  {
+   "h2": "Promocionar una publicación o armar un anuncio"
+  },
+  {
+   "p": "Facebook te da dos maneras de pagar por alcance. Las dos cuestan, pero no te dan el mismo control."
+  },
+  {
+   "tabla": {
+    "titulo": "Dos formas de anunciarte",
+    "columnas": [
+     "Forma",
+     "Cómo se hace",
+     "Para quién"
+    ],
+    "filas": [
+     [
+      "Promocionar una publicación",
+      "Tocas el botón de promocionar en algo que ya subiste",
+      "Quien quiere probar rápido con poco"
+     ],
+     [
+      "Crear un anuncio en el administrador",
+      "Armas la campaña desde el administrador de anuncios",
+      "Quien quiere elegir objetivo, público y medir mejor"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Promocionar el video de tu última tocada es lo más rápido. Si vas a anunciarte seguido, aprende a usar el administrador."
+  },
+  {
+   "h2": "Tu primer anuncio paso a paso"
+  },
+  {
+   "p": "Los nombres de los botones cambian con frecuencia. Lo que se mantiene es el orden de las decisiones."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Decide el objetivo",
+     "texto": "Piensa qué quieres que pase. Que te escriban para contratarte, que entren a tu sitio o que te conozcan en tu ciudad."
+    },
+    {
+     "titulo": "Elige al público",
+     "texto": "Marca la zona y la edad, y agrega intereses si hace falta. Para una tocada local, la zona es lo que más pesa."
+    },
+    {
+     "titulo": "Fija cuánto gastar",
+     "texto": "Escoge un monto por día o un total, con fecha de inicio y de fin."
+    },
+    {
+     "titulo": "Escoge dónde aparece",
+     "texto": "Facebook, Instagram o los dos. Al principio deja que el sistema reparta."
+    },
+    {
+     "titulo": "Sube tu imagen o tu video",
+     "texto": "Usa material real tuyo, con buena luz y buen sonido si es video."
+    },
+    {
+     "titulo": "Escribe el texto",
+     "texto": "Una frase con lo que ofreces, una línea con lo que gana la persona y qué debe hacer."
+    },
+    {
+     "titulo": "Elige el botón",
+     "texto": "Enviar mensaje, más información o comprar boletos, según tu objetivo."
+    },
+    {
+     "titulo": "Mira la vista previa",
+     "texto": "Revisa cómo se ve en celular antes de publicar."
+    },
+    {
+     "titulo": "Publica y espera la revisión",
+     "texto": "Meta revisa cada anuncio antes de mostrarlo. Casi siempre tarda poco."
+    }
+   ]
+  },
+  {
+   "h2": "Qué objetivo te conviene"
+  },
+  {
+   "p": "El objetivo le dice al sistema qué tipo de persona buscar. Si eliges mal, le muestra tu anuncio a gente que no hará lo que esperas."
+  },
+  {
+   "tabla": {
+    "titulo": "Objetivo según lo que quieres",
+    "columnas": [
+     "Lo que quieres",
+     "Objetivo que conviene"
+    ],
+    "filas": [
+     [
+      "Que te escriban para cotizar un evento o una sesión",
+      "Mensajes o interacción con mensajes"
+     ],
+     [
+      "Que entren a tu sitio a escuchar o comprar boletos",
+      "Tráfico"
+     ],
+     [
+      "Que tu ciudad conozca tu proyecto",
+      "Reconocimiento o alcance"
+     ],
+     [
+      "Que te dejen sus datos para un taller",
+      "Clientes potenciales"
+     ],
+     [
+      "Que compren mercancía en tu tienda en línea",
+      "Ventas"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Para quien toca en eventos o da clases, mensajes suele ser el mejor arranque. La plática se va a tu WhatsApp, donde ya sabes cerrar."
+  },
+  {
+   "h2": "Cómo elegir a tu público"
+  },
+  {
+   "p": "El público decide quién ve tu anuncio. Uno bien elegido gasta menos y trae conversaciones de mejor calidad."
+  },
+  {
+   "ul": [
+    "Zona. Marca tu ciudad o un radio alrededor del foro o de tu estudio.",
+    "Edad. Quita las edades que nunca van a tus tocadas o tus clases.",
+    "Intereses. Úsalos con cuidado porque a veces el sistema encuentra mejor solo.",
+    "Idioma. Español, si es el idioma en el que trabajas."
+   ]
+  },
+  {
+   "p": "Si ya tienes seguidores, puedes mostrar anuncios a gente parecida a ellos. Busca esas opciones dentro del administrador."
+  },
+  {
+   "h2": "Cuánto gastar"
+  },
+  {
+   "p": "No hay una cifra correcta para todos. Empieza con lo que puedas perder tranquilo mientras aprendes."
+  },
+  {
+   "ul": [
+    "Pon un monto chico por día y déjalo correr una semana.",
+    "No cambies todo a diario porque el sistema tarda unos días en aprender.",
+    "Divide lo gastado entre los mensajes que te llegaron.",
+    "Si ese costo por mensaje te conviene, sube poco a poco."
+   ]
+  },
+  {
+   "p": "Pon siempre fecha de fin o un tope total. Así tu estado de cuenta no te da un susto."
+  },
+  {
+   "h2": "Cómo se pagan los anuncios"
+  },
+  {
+   "p": "El pago se configura en la sección de pagos del administrador. Ahí agregas tu tarjeta o el método que tengas."
+  },
+  {
+   "ul": [
+    "Revisa qué métodos aparecen para México en esa sección.",
+    "Pon un límite de gasto a la cuenta para protegerte.",
+    "Revisa cada semana los cargos en tu estado de cuenta.",
+    "Guarda los comprobantes para tu contador."
+   ]
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Una imagen que detenga el dedo"
+  },
+  {
+   "p": "Lo primero que se ve es la imagen o el video. Si no frena a la gente, nadie lee lo demás."
+  },
+  {
+   "ul": [
+    "Usa fotos o videos reales de tus shows, tu estudio o tu obra.",
+    "Muestra el momento en vivo y no sólo una foto posada.",
+    "Pon poco texto dentro de la imagen y deja el mensaje para el anuncio.",
+    "Usa formato vertical o cuadrado para que se vea grande en celular.",
+    "Prueba dos imágenes distintas con el mismo texto."
+   ]
+  },
+  {
+   "tabla": {
+    "titulo": "Ideas de imagen según tu disciplina",
+    "columnas": [
+     "Disciplina",
+     "Imagen que suele funcionar"
+    ],
+    "filas": [
+     [
+      "Banda para eventos",
+      "Un clip de la pista llena en una boda"
+     ],
+     [
+      "Maestra de guitarra",
+      "Un alumno tocando su primera canción completa"
+     ],
+     [
+      "Tatuador",
+      "El tatuaje terminado en la piel, con buena luz"
+     ],
+     [
+      "Fotógrafa",
+      "Una foto de sesión junto al momento en que se tomó"
+     ],
+     [
+      "Academia de baile",
+      "Un grupo bailando la coreografía de fin de curso"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo escribir el texto"
+  },
+  {
+   "p": "El texto dice qué ofreces, por qué contigo y qué hacer ahora. Mientras más corto, mejor."
+  },
+  {
+   "tabla": {
+    "titulo": "Textos de ejemplo",
+    "columnas": [
+     "Proyecto",
+     "Texto"
+    ],
+    "filas": [
+     [
+      "Trío para eventos",
+      "Música en vivo para tu boda en Morelia. Tocamos dos horas con equipo propio. Escríbenos con tu fecha."
+     ],
+     [
+      "Clases de canto",
+      "Clases de canto para principiantes en León. Primera clase sin costo. Aparta tu horario por mensaje."
+     ],
+     [
+      "Estudio de tatuaje",
+      "Diseños disponibles esta semana en Monterrey. Agenda tu cita por mensaje y aparta con anticipo."
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "A dónde mandar a la gente"
+  },
+  {
+   "p": "El anuncio hace la mitad del trabajo. La otra mitad pasa en el lugar al que llega la persona."
+  },
+  {
+   "tabla": {
+    "titulo": "Destinos del anuncio",
+    "columnas": [
+     "Destino",
+     "Cuándo conviene",
+     "Qué cuidar"
+    ],
+    "filas": [
+     [
+      "WhatsApp",
+      "Cotizas eventos o clases conversando",
+      "Contestar rápido"
+     ],
+     [
+      "Tu sitio de artista",
+      "Quieres que vean videos y paquetes antes de escribir",
+      "Que cargue rápido en celular"
+     ],
+     [
+      "Messenger",
+      "Atiendes desde Facebook",
+      "Tener respuestas listas"
+     ],
+     [
+      "Formulario",
+      "Necesitas datos para un taller o una audición",
+      "Escribir el mismo día"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si mandas a tu sitio, que diga lo mismo que el anuncio. Si el anuncio habla de preventa y el sitio no, la gente se va."
+  },
+  {
+   "p": "Para armar el chat de destino usa el [link de WhatsApp](id:link-de-whatsapp) con un mensaje que diga de dónde viene la persona."
+  },
+  {
+   "h2": "Políticas que tienes que respetar"
+  },
+  {
+   "p": "Meta revisa cada anuncio antes de mostrarlo. Algunos se rechazan por detalles que parecen menores."
+  },
+  {
+   "ul": [
+    "Promesas exageradas o antes y después engañosos.",
+    "Productos que Meta restringe, como alcohol en una fiesta.",
+    "Frases que hablan directo de rasgos personales de quien lo ve.",
+    "Canciones, fotos o marcas ajenas sin permiso."
+   ]
+  },
+  {
+   "p": "Si te rechazan, lee el motivo en el administrador. Muchas veces basta cambiar una frase y mandarlo otra vez."
+  },
+  {
+   "h2": "Anuncios en las temporadas fuertes"
+  },
+  {
+   "p": "Un anuncio rinde más cuando la gente ya anda buscando. Prepáralo antes de las fechas que mueven tu disciplina."
+  },
+  {
+   "ul": [
+    "Posadas y cenas de fin de año en noviembre y diciembre.",
+    "Serenatas y festivales del 10 de mayo.",
+    "Inscripciones a clases en agosto y en enero.",
+    "Bodas y graduaciones en primavera y verano."
+   ]
+  },
+  {
+   "p": "Lanza el anuncio unas dos semanas antes. Así el sistema aprende antes de que llegue el pico de pedidos."
+  },
+  {
+   "h2": "Cómo saber si está funcionando"
+  },
+  {
+   "p": "El administrador enseña muchísimos números. Para un artista independiente importan pocos."
+  },
+  {
+   "ul": [
+    "Cuántos mensajes o visitas llegaron.",
+    "Cuánto te costó cada mensaje.",
+    "Cuántas personas terminaron contratando o comprando.",
+    "Qué imagen trajo más conversaciones."
+   ]
+  },
+  {
+   "p": "Pregúntale a cada cliente nuevo si vio tu anuncio. Así cruzas el número del administrador con lo que de verdad cobraste."
+  },
+  {
+   "h2": "Ejemplo de un primer anuncio"
+  },
+  {
+   "p": "Este caso es inventado para explicar. Una maestra de guitarra en Puebla quiere llenar su grupo de los sábados."
+  },
+  {
+   "p": "Elige el objetivo de mensajes y un radio de cinco kilómetros alrededor de su estudio. Gasta poco por día durante una semana."
+  },
+  {
+   "p": "Sube dos videos cortos de alumnos tocando con el mismo texto. Al cerrar la semana deja el video que trajo más mensajes."
+  },
+  {
+   "p": "A cada persona que se inscribe le pregunta cómo se enteró y lo anota. Así sabe cuántos alumnos le dio el anuncio."
+  },
+  {
+   "h2": "Fallas comunes al anunciarte"
+  },
+  {
+   "ul": [
+    "Anunciarte con una página incompleta y sin material real.",
+    "Elegir todo el país cuando sólo tocas en tu ciudad.",
+    "Cambiar el anuncio a diario sin dejarlo aprender.",
+    "Mandar a WhatsApp y tardar horas en contestar.",
+    "No poner fecha de fin ni tope de gasto.",
+    "Medir sólo reacciones y no mensajes ni contrataciones."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Cuánto cuesta anunciarse en Facebook?",
+   "respuesta": "Lo que tú decidas. Pones un monto diario o total y el sistema no gasta más."
+  },
+  {
+   "pregunta": "¿Necesito una página para anunciarme?",
+   "respuesta": "Sí. Los anuncios salen a nombre de una página de Facebook y no de tu perfil personal."
+  },
+  {
+   "pregunta": "¿Qué es mejor, promocionar o usar el administrador?",
+   "respuesta": "El administrador da más control. Promocionar sirve para probar rápido con poco."
+  },
+  {
+   "pregunta": "¿El anuncio sale también en Instagram?",
+   "respuesta": "Sí, si lo eliges. Puede salir en Facebook, en Instagram o en los dos."
+  },
+  {
+   "pregunta": "¿Cuánto tarda en aprobarse?",
+   "respuesta": "Casi siempre poco. Algunos anuncios pasan por una revisión más larga."
+  },
+  {
+   "pregunta": "¿Un anuncio me asegura llenar la tocada?",
+   "respuesta": "No. Lleva gente a conocerte, pero llenar depende de tu propuesta y de cómo atiendes."
+  },
+  {
+   "pregunta": "¿Puedo pausar un anuncio?",
+   "respuesta": "Sí. Lo pausas o lo apagas desde el administrador cuando quieras."
+  }
+ ],
+ "venta": {
+  "puente": "Un anuncio trae gente por unos días, y tu sitio de artista es donde esa gente decide contratarte.",
+  "titulo": "¿Te hago el sitio al que llegan tus anuncios?",
+  "tituloCorto": "Tu sitio de artista"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

@@ -1,0 +1,240 @@
+{
+ "id": "qr-de-instagram",
+ "slug": "qr-de-instagram",
+ "molde": "herramienta",
+ "cabeza": "instagram qr",
+ "busquedas": [
+  "qr instagram",
+  "qr de instagram",
+  "codigo qr de instagram",
+  "codigo qr para instagram",
+  "qr code instagram png",
+  "codigo qr instagram",
+  "instagram codigo qr"
+ ],
+ "categoria": "Códigos QR",
+ "categoriaApp": "UtilitiesApplication",
+ "herramienta": {
+  "id": "qr",
+  "modo": "instagram"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://metricool.com/es/instagram-codigo-qr/",
+   "titulo": "Código QR de Instagram: qué es, dónde está y cómo descargarlo",
+   "promete": "Dónde está el QR dentro de la app; no deja personalizarlo ni bajarlo para imprenta"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.jotform.com/es/qr-code-generator/instagram/",
+   "titulo": "Generador de códigos QR para Instagram",
+   "promete": "QR con diseño dentro de su plataforma; pide cuenta"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.qrcode-tiger.com/es/qr-code-generator/instagram",
+   "titulo": "Crear código QR para Instagram",
+   "promete": "QR dinámico con estadísticas de pago; el gratis es limitado"
+  }
+ ],
+ "title": "Instagram QR gratis para tu perfil de artista",
+ "h1": "QR de Instagram para músicos y artistas",
+ "description": "Haz el QR de tu Instagram de artista con tu color y tu logo. Lleva a tu perfil desde el flyer, la mesa de mercancía o tu obra. Bájalo en PNG o SVG sin cuenta.",
+ "resumen": "Un QR que abre tu perfil desde cualquier impreso",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "generador-de-qr",
+  "qr-de-facebook",
+  "codigo-qr-para-whatsapp",
+  "crear-qr-con-imagen",
+  "link-en-bio",
+  "flyer"
+ ],
+ "respuesta": [
+  "Escribe tu usuario de Instagram y el código que abre tu perfil sale al momento. Le pones tu color, tu logo y una frase debajo. Lo bajas en PNG o en SVG para la imprenta, sin cuenta y sin fecha de vencimiento."
+ ],
+ "cuerpo": [
+  {
+   "h2": "De tu usuario al código en cuatro pasos"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Pon tu usuario arriba",
+     "texto": "Puedes escribirlo con arroba o pegar la dirección completa de tu perfil."
+    },
+    {
+     "titulo": "Elige el color de tu proyecto",
+     "texto": "Un tono oscuro de tu portada o de tu logo se escanea mejor. Si tienes logo de la banda, súbelo al centro."
+    },
+    {
+     "titulo": "Escribe por qué seguirte",
+     "texto": "Una línea abajo como «Aquí salen las fechas nuevas» le dice a la gente qué gana al escanear."
+    },
+    {
+     "titulo": "Pruébalo antes de bajarlo",
+     "texto": "Escanéalo con tu celular y confirma que abre tu cuenta. Hay muchos usuarios casi iguales al tuyo."
+    }
+   ]
+  },
+  {
+   "h2": "El código que trae la app contra éste"
+  },
+  {
+   "p": "Instagram ya tiene un código propio en la opción para compartir tu perfil. Funciona, pero sale con el diseño de la aplicación y en imagen nada más."
+  },
+  {
+   "p": "Este QR lleva a la misma dirección de tu perfil. Lo distinto es que decides el color, el tamaño, el logo y el archivo."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "",
+     "QR dentro de Instagram",
+     "QR de esta herramienta"
+    ],
+    "filas": [
+     [
+      "Abre tu perfil",
+      "Sí",
+      "Sí"
+     ],
+     [
+      "Archivo SVG para imprenta",
+      "No",
+      "Sí"
+     ],
+     [
+      "Logo de tu proyecto al centro",
+      "No",
+      "Sí"
+     ],
+     [
+      "Frase debajo",
+      "No",
+      "Sí, la que tú escribas"
+     ],
+     [
+      "Pide abrir la app para sacarlo",
+      "Sí",
+      "No"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Lo que hace que alguien sí lo escanee"
+  },
+  {
+   "p": "Nadie apunta la cámara por apuntar. La gente escanea cuando sabe qué va a encontrar del otro lado."
+  },
+  {
+   "ul": [
+    "Una promesa concreta, como «Aquí subo un cover nuevo cada viernes».",
+    "Algo a cambio de seguirte, como el aviso de preventa de boletos.",
+    "Tu usuario escrito con letra clara para quien prefiera teclearlo.",
+    "Un tamaño pensado para la distancia de quien lo va a ver."
+   ]
+  },
+  {
+   "p": "Revisa que tu cuenta sea pública. Con una cuenta privada, quien escanee sólo ve un candado y no tu trabajo."
+  },
+  {
+   "h2": "Dónde ponerlo según lo que haces"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Lugar",
+     "Frase que puedes poner al lado"
+    ],
+    "filas": [
+     [
+      "Flyer de una tocada",
+      "Sigue la cuenta para la próxima fecha"
+     ],
+     [
+      "Mesa de mercancía de la banda",
+      "Sube tu foto con la playera y etiquétanos"
+     ],
+     [
+      "Ficha de una pintura en exposición",
+      "Mira el proceso de esta obra"
+     ],
+     [
+      "Espejo de un estudio de tatuaje",
+      "Mira los diseños disponibles de esta semana"
+     ],
+     [
+      "Tarjeta de un fotógrafo",
+      "Revisa mis sesiones más recientes"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Un ejemplo con una ilustradora en un bazar"
+  },
+  {
+   "p": "Imagina una ilustradora que vende prints en un bazar de fin de semana. Pega su QR en la esquina de cada sobre."
+  },
+  {
+   "p": "Debajo escribe «Mira cómo nació este dibujo». En su perfil guarda los videos del boceto a la pieza terminada."
+  },
+  {
+   "p": "Quien se llevó un print ve el proceso en casa. Muchas veces vuelve por otro o le encarga uno personalizado."
+  },
+  {
+   "h2": "Cuida que el código funcione en la vida real"
+  },
+  {
+   "p": "Un escenario tiene luces de colores y poca claridad. Por eso conviene el código oscuro sobre fondo blanco."
+  },
+  {
+   "p": "En carteles grandes imprime una prueba y escanéala desde lejos. Si tarda en leer, agrándalo o quita adornos alrededor."
+  },
+  {
+   "p": "Si usas tu logo al centro, déjalo chico. Un logo enorme tapa demasiados cuadros y el celular ya no lo lee."
+  },
+  {
+   "p": "¿Tu público también te busca en Facebook? Haz tu [QR de Facebook](id:qr-de-facebook). Para contrataciones directas usa el [código QR para WhatsApp](id:codigo-qr-para-whatsapp)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿El QR de Instagram cuesta algo?",
+   "respuesta": "No cuesta nada. No pide cuenta, no lleva marca de agua y puedes hacer los que quieras."
+  },
+  {
+   "pregunta": "¿Sigue sirviendo si cambio mi usuario?",
+   "respuesta": "No. El código guarda el usuario que tenías al hacerlo y tendrás que sacar uno nuevo."
+  },
+  {
+   "pregunta": "¿Puedo hacer un QR de un reel o una publicación?",
+   "respuesta": "Sí. Copia la dirección de esa publicación y pégala en el [generador de QR](id:generador-de-qr)."
+  },
+  {
+   "pregunta": "¿Le pongo el logo de Instagram en medio?",
+   "respuesta": "Se puede, pero luce más el de tu proyecto. La frase de abajo ya deja claro a dónde lleva."
+  },
+  {
+   "pregunta": "¿Qué archivo le doy a la imprenta?",
+   "respuesta": "El SVG. Crece sin pixelearse y sirve igual para una tarjeta que para una lona."
+  },
+  {
+   "pregunta": "¿Por qué se abre la app y no el navegador?",
+   "respuesta": "Porque el celular reconoce la dirección de Instagram. Si no tiene la app, se abre en el navegador."
+  }
+ ],
+ "venta": {
+  "puente": "Tu Instagram enseña tu trabajo, pero un sitio propio junta tu música, tus fechas y tu contacto en un solo lugar.",
+  "aviso": "Ya tienes tu QR. ¿Quieres también un sitio de artista que sea sólo tuyo?",
+  "titulo": "¿Te hago un sitio que acompañe a tu Instagram?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

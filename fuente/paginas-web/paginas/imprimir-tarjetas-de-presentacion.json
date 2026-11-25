@@ -1,0 +1,562 @@
+{
+ "id": "imprimir-tarjetas-de-presentacion",
+ "slug": "imprimir-tarjetas-de-presentacion",
+ "molde": "guia",
+ "cabeza": "impresion tarjeta de presentacion",
+ "busquedas": [
+  "impresion de tarjetas de presentacion",
+  "tarjetas de presentacion impresas",
+  "tarjetas de visita baratas",
+  "imprimir tarjetas de visita"
+ ],
+ "categoria": "Diseño para imprimir",
+ "herramienta": {
+  "id": "editor-diseno",
+  "modo": "tarjeta-presentacion"
+ },
+ "fuentes": [
+  {
+   "texto": "Vistaprint, papel para las tarjetas de presentación",
+   "url": "https://www.vistaprint.com/es/hub/papel-para-las-tarjetas-de-presentacion"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.canva.com/es_mx/imprimir/tarjetas-presentacion/",
+   "titulo": "Tarjetas de presentación para imprimir",
+   "promete": "Editor con impresión de su servicio; la medida estándar viene en pulgadas y no explica qué pedir a una imprenta local"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.cosmos.com.mx/producto/impresion-de-tarjetas-de-presentacion-3nfw/",
+   "titulo": "Impresión de tarjetas de presentación",
+   "promete": "Directorio de imprentas sin medidas, papel ni acabados"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.vistaprint.com/es/tarjetas-de-presentacion/estandar",
+   "titulo": "Tarjetas de presentación estándar",
+   "promete": "Tienda con grosores y papeles propios; sin lista de qué revisar en el archivo ni medidas mexicanas"
+  }
+ ],
+ "title": "Impresión tarjeta de presentación de artista y su PDF",
+ "h1": "Imprimir tarjetas de presentación de artista",
+ "description": "Cómo imprimir la tarjeta de tu banda, tu estudio o tu trabajo de foto. Medida de 9 × 5 cm, papel, acabados y el PDF que pide la imprenta. Diséñala gratis abajo.",
+ "resumen": "Medidas, papel y archivo para la tarjeta de tu proyecto",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "generador-de-qr",
+  "crear-logo-gratis",
+  "flyer",
+  "codigo-qr-para-whatsapp",
+  "pagina-web-para-negocio"
+ ],
+ "respuesta": [
+  "En México la tarjeta de presentación se imprime casi siempre en 9 × 5 cm y en cartulina gruesa. A la imprenta le llevas un PDF del tamaño real o una hoja carta con varias tarjetas.",
+  "Abajo diseñas la tuya gratis y bajas el PDF, el PNG o la hoja con 10 tarjetas y marcas de corte. Más adelante está lo que conviene pedirle a la imprenta."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Por qué un artista sigue necesitando tarjeta"
+  },
+  {
+   "p": "Después de una tocada alguien se acerca y quiere contratarte para su boda. Si le dictas tu número entre el ruido, lo más seguro es que lo anote mal."
+  },
+  {
+   "p": "Una tarjeta resuelve ese momento en segundos. Lo mismo pasa en una inauguración, en un bazar o en una convención de tatuaje."
+  },
+  {
+   "h2": "Las medidas que vas a encontrar"
+  },
+  {
+   "p": "No existe una medida única en el mundo. Cada país tiene su costumbre y las imprentas se acomodan a ella."
+  },
+  {
+   "tabla": {
+    "titulo": "Medidas más usadas",
+    "columnas": [
+     "Medida",
+     "Dónde se usa",
+     "Comentario"
+    ],
+    "filas": [
+     [
+      "9 × 5 cm",
+      "México y buena parte de Latinoamérica",
+      "La que usa este editor"
+     ],
+     [
+      "8.9 × 5.1 cm",
+      "Estados Unidos, igual a 3.5 × 2 pulgadas",
+      "Muchas plantillas en línea vienen así"
+     ],
+     [
+      "8.5 × 5.5 cm",
+      "Europa y algunas imprentas en México",
+      "Un poco más alta"
+     ],
+     [
+      "9 × 5.5 cm",
+      "Japón y algunos diseños de autor",
+      "Menos común"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Pregunta a tu imprenta qué medida cortan antes de diseñar. El editor arma la tarjeta sólo en 9 × 5 cm, así que si cortan otra pide que ajusten tu PDF."
+  },
+  {
+   "h2": "Cómo diseñar tu tarjeta en el editor"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Escoge un diseño base",
+     "texto": "Toma el que más se acerque al tono de tu proyecto. Colores, letras y acomodo se cambian después."
+    },
+    {
+     "titulo": "Escribe lo esencial",
+     "texto": "Tu nombre artístico, lo que haces y tu WhatsApp. El correo y el sitio van sólo si los revisas."
+    },
+    {
+     "titulo": "Pon tu logo o tu firma",
+     "texto": "Sube el logo de la banda o tu firma de ilustrador. Si no tienes, hazlo con el [creador de logos](id:crear-logo-gratis)."
+    },
+    {
+     "titulo": "Aprovecha el reverso",
+     "texto": "Atrás cabe tu logo en grande, un QR a tu música o una obra tuya."
+    },
+    {
+     "titulo": "Prueba en tamaño real",
+     "texto": "Imprime una hoja normal, recorta una tarjeta y léela con calma."
+    },
+    {
+     "titulo": "Descarga el archivo",
+     "texto": "El PDF de tamaño real es para la imprenta. La hoja carta es para imprimir en casa."
+    }
+   ]
+  },
+  {
+   "h2": "Qué datos poner si haces música o arte"
+  },
+  {
+   "p": "Una tarjeta llena de datos se vuelve ilegible. Pon sólo lo que alguien necesita para contratarte o encontrar tu trabajo."
+  },
+  {
+   "tabla": {
+    "titulo": "Qué datos poner",
+    "columnas": [
+     "Dato",
+     "¿Va?",
+     "Consejo"
+    ],
+    "filas": [
+     [
+      "Nombre artístico",
+      "Sí",
+      "Grande y con la misma letra que en tus redes"
+     ],
+     [
+      "Lo que haces",
+      "Sí",
+      "Una línea, como Cantautora o Tatuaje a mano alzada"
+     ],
+     [
+      "WhatsApp",
+      "Sí",
+      "Con los 10 dígitos"
+     ],
+     [
+      "Correo de contrataciones",
+      "Sí",
+      "De preferencia con tu propio dominio"
+     ],
+     [
+      "Sitio de artista",
+      "Sí",
+      "Una dirección corta y fácil de leer"
+     ],
+     [
+      "Dirección",
+      "Si tienes estudio",
+      "Calle, número y colonia"
+     ],
+     [
+      "Redes sociales",
+      "Una o dos",
+      "Sólo las que sí actualizas"
+     ],
+     [
+      "Código QR",
+      "Conviene",
+      "A tu música, tu portafolio o tu WhatsApp"
+     ],
+     [
+      "Frase o lema",
+      "Opcional",
+      "Sólo si cabe en pocas palabras"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "El QR te ahorra espacio en el frente. Hazlo gratis con el [generador de QR](id:generador-de-qr) y ponlo atrás."
+  },
+  {
+   "h2": "El papel cambia la impresión que das"
+  },
+  {
+   "p": "La cartulina se siente antes de que alguien lea tu nombre. Una tarjeta delgada se dobla en la cartera y se ve descuidada."
+  },
+  {
+   "tabla": {
+    "titulo": "Papeles comunes para tarjetas",
+    "columnas": [
+     "Papel",
+     "Cómo se siente",
+     "A quién le queda"
+    ],
+    "filas": [
+     [
+      "Couché brillante",
+      "Liso y con brillo",
+      "Fotógrafos y diseños con colores fuertes"
+     ],
+     [
+      "Couché mate",
+      "Liso sin brillo",
+      "Músicos con diseño sobrio"
+     ],
+     [
+      "Opalina",
+      "Blanco con textura suave",
+      "Maestros de música y academias"
+     ],
+     [
+      "Kraft",
+      "Café y rústico",
+      "Ilustradores y artesanos"
+     ],
+     [
+      "Texturizado o algodón",
+      "Grueso y con textura",
+      "Pintores y estudios que buscan un toque fino"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Pide ver muestras en persona antes de decidir. Un mismo papel cambia bastante entre una imprenta y otra."
+  },
+  {
+   "p": "Las tiendas en línea suelen medir el grosor en puntos. En las imprentas mexicanas se habla más del gramaje de la cartulina."
+  },
+  {
+   "h2": "Acabados que valen la pena"
+  },
+  {
+   "ul": [
+    "**Plastificado mate o brillante.** Cuida la tarjeta y le da más cuerpo.",
+    "**Barniz selectivo.** Hace brillar sólo una parte, como tu logo.",
+    "**Esquinas redondeadas.** Se ve moderna y aguanta mejor en la cartera.",
+    "**Impresión por los dos lados.** Usa el reverso para tu QR o una obra.",
+    "**Letras en relieve o metálicas.** Lucen mucho, pero suben el precio."
+   ]
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "El color de tu pantalla no es el del papel"
+  },
+  {
+   "p": "La pantalla mezcla luz y la impresora mezcla tinta. Un color que brilla en tu celular puede salir apagado en cartulina."
+  },
+  {
+   "p": "Los verdes y azules intensos son los que más cambian. Los tonos muy oscuros a veces salen casi negros."
+  },
+  {
+   "p": "Si tu banda tiene un color exacto, pide una prueba impresa antes del tiraje. Una prueba sale más barata que cien tarjetas de otro tono."
+  },
+  {
+   "ul": [
+    "Evita letras blancas muy finas sobre fondo negro.",
+    "No uses texto gris claro sobre fondo blanco.",
+    "Deja buen contraste entre letra y fondo.",
+    "Revisa la prueba con luz de día."
+   ]
+  },
+  {
+   "h2": "Que se lea en dos segundos"
+  },
+  {
+   "p": "Nadie estudia una tarjeta. Si hay que acercarla a los ojos para leerla, no está cumpliendo."
+  },
+  {
+   "p": "Usa una familia de letras o dos como mucho. Tu nombre va más grande y lo demás en un tamaño cómodo."
+  },
+  {
+   "p": "Deja espacio libre alrededor del texto. Una tarjeta con aire se ve más cuidada que una llena hasta la orilla."
+  },
+  {
+   "p": "Dale tu prueba a alguien mayor y pídele que la lea sin lentes. Si lo logra, vas bien."
+  },
+  {
+   "h2": "Cuántas mandar a hacer"
+  },
+  {
+   "p": "Las imprentas venden por paquetes de cien o más. Pedir muchas parece ahorro, pero tus datos pueden cambiar."
+  },
+  {
+   "tabla": {
+    "titulo": "Cantidad según tu caso",
+    "columnas": [
+     "Tu caso",
+     "Cantidad sugerida",
+     "Por qué"
+    ],
+    "filas": [
+     [
+      "Proyecto que apenas empieza",
+      "Cien a doscientas",
+      "Tu número o tu nombre pueden cambiar pronto"
+     ],
+     [
+      "Banda que toca cada fin de semana",
+      "Quinientas",
+      "Repartes muchas después de cada show"
+     ],
+     [
+      "Estudio de tatuaje o de foto",
+      "Doscientas",
+      "Se quedan en el mostrador"
+     ],
+     [
+      "Bazar o convención",
+      "Según asistentes",
+      "Una por cada persona que esperas atender"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si cambias de número, no taches datos con pluma. Manda a imprimir con los datos nuevos."
+  },
+  {
+   "h2": "Qué poner atrás según tu disciplina"
+  },
+  {
+   "tabla": {
+    "titulo": "Qué destacar en el reverso",
+    "columnas": [
+     "Disciplina",
+     "Qué destacar"
+    ],
+    "filas": [
+     [
+      "Banda para eventos",
+      "Tipos de evento y QR a un video en vivo"
+     ],
+     [
+      "Cantautora",
+      "QR a tu canción más escuchada"
+     ],
+     [
+      "Tatuador",
+      "Estilos que trabajas y QR para agendar"
+     ],
+     [
+      "Fotógrafa",
+      "Una foto tuya y QR a tu portafolio"
+     ],
+     [
+      "Pintor o ilustrador",
+      "Una obra impresa y QR a tu catálogo"
+     ],
+     [
+      "Maestro de baile o de música",
+      "Horarios y QR para inscribirse"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo dejar listo el archivo para la imprenta"
+  },
+  {
+   "p": "Un archivo mal preparado sale con filos blancos o con letras mochas. Revisa estos puntos antes de mandarlo."
+  },
+  {
+   "tabla": {
+    "titulo": "Lista para mandar a imprimir",
+    "columnas": [
+     "Punto",
+     "Qué revisar"
+    ],
+    "filas": [
+     [
+      "Medida",
+      "La misma que corta tu imprenta"
+     ],
+     [
+      "Formato",
+      "PDF de tamaño real"
+     ],
+     [
+      "Resolución",
+      "Imágenes de 300 puntos por pulgada o más"
+     ],
+     [
+      "Margen de seguridad",
+      "Textos a unos milímetros de la orilla"
+     ],
+     [
+      "Rebase",
+      "Si el fondo llega a la orilla, pregunta cuánto piden"
+     ],
+     [
+      "Colores",
+      "Prueba impresa si tu color es exacto"
+     ],
+     [
+      "Ortografía",
+      "Revisa teléfono, correo y sitio letra por letra"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "El rebase es un pedazo extra de fondo que se corta. Sirve para que no queden filos blancos si la cuchilla se mueve un poco."
+  },
+  {
+   "h2": "En casa o en la imprenta"
+  },
+  {
+   "tabla": {
+    "titulo": "Comparación",
+    "columnas": [
+     "Punto",
+     "En casa",
+     "En imprenta"
+    ],
+    "filas": [
+     [
+      "Archivo",
+      "Hoja carta con 10 tarjetas y marcas de corte",
+      "PDF de tamaño real"
+     ],
+     [
+      "Papel",
+      "Cartulina que acepte tu impresora",
+      "El que elijas de su muestrario"
+     ],
+     [
+      "Calidad",
+      "Buena para pocas piezas",
+      "Mejor color y corte"
+     ],
+     [
+      "Corte",
+      "Con guillotina o cúter y regla",
+      "Corte exacto de máquina"
+     ],
+     [
+      "Conviene para",
+      "Pruebas o pocas tarjetas",
+      "Cien piezas o más"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si imprimes en casa por los dos lados, el editor ya acomoda la hoja del reverso. Haz primero una prueba en papel normal para ver si coinciden."
+  },
+  {
+   "h2": "Cómo cortarlas tú"
+  },
+  {
+   "ul": [
+    "Imprime la hoja en cartulina con la mejor calidad de tu impresora.",
+    "Espera unos minutos a que seque la tinta.",
+    "Usa regla metálica y cúter afilado sobre una base de corte.",
+    "Sigue las marcas de las orillas y corta primero las líneas largas.",
+    "Termina con las líneas cortas para separar cada tarjeta."
+   ]
+  },
+  {
+   "p": "Una guillotina chica de papelería lo hace más rápido y más parejo."
+  },
+  {
+   "h2": "Tarjeta impresa y tarjeta digital"
+  },
+  {
+   "p": "Mucha gente te va a pedir tus datos por WhatsApp. Una versión digital se manda al instante y nunca se acaba."
+  },
+  {
+   "p": "Lo mejor es tener las dos. La impresa para el final del show y la digital para mandar por mensaje."
+  },
+  {
+   "h2": "Errores comunes al imprimir"
+  },
+  {
+   "ul": [
+    "Diseñar en una medida distinta a la de tu imprenta.",
+    "Usar una foto de baja calidad bajada de tus redes.",
+    "Pegar los textos a la orilla.",
+    "Escoger letras muy delgadas o muy chicas.",
+    "Llenar la tarjeta de datos que nadie usa.",
+    "No revisar el número antes de imprimir cien.",
+    "Poner un sitio que todavía no existe."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué medida tiene una tarjeta de presentación en México?",
+   "respuesta": "La más común es 9 × 5 cm. Algunas imprentas usan 8.5 × 5.5 cm, así que pregunta antes."
+  },
+  {
+   "pregunta": "¿En qué formato la mando a imprimir?",
+   "respuesta": "En PDF de tamaño real. Es el que mejor respetan las imprentas."
+  },
+  {
+   "pregunta": "¿Cuántas caben en una hoja carta?",
+   "respuesta": "Caben diez de 9 × 5 cm. El editor las acomoda con marcas de corte."
+  },
+  {
+   "pregunta": "¿Qué papel me conviene?",
+   "respuesta": "Una cartulina gruesa como couché mate u opalina. Pide muestras antes de decidir."
+  },
+  {
+   "pregunta": "¿El editor de tarjetas cuesta?",
+   "respuesta": "No. Bajas PDF, PNG o la hoja carta sin registro y sin marca de agua."
+  },
+  {
+   "pregunta": "¿Puedo poner un QR a mi música?",
+   "respuesta": "Sí. Ponlo atrás y que lleve a tu canción, tu portafolio o tu WhatsApp."
+  },
+  {
+   "pregunta": "¿Cuánto rebase lleva?",
+   "respuesta": "Lo común son 3 mm por lado. Marca la casilla de imprenta y el PDF sale con 3 mm de sangrado y marcas de corte."
+  },
+  {
+   "pregunta": "¿Las puedo imprimir en mi impresora?",
+   "respuesta": "Sí. Usa cartulina que acepte tu impresora y la hoja carta con marcas de corte."
+  },
+  {
+   "pregunta": "¿Qué acabado aguanta más uso?",
+   "respuesta": "El plastificado mate. Protege de la humedad y no hace reflejos que estorben."
+  }
+ ],
+ "venta": {
+  "puente": "Tu tarjeta cabe en una cartera, y tu sitio de artista es lo que la gente abre cuando la encuentra días después.",
+  "titulo": "¿Te hago el sitio que va en tu tarjeta?",
+  "tituloCorto": "Tu sitio de artista"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

@@ -1,0 +1,34 @@
+/* Herramienta «menu». Prefijo amenu-. Sin sombras ni degradados. */
+
+.amenu-hojas { display: grid; gap: 14px; max-height: 82vh; overflow: auto; border-radius: 4px; }
+.amenu-hoja { display: block; width: 100%; height: auto; border-radius: 2px; background: #fff; }
+.amenu-logo { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
+.amenu-logo img { max-width: 120px; max-height: 56px; background: #fff; border-radius: 4px; padding: 4px; }
+.amenu-logo:empty { display: none; }
+
+.amenu-secciones { display: grid; gap: 20px; }
+.amenu-seccion { border: 1px solid var(--ah-borde); border-radius: 6px; padding: 14px; margin: 0; display: grid; gap: 12px; min-width: 0; }
+.amenu-seccion > legend { padding: 0 6px; }
+.amenu-fila-sec { display: flex; gap: 8px; align-items: center; }
+.amenu-fila-sec .ah-input { font-weight: 500; }
+.amenu-plato { display: grid; gap: 6px; padding: 12px 0 0; border-top: 1px solid var(--ah-borde); }
+.amenu-plato-1 { display: grid; grid-template-columns: minmax(0, 1fr) 110px; gap: 8px; }
+.amenu-plato-3 { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+.amenu-plato textarea.ah-input { min-height: 46px; }
+.amenu-mini { display: flex; gap: 4px; flex: none; }
+.amenu-btn {
+  width: 38px; height: 38px; border: 1px solid var(--ah-borde); border-radius: 4px; background: transparent;
+  color: var(--ah-gris); font: 400 17px/1 var(--ah-sans); cursor: pointer; padding: 0;
+}
+.amenu-btn:hover, .amenu-btn:focus-visible { color: var(--ah-texto); border-color: var(--ah-gris); outline: none; }
+.amenu-foto { display: flex; gap: 10px; align-items: center; min-width: 0; }
+.amenu-foto img { width: 44px; height: 44px; object-fit: cover; border-radius: 4px; }
+.amenu-foto-btn { position: relative; display: inline-flex; align-items: center; min-height: 38px; padding: 0 12px; border: 1px dashed var(--ah-borde-fuerte); border-radius: 4px; color: var(--ah-gris); font-size: 14px; cursor: pointer; }
+.amenu-foto-btn:hover, .amenu-foto-btn:focus-within { color: var(--ah-texto); border-color: var(--ah-texto); }
+.amenu-foto-btn input { position: absolute; inset: 0; opacity: 0; cursor: pointer; width: 100%; }
+.amenu-agregar { justify-self: start; min-height: 40px; padding: 8px 14px; font-size: 15px; }
+
+@media (max-width: 420px) {
+  .amenu-plato-1 { grid-template-columns: minmax(0, 1fr) 92px; }
+  .amenu-seccion { padding: 12px 10px; }
+}

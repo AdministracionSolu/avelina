@@ -1,0 +1,197 @@
+{
+ "id": "lona-publicitaria",
+ "slug": "lona-publicitaria",
+ "molde": "herramienta",
+ "cabeza": "lona publicitaria",
+ "busquedas": [
+  "lonas personalizadas",
+  "lonas de publicidad",
+  "lonas para negocios"
+ ],
+ "categoria": "Diseño para imprimir",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "editor-diseno",
+  "modo": "lona"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.vistaprint.com/es/carteles-posteres/lonas-en-x",
+   "titulo": "Lonas en X (Vistaprint)",
+   "promete": "Venta de impresión con plantilla"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.vistaprint.com/es/carteles-posteres/backings-publicitarios-de-tubo",
+   "titulo": "Backings publicitarios (Vistaprint)",
+   "promete": "Venta de impresión"
+  },
+  {
+   "posicion": 3,
+   "url": "https://marketing4ecommerce.net/top-10-las-mejores-campanas-de-lonas-publicitarias-de-la-historia/",
+   "titulo": "Las mejores campañas de lonas publicitarias (Marketing4Ecommerce)",
+   "promete": "Ejemplos de marcas; sin diseñador"
+  }
+ ],
+ "title": "Lona publicitaria gratis para tu banda o tu escenario",
+ "h1": "Diseña la lona de tu banda",
+ "description": "Haz gratis la lona de tu grupo para el escenario, la feria o tu expo, de 3 × 1 m, pendón o a tu medida. Ves la escala real y bajas el PDF para la imprenta.",
+ "resumen": "La lona del grupo para el escenario o la expo",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "banner",
+  "cartel-publicitario",
+  "poster",
+  "flyer",
+  "crear-logo-gratis",
+  "pagina-web-para-negocio"
+ ],
+ "respuesta": [
+  "Escoge la medida de la lona y uno de los cinco diseños. Escribe el nombre del grupo, lo que haces y el teléfono de contrataciones. Junto a la lona aparece una persona de 1.70 m para que veas el tamaño real. El PDF sale a escala para la imprenta de gran formato."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Una lona que se lea desde el fondo del salón"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Mide dónde se va a colgar",
+     "texto": "Detrás de la batería, en la tarima de la feria o en la reja del foro. Anota también desde qué distancia la van a ver."
+    },
+    {
+     "titulo": "Escoge la medida",
+     "texto": "La de 3 × 1 m es la más común detrás del escenario. El pendón vertical va a un lado de tu stand en una expo."
+    },
+    {
+     "titulo": "Elige el diseño según lo que quieres",
+     "texto": "Teléfono grande si buscas contrataciones. Celebración si es la lona de un aniversario del grupo."
+    },
+    {
+     "titulo": "Compara con la persona",
+     "texto": "Si el teléfono queda más chico que la cabeza de la figura, súbele el tamaño."
+    }
+   ]
+  },
+  {
+   "h2": "Qué medida le toca a cada uso"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Medida",
+     "Uso típico",
+     "Cuánto texto cabe"
+    ],
+    "filas": [
+     [
+      "3 × 1 m",
+      "Fondo del escenario, tarima, barda",
+      "Nombre del grupo, tres géneros y teléfono"
+     ],
+     [
+      "2 × 1 m",
+      "Frente de la mesa de sonido, evento chico",
+      "Nombre, dato grande y teléfono"
+     ],
+     [
+      "Pendón 0.80 × 2 m",
+      "Stand en una expo, entrada de galería",
+      "Logo arriba y lista vertical"
+     ],
+     [
+      "A tu medida",
+      "Escenarios con medidas raras",
+      "Depende del ancho que escribas"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "La medida «Para web» de 1200 × 628 px repite tu lona en redes. Así el grupo se ve igual en la tarima y en el teléfono."
+  },
+  {
+   "h2": "Los cinco diseños y para quién son"
+  },
+  {
+   "ul": [
+    "Teléfono grande, para grupos versátiles y mariachis que viven de contrataciones.",
+    "Gran apertura, con fecha y dirección para inaugurar tu estudio o tu academia.",
+    "Promoción, con un precio grande al centro para tus clases o tus paquetes.",
+    "Con foto, cuando la imagen del grupo en vivo convence sola.",
+    "Celebración, para el aniversario de la banda o una noche especial."
+   ]
+  },
+  {
+   "h2": "Lo que arruina una lona en el escenario"
+  },
+  {
+   "p": "La lona queda a varios metros y bajo luces de colores. El público la mira apenas unos segundos entre canción y canción."
+  },
+  {
+   "ul": [
+    "Poner diez géneros musicales en letra pequeña.",
+    "Usar una foto chica que se imprime en cuadritos.",
+    "Escribir letra clara sobre un fondo claro.",
+    "Llevar el texto hasta la orilla, donde van los ojillos."
+   ]
+  },
+  {
+   "p": "La imprenta pone ojillos de metal en la orilla para amarrarla. Deja un margen limpio para que no perforen el nombre del grupo."
+  },
+  {
+   "h2": "La foto del grupo en tamaño grande"
+  },
+  {
+   "p": "Las letras del PDF salen en vector y quedan nítidas en cualquier tamaño. La foto depende del archivo que tú subas."
+  },
+  {
+   "p": "Una foto reciente de celular con buena luz aguanta una lona de 2 × 1 m. La que te reenviaron por WhatsApp llega comprimida y sale borrosa."
+  },
+  {
+   "p": "Si todavía no tienes el logo del grupo, hazlo antes con el [creador de logos](id:crear-logo-gratis). Luego súbelo a la lona."
+  },
+  {
+   "h2": "Lona, banner y cartel"
+  },
+  {
+   "p": "La lona es para la tarima o la calle y la cambias cuando cambia la gira. El [cartel](id:cartel-publicitario) es para una pared cercana y anuncia una sola fecha."
+  },
+  {
+   "p": "Si sólo la necesitas para internet, el [banner](id:banner) ya empieza en la medida digital."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué archivo le doy a la imprenta?",
+   "respuesta": "El PDF. Va a escala real y las letras no se pixelean."
+  },
+  {
+   "pregunta": "¿Puedo hacer una lona de 4 × 2 m?",
+   "respuesta": "Sí puedes. Elige «A tu medida» y escribe ancho y alto en centímetros."
+  },
+  {
+   "pregunta": "¿Por qué sale una persona junto a la lona?",
+   "respuesta": "Es para ver la escala real. No aparece en el archivo que bajas."
+  },
+  {
+   "pregunta": "¿Le pongo un QR?",
+   "respuesta": "Sólo si queda al alcance. Detrás del escenario casi nadie lo alcanza a escanear."
+  },
+  {
+   "pregunta": "¿Cuánto cuesta diseñarla?",
+   "respuesta": "Nada. La bajas sin marca de agua y la línea «Hecho con Avelina» al pie se apaga con su casilla."
+  }
+ ],
+ "venta": {
+  "puente": "La lona dice el nombre del grupo, y tu sitio enseña tus videos y tu repertorio a quien te quiere contratar.",
+  "aviso": "Tu lona está lista. ¿Quieres un sitio para el grupo con tus videos en vivo?",
+  "titulo": "¿Te hago el sitio de tu grupo?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

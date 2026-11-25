@@ -1,0 +1,161 @@
+{
+ "id": "formato-de-cotizacion",
+ "slug": "formato-de-cotizacion",
+ "molde": "plantilla",
+ "cabeza": "cotización ejemplo",
+ "busquedas": ["formato de cotización", "plantilla de cotización", "ejemplo de cotización", "hoja de cotización", "cotización formal", "proforma de cotización", "modelo de presupuesto", "plantilla de presupuesto excel", "presupuesto excel", "cotización formato"],
+ "categoria": "Formatos y documentos",
+ "herramienta": { "id": "documento", "modo": "cotizacion" },
+ "fuentes": [
+  { "texto": "Ley del Impuesto al Valor Agregado, artículo 1 (Cámara de Diputados)", "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf" }
+ ],
+ "serp": [
+  { "posicion": 1, "url": "https://datacrm.com/blog/ejemplo-de-cotizacion-elementos-y-formato", "titulo": "Ejemplo de cotización: Elementos Clave y formato", "promete": "Elementos de la cotización; vende un CRM, no deja llenar nada" },
+  { "posicion": 2, "url": "https://www.crehana.com/business/descargables/ejemplos-de-cotizaciones/", "titulo": "Ejemplos de cotizaciones", "promete": "Excel descargable a cambio de datos; ejemplos de productora y agencia" },
+  { "posicion": 3, "url": "https://blog.hubspot.es/sales/como-hacer-cotizacion", "titulo": "Cómo hacer una cotización: ejemplos y plantilla gratuita", "promete": "Plantilla gratis que pide correo; no explica IVA de México" }
+ ],
+ "title": "Cotización ejemplo para bodas y eventos de músicos en PDF",
+ "h1": "Formato de cotización para músicos y artistas",
+ "description": "Cotización ejemplo de una banda para boda y formato gratis. Llénala con tu logo, tus horas de show y el IVA y bájala en PDF. No pide cuenta ni tu correo.",
+ "resumen": "Cotiza una boda o un evento con tu logo e IVA y bájala en PDF",
+ "revisada": "2026-11",
+ "relacionadas": ["lista-de-precios", "recibo-de-pago", "formato-de-factura", "link-de-pago", "terminos-y-condiciones", "pagina-web-para-negocio"],
+ "respuesta": [
+  "Una cotización pone por escrito qué vas a tocar o entregar, cuánto cuesta y hasta qué día vale ese precio. Llena el formato de abajo y bájalo en PDF para la pareja o el organizador.",
+  "No te pide cuenta ni correo. Lo que escribes se queda en tu equipo."
+ ],
+ "cuerpo": [
+  { "h2": "Cuándo te piden una cotización" },
+  { "p": "Casi siempre llega por mensaje con una fecha y un lugar. Puede ser una boda, unos quince años, un evento de empresa o una cena en un restaurante." },
+  { "p": "Quien pregunta suele estar comparando a varios músicos. El que manda una hoja clara y rápida tiene ventaja sobre el que contesta con un audio." },
+  { "p": "Lo mismo pasa con una fotógrafa de bodas, una ilustradora por encargo o un tatuador con una pieza grande. Todos necesitan dejar el precio por escrito." },
+  { "h2": "Lo que no puede faltar en tu cotización" },
+  { "tabla": {
+   "columnas": ["Dato", "Para qué sirve"],
+   "filas": [
+    ["Tu nombre artístico o el de tu banda, con logo", "Que sepan quién manda el precio"],
+    ["Teléfono, WhatsApp y correo", "Que te contesten sin buscar tu número"],
+    ["Folio y fecha", "Encontrarla si te la piden meses después"],
+    ["Datos del cliente", "Nombre y contacto de quien organiza el evento"],
+    ["Partidas", "Cada servicio con cantidad y precio unitario"],
+    ["Subtotal, IVA y total", "Que el impuesto se vea aparte"],
+    ["Vigencia", "Hasta qué día sostienes la tarifa"],
+    ["Condiciones", "Anticipo, horario del evento y forma de pago"]
+   ]
+  } },
+  { "p": "En un evento también importa la fecha y el lugar del show. Escríbelos en las condiciones para que nadie los confunda." },
+  { "h2": "Ejemplo de cotización de una banda para boda" },
+  { "p": "Este ejemplo es de una banda versátil que toca en la ceremonia y en la fiesta. Te sirve de guía aunque hagas foto, baile o ilustración." },
+  { "tabla": {
+   "titulo": "Banda Los Faroles · Cotización 2026-031 · 24 de noviembre de 2026",
+   "columnas": ["Cantidad", "Concepto", "Precio unitario", "Importe"],
+   "filas": [
+    ["1", "Ceremonia con voz y guitarra, 45 minutos", "$3,500", "$3,500"],
+    ["1", "Show de banda de cinco músicos, tres horas", "$18,000", "$18,000"],
+    ["1", "Equipo de audio e iluminación", "$4,500", "$4,500"],
+    ["1", "Traslado fuera de la ciudad", "$1,000", "$1,000"],
+    ["", "Subtotal", "", "$27,000"],
+    ["", "IVA 16%", "", "$4,320"],
+    ["", "Total", "", "$31,320"]
+   ]
+  } },
+  { "p": "La tarifa vale 15 días. Se aparta la fecha con 50% de anticipo y el resto se paga el día del evento antes de tocar." },
+  { "p": "El nombre de la banda y las cifras son inventados. Pon los tuyos en el formato de arriba." },
+  { "h2": "Llena tu cotización en cinco pasos" },
+  { "pasos": [
+   { "titulo": "Escribe tu nombre artístico y sube tu logo", "texto": "Pon el nombre con el que te contratan y tu WhatsApp. El logo de la banda le da presencia a la hoja." },
+   { "titulo": "Desglosa cada parte del servicio", "texto": "Ceremonia, show, equipo y traslado en renglones separados. Así el cliente ve qué paga y qué puede quitar." },
+   { "titulo": "Marca cómo va el IVA", "texto": "Elige si tus tarifas ya lo incluyen o si se suma al final." },
+   { "titulo": "Anota vigencia y condiciones", "texto": "Escribe hasta qué día vale el precio, cuánto pides para apartar y qué horario cubre el show." },
+   { "titulo": "Baja el PDF y mándalo", "texto": "Envíalo por WhatsApp o por correo. El PDF se ve igual en el celular de la novia que en la computadora del salón." }
+  ] },
+  { "venta": true },
+  { "h2": "El IVA cuando cotizas un show" },
+  { "p": "En México la tasa general del IVA es de 16%. Así lo marca el artículo 1 de la Ley del IVA." },
+  { "p": "Las empresas y los salones grandes suelen pedir factura. Las parejas que contratan para su boda a veces no la necesitan." },
+  { "p": "Por eso conviene aclarar si tu precio trae el impuesto o si se agrega. Es la primera duda de quien recibe la hoja." },
+  { "ul": [
+   "Con IVA aparte, el total es el subtotal por 1.16.",
+   "Con IVA incluido, el subtotal es el total entre 1.16.",
+   "Si no facturas, escríbelo en las condiciones."
+  ] },
+  { "p": "Hay zonas y servicios con otra tasa. Si tienes duda, pregúntale a tu contador antes de mandarla." },
+  { "h2": "Cotización, presupuesto, recibo y factura" },
+  { "p": "Se parecen mucho pero llegan en momentos distintos del trato. Usar el correcto te evita malentendidos con quien te contrata." },
+  { "tabla": {
+   "columnas": ["Documento", "Cuándo se usa", "¿Es comprobante fiscal?"],
+   "filas": [
+    ["Cotización", "Antes del evento, para dar precio", "No"],
+    ["Presupuesto", "Lo mismo que la cotización, con el nombre que se usa en España", "No"],
+    ["Recibo de pago", "Cuando te dan el anticipo o el resto", "No"],
+    ["Factura (CFDI)", "Cuando el cliente la pide para deducir", "Sí, la emite el SAT o un proveedor autorizado"]
+   ]
+  } },
+  { "p": "Cuando te den el anticipo, entrega un [recibo de pago](id:recibo-de-pago). Si te piden comprobante fiscal, revisa el [formato de factura](id:formato-de-factura)." },
+  { "h2": "Qué escribir en condiciones según tu disciplina" },
+  { "tabla": {
+   "columnas": ["Disciplina", "Lo que más pregunta el cliente", "Qué escribir en condiciones"],
+   "filas": [
+    ["Música en vivo", "Cuántas horas tocas y si traes audio", "Horario, descansos, equipo incluido o aparte"],
+    ["Fotografía de eventos", "Cuántas fotos entregas y cuándo", "Horas de cobertura, fotos editadas y plazo de entrega"],
+    ["Ilustración por encargo", "Cuántos cambios entran", "Rondas de cambios, formato final y uso permitido"],
+    ["Tatuaje de pieza grande", "Cuántas sesiones lleva", "Sesiones estimadas, anticipo y retoque"],
+    ["Baile para eventos", "Cuántos bailarines y cuánto dura", "Número de bailarines, minutos de show y vestuario"]
+   ]
+  } },
+  { "p": "Si tocas en exteriores, escribe qué pasa si llueve. Una línea sobre la carpa o el cambio de horario ahorra discusiones." },
+  { "h2": "Lo que hace que se vayan con otro músico" },
+  { "ul": [
+   "Dar el precio en un audio sin tus datos.",
+   "No poner vigencia y tener que respetar la tarifa del año pasado.",
+   "Meter ceremonia, show y equipo en un solo renglón.",
+   "No aclarar si el precio trae IVA.",
+   "Contestar días después cuando la pareja ya apartó a otro."
+  ] },
+  { "p": "La rapidez pesa casi tanto como la tarifa. Una hoja clara el mismo día suele ganarle a una más barata que llega tarde." },
+  { "h2": "Qué hacer después de mandarla" },
+  { "pasos": [
+   { "titulo": "El mismo día", "texto": "Confirma por mensaje que el PDF llegó y que se abre bien." },
+   { "titulo": "Dos o tres días después", "texto": "Pregunta si quieren cambiar el repertorio o el horario." },
+   { "titulo": "Antes de que venza", "texto": "Avisa que la fecha sigue libre sólo hasta el día de la vigencia." },
+   { "titulo": "Si te dicen que no", "texto": "Pregunta qué faltó. Esa respuesta mejora tu siguiente cotización." }
+  ] },
+  { "p": "Guarda cada hoja con su folio. Si la pareja te recomienda con su hermana, sabes qué precio les diste." },
+  { "h3": "Cómo numerar tus cotizaciones" },
+  { "p": "Usa un folio que suba de uno en uno. Empezar con el año evita repetir números de una temporada a otra." },
+  { "ul": [
+   "2026-001 para la primera del año.",
+   "2026-002 para la que sigue.",
+   "Una letra extra si cotizas con dos proyectos, como 2026-A-014."
+  ] },
+  { "p": "Un folio ordenado da imagen de proyecto serio. También te deja contar cuántas bodas cierras al mes." },
+  { "h2": "Otros nombres para el mismo formato" },
+  { "ul": [
+   "**Cotización formal** para empresas que piden folio y datos fiscales.",
+   "**Proforma** cuando el cliente la necesita para aprobar el pago.",
+   "**Hoja de cotización** de una sola página para una tocada chica.",
+   "**Presupuesto** si el evento es en España o así te lo piden."
+  ] }
+ ],
+ "faqs": [
+  { "pregunta": "¿El formato de cotización es gratis?", "respuesta": "Sí. No pide registro ni correo y no pone marca de agua." },
+  { "pregunta": "¿Puedo poner el logo de mi banda?", "respuesta": "Sí. Lo subes en el formato y sale arriba del PDF." },
+  { "pregunta": "¿La cotización sirve como factura?", "respuesta": "No. La factura en México es un CFDI que se emite con el SAT o con un proveedor autorizado." },
+  { "pregunta": "¿Cuántos días debe durar la vigencia?", "respuesta": "Los que tú decidas. Lo común va de una a cuatro semanas." },
+  { "pregunta": "¿La puedo bajar en Excel?", "respuesta": "No. Sale en PDF para que nadie cambie tus tarifas." },
+  { "pregunta": "¿Dónde quedan mis datos?", "respuesta": "En tu equipo. El formato trabaja en tu navegador y no manda nada a un servidor." },
+  { "pregunta": "¿La mando por WhatsApp?", "respuesta": "Sí. Envíala como documento y no como foto para que se lea completa." },
+  { "pregunta": "¿Qué hago si me piden descuento?", "respuesta": "Haz otra cotización con folio nuevo. Así conservas la tarifa original." },
+  { "pregunta": "¿Debo pedir anticipo para apartar la fecha?", "respuesta": "Sí, es lo más común en eventos. Escribe el porcentaje y cuándo se paga el resto." }
+ ],
+ "venta": {
+  "puente": "En tu sitio de artista la gente escucha tu música y te pide cotización para su evento.",
+  "aviso": "Tu cotización está lista. ¿Quieres que te la pidan desde tu propio sitio?",
+  "titulo": "¿Te hago el sitio donde te piden fecha y precio?",
+  "tituloCorto": "Que te pidan cotización desde tu sitio"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

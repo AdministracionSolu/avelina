@@ -1,0 +1,498 @@
+{
+ "id": "plan-de-negocios",
+ "slug": "plan-de-negocios",
+ "molde": "guia",
+ "cabeza": "plan de negocios",
+ "busquedas": [
+  "plan negocio",
+  "plan de negocios ejemplo",
+  "plan de negocios ejemplos pdf",
+  "planificacion de negocios",
+  "planeacion de negocios",
+  "plan de negocio que es"
+ ],
+ "categoria": "Negocio",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://platzi.com/blog/que-es-plan-de-negocios/",
+   "titulo": "Qué es y cómo hacer un plan de negocios",
+   "promete": "Estructura general para emprendedores digitales; sin ejemplo con números de un negocio local"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.tiendanube.com/mx/blog/plan-de-negocios/",
+   "titulo": "Plan de negocios: guía con estructura, cómo hacerlo y ejemplos",
+   "promete": "Estructura completa enfocada en tienda en línea; sin versión corta ni qué pide un banco"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.bbva.mx/educacion-financiera/empresa/pyme/plan-de-negocios.html",
+   "titulo": "Plan de negocios",
+   "promete": "Explicación breve de banco; no trae plantilla ni preguntas guía por sección"
+  }
+ ],
+ "title": "Plan de negocios para tu banda, tu estudio o tu academia",
+ "h1": "Plan de negocios para artistas: qué lleva y cómo hacer el tuyo",
+ "description": "Haz el plan de negocios de tu banda, tu estudio de tatuaje o tu academia de música. Las nueve partes, preguntas guía, un ejemplo con números y la versión corta.",
+ "resumen": "Tu carrera artística escrita con metas y números",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "analisis-foda",
+  "modelo-canvas",
+  "mision-y-vision",
+  "lista-de-precios",
+  "como-registrar-una-marca",
+  "marketing-digital"
+ ],
+ "respuesta": [
+  "Un plan de negocios es un documento que explica qué ofreces como artista, a quién, cómo vas a trabajar y cuánto dinero te hace falta. Sirve para decidir con números y para conseguir un crédito, un socio o una beca.",
+  "Se arma con nueve apartados que van del resumen a las cuentas. Si tu proyecto es chico, te alcanza con unas diez páginas o hasta con una hoja."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Por qué un artista necesitaría uno"
+  },
+  {
+   "p": "Mucha gente cree que esto es sólo para empresas. Pero abrir un estudio, comprar equipo o grabar un disco también es invertir."
+  },
+  {
+   "p": "El plan pone en papel lo que tienes en la cabeza. Lo vuelve metas, pasos y cifras que puedes revisar."
+  },
+  {
+   "p": "No es un trámite. Es la forma de saber si tu idea aguanta antes de gastar tus ahorros en un local de ensayo."
+  },
+  {
+   "p": "Un buen plan responde cinco cosas. Qué ofreces y a quién, contra quién compites, cómo te van a encontrar y cuánto te va a dejar."
+  },
+  {
+   "h2": "Lo que te resuelve"
+  },
+  {
+   "ul": [
+    "Saber si un estudio o una academia pueden dejar dinero antes de abrir.",
+    "Pedir un crédito, buscar socio o armar una solicitud de apoyo.",
+    "Ordenar tareas y fechas para el arranque.",
+    "Que todos en la banda sepan hacia dónde van.",
+    "Comparar cada mes lo que planeaste con lo que pasó."
+   ]
+  },
+  {
+   "h2": "Las nueve partes"
+  },
+  {
+   "tabla": {
+    "titulo": "Estructura de un plan de negocios",
+    "columnas": [
+     "Parte",
+     "Qué contesta",
+     "Extensión sugerida"
+    ],
+    "filas": [
+     [
+      "Resumen ejecutivo",
+      "De qué trata todo el plan en breve",
+      "Una página"
+     ],
+     [
+      "Descripción del proyecto",
+      "Qué haces, misión, visión y forma legal",
+      "Una página"
+     ],
+     [
+      "Servicio u obra",
+      "Qué ofreces y qué necesidad cubre",
+      "Una o dos páginas"
+     ],
+     [
+      "Análisis de mercado",
+      "Quién te contrata o te compra y cuántos hay",
+      "Una o dos páginas"
+     ],
+     [
+      "Competencia",
+      "Quién más ofrece lo mismo y en qué te distingues",
+      "Una página"
+     ],
+     [
+      "Marketing y ventas",
+      "Cómo te van a conocer y cómo vas a cerrar",
+      "Una o dos páginas"
+     ],
+     [
+      "Operación",
+      "Dónde, con quién y cómo se hace el trabajo",
+      "Una página"
+     ],
+     [
+      "Finanzas",
+      "Inversión, costos, ingresos y punto de equilibrio",
+      "Dos páginas"
+     ],
+     [
+      "Plan de acción",
+      "Qué se hace, quién lo hace y cuándo",
+      "Una página"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo escribirlo paso a paso"
+  },
+  {
+   "p": "El orden en que lo escribes no es el orden del documento. El resumen va al último."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Describe tu proyecto",
+     "texto": "Qué haces, dónde y para quién. Si ya tienes [misión y visión](id:mision-y-vision), agrégalas."
+    },
+    {
+     "titulo": "Define lo que ofreces",
+     "texto": "Haz la lista de servicios u obra con su precio. Explica qué le resuelve a quien te contrata."
+    },
+    {
+     "titulo": "Conoce a tu público",
+     "texto": "Describe a quien te contrata con edad, zona y costumbres. Platica con al menos diez personas que podrían hacerlo."
+    },
+    {
+     "titulo": "Revisa a la competencia",
+     "texto": "Busca a cinco artistas que ofrezcan lo mismo cerca de ti. Anota sus precios, sus opiniones y lo que les falta."
+    },
+    {
+     "titulo": "Haz tu FODA",
+     "texto": "Los cuatro cuadros del [análisis FODA](id:analisis-foda) te dicen dónde está parado tu proyecto."
+    },
+    {
+     "titulo": "Escribe tu plan de marketing",
+     "texto": "Decide redes, mensaje y presupuesto. Suma tu sitio y tu perfil de Google."
+    },
+    {
+     "titulo": "Cuenta cómo vas a operar",
+     "texto": "Dónde ensayas o atiendes, con qué equipo y con cuántas personas."
+    },
+    {
+     "titulo": "Haz las cuentas",
+     "texto": "Calcula lo que cuesta arrancar, tus gastos fijos y tus costos por servicio. Luego estima ingresos y punto de equilibrio."
+    },
+    {
+     "titulo": "Arma el plan de acción",
+     "texto": "Haz una lista de lo que sigue en el primer semestre. A cada cosa ponle un nombre y un día."
+    },
+    {
+     "titulo": "Escribe el resumen",
+     "texto": "Cuando ya tengas todo, condénsalo en una hoja. Quien te va a prestar dinero empieza por ahí."
+    }
+   ]
+  },
+  {
+   "h2": "Preguntas que debe responder cada parte"
+  },
+  {
+   "tabla": {
+    "titulo": "Preguntas guía",
+    "columnas": [
+     "Parte",
+     "Preguntas"
+    ],
+    "filas": [
+     [
+      "Descripción",
+      "¿Qué haces? ¿Dónde trabajas? ¿Eres persona física o moral?"
+     ],
+     [
+      "Servicio u obra",
+      "¿Qué ofreces? ¿A qué precio? ¿Por qué te elegirían a ti?"
+     ],
+     [
+      "Mercado",
+      "¿Quién te contrata? ¿Cuántos posibles clientes hay en tu zona? ¿Cada cuándo contratan?"
+     ],
+     [
+      "Competencia",
+      "¿Quién ofrece lo mismo? ¿A qué precio? ¿Qué dicen de ellos?"
+     ],
+     [
+      "Marketing",
+      "¿Cómo te van a encontrar? ¿Cuánto vas a invertir al mes en darte a conocer?"
+     ],
+     [
+      "Operación",
+      "¿Qué equipo necesitas? ¿Quién hace cada tarea? ¿Qué permisos te piden?"
+     ],
+     [
+      "Finanzas",
+      "¿Cuánto necesitas para empezar? ¿Cuánto gastas al mes? ¿Cuándo dejas de perder?"
+     ]
+    ]
+   }
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Ejemplo resumido de una academia de guitarra"
+  },
+  {
+   "p": "Es un caso inventado de una academia chica de guitarra en Aguascalientes. Los números son de ejemplo para enseñar la cuenta."
+  },
+  {
+   "tabla": {
+    "titulo": "Plan resumido de una academia de guitarra",
+    "columnas": [
+     "Parte",
+     "Contenido"
+    ],
+    "filas": [
+     [
+      "Descripción",
+      "Academia de guitarra para niños y adultos, persona física"
+     ],
+     [
+      "Servicio",
+      "Clases individuales y en grupo de guitarra acústica y eléctrica"
+     ],
+     [
+      "Público",
+      "Familias de tres colonias cercanas y adultos que trabajan en la zona"
+     ],
+     [
+      "Competencia",
+      "Dos maestros particulares cerca, sin sitio ni perfil de Google"
+     ],
+     [
+      "Ventaja",
+      "Recital cada seis meses y grupos por edad"
+     ],
+     [
+      "Marketing",
+      "Perfil de Google, sitio con horarios y precios, WhatsApp y flyers en escuelas"
+     ],
+     [
+      "Operación",
+      "Salón pequeño con seis guitarras y un maestro de medio tiempo"
+     ],
+     [
+      "Inversión inicial",
+      "$45,000 en instrumentos, amplificadores, mobiliario y depósito"
+     ],
+     [
+      "Meta del año",
+      "Recuperar la inversión y llegar a 160 clases al mes"
+     ]
+    ]
+   }
+  },
+  {
+   "h3": "Las cuentas del ejemplo"
+  },
+  {
+   "tabla": {
+    "titulo": "Finanzas de la academia de ejemplo",
+    "columnas": [
+     "Concepto",
+     "Monto mensual"
+    ],
+    "filas": [
+     [
+      "Gastos fijos de renta, luz y sueldo del maestro",
+      "$16,000"
+     ],
+     [
+      "Precio promedio por clase",
+      "$200"
+     ],
+     [
+      "Costo de material por clase",
+      "$20"
+     ],
+     [
+      "Margen por clase",
+      "$180"
+     ],
+     [
+      "Clases para no perder",
+      "89 al mes"
+     ],
+     [
+      "Clases esperadas al sexto mes",
+      "160 al mes"
+     ],
+     [
+      "Ganancia esperada al sexto mes antes de impuestos",
+      "$12,800"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Con estas cuentas la academia conoce su meta diaria. Abriendo 26 días, necesita unas cuatro clases al día para no perder."
+  },
+  {
+   "p": "Si tu proyecto es una banda, cambia clases por fechas. El método es el mismo con tu tarifa por evento y tus gastos de traslado y audio."
+  },
+  {
+   "h2": "Dónde sacar datos para tu mercado"
+  },
+  {
+   "p": "Un plan con datos reales convence más que uno lleno de suposiciones. En México hay fuentes públicas y gratis."
+  },
+  {
+   "tabla": {
+    "titulo": "Fuentes de datos para tu plan",
+    "columnas": [
+     "Fuente",
+     "Qué te da"
+    ],
+    "filas": [
+     [
+      "DENUE del INEGI",
+      "Cuántos negocios de tu giro hay en tu colonia, con su ubicación en el mapa"
+     ],
+     [
+      "Censos y encuestas del INEGI",
+      "Cuánta gente vive en tu zona y cómo se compone"
+     ],
+     [
+      "Google Maps",
+      "Opiniones, horarios y fotos de otros estudios y academias"
+     ],
+     [
+      "Tu propia encuesta",
+      "Lo que tu público dice que pagaría"
+     ],
+     [
+      "Proveedores",
+      "Precios de equipo e insumos en tu ciudad"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "El DENUE te sirve mucho si vas a abrir un espacio. Ves en un mapa cuántas academias o estudios hay alrededor del local que piensas rentar."
+  },
+  {
+   "h2": "La forma legal"
+  },
+  {
+   "p": "Tu plan debe decir si trabajas como persona física o como empresa. Eso cambia tus obligaciones fiscales y cómo te ve un banco."
+  },
+  {
+   "p": "Muchos artistas arrancan como persona física. Una sociedad conviene cuando hay varios socios o cuando el proyecto crece."
+  },
+  {
+   "p": "Antes de inscribirte en el SAT, consulta a un contador. Arrancar en el régimen correcto te ahorra multas."
+  },
+  {
+   "h2": "El plan de una hoja"
+  },
+  {
+   "p": "No todos los proyectos necesitan un documento largo. Si vas a empezar chico y con tu dinero, una hoja te ordena las ideas."
+  },
+  {
+   "ul": [
+    "Qué ofrezco y a qué precio.",
+    "Quién me contrata y dónde está.",
+    "Por qué me elegiría a mí.",
+    "Cómo me va a encontrar.",
+    "Cuánto necesito para empezar.",
+    "Cuánto gasto al mes.",
+    "Cuántas fechas o clases necesito para no perder.",
+    "Qué tengo que hacer en los próximos tres meses."
+   ]
+  },
+  {
+   "p": "Si después buscas crédito o socio, esa hoja se convierte en el plan completo. El [modelo Canvas](id:modelo-canvas) también ayuda a resumir."
+  },
+  {
+   "h2": "Lo que pide un banco o un socio"
+  },
+  {
+   "p": "Si vas a pedir dinero, cuida tres cosas. Que las cuentas cuadren, que sean creíbles y que expliques cómo vas a pagar."
+  },
+  {
+   "ul": [
+    "Estados de cuenta o comprobantes de lo que ganas hoy.",
+    "Cotizaciones del equipo que vas a comprar.",
+    "Ingresos esperados mes por mes del primer año.",
+    "Cómo vas a pagar en los meses flojos, como enero.",
+    "Tu experiencia en tu disciplina."
+   ]
+  },
+  {
+   "p": "Un plan donde todo crece sin explicación pierde credibilidad. Vale más una proyección modesta con datos que una soñadora sin respaldo."
+  },
+  {
+   "h2": "Errores comunes"
+  },
+  {
+   "ul": [
+    "Escribir el plan para presumir y no para decidir.",
+    "Copiar una plantilla sin pensar en tu ciudad.",
+    "Calcular ingresos sin hablar con nadie que te contrataría.",
+    "Olvidar tu propio pago dentro de los gastos.",
+    "No dejar un colchón para los primeros meses.",
+    "Guardar el plan y no volver a compararlo."
+   ]
+  },
+  {
+   "h2": "Cada cuándo revisarlo"
+  },
+  {
+   "p": "El plan no se escribe una vez y se olvida. Se ajusta conforme avanza tu proyecto."
+  },
+  {
+   "p": "Cada mes compara tus ingresos reales con los planeados. Cada seis meses ajusta metas, precios y marketing."
+  },
+  {
+   "p": "Cuando una meta falla tres meses al hilo, hazle caso. Ajusta antes de quedarte sin ahorros."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es un plan de negocios en pocas palabras?",
+   "respuesta": "Un documento con tu idea y sus números. Te ayuda a decidir si tu proyecto funciona."
+  },
+  {
+   "pregunta": "¿Cuántas páginas lleva?",
+   "respuesta": "Entre cinco y quince para un proyecto chico. La versión de una hoja sirve para empezar."
+  },
+  {
+   "pregunta": "¿Qué parte se escribe primero?",
+   "respuesta": "La descripción del proyecto. El resumen va al final aunque se lea primero."
+  },
+  {
+   "pregunta": "¿Lo necesito para pedir crédito?",
+   "respuesta": "Casi siempre sí. Los bancos y los programas de apoyo quieren ver números y cómo vas a pagar."
+  },
+  {
+   "pregunta": "¿En qué se distingue del modelo Canvas?",
+   "respuesta": "El Canvas dibuja tu proyecto en una sola hoja. El plan le suma cuentas, fechas y quién hace qué."
+  },
+  {
+   "pregunta": "¿Cada cuándo se actualiza?",
+   "respuesta": "Míralo cada mes junto a tus números reales. Una revisión profunda va cada seis meses."
+  },
+  {
+   "pregunta": "¿Puedo hacerlo sin saber de finanzas?",
+   "respuesta": "Sí. Basta sumar lo que cuesta arrancar, lo que gastas al mes y lo que deja cada servicio."
+  },
+  {
+   "pregunta": "¿Sirve para una banda o sólo para un estudio?",
+   "respuesta": "Sirve para los dos. En una banda cuentas fechas en lugar de clases o citas."
+  }
+ ],
+ "venta": {
+  "puente": "Casi todo plan de un artista incluye que lo encuentren en internet, y un sitio con tu nombre es el primer paso.",
+  "titulo": "¿Te hago el sitio que va en tu plan?",
+  "tituloCorto": "El sitio de tu plan"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

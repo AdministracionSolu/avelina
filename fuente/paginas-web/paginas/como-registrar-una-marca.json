@@ -1,0 +1,434 @@
+{
+ "id": "como-registrar-una-marca",
+ "slug": "como-registrar-una-marca",
+ "molde": "guia",
+ "cabeza": "cómo registrar una marca",
+ "busquedas": [
+  "cómo patentar una marca"
+ ],
+ "categoria": "Negocio",
+ "herramienta": null,
+ "fuentes": [
+  {
+   "texto": "gob.mx, ficha del trámite Solicitud de registro de marca IMPI-01-001-A (leída el 12-nov-2026)",
+   "url": "https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=IMPI-01-001-A"
+  },
+  {
+   "texto": "IMPI, Registro de marcas (leída el 12-nov-2026)",
+   "url": "https://www.gob.mx/impi/documentos/registro-de-marcas"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.elimparcial.com/mexico/2026/07/14/como-registrar-una-marca-ante-el-impi-el-caso-del-pato-merlin-explica-el-tramite-costo-y-beneficios-en-2026/",
+   "titulo": "Cómo registrar una marca ante el IMPI",
+   "promete": "Nota periodística con el trámite y el costo; sin pasos detallados ni cómo elegir la clase"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.milenio.com/negocios/impi-como-registrar-una-marca",
+   "titulo": "Cómo le hago para registrar una marca ante el IMPI",
+   "promete": "Pasos generales; cifras de años anteriores y sin errores comunes"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.gob.mx/impi/documentos/registro-de-marcas",
+   "titulo": "Registro de marcas",
+   "promete": "Página oficial con ligas y tarifa; no explica cómo saber si tu marca es registrable ni qué pasa después"
+  }
+ ],
+ "title": "Cómo registrar una marca de tu banda o tu nombre artístico",
+ "h1": "Cómo registrar como marca el nombre de tu banda",
+ "description": "Registra en el IMPI el nombre de tu banda, tu estudio o tu nombre artístico. Pasos en línea, costo de $2,695.18 más IVA por clase y qué revisar antes.",
+ "resumen": "Proteger el nombre de tu banda o tu estudio ante el IMPI",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "isotipo-imagotipo-logotipo",
+  "crear-logo-gratis",
+  "buscar-dominio",
+  "que-es-un-dominio",
+  "mision-y-vision",
+  "pagina-web-para-negocio"
+ ],
+ "respuesta": [
+  "El trámite se pide al IMPI, y lo más práctico es hacerlo por internet desde Tu PASE. Primero compruebas que el nombre de tu proyecto no esté ocupado y ubicas la categoría donde cae.",
+  "Revisar tu solicitud cuesta $2,695.18 más IVA en cada categoría, y por internet te rebajan 10%. La respuesta llega en 4 a 6 meses y la protección vale una década."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Por qué un artista registra su nombre"
+  },
+  {
+   "p": "Imagina que tu banda ya llena foros y otra empieza a tocar con el mismo nombre en otra ciudad. Sin registro, pelear por ese nombre es mucho más difícil."
+  },
+  {
+   "p": "Lo mismo aplica a un estudio de tatuaje, una academia de baile o la marca con la que vendes tus prints. Si vas a crecer con ese nombre, vale la pena protegerlo."
+  },
+  {
+   "h2": "Qué te da el registro"
+  },
+  {
+   "p": "Con el registro, la ley te reconoce como único dueño de ese nombre o ese logo dentro de tu actividad. La oficina encargada es el Instituto Mexicano de la Propiedad Industrial."
+  },
+  {
+   "p": "La página del IMPI explica que el registro da uso exclusivo en todo el país durante 10 años. Con él puedes frenar a quien use algo igual o muy parecido en tu mismo ramo."
+  },
+  {
+   "p": "Ojo, no tiene nada que ver con Hacienda ni con tu dirección web. Cada uno de esos pasos va por su lado."
+  },
+  {
+   "tabla": {
+    "titulo": "Marca, razón social y dominio",
+    "columnas": [
+     "Qué",
+     "Qué protege",
+     "Dónde se tramita"
+    ],
+    "filas": [
+     [
+      "Marca",
+      "El nombre o logo con que te presentas",
+      "IMPI"
+     ],
+     [
+      "Razón social o RFC",
+      "Tu identidad fiscal",
+      "SAT y notario si es sociedad"
+     ],
+     [
+      "Dominio",
+      "Tu dirección en internet",
+      "Un registrador de dominios"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Las marcas no se patentan"
+  },
+  {
+   "p": "Mucha gente busca cómo patentar el nombre de su banda. Las marcas se registran y las patentes son otra cosa."
+  },
+  {
+   "p": "Una patente protege un invento, como un pedal de efectos nuevo. La marca protege el nombre o el signo que te identifica."
+  },
+  {
+   "p": "Tus canciones tampoco entran aquí. La marca cuida el nombre del proyecto, no la obra que compones."
+  },
+  {
+   "h2": "Qué puedes registrar"
+  },
+  {
+   "p": "No sólo palabras. El IMPI acepta varios tipos de signos."
+  },
+  {
+   "ul": [
+    "Un nombre, como el de tu banda o tu nombre artístico.",
+    "Un logo o un diseño.",
+    "El nombre junto con su logo.",
+    "Otros signos que identifiquen lo que ofreces, según los tipos que acepta el IMPI."
+   ]
+  },
+  {
+   "p": "Hay nombres que no se pueden registrar. Por ejemplo, palabras que sólo describen lo que haces, como Música en Vivo para un grupo."
+  },
+  {
+   "h2": "Tres pasos antes de pedirlo"
+  },
+  {
+   "p": "El IMPI recomienda revisar tres cosas antes de llenar la solicitud. No cuestan y te evitan un rechazo."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Encuentra tu clase",
+     "texto": "Los productos y servicios se agrupan en clases. Busca la tuya con Clasniza, la herramienta del IMPI."
+    },
+    {
+     "titulo": "Revisa nombres parecidos",
+     "texto": "Los buscadores Acervo de Marcas y MARCia te dicen si alguien ya se adelantó con algo parecido."
+    },
+    {
+     "titulo": "Abre tu cuenta en Tu PASE",
+     "texto": "Basta tu CURP, un correo y una clave. Todo lo demás pasa ahí adentro."
+    }
+   ]
+  },
+  {
+   "p": "La búsqueda es lo más importante. Un nombre parecido en tu misma clase es el motivo más común de problemas."
+  },
+  {
+   "p": "Si además de tocar vendes playeras con tu logo, esas van en otra clase. Cada clase se paga por separado."
+  },
+  {
+   "h2": "Cuánto cuesta"
+  },
+  {
+   "p": "El precio sale de la ficha publicada en gob.mx, revisada el 12 de noviembre de 2026."
+  },
+  {
+   "tabla": {
+    "titulo": "Costo oficial del estudio de una solicitud de marca",
+    "columnas": [
+     "Concepto",
+     "Monto"
+    ],
+    "filas": [
+     [
+      "Estudio de la solicitud por clase",
+      "$2,695.18"
+     ],
+     [
+      "IVA",
+      "$431.23"
+     ],
+     [
+      "Total por clase presentando en ventanilla",
+      "$3,126.41"
+     ],
+     [
+      "Si la presentas en línea",
+      "10% de descuento sobre la cuota"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "El monto es por cada clase. Si registras tus shows y tu ropa, pagas dos veces."
+  },
+  {
+   "p": "El IMPI ha tenido campañas temporales con precio especial para ciertos grupos. Revisa gob.mx/impi antes de pagar por si hay una vigente."
+  },
+  {
+   "h2": "Lo que conviene tener listo"
+  },
+  {
+   "p": "Junta esto antes de sentarte a llenar la solicitud. Así la terminas de una sola vez."
+  },
+  {
+   "ul": [
+    "Tu CURP y tu e.firma vigente con su contraseña.",
+    "Un correo que revises seguido.",
+    "El nombre exacto, escrito igual que en tus discos y tu mercancía.",
+    "Tu logo en archivo de imagen, si lo vas a registrar.",
+    "La lista de lo que ofreces y su clase.",
+    "Tu domicilio y la fecha desde que usas el nombre, si ya lo usas.",
+    "Con qué pagar, sea tarjeta o tu app del banco."
+   ]
+  },
+  {
+   "h2": "El trámite en línea paso a paso"
+  },
+  {
+   "p": "La ficha del trámite describe estos pasos para presentarlo en línea. El sistema se llama Marca en Línea."
+  },
+  {
+   "ol": [
+    "Regístrate en Tu PASE, el portal de servicios electrónicos del IMPI, con tu CURP o tu e.firma.",
+    "Lee y acepta los lineamientos de Marca en Línea.",
+    "Entra a Marca en Línea y elige nueva solicitud.",
+    "Captura los datos.",
+    "Genera la línea de captura y paga.",
+    "Firma con tu e.firma.",
+    "Da seguimiento a tu expediente desde tu cuenta."
+   ]
+  },
+  {
+   "p": "Sin e.firma vigente no se puede firmar. Si te falta, tramítala primero con Hacienda."
+  },
+  {
+   "h2": "Los datos que te van a pedir"
+  },
+  {
+   "ul": [
+    "Tus datos generales como solicitante.",
+    "Tu domicilio y uno para recibir avisos.",
+    "Los datos del signo, o sea el nombre o el logo.",
+    "Lo que ofreces y su clase.",
+    "La ubicación de tu estudio o tu local, si ya usas la marca.",
+    "El comprobante de pago con su línea de captura.",
+    "Un poder, si alguien lo tramita por ti."
+   ]
+  },
+  {
+   "p": "Si tu banda tiene varios integrantes, pónganse de acuerdo antes sobre a nombre de quién va. Esa decisión evita peleas si alguien se sale."
+  },
+  {
+   "h2": "Si prefieres ir en persona"
+  },
+  {
+   "p": "Hay quien prefiere hacerlo cara a cara. La oficina central está en Arenal 550, Xochimilco, y hay sedes en otros estados."
+  },
+  {
+   "p": "Economía también recibe solicitudes en algunas de sus oficinas. Llama antes para confirmar."
+  },
+  {
+   "p": "En ventanilla pagas la cuota completa. El 10% de descuento sólo aplica en línea."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Cuánto tarda y qué sigue"
+  },
+  {
+   "p": "La página del IMPI marca de 4 a 6 meses de respuesta. La ficha del trámite habla de 5 meses."
+  },
+  {
+   "p": "Mientras tanto analizan si tu nombre es válido y si se cruza con otro. Si encuentran un hueco, te escriben pidiendo aclarar."
+  },
+  {
+   "p": "Si te piden algo, responde dentro del plazo. Si no contestas, puedes perder la solicitud."
+  },
+  {
+   "p": "Revisa tu expediente en Tu PASE. Cuando lo aprueban, te llega tu título de registro."
+  },
+  {
+   "h2": "Cuánto dura"
+  },
+  {
+   "p": "El registro vale 10 años. Al terminar puedes renovarlo para seguir protegido."
+  },
+  {
+   "p": "Pon la fecha de vencimiento en tu calendario. Si se te pasa, alguien más podría quedarse con tu nombre."
+  },
+  {
+   "h2": "Cómo elegir un nombre que sí pase"
+  },
+  {
+   "p": "Un buen nombre es distinto, fácil de decir y no describe sólo lo que haces. Piénsalo antes de pagar."
+  },
+  {
+   "tabla": {
+    "titulo": "Nombres fáciles y difíciles de registrar",
+    "columnas": [
+     "Más fácil de registrar",
+     "Más difícil de registrar",
+     "Por qué"
+    ],
+    "filas": [
+     [
+      "Los Faroles Rotos",
+      "Banda Musical",
+      "El segundo sólo describe lo que es"
+     ],
+     [
+      "Tinta Lunar",
+      "Tatuajes Profesionales",
+      "Un genérico no distingue a nadie"
+     ],
+     [
+      "Coral Danza",
+      "Escuela de Baile",
+      "Hay cientos iguales en el ramo"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Revisa también que el dominio esté libre. Lo ideal es que tu nombre y tu dirección en internet coincidan."
+  },
+  {
+   "p": "Para eso usa el buscador de [dominios disponibles](id:buscar-dominio). Después revisa en el IMPI que el nombre esté libre como marca."
+  },
+  {
+   "h2": "Si alguien ya usa un nombre parecido"
+  },
+  {
+   "p": "Si en tu búsqueda sale algo igual o muy cercano en tu clase, detente antes de pagar. Tienes varias salidas."
+  },
+  {
+   "ul": [
+    "Cambia tu nombre por uno más distinto mientras todavía es barato.",
+    "Revisa si la otra marca sigue vigente o ya venció.",
+    "Revisa si está en otra clase que no choca con lo tuyo.",
+    "Consulta a un especialista en propiedad industrial si no está claro."
+   ]
+  },
+  {
+   "p": "Cambiar de nombre al inicio cuesta poco. Cambiarlo después de imprimir playeras y grabar un disco cuesta mucho más."
+  },
+  {
+   "h2": "Cuándo pedir ayuda"
+  },
+  {
+   "p": "Mucha gente hace el trámite sola. En algunos casos un especialista te ahorra tiempo y rechazos."
+  },
+  {
+   "ul": [
+    "Tu nombre se parece a otro y no sabes si choca.",
+    "Ofreces cosas de varias clases.",
+    "Te llegó un requerimiento del IMPI y no entiendes qué piden.",
+    "Quieres proteger tu nombre en otros países."
+   ]
+  },
+  {
+   "p": "Que te detallen su trabajo en papel. Lo que cobran ellos va por encima del pago oficial."
+  },
+  {
+   "h2": "Un ejemplo con un estudio de tatuaje"
+  },
+  {
+   "p": "Este caso es inventado para ver el proceso. Un estudio de tatuaje en Oaxaca ya es conocido y quiere proteger su nombre."
+  },
+  {
+   "p": "Primero ubica su categoría y confirma que el nombre no está tomado. Luego entra al portal con su firma electrónica."
+  },
+  {
+   "p": "Paga la cuota rebajada y envía todo desde la computadora del estudio. Cuando llega el título, compra también el dominio idéntico."
+  },
+  {
+   "h2": "Errores comunes"
+  },
+  {
+   "ul": [
+    "No buscar nombres parecidos antes de pagar.",
+    "Elegir una clase que no corresponde a lo que ofreces.",
+    "Registrar sólo el logo cuando lo valioso es el nombre.",
+    "No contestar un requerimiento a tiempo.",
+    "Olvidar la fecha de renovación.",
+    "Mandar a hacer mantas y playeras antes de saber si el nombre se puede registrar."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Cuánto cuesta registrar una marca en México?",
+   "respuesta": "Son $2,695.18 más IVA en cada categoría. Por internet te descuentan 10%, según la ficha revisada el 12 de noviembre de 2026."
+  },
+  {
+   "pregunta": "¿Cuánto tarda?",
+   "respuesta": "De 4 a 6 meses según el IMPI. Puede tardar más si te piden aclaraciones."
+  },
+  {
+   "pregunta": "¿Cuánto dura el registro?",
+   "respuesta": "10 años. Después se puede renovar."
+  },
+  {
+   "pregunta": "¿Puedo hacerlo sin abogado?",
+   "respuesta": "Sí. Con tu firma electrónica y tu cuenta del portal lo resuelves sola o solo."
+  },
+  {
+   "pregunta": "¿El nombre de mi banda se patenta o se registra?",
+   "respuesta": "Se registra. La patente es para inventos y no para nombres ni logos."
+  },
+  {
+   "pregunta": "¿El registro me protege si toco en otro país?",
+   "respuesta": "No. El registro del IMPI vale en México y para otros países hay otro trámite."
+  },
+  {
+   "pregunta": "¿Es obligatorio registrar mi nombre artístico?",
+   "respuesta": "No. Conviene si piensas crecer o vender mercancía con ese nombre."
+  }
+ ],
+ "venta": {
+  "puente": "Tu marca protege tu nombre, y un sitio con ese mismo nombre como dominio es donde la gente lo encuentra.",
+  "titulo": "¿Te hago el sitio con el nombre de tu proyecto?",
+  "tituloCorto": "Tu sitio de artista"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

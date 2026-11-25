@@ -1,0 +1,414 @@
+{
+ "id": "precios-de-wix",
+ "slug": "precios-de-wix",
+ "molde": "comparativa",
+ "cabeza": "precios wix",
+ "busquedas": [
+  "costos wix",
+  "costos de wix",
+  "wix precios méxico",
+  "planes de wix",
+  "wix vs aliviane"
+ ],
+ "categoria": "Página web",
+ "herramienta": null,
+ "fuentes": [
+  {
+   "texto": "Wix, crear un sitio web gratis (leído el 12-nov-2026)",
+   "url": "https://support.wix.com/es/article/crear-un-sitio-web-gratis"
+  },
+  {
+   "texto": "Wix, hacer upgrade a un plan Premium (leído el 12-nov-2026)",
+   "url": "https://support.wix.com/es/article/hacer-upgrade-a-un-plan-premium-para-tu-p%C3%A1gina-web"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.tooltester.com/es/?p=13505",
+   "titulo": "Precios de Wix (Tooltester)",
+   "promete": "Tabla en pesos de cada plan; no compara contra pedir la página hecha"
+  },
+  {
+   "posicion": 2,
+   "url": "https://websiteplanet.com/es/blog/planes-de-precios-de-wix-paga-solo-por-lo-que-necesitas/",
+   "titulo": "Planes de precios de Wix: paga sólo por lo que necesitas",
+   "promete": "Explica modalidades de pago; advierte que el precio cambia por país"
+  },
+  {
+   "posicion": 3,
+   "url": "https://quasa.io/es/media/tiendanube-o-wix-en-mexico-la-comision-cambia-el-coste-al-crecer",
+   "titulo": "¿Tiendanube o Wix en México?",
+   "promete": "Compara comisiones para tienda; no cubre negocios sin carrito"
+  }
+ ],
+ "title": "Precios Wix para artistas y qué cambia al pagar",
+ "h1": "Precios de Wix si quieres un sitio de artista",
+ "description": "Cuánto cuesta Wix para el sitio de tu banda o tu portafolio, qué trae el plan gratis y qué cambia con Premium. Compáralo con un sitio hecho a medida.",
+ "resumen": "Wix gratis, Wix Premium o un sitio de artista hecho a medida",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "diseno-de-paginas-web",
+  "como-crear-una-pagina-web",
+  "comprar-dominio",
+  "landing-page",
+  "sitios-de-google",
+  "pagina-web-para-negocio"
+ ],
+ "respuesta": [
+  "Wix ofrece un plan gratis y varios planes Premium de pago. Sus precios cambian según el país, la forma de pago y la promoción del momento, así que revisa la cifra vigente en su sitio.",
+  "Con el plan gratis tu sitio queda con una dirección de Wix y no puedes conectar tu dominio. Para usar tu propio nombre y quitar sus anuncios necesitas un plan Premium."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Cuánto cuesta Wix en este momento"
+  },
+  {
+   "p": "Aquí no copio las cifras de Wix porque se mueven con frecuencia. La plataforma te enseña un precio distinto según tu país, cómo pagas y la oferta vigente."
+  },
+  {
+   "p": "Entra a su sitio y apunta estos datos. Con ellos puedes comparar contra cualquier otra opción para tu proyecto."
+  },
+  {
+   "tabla": {
+    "titulo": "Qué anotar al ver los precios de Wix",
+    "columnas": [
+     "Dato",
+     "Por qué importa"
+    ],
+    "filas": [
+     [
+      "Precio por mes con pago mensual",
+      "Es lo que pagas si no te comprometes"
+     ],
+     [
+      "Precio por mes con pago anual",
+      "Baja el precio pero pagas el año por adelantado"
+     ],
+     [
+      "Precio al renovar",
+      "Puede ser distinto al de la promoción"
+     ],
+     [
+      "Costo del dominio el segundo año",
+      "Se suma al plan cada año"
+     ],
+     [
+      "Si el precio ya incluye IVA",
+      "Cambia la cuenta final"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Lo que te da el plan gratis"
+  },
+  {
+   "p": "El plan sin costo sirve para conocer el editor y jugar con plantillas. Para un proyecto que quiere contrataciones tiene tres límites claros."
+  },
+  {
+   "ul": [
+    "La dirección de tu sitio lleva el nombre de Wix y no el tuyo.",
+    "Los anuncios de Wix sólo se quitan con un plan Premium.",
+    "El espacio llega a 500 MB de almacenamiento y 1 GB de ancho de banda."
+   ]
+  },
+  {
+   "p": "Así lo explica el centro de ayuda de Wix. Para conectar tu propio dominio hay que pasar a Premium."
+  },
+  {
+   "p": "Piensa en el QR de tu flyer o en la dirección que dices al final del show. Una dirección larga con el nombre de otra empresa es difícil de recordar."
+  },
+  {
+   "h2": "Cómo suben los planes"
+  },
+  {
+   "p": "Cada escalón agrega funciones y cuesta más. Los nombres y las cifras exactas los cambia Wix con el tiempo."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Tipo de plan",
+     "Para qué alcanza"
+    ],
+    "filas": [
+     [
+      "Gratis",
+      "Probar el editor sin dominio propio"
+     ],
+     [
+      "Premium sin tienda",
+      "Sitio de artista con tu dominio y sin anuncios de Wix"
+     ],
+     [
+      "Premium con tienda",
+      "Vender mercancía y cobrar dentro del sitio"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Para enseñar tu música, tus fechas y tu contacto basta el plan más barato que conecte dominio. Si quieres vender playeras con carrito, necesitas uno con tienda."
+  },
+  {
+   "h2": "Cómo calcular lo que pagarías al año"
+  },
+  {
+   "p": "Con pago anual, el precio por mes casi siempre baja. A cambio sueltas los doce meses de golpe."
+  },
+  {
+   "p": "Toma el precio mensual del plan anual y multiplícalo por doce. Después suma lo que cueste renovar el dominio si tu plan sólo lo cubre un tiempo."
+  },
+  {
+   "p": "Pregunta además cuánto cobran al renovar. El precio de bienvenida no siempre se repite en el segundo año. Guarda una captura del precio que viste el día que contrataste."
+  },
+  {
+   "h2": "Wix contra un sitio de artista hecho por mí"
+  },
+  {
+   "p": "Son dos caminos muy distintos. En Wix pagas la herramienta y tú haces el trabajo. Conmigo pagas el sitio ya armado."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "",
+     "Wix con plan Premium",
+     "Sitio de artista desde Pilsi"
+    ],
+    "filas": [
+     [
+      "Quién diseña",
+      "Tú, con plantillas",
+      "Ave, con tu música, tus fotos y tus datos"
+     ],
+     [
+      "Pago inicial",
+      "El plan del año al precio vigente",
+      "$1,500"
+     ],
+     [
+      "Pago mensual",
+      "Incluido en el pago anual",
+      "$99 con tu sitio al día"
+     ],
+     [
+      "Dominio",
+      "Se conecta con un plan Premium",
+      "Incluido"
+     ],
+     [
+      "Cambios",
+      "Los haces tú cuando quieras",
+      "Los pides y se hacen"
+     ],
+     [
+      "Botón de WhatsApp",
+      "Lo agregas tú",
+      "Incluido con mensaje escrito"
+     ],
+     [
+      "Ves el resultado antes de pagar",
+      "Sí, en el editor",
+      "Sí, con una demo"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Los $99 al mes suman $1,188 en un año. Para comparar, pon junto a eso el precio anual de Wix y las horas que vas a invertir armando."
+  },
+  {
+   "p": "El sitio completo cuesta $5,000 y sirve si necesitas discografía, prensa y tienda. Mira los [paquetes](https://pilsi.art/paquetes) para ver qué trae cada uno."
+  },
+  {
+   "h2": "Cuándo te conviene Wix"
+  },
+  {
+   "ul": [
+    "Te gusta diseñar y tienes tiempo libre entre ensayos.",
+    "Quieres mover cosas tú varias veces al día.",
+    "Necesitas una tienda con carrito y cobro con tarjeta.",
+    "Quieres agregar apps de reservas o membresías para fans."
+   ]
+  },
+  {
+   "p": "Wix trae muchas plantillas y un editor de arrastrar y soltar. Es buena herramienta si le vas a dedicar horas."
+  },
+  {
+   "h2": "Cuándo te conviene que te lo haga alguien"
+  },
+  {
+   "ul": [
+    "Prefieres ensayar, pintar o tatuar en lugar de aprender un editor.",
+    "Las contrataciones te llegan por WhatsApp.",
+    "Quieres un sitio ligero que abra rápido en celular.",
+    "Quieres tu dominio desde el primer día.",
+    "Prefieres mandar un mensaje y que alguien haga el cambio."
+   ]
+  },
+  {
+   "p": "Muchos artistas no necesitan carrito. Necesitan que la gente escuche, vea sus fechas y les escriba."
+  },
+  {
+   "h2": "Un ejemplo para comparar"
+  },
+  {
+   "p": "Piensa en un dueto acústico que toca en bodas y cafés. Quiere enseñar dos videos, sus paquetes y un botón para cotizar."
+  },
+  {
+   "p": "En Wix elegiría el Premium más barato con dominio. Pagaría el año por adelantado y armaría el sitio en sus ratos libres."
+  },
+  {
+   "p": "Conmigo pagaría $1,500 y recibiría el sitio listo con su dominio. Después pagaría $99 al mes y pediría los cambios por mensaje."
+  },
+  {
+   "p": "La cuenta justa suma también su tiempo. Cada tarde en el editor es una tarde sin ensayar."
+  },
+  {
+   "h2": "Qué preguntar antes de contratar cualquier opción"
+  },
+  {
+   "ul": [
+    "¿A nombre de quién queda el dominio?",
+    "¿Cuánto cuesta renovar el dominio cada año?",
+    "¿Qué pasa con mi sitio si dejo de pagar?",
+    "¿Quién hace los cambios y cuánto tardan?",
+    "¿El sitio abre rápido en un celular con datos?",
+    "¿Me puedo llevar mi contenido si me cambio?"
+   ]
+  },
+  {
+   "p": "Con esas respuestas comparas cualquier plataforma o agencia. El precio del primer mes casi nunca cuenta la historia completa."
+  },
+  {
+   "h2": "Costos que se olvidan"
+  },
+  {
+   "p": "El plan no es lo único que pagas. Revisa esto antes de decidir."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Concepto",
+     "En Wix",
+     "Con un sitio hecho a medida"
+    ],
+    "filas": [
+     [
+      "Tu tiempo armando el sitio",
+      "Corre por tu cuenta",
+      "Lo pone quien lo hace"
+     ],
+     [
+      "Correo con tu dominio",
+      "Se contrata aparte",
+      "Se contrata aparte"
+     ],
+     [
+      "Fotos y videos",
+      "Los consigues tú",
+      "Usas los tuyos"
+     ],
+     [
+      "Subir de plan al crecer",
+      "Pagas el plan mayor",
+      "Pasas al sitio completo"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Lo que pesa semana a semana"
+  },
+  {
+   "p": "El precio se paga una vez al año. Mantener el sitio al día se paga cada semana con tu tiempo."
+  },
+  {
+   "h3": "Si eliges Wix"
+  },
+  {
+   "p": "Entras al editor cada vez que sale una fecha nueva o cambia un paquete. Si no entras, tu sitio enseña la gira pasada."
+  },
+  {
+   "p": "Te conviene apartar un rato fijo a la semana para revisarlo. Así tu sitio dice lo mismo que tus redes."
+  },
+  {
+   "h3": "Si te lo hago yo"
+  },
+  {
+   "p": "Me mandas la fecha nueva por WhatsApp y se agrega. No tienes que recordar contraseñas ni aprender menús."
+  },
+  {
+   "p": "Tu tiempo se queda en tu música o en tu obra. Ese es el punto de pagar el sitio hecho."
+  },
+  {
+   "h3": "La velocidad en el celular"
+  },
+  {
+   "p": "Un sitio lento pierde gente antes de que escuche tu primera canción. Pruébalo con datos móviles y no sólo con el wifi de tu casa."
+  },
+  {
+   "p": "En Wix la velocidad depende de la plantilla y de las apps que agregues. Un sitio hecho a mano puede quedar más ligero."
+  },
+  {
+   "h2": "Cómo salir de Wix sin perder tu sitio"
+  },
+  {
+   "p": "Si tu dominio está en Wix, lo puedes transferir a otro proveedor. Pide el código de transferencia desde tu cuenta."
+  },
+  {
+   "p": "El diseño que armaste en Wix no se puede llevar tal cual. Lo que sí te llevas es tu contenido."
+  },
+  {
+   "ul": [
+    "Copia tus textos, tus fechas y tus fotos.",
+    "Anota tu dominio y a nombre de quién está.",
+    "Pide el código de transferencia del dominio.",
+    "Publica el sitio nuevo antes de cancelar Wix.",
+    "Cambia la liga en tu ficha de Google y en tus redes."
+   ]
+  },
+  {
+   "p": "Con ese orden tu sitio nunca se apaga. Tus fans siguen entrando por la misma dirección. Avisa en tus redes que estrenas sitio para que lo visiten de nuevo."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Wix es gratis?",
+   "respuesta": "Sí, tiene un plan gratis. Usa una dirección de Wix y no conecta tu dominio."
+  },
+  {
+   "pregunta": "¿Cuál es el plan más barato de Wix con dominio propio?",
+   "respuesta": "El Premium de entrada. Revisa su precio vigente en Wix porque cambia por país y promoción."
+  },
+  {
+   "pregunta": "¿Cuánto cuesta Wix al mes?",
+   "respuesta": "Depende del plan y de cómo pagues. Consulta la cifra vigente en su sitio antes de pagar."
+  },
+  {
+   "pregunta": "¿El dominio de Wix es gratis para siempre?",
+   "respuesta": "No siempre. Revisa en tu cuenta desde cuándo te cobran la renovación."
+  },
+  {
+   "pregunta": "¿Puedo pasar mi sitio de Wix a uno hecho por ti?",
+   "respuesta": "Sí. Rehago tu sitio con tu contenido y tu dominio apunta al nuevo."
+  },
+  {
+   "pregunta": "¿Wix le sirve a un artista independiente?",
+   "respuesta": "Sí, si tienes tiempo de armarlo y mantenerlo al día tú."
+  },
+  {
+   "pregunta": "¿Cuánto cuesta un sitio de artista hecho por ti?",
+   "respuesta": "$1,500 con dominio incluido y luego $99 al mes. El sitio completo cuesta $5,000."
+  }
+ ],
+ "venta": {
+  "puente": "Wix te da la herramienta, y yo te doy el sitio de artista ya armado con tu música y tu dominio.",
+  "titulo": "¿Te hago el sitio en lugar de armarlo en Wix?",
+  "tituloCorto": "Tu sitio de artista"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

@@ -1,0 +1,456 @@
+{
+ "id": "como-crear-una-pagina-web",
+ "slug": "como-crear-una-pagina-web",
+ "molde": "guia",
+ "cabeza": "crear página web",
+ "busquedas": [
+  "cómo hacer una página web",
+  "crear página web gratis",
+  "hacer una página web",
+  "crear sitio web",
+  "armar página web",
+  "cómo crear una página web para mi negocio",
+  "cómo crear páginas web gratis",
+  "crear página web con ia",
+  "creador de páginas web"
+ ],
+ "categoria": "Página web",
+ "herramienta": null,
+ "fuentes": [
+  {
+   "texto": "Cronoshare, cuánto cuesta diseñar una página web en México (guía del 9-ene-2026, leída el 12-nov-2026)",
+   "url": "https://www.cronoshare.com.mx/cuanto-cuesta/disenar-pagina-web"
+  },
+  {
+   "texto": "Wix, crear un sitio web gratis",
+   "url": "https://support.wix.com/es/article/crear-un-sitio-web-gratis"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://blog.hubspot.es/website/como-crear-una-pagina-web",
+   "titulo": "Cómo crear una página web: guía para principiantes",
+   "promete": "Guía larga general, tres caminos (código, creador, CMS); no es para negocio local ni habla de WhatsApp"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.godaddy.com/resources/latam/stories/como-crear-una-pagina-web",
+   "titulo": "Cómo crear un sitio web: pasos y conceptos básicos",
+   "promete": "Pasos: objetivo, dominio, hosting y SSL, mapa del sitio, SEO; vende su propio hosting"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.hostinger.com/co/tutoriales/como-crear-una-pagina-web",
+   "titulo": "Cómo crear una página web desde cero: guía para principiantes",
+   "promete": "Tutorial con su constructor; sin costos en pesos ni lista de qué debe llevar la página de un negocio"
+  }
+ ],
+ "title": "Crear página web de artista paso a paso",
+ "h1": "Cómo crear la página web de tu música o tu obra",
+ "description": "Crea tu página web de artista con un dominio, un lugar donde vive y tu material listo. Compara armarla tú, programarla o pedirla hecha. Empieza con este orden.",
+ "resumen": "Los pasos para tener tu sitio de artista en línea",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "que-es-un-dominio",
+  "ejemplos-de-paginas-web",
+  "diseno-de-paginas-web",
+  "google-mi-negocio",
+  "precios-de-wix",
+  "que-es-una-landing-page"
+ ],
+ "respuesta": [
+  "Para crear tu página web de artista necesitas un dominio, un lugar donde se guarde y tu material listo. Puedes armarla en un creador de sitios, programarla o encargarla.",
+  "Con una página que abra rápido en el celular basta para empezar. Que diga quién eres, deje escuchar o ver tu trabajo y lleve a contrataciones."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Tres maneras de tener tu sitio"
+  },
+  {
+   "p": "Antes de abrir cualquier editor, decide quién va a poner las horas. Cada camino mueve el precio, el plazo y tu parte del trabajo."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Camino",
+     "Tu parte",
+     "Lo que pagas",
+     "Le queda a"
+    ],
+    "filas": [
+     [
+      "Creador de sitios (Wix, Canva y similares)",
+      "Escoges plantilla, escribes, subes fotos y conectas el dominio",
+      "El plan mensual del creador más el dominio",
+      "Quien disfruta diseñar y tiene tardes libres"
+     ],
+     [
+      "Programarla tú",
+      "Escribes el código, rentas hosting y la publicas",
+      "Hosting y dominio",
+      "Quien sabe programar o quiere aprender"
+     ],
+     [
+      "Encargarla",
+      "Mandas tu material y revisas",
+      "Un pago por el diseño y una mensualidad",
+      "Quien prefiere ensayar o pintar"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Bien hechos, los tres terminan en un sitio que funciona. Cambia cuánto tiempo pones tú y cuánto dinero sale de tu bolsa."
+  },
+  {
+   "p": "El plan gratis de un creador se ve tentador al inicio. Usa una dirección de la propia plataforma y pone su anuncio en tu sitio. Quitarlo y usar tu dominio pide un plan de pago."
+  },
+  {
+   "h2": "Paso 1. Decide qué quieres que haga tu público"
+  },
+  {
+   "p": "Un sitio de artista funciona mejor con una sola meta clara. Casi siempre es que te escuchen, que te contraten o que compren algo tuyo."
+  },
+  {
+   "p": "Escribe esa meta en una línea. De ahí sale el botón principal y el orden de las secciones."
+  },
+  {
+   "ul": [
+    "Una cantautora quiere que pongan su sencillo nuevo y vean sus fechas.",
+    "Una banda versátil quiere que le pidan cotización para bodas y eventos.",
+    "Un tatuador quiere que manden su idea y aparten cita.",
+    "Una ilustradora quiere que un editor vea su portafolio y le escriba.",
+    "Un fotógrafo quiere que revisen paquetes y pregunten por una fecha."
+   ]
+  },
+  {
+   "h2": "Paso 2. Aparta tu dominio"
+  },
+  {
+   "p": "El dominio es la dirección de tu sitio, como tunombre.mx. Es lo que anuncias en el escenario y lo que va en tus flyers."
+  },
+  {
+   "p": "Escoge algo corto que puedas decir al micrófono sin deletrear. Si tu nombre artístico no lleva guiones ni números, el dominio tampoco."
+  },
+  {
+   "ul": [
+    "**.mx** dice que trabajas en México.",
+    "**.com.mx** también es mexicano y a veces está más libre.",
+    "**.com** conviene si tu público está repartido en varios países."
+   ]
+  },
+  {
+   "p": "Regístralo **a tu nombre** o al de tu banda. Si lo aparta otra persona como suyo, tu dirección queda en sus manos. Revisa si está libre con el [buscador de dominios](id:buscar-dominio)."
+  },
+  {
+   "h2": "Paso 3. Reúne tu material antes de diseñar"
+  },
+  {
+   "p": "Casi ningún sitio se atora por el diseño. Se atora porque faltan la biografía, las fotos o los links."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Material",
+     "Para qué sirve",
+     "Consejo"
+    ],
+    "filas": [
+     [
+      "Nombre artístico y logo",
+      "Que te reconozcan",
+      "Sin logo, tu nombre en una buena tipografía basta"
+     ],
+     [
+      "Biografía corta",
+      "Que un promotor sepa quién eres",
+      "Tres o cuatro frases en tercera persona"
+     ],
+     [
+      "Música, videos u obra",
+      "Que te escuchen o te vean",
+      "Tus mejores piezas, no todas"
+     ],
+     [
+      "Fotos de prensa",
+      "Que te puedan anunciar",
+      "Horizontales y verticales en buena resolución"
+     ],
+     [
+      "Fechas o disponibilidad",
+      "Que sepan dónde verte",
+      "Una lista que de verdad actualices"
+     ],
+     [
+      "Contacto de contrataciones",
+      "Que te escriban",
+      "Un WhatsApp o un correo que sí contestes"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Las fotos de banco no sirven para un artista. Una foto real tuya en el escenario dice más que cualquier imagen perfecta."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Paso 4. Diseña primero para el celular"
+  },
+  {
+   "p": "Tu público abre tu sitio desde el teléfono, a veces en la fila del foro. Piensa en la pantalla chica y luego revisa la computadora."
+  },
+  {
+   "p": "Este orden les funciona a casi todos los artistas."
+  },
+  {
+   "ol": [
+    "Arriba, tu nombre, una frase de lo que haces y el botón principal.",
+    "Luego tu música, tus videos o tu galería de obra.",
+    "Después tus fechas o tus paquetes para eventos.",
+    "Más abajo, la biografía y lo que han dicho de ti.",
+    "Al final el contacto de contrataciones y otra vez el botón."
+   ]
+  },
+  {
+   "p": "No metas el contacto dentro de un menú escondido. Quien quiere contratarte no debería buscarlo."
+  },
+  {
+   "p": "Usa letra grande y frases cortas. Se lee con una mano y con prisa."
+  },
+  {
+   "h2": "Qué secciones pide cada disciplina"
+  },
+  {
+   "p": "Un pintor no necesita lo mismo que un grupo de cumbia. Esta tabla junta lo que más buscan quienes visitan cada tipo de sitio."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Disciplina",
+     "Sección indispensable",
+     "Botón principal"
+    ],
+    "filas": [
+     [
+      "Solista o cantautor",
+      "Reproductor con tus canciones y fechas",
+      "Escuchar o ver fechas"
+     ],
+     [
+      "Banda para eventos",
+      "Repertorio, video en vivo y paquetes",
+      "Pedir cotización"
+     ],
+     [
+      "Tatuador o estudio",
+      "Galería por estilo y cómo se aparta",
+      "Mandar tu idea"
+     ],
+     [
+      "Pintor o ilustrador",
+      "Portafolio por serie y obra disponible",
+      "Preguntar por una pieza"
+     ],
+     [
+      "Fotógrafo",
+      "Galería por tipo de sesión y paquetes",
+      "Apartar fecha"
+     ],
+     [
+      "Bailarín o compañía",
+      "Video de presentación y clases",
+      "Contratar o inscribirse"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si tu disciplina no aparece, piensa en lo que más te preguntan por mensaje. Esa respuesta va hasta arriba."
+  },
+  {
+   "h3": "Cómo escribir los textos de tu sitio"
+  },
+  {
+   "p": "Escribe como le contestarías a alguien al bajar del escenario. Frases cortas y datos concretos."
+  },
+  {
+   "ul": [
+    "En vez de pasión por la música, di qué tocas y con quién.",
+    "En vez de precios accesibles, pon un precio desde o los paquetes.",
+    "En vez de amplia trayectoria, di cuántos años llevas o en qué foros has tocado.",
+    "Usa las palabras que tu público escribe en Google, como banda para boda en Puebla."
+   ]
+  },
+  {
+   "p": "Un texto concreto convence a quien te contrata. Además le ayuda a Google a entender de qué trata tu sitio."
+  },
+  {
+   "h2": "Paso 5. Publica y avísale a Google"
+  },
+  {
+   "p": "Publicar es subir tu sitio a un servidor y dirigir tu dominio hacia él. En un creador de sitios es un solo botón."
+  },
+  {
+   "p": "Revisa que tu dirección abra con candado en el navegador. Ese candado es el certificado de seguridad y hoy no es opcional."
+  },
+  {
+   "p": "Luego registra tu sitio en Google Search Console. Ahí le avisas a Google que existe y ves con qué búsquedas sales."
+  },
+  {
+   "p": "Si das clases o tienes estudio, pon el link en tu ficha de [Google Mi Negocio](id:google-mi-negocio). Mucha gente te encuentra en Maps antes que en tu sitio."
+  },
+  {
+   "h2": "Paso 6. Mantenlo al día"
+  },
+  {
+   "p": "Un sitio con fechas del año pasado espanta más que no tener sitio. Dale una revisada cada mes."
+  },
+  {
+   "ul": [
+    "Borra las fechas que ya pasaron y sube las nuevas.",
+    "Agrega tu último sencillo, tu última serie o tus tatuajes recientes.",
+    "Renueva tu dominio antes de que venza.",
+    "Prueba que el botón de contrataciones siga abriendo tu chat."
+   ]
+  },
+  {
+   "h2": "Una sección de prensa para promotores y medios"
+  },
+  {
+   "p": "Los promotores y los periodistas buscan lo mismo cada vez. Si lo encuentran en tu sitio, no tienen que escribirte para pedirlo."
+  },
+  {
+   "ul": [
+    "Una biografía corta y otra larga, listas para copiar.",
+    "Tres o cuatro fotos de prensa que se puedan bajar.",
+    "Tu logo en fondo claro y en fondo oscuro.",
+    "Links a tus canciones, videos o portafolio.",
+    "Tu ficha técnica o tu rider, si tocas en vivo.",
+    "El contacto directo de contrataciones."
+   ]
+  },
+  {
+   "p": "Esa página ahorra correos de ida y vuelta. También hace que te anuncien con tus fotos y no con una captura borrosa."
+  },
+  {
+   "p": "Ponle una dirección fácil, como tunombre.mx/prensa. Así la puedes mandar en un mensaje cuando te pidan material."
+  },
+  {
+   "h2": "Revisión final antes de publicar"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Revisa",
+     "Cómo sabes que quedó"
+    ],
+    "filas": [
+     [
+      "Abre rápido en celular",
+      "Carga con datos móviles en pocos segundos"
+     ],
+     [
+      "Dice quién eres arriba",
+      "Alguien que no te conoce lo entiende sin bajar"
+     ],
+     [
+      "Contacto visible",
+      "El botón abre tu WhatsApp con un mensaje escrito"
+     ],
+     [
+      "Fechas al día",
+      "No hay ninguna fecha que ya pasó"
+     ],
+     [
+      "Candado de seguridad",
+      "La dirección empieza con https"
+     ],
+     [
+      "Aviso de privacidad",
+      "Existe si pides datos en un formulario"
+     ],
+     [
+      "Dominio a tu nombre",
+      "Tú tienes la entrada a la cuenta del dominio"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Errores que se repiten en sitios de artista"
+  },
+  {
+   "ul": [
+    "Arrancar por el diseño sin tener biografía ni fotos.",
+    "Poner la información de la gira dentro de una imagen que Google no lee.",
+    "Imprimir en tus flyers la dirección gratis del creador.",
+    "Llenar la portada de animaciones que hacen lenta la carga.",
+    "Dejar un formulario de contacto que nadie revisa.",
+    "Copiar la biografía de otro sitio y perder la confianza de Google."
+   ]
+  },
+  {
+   "p": "Si vas a encargar tu sitio, pide ver un ejemplo antes de pagar. Pregunta también a nombre de quién quedará el dominio."
+  },
+  {
+   "p": "Si quieres ideas, revisa [ejemplos de páginas web](id:ejemplos-de-paginas-web) y fíjate qué tienen en común."
+  },
+  {
+   "h2": "Cuánto cuesta crear una página web en México"
+  },
+  {
+   "p": "El precio depende de quién la hace y cuántas secciones lleva. Una referencia publicada pone la página sencilla de agencia entre $7,000 y $14,000 pesos."
+  },
+  {
+   "p": "En un creador de sitios pagas el plan cada mes o cada año. Compara lo que trae cada plan en los [precios de Wix](id:precios-de-wix)."
+  },
+  {
+   "p": "Yo hago sitios para artistas desde Pilsi. El sitio de artista cuesta $1,500 con dominio incluido y después $99 al mes."
+  },
+  {
+   "p": "Si necesitas varias secciones, tienda o más páginas, el sitio completo cuesta $5,000. Puedes ver otros proyectos en el [directorio de Pilsi](https://pilsi.art/directorio)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Puedo crear mi página web gratis?",
+   "respuesta": "Sí, con límites. El plan gratis usa la dirección del creador y muestra su anuncio. Para tu carrera conviene tu propio dominio."
+  },
+  {
+   "pregunta": "¿Cuánto tarda crear un sitio de artista?",
+   "respuesta": "Depende de tu material. Con biografía, fotos y links listos, un sitio de una página sale en pocos días."
+  },
+  {
+   "pregunta": "¿Necesito saber programar?",
+   "respuesta": "No. Un creador de sitios no pide código. Si lo encargas, tampoco tocas nada técnico."
+  },
+  {
+   "pregunta": "¿Me sirve una sola página o necesito varias?",
+   "respuesta": "Para empezar, una sola. Con tu música, tus fechas y tu contacto cubres lo que buscan casi todos."
+  },
+  {
+   "pregunta": "¿Mi sitio va a salir en Google?",
+   "respuesta": "Puede salir, pero Google decide cuándo y en qué lugar. Primero lo registras y lo ligas desde tus redes."
+  },
+  {
+   "pregunta": "¿Puedo crear mi sitio con inteligencia artificial?",
+   "respuesta": "Sí, hay creadores que arman un borrador. Igual revisa tu biografía, tus fotos y tu contacto antes de publicar."
+  },
+  {
+   "pregunta": "¿Mis redes no bastan?",
+   "respuesta": "No del todo. Tus redes cambian de reglas y tu sitio es la dirección que controlas tú."
+  }
+ ],
+ "venta": {
+  "puente": "Si prefieres ensayar en vez de pelearte con plantillas, yo te armo el sitio con tu música, tus fechas y tu contacto.",
+  "titulo": "¿Te hago tu sitio de artista?",
+  "tituloCorto": "Tu sitio de artista"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

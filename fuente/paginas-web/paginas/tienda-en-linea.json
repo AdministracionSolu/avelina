@@ -1,0 +1,540 @@
+{
+ "id": "tienda-en-linea",
+ "slug": "tienda-en-linea",
+ "molde": "guia",
+ "cabeza": "tienda online",
+ "busquedas": [
+  "tienda online gratis",
+  "tu tienda online",
+  "tienda online gratuita",
+  "tienda en línea gratis",
+  "mi tienda online",
+  "mi tienda virtual",
+  "tienda virtual gratis",
+  "crear tienda online",
+  "crear tienda online gratis",
+  "crear gratis tienda online",
+  "crear tienda virtual",
+  "hacer tienda online",
+  "crea tu tienda online",
+  "crear tienda virtual gratis",
+  "como crear una tienda online",
+  "como hacer una tienda virtual",
+  "como hacer una tienda online gratis",
+  "como crear una tienda online gratis",
+  "como hacer una tienda virtual gratis",
+  "como crear una tienda virtual gratis",
+  "como hacer una tienda en linea gratis"
+ ],
+ "categoria": "Página web",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.tiendanube.com/blog/mx/crear-tienda-online-gratis/",
+   "titulo": "¿Cómo crear una tienda online gratis y empezar a vender?",
+   "promete": "Pasos dentro de su plataforma y plan gratis; no compara con vender en mercados o por WhatsApp"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.neolo.com/blog/como-hacer-una-tienda-en-linea-gratis-en-mexico.php",
+   "titulo": "Cómo hacer una tienda en línea gratis en México",
+   "promete": "Lista de plataformas y su hosting; poco sobre envíos, devoluciones y factura"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.hostinger.com/mx/tienda-online",
+   "titulo": "Crea una tienda online",
+   "promete": "Página de venta de su creador de tiendas; no explica costos que siguen después del plan"
+  }
+ ],
+ "title": "Tienda online para vender tu obra, tu disco o tu mercancía",
+ "h1": "Cómo crear una tienda en línea para tu arte",
+ "description": "Vende en línea tus pinturas, láminas, discos o playeras de la banda. Los cuatro caminos, qué preparar, cuánto cuesta, cómo cobrar y cómo enviar tu obra.",
+ "resumen": "Vende tu obra, tus discos o tu mercancía en línea",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "link-de-pago",
+  "como-vender-por-internet",
+  "cobrar-con-qr",
+  "lista-de-precios",
+  "aviso-de-privacidad",
+  "terminos-y-condiciones"
+ ],
+ "respuesta": [
+  "Una tienda en línea es un sitio donde tus fans y coleccionistas ven tu obra o tu mercancía, eligen y pagan sin verte en persona. Puedes usar una plataforma de tiendas, publicar en un mercado como Mercado Libre o pedirla hecha.",
+  "Lo primero es tener buenas fotos y un precio por pieza. Luego decides cómo te pagan y cómo mandas. Con pocas piezas, basta un catálogo y pedidos por WhatsApp."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Qué venden los artistas en línea"
+  },
+  {
+   "p": "Una pintora vende originales y láminas firmadas. Una banda vende discos, playeras y botones que antes sólo salían en la mesa de mercancía."
+  },
+  {
+   "p": "Un ilustrador vende calcomanías y libretas. Una fotógrafa vende impresiones de una serie o paquetes de sesión con anticipo."
+  },
+  {
+   "p": "Cada caso pide algo distinto. Una pieza única no se vende igual que cien playeras de la misma talla."
+  },
+  {
+   "h2": "Cuatro caminos para vender"
+  },
+  {
+   "p": "No existe una sola forma de tener tienda. Cada camino te cuesta distinto en dinero y en horas."
+  },
+  {
+   "tabla": {
+    "titulo": "Caminos para vender en línea en México",
+    "columnas": [
+     "Camino",
+     "Cómo funciona",
+     "Para quién conviene"
+    ],
+    "filas": [
+     [
+      "Mercado en línea",
+      "Publicas en Mercado Libre, Amazon u otro mercado",
+      "Quien quiere ventas sin atraer visitas propias"
+     ],
+     [
+      "Plataforma de tiendas",
+      "Rentas una tienda armada y subes tus productos",
+      "Bandas con mucha mercancía y tallas"
+     ],
+     [
+      "Tienda programada a la medida",
+      "Un equipo la construye para ti",
+      "Proyectos con volumen o procesos especiales"
+     ],
+     [
+      "Catálogo con pedido por WhatsApp",
+      "Tu sitio muestra las piezas y te escriben",
+      "Obra original, encargos y pocas piezas"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Muchos artistas combinan dos caminos. Venden la mercancía en un mercado y la obra original desde su propio sitio."
+  },
+  {
+   "h2": "Prepara esto antes de abrir"
+  },
+  {
+   "p": "Lo que decide si vendes no es la plataforma. Es lo que tienes listo antes de subir la primera pieza."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Haz tu lista de piezas",
+     "texto": "De cada pieza anota precio, medida y técnica. Arranca con las diez que más te piden."
+    },
+    {
+     "titulo": "Toma fotos claras",
+     "texto": "Una de frente con fondo neutro y otra colgada en una pared o puesta en alguien. Hazlas con luz de día."
+    },
+    {
+     "titulo": "Decide cómo cobras",
+     "texto": "Tarjeta, transferencia, efectivo en tienda de conveniencia o pago al recibir."
+    },
+    {
+     "titulo": "Arma tu plan de envíos",
+     "texto": "Elige paquetería, mide tus tubos y cajas y calcula cuánto cobras por mandar."
+    },
+    {
+     "titulo": "Escribe tu política de cambios",
+     "texto": "Di en qué casos aceptas devoluciones y en cuántos días. En una obra única esto cuenta mucho."
+    },
+    {
+     "titulo": "Revisa lo fiscal",
+     "texto": "Decide si vas a facturar y en qué régimen. Pregúntale a tu contador antes de vender."
+    },
+    {
+     "titulo": "Usa tu propio dominio",
+     "texto": "Que la tienda lleve tu nombre, como tunombre.mx. Así no dependes de la dirección de otra empresa."
+    }
+   ]
+  },
+  {
+   "p": "Abrir sin alguno de estos puntos es abrir una tienda que no vende. Mejor espera una semana y sal completa."
+  },
+  {
+   "h2": "Pasos para montarla"
+  },
+  {
+   "p": "Sirven en cualquier plataforma. Los botones cambian de nombre, pero el orden se queda."
+  },
+  {
+   "ol": [
+    "Escoge el camino según cuántas piezas tienes y cuánto tiempo le puedes dar.",
+    "Registra tu dominio a tu nombre.",
+    "Da de alta la tienda con el correo que usas a diario.",
+    "Sube tus piezas con fotos, precio y una descripción corta.",
+    "Liga tu cobro y cómprate algo a ti mismo para probarlo.",
+    "Configura las zonas de envío y su costo.",
+    "Redacta cómo envías, cómo cambias piezas y tu aviso de privacidad.",
+    "Dale la liga a un amigo y pídele que te cuente en qué paso se perdió.",
+    "Comparte la tienda en tus redes, en tu WhatsApp y en tus tocadas."
+   ]
+  },
+  {
+   "p": "Casi todos se saltan la compra de prueba. Es lo único que te dice si alguien puede pagarte de verdad."
+  },
+  {
+   "h2": "Si buscas una tienda gratis"
+  },
+  {
+   "p": "Hay plataformas que no te cobran renta al inicio. Para probar están bien, pero algo te cobran por otro lado."
+  },
+  {
+   "ul": [
+    "Las comisiones por cada venta casi nunca son gratis.",
+    "El dominio propio suele estar en un plan de pago.",
+    "Hay planes que limitan cuántas piezas o fotos subes.",
+    "Los diseños más bonitos y las funciones extra se cobran aparte.",
+    "Cambiarte de plataforma te obliga a subir todo de nuevo."
+   ]
+  },
+  {
+   "p": "Lee la tabla de precios y la de comisiones completas. Haz la cuenta con una venta tuya, como una lámina de $400, y no con el ejemplo de la plataforma."
+  },
+  {
+   "h2": "Cuánto te cuesta en realidad"
+  },
+  {
+   "p": "El costo tiene varias partes. Unas son fijas y otras suben con cada pedido."
+  },
+  {
+   "tabla": {
+    "titulo": "Partes del costo de una tienda",
+    "columnas": [
+     "Parte",
+     "Tipo de costo",
+     "Cómo calcularlo"
+    ],
+    "filas": [
+     [
+      "Dominio",
+      "Fijo por año",
+      "Una renta anual por tu nombre"
+     ],
+     [
+      "Plataforma o hosting",
+      "Fijo por mes",
+      "La mensualidad del plan que elijas"
+     ],
+     [
+      "Comisión por cobro",
+      "Variable por venta",
+      "Un porcentaje del cobro más una cuota fija"
+     ],
+     [
+      "Envíos",
+      "Variable por pedido",
+      "Depende del peso, la medida y el destino"
+     ],
+     [
+      "Empaque",
+      "Variable por pedido",
+      "Tubos, cajas, esquineros y relleno"
+     ],
+     [
+      "Fotos y textos",
+      "Una vez",
+      "Lo haces tú o lo pagas a alguien"
+     ],
+     [
+      "Anuncios",
+      "Variable por mes",
+      "Lo que decidas invertir para atraer visitas"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Suma todo y divídelo entre tus pedidos del mes. Así sabes cuánto te cuesta cada venta en línea."
+  },
+  {
+   "p": "Con números redondos se ve claro. Gastar $3,000 al mes con 60 pedidos te deja $50 de costo por pedido, sin contar la pieza."
+  },
+  {
+   "h2": "Formas de cobrar"
+  },
+  {
+   "p": "Quien te compra debe poder pagar como está acostumbrado. En México se usan juntas la tarjeta, la transferencia y el efectivo."
+  },
+  {
+   "tabla": {
+    "titulo": "Cómo te pueden pagar",
+    "columnas": [
+     "Forma",
+     "Cómo paga el cliente",
+     "Qué revisar"
+    ],
+    "filas": [
+     [
+      "Tarjeta en el sitio",
+      "Escribe sus datos en un formulario seguro",
+      "Comisión, días de depósito y meses sin intereses"
+     ],
+     [
+      "Link de pago",
+      "Le mandas una liga y paga desde su celular",
+      "Vigencia del link y comisión"
+     ],
+     [
+      "Transferencia",
+      "Te manda el dinero a tu cuenta",
+      "Confirmar que llegó antes de enviar"
+     ],
+     [
+      "Efectivo en tienda de conveniencia",
+      "Paga con una referencia impresa",
+      "Días para que se acredite"
+     ],
+     [
+      "Pago contra entrega",
+      "Paga cuando recibe",
+      "Riesgo de que no esté o no pague"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si vendes por WhatsApp, el [link de pago](id:link-de-pago) es lo más rápido para cobrar con tarjeta. En la mesa de mercancía te sirve [cobrar con QR](id:cobrar-con-qr)."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Envíos sin que se maltrate tu obra"
+  },
+  {
+   "p": "Los envíos causan la mayoría de las quejas. Resuélvelos antes de vender la primera pieza."
+  },
+  {
+   "ul": [
+    "Pesa y mide cada pieza ya empacada, porque cobran por el mayor entre peso y volumen.",
+    "Compara dos o tres paqueterías con el mismo paquete y el mismo destino.",
+    "Define quién absorbe el costo de mandar, tú o quien compra.",
+    "Comparte el número de rastreo en cuanto dejes el paquete.",
+    "Ofrece entregar en tu próxima tocada o en tu taller si es la misma ciudad."
+   ]
+  },
+  {
+   "p": "Una lámina viaja en tubo y un lienzo con esquineros y cartón. Un original mal empacado te cuesta la pieza y al cliente."
+  },
+  {
+   "p": "Regalar el envío arriba de cierto monto anima a sumar una pieza más. Sólo revisa que ese regalo no te deje en ceros."
+  },
+  {
+   "h2": "Qué debe decir la ficha de cada pieza"
+  },
+  {
+   "p": "La ficha es tu vendedor cuando tú no estás. Tiene que contestar lo que te preguntarían en la mesa de mercancía."
+  },
+  {
+   "ul": [
+    "Nombre claro y precio visible sin dar clic.",
+    "Fotos de frente, de detalle y puesta en su lugar.",
+    "Medidas, técnica o material y cuidados.",
+    "Si es original, edición limitada o impresión abierta.",
+    "Tiempo de entrega y costo de envío.",
+    "Qué pasa si llega dañada.",
+    "Un botón para preguntar por WhatsApp antes de comprar."
+   ]
+  },
+  {
+   "h2": "Tienda con carrito o catálogo con WhatsApp"
+  },
+  {
+   "p": "Un carrito vale la pena con mucho inventario y compradores desconocidos. Para piezas únicas o encargos, el catálogo suele funcionar mejor."
+  },
+  {
+   "tabla": {
+    "titulo": "Cuándo conviene cada uno",
+    "columnas": [
+     "Si tu proyecto…",
+     "Conviene"
+    ],
+    "filas": [
+     [
+      "Vende más de cincuenta artículos con precio fijo",
+      "Tienda con carrito"
+     ],
+     [
+      "Vende retratos, encargos o tatuajes por cita",
+      "Catálogo con pedido por WhatsApp"
+     ],
+     [
+      "Cotiza cada encargo",
+      "Sitio con formulario o WhatsApp"
+     ],
+     [
+      "Vende en sus tocadas y quiere que lo encuentren",
+      "Sitio con fechas y catálogo"
+     ],
+     [
+      "Ya vende mucho en un mercado en línea",
+      "Sitio propio para quien vuelve a comprar"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "El catálogo puede ser un PDF o una página con fotos y botón de WhatsApp. Vendes por internet aunque no haya carrito."
+  },
+  {
+   "h2": "Ejemplo de una banda que empieza"
+  },
+  {
+   "p": "Es un caso inventado para la cuenta. Una banda de Querétaro vende playeras sólo en sus tocadas y por mensaje."
+  },
+  {
+   "p": "Primero arma un catálogo con sus tres diseños y las tallas que tiene. Luego lo pone en su sitio junto a sus fechas y su WhatsApp."
+  },
+  {
+   "p": "Los pagos entran por una liga y los paquetes salen con la misma empresa. Al juntar cien pedidos al mes, por fin abre su tienda con carrito."
+  },
+  {
+   "p": "Primero supo qué diseño gustaba y luego pagó la plataforma. La dirección de su sitio nunca cambió en el proceso."
+  },
+  {
+   "h2": "Cómo llevar gente a tu tienda"
+  },
+  {
+   "p": "Abrir la tienda no trae compradores sola. La gente tiene que saber que existe."
+  },
+  {
+   "ul": [
+    "Pon la liga en tu perfil de Instagram, Facebook y WhatsApp Business.",
+    "Dilo en el micrófono al final de cada tocada.",
+    "Imprime un QR con la liga en la mesa de mercancía y en tus flyers.",
+    "Avisa a tus fans con un mensaje corto y una promoción de estreno.",
+    "Publica cada pieza nueva con su liga directa y no sólo la portada."
+   ]
+  },
+  {
+   "p": "Pagar publicidad es el último paso. Antes confirma que comprar en tu tienda es fácil de principio a fin."
+  },
+  {
+   "h2": "Lo legal que no se te puede pasar"
+  },
+  {
+   "p": "Vender en línea tiene reglas parecidas a vender en persona. Algunas son nuevas si siempre vendiste en la tocada."
+  },
+  {
+   "ul": [
+    "Publica precios finales con impuestos incluidos.",
+    "Escribe tu política de cambios, devoluciones y garantías.",
+    "Publica un aviso de privacidad si pides datos personales.",
+    "Muestra tu nombre y una forma de contacto.",
+    "Emite factura cuando te la pidan y tengas obligación."
+   ]
+  },
+  {
+   "p": "Arma tu texto con el generador de [aviso de privacidad](id:aviso-de-privacidad) y revisa los [términos y condiciones](id:terminos-y-condiciones). Para impuestos, la última palabra la tiene tu contador."
+  },
+  {
+   "h2": "Atiende a quien te compra"
+  },
+  {
+   "p": "Una tienda en línea también tiene mostrador. Es tu chat, tu correo y tu página de preguntas."
+  },
+  {
+   "ul": [
+    "Responde rápido las dudas de tallas y envío mientras estés en horario.",
+    "Avisa cuando el pedido sale, con su guía de rastreo.",
+    "Pregunta unos días después si llegó bien.",
+    "Resuelve un cambio igual de rápido que cobraste.",
+    "Guarda las preguntas que se repiten y súbelas a tu sitio."
+   ]
+  },
+  {
+   "tabla": {
+    "titulo": "Preguntas que conviene contestar en tu tienda",
+    "columnas": [
+     "Pregunta del cliente",
+     "Dónde contestarla"
+    ],
+    "filas": [
+     [
+      "¿Cuánto tarda en llegar?",
+      "En cada pieza y en la página de envíos"
+     ],
+     [
+      "¿Puedo cambiarla si no me queda?",
+      "En la página de cambios y en el pie de la tienda"
+     ],
+     [
+      "¿Es seguro pagar aquí?",
+      "Junto al botón de pagar, con las formas aceptadas"
+     ],
+     [
+      "¿Es original o impresión?",
+      "En la ficha de cada pieza"
+     ],
+     [
+      "¿Dan factura?",
+      "En preguntas frecuentes, con cómo pedirla"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Errores al abrir tu tienda"
+  },
+  {
+   "ul": [
+    "Subir cien piezas con fotos oscuras en vez de diez bien tomadas.",
+    "No hacer una compra de prueba antes de anunciar.",
+    "No sumar el envío al precio y regalar dinero con cada paquete.",
+    "No tener página de cambios y devoluciones.",
+    "Quedarte con la dirección prestada que te da la plataforma.",
+    "Tardar días en contestar a quien quiere comprar."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Puedo crear una tienda en línea gratis?",
+   "respuesta": "Sí puedes probar. Aun sin renta mensual vas a pagar comisiones y paquetería."
+  },
+  {
+   "pregunta": "¿Tengo que estar en el SAT para vender en línea?",
+   "respuesta": "Sí, si vendes de forma habitual. Tu contador te dice qué régimen te conviene."
+  },
+  {
+   "pregunta": "¿Qué es mejor, mi tienda o Mercado Libre?",
+   "respuesta": "Depende de tu meta. Un mercado te presta compradores, y tu tienda te deja el contacto de tus fans."
+  },
+  {
+   "pregunta": "¿Cuánto tarda en estar lista?",
+   "respuesta": "Pocos días si ya tienes material. Tomar las fotos es lo que más tiempo lleva."
+  },
+  {
+   "pregunta": "¿Puedo vender por WhatsApp sin tienda?",
+   "respuesta": "Sí. Un catálogo y un link de pago bastan si tienes pocas piezas."
+  },
+  {
+   "pregunta": "¿Cómo vendo una obra única?",
+   "respuesta": "Con ficha propia y pedido por WhatsApp. Así confirmas que sigue disponible antes de cobrar."
+  },
+  {
+   "pregunta": "¿Mi tienda necesita aviso de privacidad?",
+   "respuesta": "Sí. Si pides nombre, teléfono o dirección, tienes que publicarlo."
+  }
+ ],
+ "venta": {
+  "puente": "Tu obra o tu mercancía se vende mejor desde un sitio tuyo que también enseña tu música, tu proceso y tus fechas.",
+  "titulo": "¿Te hago un sitio para vender tu arte?",
+  "tituloCorto": "Un sitio para vender tu arte"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

@@ -1,0 +1,211 @@
+{
+ "id": "logo-animado",
+ "slug": "logo-animado",
+ "molde": "herramienta",
+ "cabeza": "logo animado",
+ "busquedas": [],
+ "categoria": "Logos",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "logo",
+  "modo": "animado"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.canva.com/es_co/crear/logos/animated/",
+   "titulo": "Logos animados (Canva)",
+   "promete": "Editor con cuenta"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.flexclip.com/es/create/animated-logo-video.html",
+   "titulo": "Video de logo animado (FlexClip)",
+   "promete": "Plantillas de video con cuenta"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.renderforest.com/es/logo-animation",
+   "titulo": "Animación de logo (Renderforest)",
+   "promete": "Plantillas; descarga en alta de pago"
+  }
+ ],
+ "title": "Logo animado gratis para tus videos y tu sitio de artista",
+ "h1": "Logo animado para músicos y artistas",
+ "description": "Anima el logo de tu banda o tu estudio para abrir y cerrar tus videos. Sale en GIF, video o SVG animado de poco más de cuatro segundos. Bájalo gratis.",
+ "resumen": "El logo de tu proyecto en movimiento para tus videos",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "crear-logo-gratis",
+  "logo-3d",
+  "crear-logo-con-ia",
+  "isotipo-imagotipo-logotipo",
+  "firma-de-correo",
+  "plantillas-para-instagram"
+ ],
+ "respuesta": [
+  "Arma tu logo como en cualquier otro modo y la vista previa lo pone en movimiento sola. Primero entra el símbolo girando, luego suben las letras una por una y al final aparece tu frase. Lo descargas en GIF, video o SVG animado, y dura poco más de cuatro segundos."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Qué pasa en cada momento de la animación"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Momento",
+     "Qué pasa"
+    ],
+    "filas": [
+     [
+      "Primer segundo",
+      "El símbolo aparece pequeño, gira y crece hasta su lugar"
+     ],
+     [
+      "Del medio segundo al segundo y medio",
+      "Cada letra del nombre sube y aparece, una tras otra"
+     ],
+     [
+      "Segundo y medio",
+      "La frase de abajo aparece con un desvanecido suave"
+     ],
+     [
+      "Hasta el final",
+      "El logo se queda quieto para que se lea completo"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Con «Repetir animación» la vuelves a ver antes de descargar. Si cambias de propuesta, de color o de letra, el movimiento se ajusta solo."
+  },
+  {
+   "h2": "Qué formato te sirve"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Formato",
+     "Medida",
+     "Para qué sirve"
+    ],
+    "filas": [
+     [
+      "GIF",
+      "640 × 480 px, 15 cuadros por segundo",
+      "WhatsApp, correos y presentaciones de tu proyecto"
+     ],
+     [
+      "Video",
+      "640 × 480 px en MP4 o WebM",
+      "Historias, reels y cierre de tus videos"
+     ],
+     [
+      "SVG animado",
+      "Vector, se ajusta a cualquier tamaño",
+      "Tu sitio de artista, ligero y nítido"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "El video baja en MP4 o en WebM según lo que acepte tu navegador. Si necesitas MP4 y te sale WebM, intenta desde otro navegador."
+  },
+  {
+   "p": "El SVG animado respeta a quien pidió menos movimiento en su equipo. Para esa persona el logo aparece quieto desde el principio."
+  },
+  {
+   "h2": "Cómo crear tu logo animado"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Escribe nombre, giro y frase",
+     "texto": "La frase sale al último. Úsala para tu género, tu ciudad o el nombre del disco."
+    },
+    {
+     "titulo": "Escoge una propuesta",
+     "texto": "Los acomodos con símbolo y nombre en una línea lucen más cuando se mueven."
+    },
+    {
+     "titulo": "Mira la animación entera",
+     "texto": "Si el nombre de tu banda es muy largo, la entrada de letras puede sentirse lenta."
+    },
+    {
+     "titulo": "Descarga el formato que uses",
+     "texto": "Los tres botones animados están arriba de las descargas normales."
+    }
+   ]
+  },
+  {
+   "h2": "Dónde le sacas provecho si haces música o arte"
+  },
+  {
+   "ul": [
+    "Al abrir o cerrar tus covers y videos en vivo.",
+    "En el encabezado de tu sitio de artista.",
+    "Como estado de WhatsApp el día que estrenas sencillo.",
+    "En la firma del correo de contrataciones, en GIF.",
+    "En la pantalla del foro antes de que salgas al escenario.",
+    "En el video de proceso de un tatuaje o una pintura."
+   ]
+  },
+  {
+   "p": "Un logo animado luce más cuando sólo se mueve al principio. Después tiene que quedarse quieto para que la gente lo lea y lo recuerde."
+  },
+  {
+   "p": "Al cierre de tus videos deja el logo quieto un par de segundos extra. Abajo puedes agregar tu sitio o tu usuario en tu editor de video."
+  },
+  {
+   "p": "No lo uses en cada rincón. Un logo que se mueve por todas partes distrae de tu música o de tu obra."
+  },
+  {
+   "h2": "Antes de descargar, revisa esto"
+  },
+  {
+   "p": "Velo en el celular, que es donde lo va a ver casi todo tu público. Si las letras se ven muy chicas ahí, acorta la frase."
+  },
+  {
+   "p": "Prueba el GIF en un chat de WhatsApp contigo mismo. Así confirmas cómo se ve el fondo que elegiste."
+  },
+  {
+   "p": "Para la versión quieta de tu marca usa el [creador de logo gratis](id:crear-logo-gratis). Si buscas volumen sin movimiento, prueba el [logo 3D](id:logo-3d)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Cuánto dura la animación?",
+   "respuesta": "Poco más de cuatro segundos. Al final el logo se queda quieto."
+  },
+  {
+   "pregunta": "¿Puedo elegir otro tipo de movimiento?",
+   "respuesta": "No por ahora. Todas usan la misma entrada de símbolo, letras y frase."
+  },
+  {
+   "pregunta": "¿El GIF lleva fondo?",
+   "respuesta": "Sí. Toma el color de fondo que elijas en los ajustes."
+  },
+  {
+   "pregunta": "¿El video sirve para Instagram?",
+   "respuesta": "Sí. Súbelo como historia o ponlo al final de un reel."
+  },
+  {
+   "pregunta": "¿También puedo bajar el logo sin movimiento?",
+   "respuesta": "Sí. El SVG y los PNG normales siguen abajo."
+  },
+  {
+   "pregunta": "¿Tiene costo?",
+   "respuesta": "No. Los tres formatos animados son gratis."
+  }
+ ],
+ "venta": {
+  "puente": "Tu logo animado abre tus videos, y en tu propio sitio de artista puede abrir la página principal.",
+  "aviso": "Tu logo animado está listo. ¿Quieres verlo arriba de tu propio sitio?",
+  "titulo": "¿Te hago el sitio donde abre tu logo animado?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

@@ -1,0 +1,387 @@
+{
+ "id": "ejemplos-de-paginas-web",
+ "slug": "ejemplos-de-paginas-web",
+ "molde": "plantilla",
+ "cabeza": "ejemplos de páginas web",
+ "busquedas": [
+  "plantillas de páginas web",
+  "plantillas web",
+  "ejemplos de sitios web",
+  "sitio web ejemplos",
+  "website plantillas",
+  "ejemplo de sitio web",
+  "paginas web de ejemplos",
+  "paginas web gratis plantillas",
+  "plantillas de paginas web gratis",
+  "plantillas para paginas web gratis",
+  "plantillas gratuitas para paginas web"
+ ],
+ "categoria": "Página web",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.tiendanube.com/blog/ejemplos-de-paginas-web-sencillos",
+   "titulo": "17 ejemplos de páginas web originales (Tiendanube)",
+   "promete": "Lista de sitios de marcas grandes; pocos negocios locales"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.getresponse.com/es/blog/mejores-ejemplos-de-paginas-web",
+   "titulo": "15 ejemplos de páginas web (GetResponse)",
+   "promete": "Galería para inspirarse; vende su creador"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.godaddy.com/resources/latam/crearweb/ejemplos-paginas-web-originales-inspiracion",
+   "titulo": "Ejemplos de páginas web originales (GoDaddy)",
+   "promete": "Inspiración por sector; vende su creador"
+  }
+ ],
+ "title": "Ejemplos de páginas web para artistas y qué tomarles",
+ "h1": "Ejemplos de páginas web para músicos y artistas",
+ "description": "Ejemplos de páginas web de artistas que siguen en línea, lo que resuelve cada uno y las secciones que pide tu disciplina. Ábrelos en tu celular y compara.",
+ "resumen": "Sitios de artista en línea y las secciones que pide cada disciplina",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "ejemplos-de-landing-page",
+  "pagina-web-para-negocio",
+  "landing-page",
+  "como-crear-una-pagina-web",
+  "diseno-de-paginas-web",
+  "que-es-un-sitio-web"
+ ],
+ "respuesta": [
+  "Abajo van dos sitios reales que puedes abrir desde tu celular. Junto a cada uno anoto lo que resuelve bien.",
+  "Después viene la estructura que le queda a cada disciplina, de la banda al estudio de tatuaje. No reparto plantillas para bajar, pero puedo hacerte uno con tu obra."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Dos sitios de artista que ya están en línea"
+  },
+  {
+   "p": "Los dos funcionan hoy y se pensaron primero para el teléfono. Ábrelos ahí, que es donde los mira casi toda la gente."
+  },
+  {
+   "trabajos": true
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Sitio",
+     "Dirección",
+     "Lo que resuelve"
+    ],
+    "filas": [
+     [
+      "Avelina",
+      "avelina.com.mx",
+      "Junta mi música, mis covers y mis cartas en un solo lugar"
+     ],
+     [
+      "Pilsi",
+      "pilsi.art",
+      "Reúne perfiles de talento creativo y sus talleres"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Qué aprender de cada uno"
+  },
+  {
+   "h3": "Avelina · una cantautora con varias cosas que mostrar"
+  },
+  {
+   "p": "Soy cantautora y mi sitio carga canciones, covers y cartas. Cada cosa vive en su propia sección y no se revuelve con las demás."
+  },
+  {
+   "p": "También tiene un [afinador de guitarra](/afinador-de-guitarra/) que cualquiera puede usar gratis. Una herramienta útil le da a la gente otra razón para volver."
+  },
+  {
+   "p": "La lección para ti es ordenar por tipo de material. Quien llega por un cover no tiene que pelearse con tus cartas para encontrarlo."
+  },
+  {
+   "h3": "Pilsi · un directorio que se recorre rápido"
+  },
+  {
+   "p": "Pilsi muestra perfiles de artistas con su trabajo a la vista. Quien busca fotógrafo o ilustradora llega a la persona sin dar vueltas."
+  },
+  {
+   "p": "La lección aquí es que la obra va antes que la biografía. Primero se ve lo que haces y luego se lee quién eres."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "La estructura según lo que haces"
+  },
+  {
+   "p": "Cada disciplina pide secciones distintas. Esta tabla resume lo que no puede faltar en las más comunes."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Disciplina",
+     "Secciones que no pueden faltar"
+    ],
+    "filas": [
+     [
+      "Cantautor o solista",
+      "Canciones para escuchar · próximas fechas · contacto para contrataciones"
+     ],
+     [
+      "Banda",
+      "Integrantes · videos en vivo · agenda de tocadas y prensa"
+     ],
+     [
+      "Pintora o ilustrador",
+      "Galería por serie · obra disponible · encargos y exposiciones"
+     ],
+     [
+      "Estudio de tatuaje",
+      "Portafolio por estilo · cuidados · apartado de cita"
+     ],
+     [
+      "Fotógrafa",
+      "Series por tipo de sesión · paquetes · fechas libres"
+     ],
+     [
+      "Bailarín o estudio de danza",
+      "Videos · clases y horarios · eventos"
+     ],
+     [
+      "Músico para eventos",
+      "Repertorio · paquetes por hora · cotización para bodas"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si tu disciplina no aparece, piensa en lo que más te preguntan por mensaje. Esas respuestas se vuelven tus secciones."
+  },
+  {
+   "p": "Un músico para bodas recibe siempre las mismas tres preguntas. Cuánto cobra, qué toca y si tiene libre la fecha."
+  },
+  {
+   "h2": "Lo que comparten los sitios de artista que funcionan"
+  },
+  {
+   "ul": [
+    "Desde la primera pantalla se entiende qué haces y cómo suena o se ve.",
+    "El botón para contratarte está a la vista sin tener que bajar.",
+    "Tu música y tus fotos abren rápido con los datos del celular.",
+    "Todo el material es tuyo y nada sale de bancos de imágenes.",
+    "Hay pocas secciones y cada una cuenta una sola cosa.",
+    "Tu contacto coincide en el sitio, en tus redes y en Google."
+   ]
+  },
+  {
+   "p": "Pasa cualquier ejemplo por esta lista antes de tomarle algo. Te evita imitar un sitio precioso que no consigue contrataciones."
+  },
+  {
+   "h2": "Cómo tomar ideas de un ejemplo sin copiarlo"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Apunta el orden",
+     "texto": "Fíjate qué va arriba, qué sigue después y en qué parte queda el botón de contacto."
+    },
+    {
+     "titulo": "Pon tu propio material",
+     "texto": "Tus canciones, tus fotos y tus palabras. Un texto ajeno no suena a ti y también te resta en Google."
+    },
+    {
+     "titulo": "Borra lo que no usas",
+     "texto": "Si no vendes obra, no necesitas tienda. Si no das clases, quita la sección de horarios."
+    },
+    {
+     "titulo": "Haz la prueba con un amigo",
+     "texto": "Pídele que encuentre tu próxima fecha en diez segundos. Si tarda más, mueve esa sección hacia arriba."
+    }
+   ]
+  },
+  {
+   "h2": "Plantilla gratis o sitio hecho"
+  },
+  {
+   "p": "Los creadores de sitios traen plantillas gratis para llenar. Te sirven si tienes tiempo de armar y cuidar tu página entre ensayos."
+  },
+  {
+   "p": "La parte pesada no es el diseño sino tenerla al día. Cada fecha nueva y cada serie terminada piden un rato frente a la computadora."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "",
+     "Plantilla de un creador de sitios",
+     "Sitio que te hago desde Pilsi"
+    ],
+    "filas": [
+     [
+      "Quién lo arma",
+      "Tú",
+      "Yo, con tu material"
+     ],
+     [
+      "Diseño",
+      "El de la plantilla",
+      "Pensado para tu disciplina"
+     ],
+     [
+      "Dominio",
+      "Según el plan que pagues",
+      "Incluido y a tu nombre"
+     ],
+     [
+      "Cambios",
+      "Los haces tú",
+      "Los que pidas con tu mensualidad"
+     ],
+     [
+      "Precio",
+      "Según el plan",
+      "$1,500 y luego $99 al mes"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si prefieres armarlo por tu cuenta, lee [cómo crear una página web](id:como-crear-una-pagina-web). Ahí viene cada camino con sus pasos."
+  },
+  {
+   "h2": "Qué tipo de sitio te toca según tu momento"
+  },
+  {
+   "p": "No todos los artistas necesitan lo mismo. Lo que ya tienes publicado decide cuántas páginas te conviene tener."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Tu momento",
+     "Qué tipo de sitio",
+     "Secciones de ejemplo"
+    ],
+    "filas": [
+     [
+      "Empiezas con pocas canciones u obras",
+      "Una sola página",
+      "Quién eres · tres piezas · contacto"
+     ],
+     [
+      "Tocas o expones cada mes",
+      "Una página larga",
+      "Agenda · material · contrataciones"
+     ],
+     [
+      "Tienes discos, series o varios proyectos",
+      "Sitio de varias páginas",
+      "Una página por proyecto y una agenda común"
+     ],
+     [
+      "Vendes obra o mercancía",
+      "Sitio con catálogo",
+      "Piezas con precio y pedido por mensaje"
+     ],
+     [
+      "Das clases o talleres",
+      "Sitio con horarios",
+      "Grupos · costos · inscripción"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Mi sitio es de varias páginas porque junta música, covers y cartas. Una ilustradora que va empezando cabe muy bien en una sola."
+  },
+  {
+   "p": "El [sitio completo](https://pilsi.art/paquetes) cuesta $5,000 y trae hasta diez páginas. La página sola cuesta $1,500 con tu dominio."
+  },
+  {
+   "h2": "Cómo revisar un ejemplo desde tu celular"
+  },
+  {
+   "p": "Casi toda la gente que te busque va a abrir tu sitio en el teléfono. Haz esta revisión con cualquier ejemplo que te guste."
+  },
+  {
+   "ol": [
+    "Apaga el wifi y ábrelo sólo con datos móviles.",
+    "Mide cuántos segundos pasan hasta que se ve entero.",
+    "Ubica el botón para contratar sin mover la pantalla.",
+    "Trata de hallar una fecha o un precio en diez segundos.",
+    "Reproduce una canción o abre una foto en grande.",
+    "Toca el contacto y revisa a qué chat o correo te manda."
+   ]
+  },
+  {
+   "p": "Si un ejemplo falla en dos de estos puntos, no lo tomes de modelo aunque luzca bien. Lo que brilla en la computadora a veces se rompe en el teléfono."
+  },
+  {
+   "h2": "Un sitio vivo contra uno olvidado"
+  },
+  {
+   "p": "Un ejemplo bonito no sirve si nadie le cambia nada. El sitio de un artista se nota vivo cuando las fechas están al día."
+  },
+  {
+   "p": "Cada tocada nueva, cada serie terminada y cada video van al sitio. Así quien llega ve lo que estás haciendo ahora y no hace un año."
+  },
+  {
+   "p": "Por eso la mensualidad de $99 incluye los cambios que pidas. Tú me mandas la fecha nueva y yo la subo."
+  },
+  {
+   "h2": "Preguntas antes de elegir tu ejemplo favorito"
+  },
+  {
+   "ul": [
+    "¿Te contratan por WhatsApp o prefieren escribirte un correo?",
+    "¿Tienes cinco piezas para mostrar o tienes cincuenta?",
+    "¿Tocas en bares, en bodas o en foros culturales?",
+    "¿Ya tienes buenas fotos o hace falta una sesión?"
+   ]
+  },
+  {
+   "p": "Con esas respuestas sabes si te basta una [landing page](id:landing-page) o te conviene un sitio de varias páginas."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Puedo bajar estos sitios como plantilla?",
+   "respuesta": "No. Son sitios reales en línea. Si quieres uno así, te lo hago con tu propio material."
+  },
+  {
+   "pregunta": "¿Quién hizo los ejemplos?",
+   "respuesta": "Los dos son proyectos míos. Uno es mi sitio de cantautora y el otro es Pilsi."
+  },
+  {
+   "pregunta": "¿Cuánto cuesta un sitio como estos?",
+   "respuesta": "Desde $1,500 con tu dominio incluido. Después pagas $99 al mes y el sitio completo cuesta $5,000."
+  },
+  {
+   "pregunta": "¿Puedo ver el mío antes de pagar?",
+   "respuesta": "Sí. Pide una demo y te enseño cómo quedaría con tu material."
+  },
+  {
+   "pregunta": "¿Tomar el diseño de otro artista está prohibido?",
+   "respuesta": "Depende de qué tomes. Usar sus textos, sus fotos o su logo sí te puede traer problemas."
+  },
+  {
+   "pregunta": "¿Puedo pedir que el mío se parezca a uno de estos?",
+   "respuesta": "Sí. Dime cuál te gusta y lo usamos como punto de partida."
+  },
+  {
+   "pregunta": "¿Qué ejemplo me conviene si apenas empiezo?",
+   "respuesta": "Uno de una sola página con botón a WhatsApp. Mira los [ejemplos de landing page](id:ejemplos-de-landing-page)."
+  }
+ ],
+ "venta": {
+  "puente": "Si te gustó un ejemplo, te hago uno igual de claro con tu música o tu obra.",
+  "titulo": "¿Te hago tu sitio de artista?",
+  "tituloCorto": "Uno así con tu nombre"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026. Ejemplos sólo de TRABAJOS de lib.mjs (avelina, pilsi)."
+}

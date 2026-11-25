@@ -19,6 +19,10 @@ SECCIONES = [
     ("/afinadores/", "Afinadores", "Con el micrófono del celular.", "afinador"),
     ("/cartas-de-una-foranea/", "Cartas de una foránea", "Lo que escribo lejos de casa.", "marca"),
     ("/libreta/", "La libreta", "Respuestas cortas, una pregunta a la vez.", "diarias"),
+    # Páginas para artistas (fuente/paginas-web, 24-nov-2026): la colección es «pw-<molde>».
+    ("/herramientas/", "Herramientas para músicos", "QR, flyers, logos y paletas, gratis.", "pw-herramienta"),
+    ("/guias/", "Guías para artistas", "Tu sitio, tu dominio y tu música en internet.", "pw-guia"),
+    ("/plantillas/", "Plantillas para artistas", "Cotizaciones y ejemplos de sitios.", "pw-plantilla"),
 ]
 TIMBRES = ["/img/calido/timbre-sol.webp", "/img/azul/timbre.webp"]
 SELLOS = ["/img/estampas/sello-vino.webp", "/img/estampas/sello-azul.webp", "/img/estampas/sello-oro.webp"]
@@ -37,6 +41,10 @@ def vivas(hoy=None):
     for p in _json("fuente/fijas/paginas/*.json"):
         if not p.get("esqueleto") and p.get("estado") == "publicada" and p.get("publicar_desde", "0000") <= hoy and not p.get("espera_texto"):
             cuenta[p.get("coleccion")] = cuenta.get(p.get("coleccion"), 0) + 1
+    for p in _json("fuente/paginas-web/paginas/*.json"):
+        if p.get("publicacion") and p["publicacion"] <= hoy:
+            k = "pw-" + str(p.get("molde"))
+            cuenta[k] = cuenta.get(k, 0) + 1
     for d in _json("fuente/diarias/paginas/*.json"):
         if d.get("estado") == "publicada" and d.get("fecha", "9999") <= hoy:
             cuenta["diarias"] = cuenta.get("diarias", 0) + 1

@@ -1,0 +1,206 @@
+{
+ "id": "crear-logo-con-ia",
+ "slug": "crear-logo-con-ia",
+ "molde": "herramienta",
+ "cabeza": "crear logo con ia",
+ "busquedas": [
+  "crear logos con ia",
+  "creador de logos con ia",
+  "generar logo con ia",
+  "ia para crear logos",
+  "creador de logos ia",
+  "generar logos con ia",
+  "generador de logos con ia",
+  "ia para crear logos gratis",
+  "crear logo con inteligencia artificial",
+  "crear logos con inteligencia artificial",
+  "creador de logos con inteligencia artificial",
+  "logo ia",
+  "ia logo"
+ ],
+ "categoria": "Logos",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "logo",
+  "modo": "general"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.canva.com/es_mx/crear-logos-ia/",
+   "titulo": "Crea logos con IA (Canva)",
+   "promete": "Genera logos con IA en plan gratis limitado; pide cuenta y el resultado se edita poco"
+  },
+  {
+   "posicion": 2,
+   "url": "https://yce.perfectcorp.com/es/features/ai-logo-maker",
+   "titulo": "Creador de logos con IA en línea",
+   "promete": "Empieza con 5 créditos gratis; luego cobra"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.insmind.com/es/crear-logo-con-ia",
+   "titulo": "Generador de logos con IA gratis",
+   "promete": "Logo en segundos; la versión gratis descarga en baja calidad y sin vector"
+  }
+ ],
+ "title": "Crear logo con IA o a tu gusto para tu banda, en SVG",
+ "h1": "Crear logo con IA para tu banda o tu estudio",
+ "description": "Escribe el nombre de tu banda o tu estudio y salen 12 propuestas de logo que editas pieza por pieza. Sin créditos, en SVG para playeras y carteles. Pruébalo.",
+ "resumen": "12 propuestas de logo para tu proyecto, editables en SVG",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "crear-logo-gratis",
+  "logo-minimalista",
+  "letras-para-logo",
+  "logo-animado",
+  "isotipo-imagotipo-logotipo",
+  "logo-para-camisetas"
+ ],
+ "respuesta": [
+  "Pon cómo se llama tu proyecto, elige a qué se dedica y aparecen 12 logos distintos. Cada una está hecha de piezas reales, un símbolo y unas letras, que cambias por separado. No gasta créditos y te da un SVG que sirve para playeras, carteles o un parche."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Cómo funciona por dentro"
+  },
+  {
+   "p": "El giro que marques define el grupo de dibujos con el que se trabaja. A esos dibujos se les suman letras y tonos que combinan entre sí."
+  },
+  {
+   "p": "Cada propuesta nace de reglas de diseño y no de una imagen inventada. Por eso el nombre de tu banda siempre sale bien escrito."
+  },
+  {
+   "p": "Si pides otra ronda, cambian las mezclas y salen 12 nuevas. Puedes repetirlo cuantas veces quieras sin límite al día."
+  },
+  {
+   "h2": "Por qué te conviene que sea editable"
+  },
+  {
+   "p": "Muchos generadores te dan una imagen plana. Si una letra sale chueca, toca pedir otra imagen y cruzar los dedos."
+  },
+  {
+   "p": "Aquí el logo es un juego de piezas sueltas. Cambias el símbolo sin mover el nombre, o la letra sin mover el color."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Qué quieres cambiar",
+     "Qué haces aquí"
+    ],
+    "filas": [
+     [
+      "El dibujo",
+      "Elige otro símbolo de tu giro o uno abstracto"
+     ],
+     [
+      "La letra",
+      "Escoge entre 20 tipografías de estilos distintos"
+     ],
+     [
+      "El acomodo",
+      "Pasa a símbolo arriba, sello, iniciales o sólo nombre"
+     ],
+     [
+      "Los colores",
+      "Cambia por separado el color del símbolo y el del nombre"
+     ],
+     [
+      "El espacio",
+      "Abre o cierra el espacio entre letras con una barra"
+     ],
+     [
+      "El tamaño del símbolo",
+      "Hazlo más grande o más chico junto al nombre"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo llegar a una buena propuesta"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Escribe el nombre como lo dicen tus fans",
+     "texto": "Si todos le dicen a tu banda por sus siglas, prueba con las siglas también."
+    },
+    {
+     "titulo": "Escoge el giro más cercano",
+     "texto": "El giro decide qué símbolos aparecen primero. Si ninguno te queda, usa «Otro giro» y salen formas abstractas."
+    },
+    {
+     "titulo": "Quédate con tus dos favoritas",
+     "texto": "Míralas en fondo claro y en fondo oscuro. Muchas cambian bastante sobre negro, como en un escenario."
+    },
+    {
+     "titulo": "Ajusta y descarga el ZIP",
+     "texto": "El paquete trae los archivos que te van a pedir la imprenta y quien estampe tu mercancía."
+    }
+   ]
+  },
+  {
+   "h2": "Qué archivos recibes"
+  },
+  {
+   "ul": [
+    "SVG para imprenta, serigrafía y bordado.",
+    "PNG de 512, 1024 y 2048 px sin fondo.",
+    "Una versión para fondos oscuros en SVG y PNG.",
+    "Un cuadro de 1080 px pensado para tu avatar en redes."
+   ]
+  },
+  {
+   "h2": "Dónde vas a usar el logo de tu proyecto"
+  },
+  {
+   "p": "Un logo de artista trabaja en lugares muy distintos. Piensa en todos antes de decidir."
+  },
+  {
+   "ul": [
+    "En el bombo de la batería o en la manta detrás del escenario.",
+    "En playeras, gorras y calcomanías de tu mesa de mercancía.",
+    "En la portada de tu disco y en tu foto de perfil.",
+    "En la puerta de tu estudio de tatuaje o de foto."
+   ]
+  },
+  {
+   "p": "Para playeras revisa el [logo para camisetas](id:logo-para-camisetas). Si buscas un estilo más limpio, prueba el [logo minimalista](id:logo-minimalista) o las [letras para logo](id:letras-para-logo)."
+  },
+  {
+   "p": "Guarda el ZIP en una carpeta segura. Cada imprenta o diseñador que contrates te va a pedir esos archivos."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Este creador usa inteligencia artificial?",
+   "respuesta": "No. Sigue reglas de diseño con dibujos y letras hechos a mano, y así cada parte queda editable."
+  },
+  {
+   "pregunta": "¿Cuántas propuestas puedo sacar?",
+   "respuesta": "Sin tope. Cada vuelta te enseña 12 y puedes pedir otra enseguida."
+  },
+  {
+   "pregunta": "¿El nombre puede salir con letras raras?",
+   "respuesta": "No. El texto usa tipografías reales y respeta acentos y la ñ."
+  },
+  {
+   "pregunta": "¿Puedo vender playeras con este logo?",
+   "respuesta": "Sí. Es tuyo para playeras, discos y carteles. Si quieres protegerlo como marca, el trámite es ante el IMPI."
+  },
+  {
+   "pregunta": "¿Sale con marca de agua?",
+   "respuesta": "No. El archivo sale limpio para que lo uses donde quieras."
+  }
+ ],
+ "venta": {
+  "puente": "Tu logo ya tiene casa en tus playeras, y también puede tenerla en un sitio de artista con tu nombre.",
+  "aviso": "Tu logo está listo. ¿Quieres un sitio de artista que lo lleve arriba?",
+  "titulo": "¿Te hago el sitio donde va a vivir tu logo?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

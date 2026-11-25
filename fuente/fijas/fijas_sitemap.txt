@@ -5,7 +5,7 @@ https://avelina.com.mx/afinador-de-bajo-quinto/	2026-11-15
 https://avelina.com.mx/afinador-de-guitarra/	2026-11-15
 https://avelina.com.mx/afinador-de-ukulele/	2026-11-15
 https://avelina.com.mx/afinador-de-violin/	2026-11-15
-https://avelina.com.mx/afinadores/	2026-11-15
+https://avelina.com.mx/afinadores/	2026-11-24
 https://avelina.com.mx/amarrame-mon-laferte/	2026-11-15
 https://avelina.com.mx/amor-amor-carla-morrison/	2026-11-15
 https://avelina.com.mx/amor-de-mis-amores/	2026-11-15
@@ -16,7 +16,7 @@ https://avelina.com.mx/caloncho/	2026-11-15
 https://avelina.com.mx/canciones-de-amor-en-espanol/	2026-11-15
 https://avelina.com.mx/canciones-de-desamor/	2026-11-15
 https://avelina.com.mx/canciones-faciles-en-guitarra/	2026-11-15
-https://avelina.com.mx/canciones-para/	2026-11-15
+https://avelina.com.mx/canciones-para/	2026-11-24
 https://avelina.com.mx/canciones-para-boda/	2026-11-15
 https://avelina.com.mx/canciones-para-cumpleanos/	2026-11-15
 https://avelina.com.mx/canciones-para-dedicar/	2026-11-15
@@ -43,9 +43,9 @@ https://avelina.com.mx/carta-para-mi-mejor-amiga/	2026-11-15
 https://avelina.com.mx/carta-para-mi-novia/	2026-11-15
 https://avelina.com.mx/carta-para-mi-novio/	2026-11-15
 https://avelina.com.mx/carta-para-una-amiga/	2026-11-15
-https://avelina.com.mx/cartas/	2026-11-15
+https://avelina.com.mx/cartas/	2026-11-24
 https://avelina.com.mx/cartas-de-amor/	2026-11-15
-https://avelina.com.mx/cartas-de-una-foranea/	2026-11-15
+https://avelina.com.mx/cartas-de-una-foranea/	2026-11-24
 https://avelina.com.mx/cartas-para-amiga-secreta/	2026-11-15
 https://avelina.com.mx/cielito-lindo/	2026-11-15
 https://avelina.com.mx/colapso-kevin-kaarl/	2026-11-15
@@ -57,8 +57,8 @@ https://avelina.com.mx/compartir-carla-morrison/	2026-11-15
 https://avelina.com.mx/consuelo-velazquez/	2026-11-15
 https://avelina.com.mx/contigo-aprendi/	2026-11-15
 https://avelina.com.mx/contigo-carla-morrison/	2026-11-15
-https://avelina.com.mx/covers/	2026-11-15
-https://avelina.com.mx/cumpleanos/	2026-11-15
+https://avelina.com.mx/covers/	2026-11-24
+https://avelina.com.mx/cumpleanos/	2026-11-24
 https://avelina.com.mx/daniela-spalla/	2026-11-15
 https://avelina.com.mx/dejenme-llorar-carla-morrison/	2026-11-15
 https://avelina.com.mx/disfruto-carla-morrison/	2026-11-15
@@ -78,7 +78,7 @@ https://avelina.com.mx/feliz-cumpleanos-para-hombre/	2026-11-15
 https://avelina.com.mx/feliz-cumpleanos-para-mi/	2026-11-15
 https://avelina.com.mx/feliz-cumpleanos-sobrina/	2026-11-15
 https://avelina.com.mx/foranea/	2026-11-15
-https://avelina.com.mx/guitarra/	2026-11-15
+https://avelina.com.mx/guitarra/	2026-11-24
 https://avelina.com.mx/ha-ash/	2026-11-15
 https://avelina.com.mx/hasta-la-raiz-natalia-lafourcade/	2026-11-15
 https://avelina.com.mx/historia-de-un-amor/	2026-11-15

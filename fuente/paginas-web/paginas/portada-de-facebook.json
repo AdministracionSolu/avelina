@@ -1,0 +1,204 @@
+{
+ "id": "portada-de-facebook",
+ "slug": "portada-de-facebook",
+ "molde": "herramienta",
+ "cabeza": "foto portada facebook",
+ "busquedas": [
+  "foto de portada facebook",
+  "portada de facebook",
+  "foto de portada para facebook",
+  "fotos de portada para facebook originales",
+  "imagen de portada para facebook",
+  "portada para facebook",
+  "banner en facebook"
+ ],
+ "categoria": "Redes sociales",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "editor-diseno",
+  "modo": "portada-facebook"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://metricool.com/es/tamano-imagenes-facebook/",
+   "titulo": "Tamaño de imágenes en Facebook 2026 (Metricool)",
+   "promete": "Medidas citadas por terceros; vende su software"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.neolo.com/blog/medidas-para-facebook.php",
+   "titulo": "Medidas para Facebook 2026 (Neolo)",
+   "promete": "Lista de medidas; sin diseñador"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.canva.com/es_ar/crear/portadas-facebook/",
+   "titulo": "Portadas de Facebook (Canva)",
+   "promete": "Plantillas con cuenta"
+  }
+ ],
+ "title": "Foto portada Facebook para tu página de artista, gratis",
+ "h1": "Portada de Facebook para tu banda o tu proyecto",
+ "description": "Haz la portada de Facebook de tu banda, tu estudio o tu trabajo de foto en 1640 × 624 px. Guías para que no se corte en celular. Diséñala y bájala gratis.",
+ "resumen": "La portada de tu página de artista sin cortes en celular",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "pagina-de-facebook-para-negocio",
+  "iconos-para-historias-destacadas",
+  "plantillas-para-instagram",
+  "publicidad-en-facebook",
+  "link-en-bio"
+ ],
+ "respuesta": [
+  "Escribe tu nombre artístico, una frase y lo que ofreces, y escoge uno de los cinco diseños. La portada sale en 1640 × 624 px con dos líneas punteadas de guía. Todo lo que dejes entre esas líneas se ve completo también en el celular."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Por qué la portada se recorta en el teléfono"
+  },
+  {
+   "p": "En computadora Facebook enseña la portada entera. En el celular le quita un pedazo de cada lado, y casi todo tu público entra desde ahí."
+  },
+  {
+   "p": "Por eso el editor marca dos líneas punteadas que no salen en el archivo. Tu nombre, tu frase y tu WhatsApp tienen que caer entre ellas."
+  },
+  {
+   "p": "Las orillas quedan para fotos del escenario, colores o texturas. Si el celular las corta, no se pierde nada importante."
+  },
+  {
+   "h2": "Cómo hacer la portada de tu página"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Escoge el diseño",
+     "texto": "Centrado pone todo al medio. Foto a la derecha deja ver a tu banda o una obra tuya."
+    },
+    {
+     "titulo": "Escribe lo mínimo",
+     "texto": "Tu nombre, una frase sobre lo que haces y hasta tres servicios. No es un cartel de festival."
+    },
+    {
+     "titulo": "Cuida la orilla de abajo",
+     "texto": "En algunas vistas tu foto de perfil se encima en esa zona. No pongas datos pegados ahí."
+    },
+    {
+     "titulo": "Descarga el PNG y súbelo",
+     "texto": "En tu página toca el ícono de la cámara sobre la portada y elige el archivo."
+    }
+   ]
+  },
+  {
+   "h2": "Qué poner según tu disciplina"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Disciplina",
+     "Qué funciona en la portada"
+    ],
+    "filas": [
+     [
+      "Banda o solista",
+      "Foto en vivo y la próxima fecha o el nuevo sencillo"
+     ],
+     [
+      "Grupo para eventos",
+      "Tipos de evento y «Cotiza por WhatsApp»"
+     ],
+     [
+      "Estudio de tatuaje",
+      "Una pieza terminada y «Citas por WhatsApp»"
+     ],
+     [
+      "Fotógrafa",
+      "Tu mejor foto de la temporada y la ciudad donde trabajas"
+     ],
+     [
+      "Pintor o ilustrador",
+      "Un detalle de tu obra más reciente y tu nombre"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Cámbiala cada vez que tengas algo que anunciar. Una portada con la gira del año pasado da la idea de que el proyecto se detuvo."
+  },
+  {
+   "h2": "Los cinco diseños"
+  },
+  {
+   "ul": [
+    "Centrado, con tu nombre en medio y aire alrededor.",
+    "Foto a la derecha, con tus datos a la izquierda.",
+    "Letras grandes, cuando tu nombre ya es tu marca.",
+    "Franjas, con bloques de color para lo que ofreces.",
+    "Oscuro elegante, para proyectos de noche o de escenario."
+   ]
+  },
+  {
+   "p": "Luego arma tus [portadas para destacados](id:iconos-para-historias-destacadas) y tus [plantillas para Instagram](id:plantillas-para-instagram) con los mismos colores. Así tu proyecto se reconoce en cualquier red."
+  },
+  {
+   "h2": "Una portada para cada momento de tu proyecto"
+  },
+  {
+   "p": "La portada es el anuncio más visto de tu página y no cuesta nada. Úsala como un cartel que cambias según lo que viene."
+  },
+  {
+   "ul": [
+    "Antes de un estreno, la portada de tu sencillo y la fecha.",
+    "Durante una gira, las ciudades y la liga a boletos.",
+    "En temporada de bodas, el grupo tocando y tu WhatsApp.",
+    "Entre proyectos, una foto tuya y tu frase de siempre."
+   ]
+  },
+  {
+   "h2": "Errores comunes en la portada"
+  },
+  {
+   "ul": [
+    "Usar una foto genérica que no muestra tu trabajo.",
+    "Poner el teléfono en la orilla, donde el celular lo corta.",
+    "Escribir con letra blanca sobre una foto clara sin franja detrás.",
+    "Dejar la misma portada años después del estreno."
+   ]
+  },
+  {
+   "p": "Abre tu página desde tu propio celular cuando la subas. Lo que ves ahí es lo que ve casi todo tu público."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué medida tiene la portada?",
+   "respuesta": "Mide 1640 × 624 px. Sale en PNG lista para subir."
+  },
+  {
+   "pregunta": "¿Por qué mi portada se ve borrosa?",
+   "respuesta": "Casi siempre porque la imagen era chica. Esta medida es amplia para que se vea nítida."
+  },
+  {
+   "pregunta": "¿Puedo poner el logo de mi banda?",
+   "respuesta": "Sí. Súbelo en PNG sin fondo y acomódalo dentro de las guías."
+  },
+  {
+   "pregunta": "¿Puedo poner mi WhatsApp para contrataciones?",
+   "respuesta": "Sí. Tiene su propio campo y queda en la zona que se ve en celular."
+  },
+  {
+   "pregunta": "¿Cuánto cuesta?",
+   "respuesta": "Nada. La haces y la descargas gratis cuantas veces quieras."
+  }
+ ],
+ "venta": {
+  "puente": "Tu portada presenta tu proyecto en Facebook, y tu sitio de artista lo presenta en todo internet.",
+  "aviso": "Tu portada está lista. ¿Quieres un sitio con el mismo estilo?",
+  "titulo": "¿Te hago un sitio que combine con tu portada?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

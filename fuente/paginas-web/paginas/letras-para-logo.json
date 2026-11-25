@@ -1,0 +1,87 @@
+{
+ "id": "letras-para-logo",
+ "slug": "letras-para-logo",
+ "molde": "herramienta",
+ "cabeza": "letra para logo",
+ "busquedas": ["letra para logos"],
+ "categoria": "Logos",
+ "categoriaApp": "DesignApplication",
+ "herramienta": { "id": "logo", "modo": "letras" },
+ "fuentes": [],
+ "serp": [
+  { "posicion": 1, "url": "https://www.crehana.com/blog/diseno-grafico/tipografias-para-logos/", "titulo": "Tipografías para logos (Crehana)", "promete": "Lista de fuentes; curso de pago" },
+  { "posicion": 2, "url": "https://design.tutsplus.com/es/articles/36-best-logo-fonts-cool-fonts-for-logos--cms-37815", "titulo": "Las mejores fuentes para logos (Envato Tuts+)", "promete": "Fuentes de pago" },
+  { "posicion": 3, "url": "https://www.godaddy.com/resources/latam/marketing/tipografias-para-crear-un-logo", "titulo": "Tipografías para crear un logo (GoDaddy)", "promete": "Tipos de letra; vende su creador" }
+ ],
+ "title": "Letra para logo de tu banda o tu nombre artístico",
+ "h1": "Letras para el logo de tu proyecto",
+ "description": "Escribe el nombre de tu banda o tu nombre artístico y míralo en 20 letras para logo, de romana a gótica. Arma un monograma y baja el SVG con la letra en trazo.",
+ "resumen": "Tu nombre artístico en 20 tipografías y un monograma",
+ "revisada": "2026-11",
+ "relacionadas": ["logo-minimalista", "logo-3d", "crear-logo-gratis", "isotipo-imagotipo-logotipo", "logo-para-camisetas", "crear-qr-con-imagen"],
+ "respuesta": [
+  "Escribe el nombre de tu banda o tu nombre artístico y el creador lo enseña en varias letras, con tus iniciales dentro de un marco. Hay 20 tipografías de nueve estilos, desde las romanas hasta las góticas. El SVG trae la letra convertida en trazo y se ve igual en cualquier computadora."
+ ],
+ "cuerpo": [
+  { "h2": "Lo que cuenta cada estilo de letra" },
+  { "p": "La letra dice algo de tu música antes de que alguien la escuche. El mismo nombre suena a bolero en caligráfica y a punk en una angosta." },
+  { "tabla": {
+   "columnas": ["Estilo", "Qué transmite", "A quién le suele quedar"],
+   "filas": [
+    ["Romana en mayúsculas", "Tradición y seriedad", "Orquestas, coros, cuartetos de cuerda"],
+    ["Con remate", "Cultura y oficio", "Cantautores, editoriales de poesía, trova"],
+    ["Didona delgada", "Moda y elegancia", "Fotógrafas de moda, cantantes de pop"],
+    ["Palo seco", "Claridad y modernidad", "Productores, músicos electrónicos, diseñadores"],
+    ["Angosta", "Fuerza y urgencia", "Bandas de rock, festivales, carteles de lucha"],
+    ["Egipcia", "Solidez y oficio", "Grupos de norteño, talleres de grabado"],
+    ["Redonda", "Cercanía y juego", "Música para niños, ilustradoras, cuentacuentos"],
+    ["Caligráfica", "Delicadeza y celebración", "Mariachis de bodas, violinistas, bailarinas"],
+    ["Gótica", "Herencia y rebeldía", "Metal, tatuadores, ropa de banda"]
+   ]
+  } },
+  { "h2": "Un monograma con tus iniciales" },
+  { "p": "Este modo abre directo en el acomodo de iniciales. Toma la primera letra de tus dos palabras fuertes y se salta «de», «la» o «el»." },
+  { "p": "Tus iniciales quedan dentro de un círculo, un cuadro o un rombo. También puedes quitar el marco y dejar las dos letras solas." },
+  { "p": "Abajo aparece tu nombre completo en mayúsculas con aire entre las letras. Es un acomodo clásico de fotógrafos y de artistas que firman su obra." },
+  { "h2": "Cómo encontrar la letra de tu proyecto" },
+  { "pasos": [
+   { "titulo": "Escribe tu nombre tal como lo usas", "texto": "Hay letras que lucen con nombres cortos y otras con nombres largos. Prueba el de tu banda, no uno de ejemplo." },
+   { "titulo": "Recorre las propuestas", "texto": "Cada una trae una tipografía distinta. Pide otra tanda si ninguna te suena a tu música." },
+   { "titulo": "Cambia la letra con el selector", "texto": "Junto a cada tipografía aparece su estilo para que compares rápido." },
+   { "titulo": "Juega con mayúsculas y separación", "texto": "La misma letra cambia mucho si la escribes toda en mayúsculas y la abres." }
+  ] },
+  { "h2": "Señales de que la letra no te va" },
+  { "ul": [
+   "Una caligráfica escrita toda en mayúsculas ya no se entiende.",
+   "Una gótica con el nombre largo de tu banda cansa la vista.",
+   "Una didona delgada se pierde en un boleto o una estampa chica.",
+   "Una angosta con letras muy separadas deja de sonar fuerte."
+  ] },
+  { "p": "Para un logo de puras letras con mucho aire, mira el [logo minimalista](id:logo-minimalista). Si quieres que tu nombre tenga volumen en la portada, prueba el [logo 3D](id:logo-3d)." },
+  { "h2": "Dónde se pone a prueba la letra de tu logo" },
+  { "p": "En la manta del escenario casi cualquier letra se ve bien. La prueba difícil llega cuando el logo se hace chiquito." },
+  { "ul": [
+   "En tu foto de perfil, recortada en círculo por la red social.",
+   "En la miniatura de tu canción dentro de una lista de reproducción.",
+   "En la esquina de una ilustración, como firma de unos dos centímetros.",
+   "En la etiqueta de una camiseta o en el botón de una gorra."
+  ] },
+  { "p": "Si en esos lugares tu nombre no se lee, usa ahí el monograma. Guarda el nombre completo para la portada del disco y la manta." }
+ ],
+ "faqs": [
+  { "pregunta": "¿Puedo bajar las tipografías para usarlas aparte?", "respuesta": "No se puede. Te llevas tu logo con las letras ya convertidas en trazo dentro del SVG." },
+  { "pregunta": "¿Respeta acentos y la ñ?", "respuesta": "Sí los respeta. Escribe tu nombre artístico tal cual y sale correcto." },
+  { "pregunta": "¿El monograma acepta las iniciales de tres integrantes?", "respuesta": "No. Toma hasta dos iniciales de las palabras principales." },
+  { "pregunta": "¿Sirve para un sello con el que firmo mis grabados?", "respuesta": "Sí. Baja el SVG en un solo color y pide el sello con esa medida." },
+  { "pregunta": "¿Cuesta algo probar las letras?", "respuesta": "Nada. Pruebas todas y bajas tu logo sin pagar." }
+ ],
+ "venta": {
+  "puente": "La letra de tu logo también puede ser la de tu sitio, así todo suena al mismo proyecto.",
+  "aviso": "Tu monograma está listo. ¿Quieres un sitio de artista con la misma letra?",
+  "titulo": "¿Te hago el sitio con la letra de tu logo?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026"
+}

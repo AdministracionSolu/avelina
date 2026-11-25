@@ -1,0 +1,457 @@
+{
+ "id": "google-mi-negocio",
+ "slug": "google-mi-negocio",
+ "molde": "guia",
+ "cabeza": "google my business",
+ "busquedas": [
+  "business google my",
+  "google mybusi",
+  "google bu",
+  "google mi negocio",
+  "google negocio",
+  "negocio en google",
+  "mi negocio en google",
+  "google mi nego",
+  "perfil de negocio de google",
+  "mi negocio google",
+  "perfil de negocio google",
+  "perfil de empresa google",
+  "cómo poner mi negocio en google maps"
+ ],
+ "categoria": "Google",
+ "herramienta": null,
+ "fuentes": [
+  {
+   "texto": "Google, Perfil de Negocio (preguntas frecuentes)",
+   "url": "https://business.google.com/es-all/business-profile/"
+  },
+  {
+   "texto": "Ayuda de Google, cómo crear un Perfil de Negocio",
+   "url": "https://support.google.com/business/answer/10514137?hl=es-419"
+  },
+  {
+   "texto": "Ayuda de Google, cómo mejorar tu posición local",
+   "url": "https://support.google.com/business/answer/7091?hl=es-419"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://blog.hootsuite.com/google-my-business/",
+   "titulo": "Google My Business: guía completa",
+   "promete": "Guía larga en inglés sobre funciones; sin pasos para un negocio mexicano ni qué hacer si no tienes local"
+  },
+  {
+   "posicion": 2,
+   "url": "https://blog.hubspot.com/marketing/google-my-business",
+   "titulo": "Google My Business Guide",
+   "promete": "Explica el cambio de nombre y la configuración; no habla de reseñas en México ni del campo de sitio web"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.podium.com/google-reviews/google-my-business/",
+   "titulo": "Google Business Profile 101",
+   "promete": "Enfocado en reseñas para vender su software; pasos generales sin tabla de qué llenar"
+  }
+ ],
+ "title": "Google My Business para artistas, aparece en Maps",
+ "h1": "Google Mi Negocio para músicos, tatuadores y fotógrafos",
+ "description": "Da de alta tu estudio, tu academia o tu grupo para eventos en el Perfil de Negocio de Google. Pasos, verificación y reseñas para salir en Maps. Es gratis.",
+ "resumen": "Tu ficha en Google Maps aunque no tengas local",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "seo",
+  "palabras-clave",
+  "pagina-web-para-negocio",
+  "sitios-de-google",
+  "whatsapp-business-para-empresas",
+  "marketing-digital"
+ ],
+ "respuesta": [
+  "Google Mi Negocio ahora se llama Perfil de Negocio de Google y abrirlo no cuesta. Es la ficha que aparece en Google Maps y al lado de los resultados cuando alguien busca tu nombre.",
+  "Para darte de alta entras con una cuenta de Google, escribes tu nombre y tu categoría, y verificas. Hasta que termina la verificación nadie la puede ver."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Por qué un artista necesita su ficha"
+  },
+  {
+   "p": "Cuando alguien quiere un tatuaje, clases de canto o un grupo para su boda, muchas veces lo busca en Google. Las fichas del mapa salen antes que muchos sitios."
+  },
+  {
+   "p": "Si tienes estudio, academia o sala de ensayo, la ficha lleva a la gente a tu puerta. Si vas a domicilio, como un grupo para eventos, también puedes tener una."
+  },
+  {
+   "h2": "Qué es y qué enseña"
+  },
+  {
+   "p": "El nombre viejo sigue siendo el más buscado. En 2021 Google lo cambió por Perfil de Negocio, aunque casi todos le siguen diciendo como antes."
+  },
+  {
+   "p": "La ficha muestra tu nombre, tu ubicación o tu zona, tu horario y tu teléfono. También tiene fotos, reseñas y un botón hacia tu sitio."
+  },
+  {
+   "p": "La ficha sale en el mapa cuando alguien busca cerca. También sale a un lado cuando teclean tu nombre artístico."
+  },
+  {
+   "p": "Según la página oficial de Google, abrirla no tiene costo. Aparecer y juntar opiniones tampoco te cobra nada."
+  },
+  {
+   "tabla": {
+    "titulo": "Lo que muestra tu ficha",
+    "columnas": [
+     "Dato",
+     "Dónde se ve",
+     "Por qué importa"
+    ],
+    "filas": [
+     [
+      "Nombre y categoría",
+      "Arriba de la ficha",
+      "Decide en qué búsquedas sales"
+     ],
+     [
+      "Dirección o zona",
+      "En el mapa",
+      "La gente cercana te encuentra primero"
+     ],
+     [
+      "Horario",
+      "Bajo el nombre",
+      "Nadie llega con tu estudio cerrado"
+     ],
+     [
+      "Teléfono",
+      "Botón de llamar",
+      "Te marcan desde el celular"
+     ],
+     [
+      "Sitio web",
+      "Botón de sitio",
+      "Lleva a tu sitio de artista con más detalle"
+     ],
+     [
+      "Fotos",
+      "Galería",
+      "Enseñan tu estudio y tu trabajo"
+     ],
+     [
+      "Reseñas",
+      "Estrellas y comentarios",
+      "Dan confianza a quien no te conoce"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo darte de alta paso a paso"
+  },
+  {
+   "p": "Estos pasos siguen la ayuda oficial de Google. Las pantallas cambian un poco con el tiempo, pero el orden se mantiene."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Entra con una cuenta de Google",
+     "texto": "Usa una cuenta que se quede con tu proyecto. Si abres una nueva, que sea con el correo de contrataciones."
+    },
+    {
+     "titulo": "Abre la sección de perfiles",
+     "texto": "Dentro de tu cuenta ve a la parte de perfiles y toca la opción para sumar un negocio nuevo."
+    },
+    {
+     "titulo": "Escribe tu nombre",
+     "texto": "El nombre real que usas en tu letrero o en el escenario. No le agregues ciudades ni palabras de relleno."
+    },
+    {
+     "titulo": "Elige la categoría principal",
+     "texto": "Escribe lo que haces y escoge la opción más exacta, como estudio de tatuajes o escuela de música. Es el dato que más pesa."
+    },
+    {
+     "titulo": "Di si recibes gente",
+     "texto": "Si tus clientes van a tu estudio, escribe la dirección o marca el punto en el mapa."
+    },
+    {
+     "titulo": "Marca tu zona de servicio",
+     "texto": "Si tú vas al evento, agrega las ciudades o códigos postales que cubres. Google acepta hasta 20 zonas."
+    },
+    {
+     "titulo": "Agrega teléfono y sitio",
+     "texto": "El número donde contestas y la dirección de tu sitio de artista."
+    },
+    {
+     "titulo": "Termina la configuración",
+     "texto": "Revisa los datos y confirma. Google te va a pedir que verifiques."
+    },
+    {
+     "titulo": "Verifica tu ficha",
+     "texto": "Elige el método que te ofrezca. Puede ser un video, una llamada o un mensaje."
+    }
+   ]
+  },
+  {
+   "h2": "Cómo pasar la verificación"
+  },
+  {
+   "p": "Con este paso Google confirma que eres tú quien lleva el proyecto. Mientras no lo pases, tu ficha queda escondida."
+  },
+  {
+   "p": "Google elige qué métodos ofrecerte según tu giro y tu zona. No todos ven las mismas opciones."
+  },
+  {
+   "p": "Lo más común hoy es grabar un video corto. Ahí enseñas tu letrero, tu entrada y algo que pruebe que el lugar es tuyo."
+  },
+  {
+   "ul": [
+    "Graba de día y con buena luz.",
+    "Enseña el letrero con el mismo nombre que la ficha.",
+    "Muestra la calle o un punto conocido cerca.",
+    "En un estudio de tatuaje, enseña tu camilla y tu equipo.",
+    "En una academia, enseña el salón y los instrumentos.",
+    "Si vas a domicilio, enseña tu equipo de sonido o tu material de trabajo."
+   ]
+  },
+  {
+   "p": "La revisión puede tardar unos días. Mientras tanto no cambies el nombre ni la dirección."
+  },
+  {
+   "h2": "Si no tienes local"
+  },
+  {
+   "p": "Muchos artistas trabajan desde casa o van a donde los contratan. Google los acepta como negocios de zona de servicio."
+  },
+  {
+   "p": "Google necesita tu domicilio para comprobar quién eres, pero no lo enseña. Tus clientes sólo ven las ciudades a donde llegas."
+  },
+  {
+   "p": "Google pide un solo perfil por área metropolitana para estos negocios. Abrir fichas de más puede hacer que te suspendan todas."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Cómo llenarla para que te elijan"
+  },
+  {
+   "p": "Una ficha incompleta da la impresión de abandono. Una completa contesta lo que la gente quiere saber sin tener que llamarte."
+  },
+  {
+   "tabla": {
+    "titulo": "Lista para revisar tu ficha",
+    "columnas": [
+     "Sección",
+     "Qué poner",
+     "Consejo"
+    ],
+    "filas": [
+     [
+      "Descripción",
+      "Qué haces, para quién y dónde",
+      "Escribe como le hablas a tu público"
+     ],
+     [
+      "Servicios",
+      "Cada paquete o clase con su precio o rango",
+      "Usa las palabras que busca la gente"
+     ],
+     [
+      "Horario",
+      "Horario de atención y días especiales",
+      "Cámbialo cuando salgas de gira"
+     ],
+     [
+      "Fotos",
+      "Fachada, interior, tu equipo y tu trabajo",
+      "Sube fotos nuevas cada mes"
+     ],
+     [
+      "Atributos",
+      "Pago con tarjeta, accesibilidad y lo que aplique",
+      "Marca sólo lo que sí tienes"
+     ],
+     [
+      "Sitio web",
+      "Tu sitio de artista con tu dominio",
+      "Que abra rápido en celular"
+     ],
+     [
+      "Mensajes",
+      "El número donde contestas",
+      "Responde rápido o desactívalo"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Las fotos reales ganan siempre. En un estudio de tatuaje, una foto de la fachada ayuda a que te encuentren al llegar."
+  },
+  {
+   "h2": "Las reseñas"
+  },
+  {
+   "p": "Es lo que más lee la gente en una ficha. Reseñas recientes dan más confianza que una ficha vacía."
+  },
+  {
+   "p": "Pídelas a clientes contentos justo después del evento, la sesión o la clase. Mándales la liga directa para que no tengan que buscarte."
+  },
+  {
+   "p": "Contesta todas, incluso las malas. Una respuesta educada demuestra que alguien atiende el proyecto."
+  },
+  {
+   "ul": [
+    "No pagues por reseñas ni regales descuentos a cambio.",
+    "No escribas reseñas de tu propio proyecto.",
+    "No pidas a tu familia que califique sin haber sido cliente.",
+    "No discutas en público con alguien molesto."
+   ]
+  },
+  {
+   "p": "Las opiniones tramposas se eliminan. Si el abuso es grave, Google castiga la ficha entera."
+  },
+  {
+   "h2": "Tu ficha necesita un sitio"
+  },
+  {
+   "p": "Hay un botón que dice sitio web. Vacío, deja ir a quien quería oírte o ver tu portafolio antes de marcarte."
+  },
+  {
+   "p": "Tu sitio completa lo que no cabe en la ficha. Ahí van tus videos, tus paquetes, tus fechas y tus preguntas frecuentes."
+  },
+  {
+   "p": "Google usa lo que dice tu sitio para entender a qué te dedicas. Por eso tu nombre, tu zona y tu teléfono deben coincidir en los dos."
+  },
+  {
+   "p": "Hay quien liga su ficha a Instagram. Funciona, pero esa red no es tuya y lleva el diseño de otra empresa."
+  },
+  {
+   "h2": "Publicaciones y preguntas"
+  },
+  {
+   "p": "Tu ficha acepta publicaciones cortas, parecidas a una red social. Sirven para anunciar una tocada, una exposición o un cambio de horario."
+  },
+  {
+   "p": "Cada aviso se arma con unas líneas, una imagen y un botón. Ese botón lleva a tu sitio o abre la llamada."
+  },
+  {
+   "p": "No hace falta publicar diario. Con un aviso mensual la gente ve que tu proyecto está vivo."
+  },
+  {
+   "p": "La ficha también tiene una sección de preguntas del público. Cualquiera pregunta y cualquiera contesta."
+  },
+  {
+   "p": "Revisa esa sección cada semana. Si alguien responde mal, tu respuesta como dueño aclara el dato."
+  },
+  {
+   "h2": "Cómo saber si te está sirviendo"
+  },
+  {
+   "p": "Google te enseña cuánta gente vio tu ficha y qué hizo después. Lo encuentras en la sección de rendimiento."
+  },
+  {
+   "tabla": {
+    "titulo": "Números que conviene revisar cada mes",
+    "columnas": [
+     "Número",
+     "Qué te dice",
+     "Qué hacer si baja"
+    ],
+    "filas": [
+     [
+      "Búsquedas",
+      "Cuántas veces apareciste",
+      "Revisa categoría y servicios"
+     ],
+     [
+      "Llamadas",
+      "Cuántos te marcaron desde la ficha",
+      "Confirma que el teléfono contesta"
+     ],
+     [
+      "Solicitudes de ruta",
+      "Cuántos pidieron cómo llegar a tu estudio",
+      "Revisa que el punto del mapa sea correcto"
+     ],
+     [
+      "Clics al sitio web",
+      "Cuántos fueron a tu sitio",
+      "Mejora tu sitio y su botón principal"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Apunta las cifras siempre en la misma fecha. Comparando meses ves qué ajuste funcionó."
+  },
+  {
+   "h2": "Errores comunes"
+  },
+  {
+   "ul": [
+    "Abrir la ficha con la cuenta de un integrante que luego deja la banda.",
+    "Agregar palabras clave junto a tu nombre.",
+    "Elegir una categoría que no es la tuya para salir en más búsquedas.",
+    "Dejar el horario normal cuando estás de gira.",
+    "Abrir dos fichas para el mismo proyecto.",
+    "Ignorar las preguntas que deja la gente.",
+    "Ligar la ficha a un sitio que no abre en celular."
+   ]
+  },
+  {
+   "h2": "Cuánto tarda en aparecer"
+  },
+  {
+   "p": "Tu ficha sale al público cuando termina la verificación. Eso va de unas horas a varios días."
+  },
+  {
+   "p": "En qué lugar sales lo deciden tres factores. Google les dice relevancia, distancia y prominencia."
+  },
+  {
+   "p": "Lo primero mide si tu ficha responde a lo que escribieron. Lo segundo mide los kilómetros entre tú y quien busca."
+  },
+  {
+   "p": "Lo tercero tiene que ver con tu fama. Suman las opiniones y las menciones tuyas en otros sitios."
+  },
+  {
+   "p": "Ningún servicio honrado te asegura el primer puesto del mapa. Tu parte es mantener la ficha llena y actualizada."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Google Mi Negocio cuesta?",
+   "respuesta": "No. Abrirla y tenerla no cuesta, sólo los anuncios se cobran."
+  },
+  {
+   "pregunta": "¿Puedo tener ficha si no tengo estudio?",
+   "respuesta": "Sí. Marcas que atiendes por zona y tu domicilio no se publica."
+  },
+  {
+   "pregunta": "¿Cuánto tarda la verificación?",
+   "respuesta": "Varía. Con video suele ser cuestión de días y con otras vías a veces menos."
+  },
+  {
+   "pregunta": "¿Necesito sitio web para tener ficha?",
+   "respuesta": "No. Pero la ficha trae un botón de sitio y conviene llenarlo con el tuyo."
+  },
+  {
+   "pregunta": "¿Cómo cambio la dirección de mi estudio?",
+   "respuesta": "Desde el perfil, en editar. Google puede pedirte que verifiques otra vez."
+  },
+  {
+   "pregunta": "¿Puedo borrar una reseña mala?",
+   "respuesta": "No directamente. Puedes reportarla si rompe las reglas y contestarla con educación."
+  },
+  {
+   "pregunta": "¿Google Mi Negocio y Perfil de Negocio son lo mismo?",
+   "respuesta": "Sí. Es la misma herramienta con otro nombre desde 2021."
+  }
+ ],
+ "venta": {
+  "puente": "Tu ficha de Google te pone en el mapa, y tu sitio de artista es lo que la gente abre al tocar el botón de sitio web.",
+  "titulo": "¿Te hago el sitio que va en tu ficha de Google?",
+  "tituloCorto": "Tu sitio de artista"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

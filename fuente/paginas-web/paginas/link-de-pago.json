@@ -1,0 +1,461 @@
+{
+ "id": "link-de-pago",
+ "slug": "link-de-pago",
+ "molde": "guia",
+ "cabeza": "link de pago",
+ "busquedas": [],
+ "categoria": "Cobros",
+ "herramienta": null,
+ "fuentes": [
+  {
+   "texto": "BBVA México, Zona de cobro, link de pago (leído el 12-nov-2026)",
+   "url": "https://www.bbva.mx/personas/productos/zona-de-cobro/link-de-pago.html"
+  },
+  {
+   "texto": "Mercado Pago México, link de pago y comisiones (leído el 12-nov-2026)",
+   "url": "https://www.mercadopago.com.mx/herramientas-para-vender/link-de-pago"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.mercadopago.com.mx/herramientas-para-vender/link-de-pago",
+   "titulo": "Link de pago",
+   "promete": "Página de producto con pasos y tabla de comisiones propia; no compara con otras opciones"
+  },
+  {
+   "posicion": 2,
+   "url": "https://agendapro.com/blog/que-es-un-link-de-pago/",
+   "titulo": "Qué es un link de pago y cómo funciona: guía 2026",
+   "promete": "Explicación general orientada a agendas de citas; sin comisiones de México con fecha"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.bbva.mx/personas/productos/zona-de-cobro/link-de-pago.html",
+   "titulo": "Link de pago",
+   "promete": "Producto del banco con comisión y pasos; no habla de fraudes ni de cómo calcular lo que recibes"
+  }
+ ],
+ "title": "Link de pago para cobrar anticipos, citas y obra",
+ "h1": "Link de pago para artistas: cobra con tarjeta por WhatsApp",
+ "description": "Cobra el anticipo de una boda, una cita de tatuaje o una pintura con un link de pago. Cómo funciona, cuánto cobran BBVA y Mercado Pago y cómo evitar fraudes.",
+ "resumen": "Cobra anticipos y obra con tarjeta por WhatsApp",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "cobrar-con-qr",
+  "terminal-para-cobrar-con-tarjeta",
+  "link-de-whatsapp",
+  "recibo-de-pago",
+  "tienda-en-linea",
+  "formato-de-cotizacion"
+ ],
+ "respuesta": [
+  "Piensa en una dirección web que cobra por ti. Quien te contrata la toca, escribe su tarjeta en una pantalla protegida y tú recibes el dinero.",
+  "Lo generas en la app de tu banco o de una empresa de cobro en menos de un minuto. Cada venta paga comisión, así que compara tasa, IVA y días de depósito antes de escoger."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Para qué le sirve a un artista"
+  },
+  {
+   "p": "Casi todo lo que cobras como artista se arregla a distancia. La novia te contrata por WhatsApp y el coleccionista te compra desde otra ciudad."
+  },
+  {
+   "p": "Pedir transferencia funciona, pero mucha gente prefiere pagar con tarjeta. Con un link no necesitas terminal ni estar frente a la persona."
+  },
+  {
+   "ul": [
+    "Grupos y mariachis que piden anticipo para apartar la fecha.",
+    "Tatuadores que cobran la cita por adelantado para evitar faltas.",
+    "Pintoras e ilustradores que venden obra a otra ciudad.",
+    "Fotógrafas que cobran la sesión antes del día.",
+    "Maestros que cobran el mes de clases o una clase en línea.",
+    "Bandas que venden su mercancía por mensaje."
+   ]
+  },
+  {
+   "h2": "Así funciona"
+  },
+  {
+   "p": "El link hace el trabajo de la terminal cuando la persona no está contigo."
+  },
+  {
+   "ol": [
+    "Entras a la app de tu banco o de tu servicio de cobro.",
+    "Escribes el monto y el concepto, como anticipo de boda del 14 de febrero.",
+    "La app genera una liga única para ese cobro.",
+    "Mandas la liga por WhatsApp, mensaje o correo.",
+    "La persona la abre y paga con su tarjeta.",
+    "Te llega el aviso y el dinero se deposita según el plazo de tu servicio."
+   ]
+  },
+  {
+   "p": "Tu cuenta bancaria queda oculta para quien paga. Y su tarjeta queda oculta para ti."
+  },
+  {
+   "h2": "Lo que cobran dos servicios conocidos"
+  },
+  {
+   "p": "Cada empresa publica su tabla de comisiones. Éstas son las tasas que se leyeron en sus páginas el 12 de noviembre de 2026."
+  },
+  {
+   "tabla": {
+    "titulo": "Comisiones publicadas en sus páginas (12 de noviembre de 2026)",
+    "columnas": [
+     "Servicio",
+     "Comisión por venta",
+     "Lo que dice su página"
+    ],
+    "filas": [
+     [
+      "BBVA, link de pago de Zona de cobro",
+      "2.99% + IVA con tarjetas nacionales",
+      "Sin mensualidades. Amex 3.5% + IVA e internacionales 3.7% + IVA"
+     ],
+     [
+      "Mercado Pago, link de pago con dinero al instante",
+      "3.49% + $4.00 por venta",
+      "A la tasa fija se suma IVA según su página"
+     ],
+     [
+      "Mercado Pago, dinero en 7 días",
+      "3.19% + $4.00 por venta",
+      "Tasa menor a cambio de esperar"
+     ],
+     [
+      "Mercado Pago, dinero en 30 días",
+      "2.95% + $4.00 por venta",
+      "La tasa más baja de su tabla"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Las tasas cambian sin avisar y a veces hay promociones. Revisa la página de cada servicio el día que vayas a decidir."
+  },
+  {
+   "p": "Si la persona paga a meses sin intereses, se suma otra comisión. La tabla de Mercado Pago marca 4.69% + IVA extra a 3 meses."
+  },
+  {
+   "p": "Si vendes una pintura a alguien de otro país, fíjate en la tasa internacional. En BBVA es más alta que la nacional."
+  },
+  {
+   "h2": "Haz la cuenta antes de dar tu precio"
+  },
+  {
+   "p": "La comisión se descuenta de lo que cobras. Calcúlala antes de mandar tu cotización para no comerte tu ganancia."
+  },
+  {
+   "tabla": {
+    "titulo": "Ejemplo de un cobro de $1,000 con tarjeta nacional en BBVA",
+    "columnas": [
+     "Concepto",
+     "Monto"
+    ],
+    "filas": [
+     [
+      "Venta",
+      "$1,000.00"
+     ],
+     [
+      "Comisión de 2.99%",
+      "$29.90"
+     ],
+     [
+      "IVA de la comisión",
+      "$4.78"
+     ],
+     [
+      "Total que pagas",
+      "$34.68"
+     ],
+     [
+      "Lo que te queda",
+      "$965.32"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "La cuenta toma la tasa que BBVA mostraba ese 12 de noviembre. Si usas otro banco o das meses, los números se mueven."
+  },
+  {
+   "h2": "Crea tu link"
+  },
+  {
+   "p": "Los pasos se parecen en todos lados. Éstos son los que publican BBVA y Mercado Pago."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Abre la app",
+     "texto": "En BBVA se hace desde Zona de cobro. En Mercado Pago, desde la sección para cobrar."
+    },
+    {
+     "titulo": "Pon el monto",
+     "texto": "Incluye el envío si mandas una pieza. La persona debe ver un solo número."
+    },
+    {
+     "titulo": "Dale un título claro",
+     "texto": "Algo que reconozca, como anticipo de sesión de fotos. Algunos servicios dejan elegir meses y vencimiento."
+    },
+    {
+     "titulo": "Mándala",
+     "texto": "Envíala por WhatsApp junto a una línea que explique el cobro."
+    },
+    {
+     "titulo": "Espera el aviso",
+     "texto": "No apartes la fecha ni mandes la obra hasta que tu app confirme el pago."
+    }
+   ]
+  },
+  {
+   "p": "BBVA deja cada liga viva una semana si no tocas nada. Desde la lista de tus links eliges otra duración."
+  },
+  {
+   "h2": "Antes de escoger servicio"
+  },
+  {
+   "p": "La tasa no lo es todo. Compara estos puntos con tu forma de trabajar."
+  },
+  {
+   "ul": [
+    "Si la comisión ya trae IVA o se suma aparte.",
+    "Si hay una cuota fija por cada cobro.",
+    "Cuántos días tarda en llegar el dinero.",
+    "Si acepta meses sin intereses y cuánto te cuestan.",
+    "Si la misma liga deja pagar en efectivo o con transferencia.",
+    "Qué te piden para abrir la cuenta.",
+    "Cómo se resuelve un contracargo."
+   ]
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Qué escribir junto al link"
+  },
+  {
+   "p": "Una dirección suelta en el chat da desconfianza. Escribe arriba tu nombre artístico y el motivo del cobro."
+  },
+  {
+   "tabla": {
+    "titulo": "Mensajes de ejemplo",
+    "columnas": [
+     "Situación",
+     "Mensaje"
+    ],
+    "filas": [
+     [
+      "Anticipo de una boda",
+      "Hola, Laura. Te mando el link del anticipo para apartar el sábado 14. Son $3,000."
+     ],
+     [
+      "Cita de tatuaje",
+      "Listo, Daniel. Aquí va el link para apartar tu cita del jueves a las 5. Son $500."
+     ],
+     [
+      "Venta de una pintura",
+      "Hola, Mariana. Te comparto el link por el cuadro con envío incluido. Son $4,800."
+     ],
+     [
+      "Recordatorio",
+      "Hola, Paty. Tu link vence mañana y la fecha sigue apartada hasta entonces."
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Los montos de la tabla son de ejemplo. Pon los tuyos."
+  },
+  {
+   "h2": "Cuida que nadie te engañe"
+  },
+  {
+   "p": "Los fraudes van en las dos direcciones. Hay cuidados para ti y para quien te paga."
+  },
+  {
+   "p": "Para ti, que cobras:"
+  },
+  {
+   "ul": [
+    "Aparta la fecha o manda la obra sólo con la confirmación de tu app.",
+    "Nunca tomes una captura de pantalla como prueba de pago.",
+    "Guarda la plática y la guía de envío por si hay reclamo.",
+    "Desconfía de quien tiene prisa y pide mandar la pieza a otra persona."
+   ]
+  },
+  {
+   "p": "Para quien te paga, que también tiene miedo:"
+  },
+  {
+   "ul": [
+    "Manda el link desde tu número de siempre.",
+    "Pon tu nombre artístico en el mensaje.",
+    "Sugiérele mirar que la pantalla de cobro sea la del banco.",
+    "Ten un sitio propio donde pueda confirmar que existes."
+   ]
+  },
+  {
+   "h2": "Link por cobro, fijo o abierto"
+  },
+  {
+   "tabla": {
+    "titulo": "Tipos de link de pago",
+    "columnas": [
+     "Tipo",
+     "Cómo funciona",
+     "Para qué sirve"
+    ],
+    "filas": [
+     [
+      "Link por cobro",
+      "Uno nuevo para cada persona con su monto",
+      "Anticipos y encargos distintos"
+     ],
+     [
+      "Link fijo de un producto",
+      "La misma liga para algo con precio fijo",
+      "Inscripción a un taller o una lámina con precio fijo"
+     ],
+     [
+      "Link con monto abierto",
+      "La persona escribe cuánto paga",
+      "Abonos o aportaciones, si el servicio lo permite"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Un link fijo puede vivir en tu sitio o en tu biografía. Así te pagan el taller sin esperar a que les mandes nada."
+  },
+  {
+   "p": "Revisa qué tipos ofrece tu servicio. No todos tienen los tres."
+  },
+  {
+   "h2": "Lo que te piden para empezar"
+  },
+  {
+   "p": "Cada servicio pide algo distinto. Lo común es identificación, una cuenta donde recibir y tu teléfono."
+  },
+  {
+   "p": "Con un banco normalmente necesitas tener cuenta ahí. Con una empresa de cobro te registras dentro de su aplicación."
+  },
+  {
+   "p": "Si ya emites facturas, prepara tu RFC y tu constancia fiscal. Con eso suelen dejarte cobrar montos más altos."
+  },
+  {
+   "h2": "Link, terminal, transferencia o QR"
+  },
+  {
+   "tabla": {
+    "titulo": "Cuándo usar cada una",
+    "columnas": [
+     "Forma",
+     "Cuándo conviene",
+     "Qué cuidar"
+    ],
+    "filas": [
+     [
+      "Link de pago",
+      "La persona está lejos y quiere pagar con tarjeta",
+      "La comisión y el vencimiento"
+     ],
+     [
+      "Terminal",
+      "La persona está frente a ti, como en tu estudio",
+      "Costo del equipo y comisión"
+     ],
+     [
+      "Transferencia",
+      "La persona usa banca en el celular",
+      "Confirmar que el dinero llegó"
+     ],
+     [
+      "Código QR de cobro",
+      "Mesa de mercancía con mucha gente",
+      "Que la persona tenga la app"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "En la mesa de mercancía te sirve [cobrar con QR](id:cobrar-con-qr). Si atiendes en tu estudio, revisa la [terminal para cobrar con tarjeta](id:terminal-para-cobrar-con-tarjeta)."
+  },
+  {
+   "h2": "El link no es factura"
+  },
+  {
+   "p": "Cobrar con link no sustituye la factura. Si te la piden y estás obligado, la emites aparte."
+  },
+  {
+   "p": "Archiva cada aviso de pago con su fecha y el evento. Cuando llegue la declaración o un reclamo, ahí tienes todo."
+  },
+  {
+   "p": "Si quieres darle algo por escrito a quien te pagó, manda un [recibo de pago](id:recibo-de-pago) en PDF. No es factura, pero ordena tus cobros."
+  },
+  {
+   "h2": "Un caso inventado con anticipos"
+  },
+  {
+   "p": "Un mariachi de Morelia apartaba fechas de palabra. Varias veces llegó al evento y ya habían contratado a otro."
+  },
+  {
+   "p": "Ahora pide la mitad de anticipo con un link al confirmar la fecha. El resto se paga el día del evento."
+  },
+  {
+   "p": "Las fechas sin anticipo no se apartan. Desde entonces casi ninguna se le cae."
+  },
+  {
+   "h2": "Errores al cobrar con link"
+  },
+  {
+   "ul": [
+    "Mandar la liga sin decir qué se paga.",
+    "Olvidar la comisión al poner tu tarifa.",
+    "Apartar la fecha con una captura como prueba.",
+    "Dejar que el link venza sin avisar.",
+    "No guardar el comprobante de cada cobro."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es un link de pago?",
+   "respuesta": "Es una dirección web que cobra con tarjeta. Quien te paga la toca y tú recibes el depósito."
+  },
+  {
+   "pregunta": "¿Cuánto cobra un link de pago?",
+   "respuesta": "Cambia según quién te cobra. El 12 de noviembre de 2026 BBVA pedía 2.99% + IVA y Mercado Pago iba de 2.95% + $4.00 hacia arriba."
+  },
+  {
+   "pregunta": "¿Quien me paga necesita una app?",
+   "respuesta": "No. Sólo abre la liga y escribe su tarjeta."
+  },
+  {
+   "pregunta": "¿El link vence?",
+   "respuesta": "Sí, en muchos servicios. En BBVA vence a los 7 días y puedes cambiar el plazo."
+  },
+  {
+   "pregunta": "¿Puedo cobrar a meses sin intereses?",
+   "respuesta": "Sí, en algunos servicios. Cada plazo suma una comisión que pagas tú."
+  },
+  {
+   "pregunta": "¿Sirve como factura?",
+   "respuesta": "No. Es un comprobante de pago y la factura va aparte."
+  },
+  {
+   "pregunta": "¿Es seguro pagar con un link?",
+   "respuesta": "Sí, si la liga es del banco o del servicio. Revisa la dirección antes de poner la tarjeta."
+  }
+ ],
+ "venta": {
+  "puente": "Quien va a pagarte con un link quiere saber que existes, y un sitio con tu nombre, tu música y tu obra le da esa confianza.",
+  "titulo": "¿Te hago el sitio que da confianza al cobrar?",
+  "tituloCorto": "Un sitio que da confianza"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

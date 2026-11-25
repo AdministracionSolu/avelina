@@ -1,0 +1,236 @@
+{
+ "id": "firma-de-correo",
+ "slug": "firma-de-correo",
+ "molde": "herramienta",
+ "cabeza": "firma de correo",
+ "busquedas": [
+  "firma correo",
+  "firma para correo",
+  "firmas de correo"
+ ],
+ "categoria": "Correo",
+ "categoriaApp": "BusinessApplication",
+ "herramienta": {
+  "id": "firma-correo",
+  "modo": ""
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://meetergo.com/es/tools/email-signatur-generator",
+   "titulo": "Generador de firma de correo (Meetergo)",
+   "promete": "Firma con foto y botón de cita; vende su agenda"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.canva.com/es_mx/crear/firmas-correo/",
+   "titulo": "Firmas de correo (Canva)",
+   "promete": "Plantillas con cuenta"
+  },
+  {
+   "posicion": 3,
+   "url": "https://blog.hubspot.es/marketing/firma-correo-electronico",
+   "titulo": "Cómo hacer una firma para correo profesional (HubSpot)",
+   "promete": "Guía y generador; vende su software"
+  }
+ ],
+ "title": "Firma de correo gratis para artistas con tu música y redes",
+ "h1": "Firma de correo para artistas",
+ "description": "Haz gratis la firma de correo de tu banda o tu estudio con tu logo, tu WhatsApp, tu sitio y tus redes. Cinco diseños que se copian a Gmail u Outlook.",
+ "resumen": "La firma de tus correos de contratación",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "correo-corporativo",
+  "que-es-un-dominio",
+  "link-de-whatsapp",
+  "imprimir-tarjetas-de-presentacion",
+  "crear-logo-gratis",
+  "link-en-bio"
+ ],
+ "respuesta": [
+  "Escribe tu nombre artístico, lo que haces y tus datos de contacto. Escoge uno de los cinco diseños y toca «Copiar firma». La pegas en la configuración de tu correo y se queda con formato, ligas y colores."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Por qué una firma cuida tus contrataciones"
+  },
+  {
+   "p": "Cuando un festival o una galería te escribe, casi siempre la plática sigue por correo. Tu firma es lo último que leen en cada mensaje."
+  },
+  {
+   "p": "Con ella, quien te contrata encuentra tu WhatsApp y tu música sin buscarte en redes. También le pasa tus datos a su jefe con un reenvío."
+  },
+  {
+   "h2": "Arma la tuya"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Llena tus datos",
+     "texto": "Sólo el nombre es obligatorio. Lo demás sale en la firma únicamente si lo escribes."
+    },
+    {
+     "titulo": "Pon tu logo",
+     "texto": "Pega la liga de tu logo si ya vive en internet. Es la forma que mejor funciona."
+    },
+    {
+     "titulo": "Escoge diseño y color",
+     "texto": "Son cinco estilos, de la clásica a la tipo tarjeta. Usa el color de tu logo."
+    },
+    {
+     "titulo": "Copia y pega",
+     "texto": "Abre los ajustes de tu correo y pega con Ctrl + V."
+    }
+   ]
+  },
+  {
+   "h2": "Cinco diseños"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Diseño",
+     "Cómo se ve",
+     "Para quién"
+    ],
+    "filas": [
+     [
+      "Clásica",
+      "Nombre arriba y datos en renglones",
+      "Cualquier artista"
+     ],
+     [
+      "Con línea",
+      "Una barra de color separa tu nombre de tus datos",
+      "Bandas con un color que las identifica"
+     ],
+     [
+      "Compacta",
+      "Todo en pocas líneas",
+      "Quien contesta muchos correos cortos de fechas"
+     ],
+     [
+      "Centrada",
+      "Datos alineados al centro",
+      "Pintores, galerías y fotógrafos"
+     ],
+     [
+      "Tarjeta",
+      "Recuadro con logo al lado",
+      "Representantes y estudios"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Qué poner en la firma de un artista"
+  },
+  {
+   "ul": [
+    "Tu nombre artístico y lo que haces, como cantautora o tatuador.",
+    "El nombre de tu banda o tu estudio, si lo tienes.",
+    "Tu WhatsApp como liga que abre el chat.",
+    "Tu sitio, donde escuchan tu música o ven tu obra.",
+    "Una o dos redes, no todas."
+   ]
+  },
+  {
+   "p": "La dirección sólo vale la pena si recibes gente en tu estudio. Si tocas en distintos lugares, pon nada más tu ciudad."
+  },
+  {
+   "p": "Una firma corta se lee entera. Con diez renglones parece anuncio y la gente deja de mirarla."
+  },
+  {
+   "p": "Si tu música está en una plataforma, la liga a tu sitio suele bastar. Desde ahí la persona llega a todo lo demás."
+  },
+  {
+   "h2": "Dónde se pega en cada correo"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Correo",
+     "Dónde se pega"
+    ],
+    "filas": [
+     [
+      "Gmail",
+      "Engrane · Ver toda la configuración · General · Firma"
+     ],
+     [
+      "Outlook en la web",
+      "Configuración · Cuentas · Firmas"
+     ],
+     [
+      "Outlook clásico",
+      "Archivo · Opciones · Correo · Firmas"
+     ],
+     [
+      "Apple Mail",
+      "Ajustes · Firmas · tu cuenta"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Debajo de la firma, la herramienta abre los pasos del correo que elijas."
+  },
+  {
+   "h2": "Cuando el logo no aparece"
+  },
+  {
+   "p": "Gmail no guarda dentro de la firma la imagen que subes desde tu compu. Para que tu logo se vea ahí, tiene que estar en internet."
+  },
+  {
+   "p": "Outlook y Apple Mail sí aceptan el logo subido. Si tu logo está en tu sitio, copia la dirección de la imagen y pégala en el campo de liga."
+  },
+  {
+   "p": "Si todavía no tienes logo, hazlo con el [creador de logos](id:crear-logo-gratis). Bájalo en PNG para la firma."
+  },
+  {
+   "h2": "Tu firma con tu propio dominio"
+  },
+  {
+   "p": "Un correo gratis con números al final se ve menos serio. Una dirección como contrataciones@tunombre.mx da más confianza a quien te va a pagar."
+  },
+  {
+   "p": "Lee qué necesitas para tener un [correo corporativo](id:correo-corporativo) con el nombre de tu proyecto."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿El generador cuesta algo?",
+   "respuesta": "No cuesta. No pide cuenta y no le pone publicidad a tu firma."
+  },
+  {
+   "pregunta": "¿Por qué mi logo no sale en Gmail?",
+   "respuesta": "Porque lo subiste desde tu equipo. En Gmail usa la liga de tu logo en internet."
+  },
+  {
+   "pregunta": "¿Se pierde el formato al pegarla?",
+   "respuesta": "No se pierde. Se copia con su tabla, sus ligas y sus negritas."
+  },
+  {
+   "pregunta": "¿Puedo poner mi WhatsApp?",
+   "respuesta": "Sí. Escribe tus 10 dígitos y sale como liga que abre el chat."
+  },
+  {
+   "pregunta": "¿Se guardan mis datos?",
+   "respuesta": "Sí, sólo en tu equipo. Así no los vuelves a escribir la próxima vez."
+  },
+  {
+   "pregunta": "¿Puedo bajar la firma?",
+   "respuesta": "Sí. Baja el archivo .html o copia el código para otro programa."
+  }
+ ],
+ "venta": {
+  "puente": "Tu firma puede mandar a un sitio tuyo donde quien te escribe escucha tu música antes de contestarte.",
+  "aviso": "Tu firma está lista. ¿Quieres que lleve a un sitio de artista con tu dominio?",
+  "titulo": "¿Te hago el sitio que va en tu firma?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

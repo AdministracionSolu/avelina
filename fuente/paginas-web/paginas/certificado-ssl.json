@@ -1,0 +1,437 @@
+{
+ "id": "certificado-ssl",
+ "slug": "certificado-ssl",
+ "molde": "guia",
+ "cabeza": "certificado web",
+ "busquedas": [
+  "certificados web",
+  "certificado ssl",
+  "certificado ssl gratis",
+  "ssl certificado gratis",
+  "ssl qué es",
+  "certificados de dominio",
+  "ssl es"
+ ],
+ "categoria": "Dominio y hosting",
+ "herramienta": null,
+ "fuentes": [
+  {
+   "texto": "CA/Browser Forum, votación SC-081v3 sobre la validez de los certificados",
+   "url": "https://cabforum.org/2025/04/11/ballot-sc081v3-introduce-schedule-of-reducing-validity-and-data-reuse-periods/"
+  },
+  {
+   "texto": "Let's Encrypt, autoridad de certificación gratuita",
+   "url": "https://letsencrypt.org/es/"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.godaddy.com/resources/latam/stories/tipos-certificados-ssl",
+   "titulo": "Tipos de certificados SSL",
+   "promete": "Tipos de validación que llevan a su tienda; no dice que el certificado gratis basta para un negocio pequeño"
+  },
+  {
+   "posicion": 2,
+   "url": "https://blog.mercately.com/sitio-web/certificado-ssl",
+   "titulo": "Certificado SSL: qué es y por qué es importante",
+   "promete": "Explicación general; afirma requisitos legales sin fuente y no enseña a revisar el candado"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.moncloa.com/certificado-ssl-web",
+   "titulo": "Por qué debes tener un certificado SSL en tu web",
+   "promete": "Nota breve de 2020; sin cambios recientes en la duración de los certificados"
+  }
+ ],
+ "title": "Certificado web SSL: el candado de tu sitio de artista",
+ "h1": "Certificado SSL para tu sitio de artista",
+ "description": "Qué es el certificado SSL, por qué tu sitio de músico o de artista lo necesita aunque no vendas en línea y cómo tenerlo gratis con renovación automática.",
+ "resumen": "El candado que tu sitio de artista necesita",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "comprar-dominio",
+  "que-es-hosting",
+  "dominio-y-hosting",
+  "aviso-de-privacidad",
+  "que-es-un-sitio-web",
+  "como-crear-una-pagina-web"
+ ],
+ "respuesta": [
+  "El certificado SSL es el archivo que deja a tu sitio abrir con https y mostrar el candado. Protege lo que viaja entre tu sitio y quien lo visita y confirma que el dominio es tuyo.",
+  "Para un sitio de artista basta uno gratis de validación de dominio. Lo que sí importa es que se renueve solo, porque desde 2026 duran cada vez menos."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Por qué le importa a un artista"
+  },
+  {
+   "p": "Imagina que un organizador de eventos abre tu sitio para contratarte. Si el navegador le dice «no seguro», duda antes de escribirte."
+  },
+  {
+   "p": "Lo mismo pasa con alguien que quiere comprar una pintura o apartar una cita de tatuaje. Un aviso rojo espanta justo a quien ya estaba listo."
+  },
+  {
+   "p": "El candado no hace famoso a nadie. Pero su ausencia sí te puede costar una contratación."
+  },
+  {
+   "h2": "Qué es exactamente"
+  },
+  {
+   "p": "SSL es el nombre viejo de una tecnología de seguridad que hoy se llama TLS. La gente sigue diciendo SSL por costumbre."
+  },
+  {
+   "p": "Piensa en el certificado como la credencial de tu sitio. Dice de quién es el dominio y trae la llave para proteger la conexión."
+  },
+  {
+   "p": "Lo entrega una autoridad de certificación. Es una empresa en la que confían los navegadores y que comprueba que tú controlas el dominio."
+  },
+  {
+   "h2": "Lo que hace por tu sitio"
+  },
+  {
+   "ul": [
+    "**Protege los datos.** Nadie en el camino puede leer lo que alguien escribe en tu formulario de contrataciones.",
+    "**Confirma la dirección.** Tus fans saben que llegaron a tu sitio y no a una copia.",
+    "**Quita el aviso de no seguro.** Los navegadores ponen esa advertencia a los sitios sin certificado.",
+    "**Da confianza.** Quien ve una alerta de seguridad suele cerrar la pestaña.",
+    "**Abre funciones.** Pagos en línea, ubicación y otras funciones del navegador piden https."
+   ]
+  },
+  {
+   "h2": "Revisa si tu sitio lo tiene"
+  },
+  {
+   "p": "Te toma unos segundos y lo puedes hacer con cualquier sitio."
+  },
+  {
+   "ol": [
+    "Abre tu sitio en el navegador.",
+    "Mira la barra de la dirección.",
+    "Si empieza con https y ves un candado o un ícono de ajustes, ya lo tiene.",
+    "Si dice no seguro o empieza con http sin s, falta o está mal puesto.",
+    "Toca el ícono junto a la dirección para ver a nombre de qué dominio está y cuándo vence."
+   ]
+  },
+  {
+   "p": "Prueba tunombre.mx y también www.tunombre.mx. A veces una de las dos se queda sin candado."
+  },
+  {
+   "h2": "Tipos de certificado"
+  },
+  {
+   "p": "Se distinguen por cuánto revisa la autoridad antes de darlo. La protección es igual de fuerte en todos."
+  },
+  {
+   "tabla": {
+    "titulo": "Tipos de validación",
+    "columnas": [
+     "Tipo",
+     "Qué se revisa",
+     "Cuánto tarda",
+     "Para quién conviene"
+    ],
+    "filas": [
+     [
+      "Validación de dominio",
+      "Que controlas el dominio",
+      "Minutos",
+      "Sitios de artistas, portafolios y blogs"
+     ],
+     [
+      "Validación de organización",
+      "El dominio y que la empresa existe",
+      "Días",
+      "Disqueras o agencias que quieren mostrar su razón social"
+     ],
+     [
+      "Validación extendida",
+      "Revisión más estricta de la empresa",
+      "Días o semanas",
+      "Bancos y sitios con requisitos especiales"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Hoy los navegadores enseñan el mismo candado con los tres. La diferencia sólo aparece en los detalles del certificado."
+  },
+  {
+   "tabla": {
+    "titulo": "Según cuántas direcciones cubre",
+    "columnas": [
+     "Tipo",
+     "Qué cubre",
+     "Ejemplo"
+    ],
+    "filas": [
+     [
+      "Un dominio",
+      "Una dirección y casi siempre su versión con www",
+      "tunombre.mx"
+     ],
+     [
+      "Comodín",
+      "Todos los subdominios de un dominio",
+      "tienda.tunombre.mx y fechas.tunombre.mx"
+     ],
+     [
+      "Varios dominios",
+      "Una lista de dominios distintos",
+      "tunombre.mx y tunombre.com"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Gratis o de pago"
+  },
+  {
+   "p": "Hay autoridades que dan certificados de validación de dominio sin costo. La más conocida es Let's Encrypt, una organización sin fines de lucro."
+  },
+  {
+   "p": "Uno gratis protege igual que uno pagado. Para tu portafolio o el sitio de tu banda alcanza de sobra."
+  },
+  {
+   "p": "Pagar tiene sentido si necesitas validación de organización o extendida. También si un contrato o un trámite te lo pide."
+  },
+  {
+   "p": "Muchos servicios de hosting lo incluyen y lo renuevan solos. Pregúntalo antes de contratar."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Cada vez duran menos"
+  },
+  {
+   "p": "Todo certificado tiene fecha de caducidad. Cuando vence, el navegador muestra un aviso enorme y la gente se asusta."
+  },
+  {
+   "p": "En 2025 el CA/Browser Forum aprobó bajar poco a poco cuánto pueden durar. Pasan de 398 días a 47 días entre marzo de 2026 y marzo de 2029."
+  },
+  {
+   "p": "Con eso ya no es práctico renovarlo a mano. Tu hosting tiene que hacerlo de forma automática."
+  },
+  {
+   "h2": "Si tu certificado se vence"
+  },
+  {
+   "ul": [
+    "Aparece una pantalla roja de advertencia.",
+    "Mucha gente se sale sin entrar.",
+    "El formulario de contrataciones o los pagos pueden fallar.",
+    "Los buscadores pueden enseñar menos tu sitio hasta que se arregle."
+   ]
+  },
+  {
+   "p": "Si te pasa, avisa a quien lleva tu hosting. Casi siempre se resuelve con un certificado nuevo en minutos."
+  },
+  {
+   "h2": "Cómo se instala"
+  },
+  {
+   "p": "Depende de tu hosting. En casi todos basta con prenderlo en el panel."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Mira si viene incluido",
+     "texto": "Busca en el panel una parte de seguridad o de certificados."
+    },
+    {
+     "titulo": "Actívalo para tu dominio",
+     "texto": "Marca tu dominio y también la versión con www."
+    },
+    {
+     "titulo": "Espera la revisión",
+     "texto": "La autoridad confirma que el dominio es tuyo. Suele tardar minutos."
+    },
+    {
+     "titulo": "Obliga a usar https",
+     "texto": "Prende la opción que manda todas las visitas a la versión segura."
+    },
+    {
+     "titulo": "Busca contenido mezclado",
+     "texto": "Una foto o un video que carga con http rompe el candado. Cámbialo a https."
+    },
+    {
+     "titulo": "Confirma la renovación automática",
+     "texto": "Revisa que se renueve solo antes de vencer."
+    }
+   ]
+  },
+  {
+   "p": "Si insertas videos o reproductores de música de otras plataformas, revisa que usen https. Son los que más seguido rompen el candado."
+  },
+  {
+   "h2": "Qué pasa en el primer segundo de cada visita"
+  },
+  {
+   "ol": [
+    "El celular de tu fan pide tu sitio con https.",
+    "Tu servidor le contesta con su certificado.",
+    "El navegador revisa que sea válido y que lo firmó una autoridad confiable.",
+    "Los dos acuerdan una llave secreta que sólo ellos conocen.",
+    "Desde ahí todo lo que viaja va protegido con esa llave."
+   ]
+  },
+  {
+   "p": "Todo ocurre en milisegundos. La persona sólo ve el candado y tu sitio abre normal."
+  },
+  {
+   "h2": "Palabras que vas a encontrar"
+  },
+  {
+   "tabla": {
+    "titulo": "Glosario del certificado",
+    "columnas": [
+     "Término",
+     "Qué significa"
+    ],
+    "filas": [
+     [
+      "HTTPS",
+      "La versión segura de la dirección de un sitio"
+     ],
+     [
+      "TLS",
+      "La tecnología actual de cifrado que sustituyó a SSL"
+     ],
+     [
+      "Autoridad de certificación",
+      "La empresa que revisa y firma los certificados"
+     ],
+     [
+      "Validación de dominio",
+      "La revisión que confirma que controlas el dominio"
+     ],
+     [
+      "Renovación automática",
+      "Cuando el hosting pide un certificado nuevo antes de que venza"
+     ],
+     [
+      "Contenido mezclado",
+      "Archivos que cargan sin https dentro de un sitio seguro"
+     ],
+     [
+      "Redirección a https",
+      "La regla que manda a todos a la versión segura"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "El candado no garantiza que alguien sea honesto"
+  },
+  {
+   "p": "Los estafadores también usan certificados. Un sitio falso de boletos también puede mostrar el candado."
+  },
+  {
+   "ul": [
+    "Lee el dominio con calma, las copias cambian una letra.",
+    "Desconfía de direcciones con palabras de más, como boletos-oficial-venta.",
+    "No pagues desde una liga que te mandó un desconocido.",
+    "Busca el sitio oficial del artista y compara la dirección.",
+    "Nunca des contraseñas ni códigos por mensaje."
+   ]
+  },
+  {
+   "p": "Por eso tu propio dominio con tu nombre ayuda. Tus fans saben cuál es la dirección real para comprar tus boletos o tu mercancía."
+  },
+  {
+   "h2": "Formularios de contratación y datos"
+  },
+  {
+   "p": "Si tu sitio tiene un formulario, los datos de quien te escribe viajan por internet. Sin certificado alguien en la misma red podría leerlos."
+  },
+  {
+   "p": "Pasa sobre todo en redes públicas, como la de un café o un aeropuerto. Con https esos datos viajan protegidos."
+  },
+  {
+   "p": "Si pides datos personales también te toca tener aviso. Lo armas con la herramienta de [aviso de privacidad](id:aviso-de-privacidad)."
+  },
+  {
+   "h2": "Preguntas para quien te hace el sitio"
+  },
+  {
+   "ul": [
+    "¿El certificado viene incluido o se cobra aparte?",
+    "¿Se renueva solo o alguien lo hace a mano?",
+    "¿Cubre la dirección con www y sin www?",
+    "¿Todo el sitio abre con https aunque escriban http?",
+    "¿Quién me avisa si algo falla con el certificado?"
+   ]
+  },
+  {
+   "p": "Si te contestan claro, vas bien. Si nadie sabe, pide que lo revisen antes de publicar."
+  },
+  {
+   "h2": "Errores comunes"
+  },
+  {
+   "ul": [
+    "Tener candado sólo en una versión del dominio.",
+    "Dejar fotos o reproductores que cargan sin https.",
+    "Renovar a mano y que se te olvide.",
+    "Pagar un certificado caro que no hace falta.",
+    "Creer que el candado prueba que un sitio es confiable."
+   ]
+  },
+  {
+   "h2": "El certificado y Google"
+  },
+  {
+   "p": "Google toma en cuenta el https entre muchas otras señales al ordenar resultados. Pesa poco, pero el aviso de no seguro sí te quita visitas."
+  },
+  {
+   "p": "Si cambias tu sitio de http a https, revisa que las direcciones viejas manden a las nuevas. Así no pierdes lo que ya tenías ganado en Google."
+  },
+  {
+   "p": "Si no sabes cómo hacer ese cambio, pídeselo a quien te hizo el sitio. Es un ajuste de unos minutos en el servidor."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es un certificado SSL en pocas palabras?",
+   "respuesta": "Es la credencial de seguridad de tu sitio. Pone el candado y protege los datos de tus visitas."
+  },
+  {
+   "pregunta": "¿Es gratis?",
+   "respuesta": "Puede serlo. Hay certificados gratis de validación de dominio y muchos hostings los incluyen."
+  },
+  {
+   "pregunta": "¿SSL y TLS son lo mismo?",
+   "respuesta": "Casi. TLS es la versión moderna y todos le siguen diciendo SSL."
+  },
+  {
+   "pregunta": "¿Cada cuándo se renueva?",
+   "respuesta": "Cada vez más seguido. Desde marzo de 2026 la duración máxima baja hasta llegar a 47 días en 2029."
+  },
+  {
+   "pregunta": "¿Lo necesito si no vendo nada en mi sitio?",
+   "respuesta": "Sí. Sin él, el navegador marca tu sitio como no seguro."
+  },
+  {
+   "pregunta": "¿El candado quiere decir que el sitio es confiable?",
+   "respuesta": "No. Sólo dice que la conexión va protegida, así que revisa también el dominio."
+  },
+  {
+   "pregunta": "¿Cuánto tarda en activarse?",
+   "respuesta": "Unos minutos casi siempre. Los de organización o extendida tardan días."
+  },
+  {
+   "pregunta": "¿Necesito uno por cada subdominio?",
+   "respuesta": "No siempre. Un comodín cubre todos los subdominios, aunque también puedes sacar uno por cada uno."
+  }
+ ],
+ "venta": {
+  "puente": "Un sitio de artista con candado, dominio propio y tu música da confianza a quien te quiere contratar.",
+  "titulo": "¿Te hago un sitio con candado incluido?",
+  "tituloCorto": "Sitio con candado incluido"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

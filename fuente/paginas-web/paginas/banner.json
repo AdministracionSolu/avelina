@@ -1,0 +1,85 @@
+{
+ "id": "banner",
+ "slug": "banner",
+ "molde": "herramienta",
+ "cabeza": "banner",
+ "busquedas": ["banner online", "banner editable", "banner publicitario", "banners de publicidad", "banner digital"],
+ "categoria": "Diseño para imprimir",
+ "categoriaApp": "DesignApplication",
+ "herramienta": { "id": "editor-diseno", "modo": "banner" },
+ "fuentes": [],
+ "serp": [
+  { "posicion": 1, "url": "https://www.tiendanube.com/mx/blog/que-es-un-banner", "titulo": "Banner: qué es, tipos, ejemplos y cómo hacer un banner publicitario", "promete": "Explica tipos de banner digital; no trae editor en la página ni medidas en metros" },
+  { "posicion": 2, "url": "https://visme.co/blog/es/banner-publicitario/", "titulo": "Banner publicitario (Visme)", "promete": "Medidas de redes y plantillas con cuenta; nada de lona impresa" },
+  { "posicion": 3, "url": "https://www.canva.com/es_mx/crear/banners/", "titulo": "Crea banners (Canva)", "promete": "Plantillas gratis con registro; no ayuda a calcular lectura a distancia" }
+ ],
+ "title": "Banner gratis para el escenario, tu stand o tu sitio",
+ "h1": "Crea el banner de tu banda gratis",
+ "description": "Diseña el banner de tu banda o tu stand en 2 × 1 m, 3 × 1 m, pendón o 1200 × 628 px para tu sitio. Sube tu logo y baja el PDF a escala real sin marca de agua.",
+ "resumen": "Banner para el escenario, el stand o tu sitio",
+ "revisada": "2026-11",
+ "relacionadas": ["lona-publicitaria", "cartel-publicitario", "poster", "flyer", "portada-de-facebook", "logo-para-camisetas"],
+ "respuesta": [
+  "Escoge la medida, elige un diseño y escribe el nombre de tu proyecto encima. Hay medidas en metros para la imprenta y una de 1200 × 628 px para pantalla. Bajas el PDF a escala real o el PNG sin dejar tu correo."
+ ],
+ "cuerpo": [
+  { "h2": "Tu banner en cuatro pasos" },
+  { "pasos": [
+   { "titulo": "Piensa dónde se va a colgar", "texto": "El fondo del escenario pide otra medida que la mesa de tu stand. Define el lugar y luego el diseño." },
+   { "titulo": "Elige entre los cinco diseños", "texto": "Gran apertura y celebración van bien con una presentación de disco. Teléfono grande sirve para contrataciones todo el año." },
+   { "titulo": "Escribe pocas palabras con letra enorme", "texto": "Al banner lo ven de lejos y entre luces. El nombre de la banda y tu usuario casi siempre alcanzan." },
+   { "titulo": "Compárate con la silueta", "texto": "En las medidas grandes aparece una persona de 1.70 m al lado. Con ella calculas si tu nombre se lee desde el fondo." }
+  ] },
+  { "h2": "Medidas que trae el editor" },
+  { "tabla": {
+   "columnas": ["Medida", "Uso para un artista", "Cómo se ve"],
+   "filas": [
+    ["2 × 1 m", "Frente de la mesa de mercancía o atrás de la batería", "Horizontal, la más pedida"],
+    ["3 × 1 m", "Fondo de un escenario chico o barda de festival", "Horizontal y alargada"],
+    ["Pendón 0.80 × 2 m", "Entrada de tu expo, tu estudio o tu stand en una feria", "Vertical, cuelga de un tubo"],
+    ["1200 × 628 px", "Encabezado de tu sitio o anuncio de tu fecha en redes", "Digital, no se imprime"],
+    ["A tu medida", "Escenarios o mamparas que no son estándar", "Escribes ancho y alto en centímetros"]
+   ]
+  } },
+  { "p": "Pide al foro las medidas reales del escenario antes de imprimir. Las bocinas, la batería o una cortina pueden tapar media manta." },
+  { "h2": "Banner impreso contra banner para pantalla" },
+  { "p": "El impreso compite con luces de colores, humo y gente moviéndose. Necesita letra gruesa, buen contraste y casi nada de texto." },
+  { "p": "El digital se mira en un celular a medio metro de la cara. Ahí sí cabe la fecha de tu siguiente show y una frase corta." },
+  { "p": "Sacas las dos versiones del mismo diseño. Cambias la medida y el editor acomoda tus textos en el nuevo espacio." },
+  { "h2": "Fallas que arruinan un banner de escenario" },
+  { "ul": [
+   "Escribir el nombre de cada integrante en vez del nombre de la banda.",
+   "Elegir una letra tan delgada que bajo las luces desaparece.",
+   "Dejar tu usuario de redes chiquito en una esquina.",
+   "Subir una foto oscura del ensayo que al crecer se ve borrosa.",
+   "Usar letras amarillas sobre un fondo blanco."
+  ] },
+  { "p": "El PDF guarda las letras en vectores y crecen sin perder filo. Las fotos sí dependen de la calidad del archivo que subas." },
+  { "h2": "Ideas de banner para artistas" },
+  { "ul": [
+   "El logo de tu banda en grande para colgar detrás de la batería.",
+   "Un pendón con tu nombre a la entrada de tu primera exposición.",
+   "La manta de tu stand de ilustraciones en un bazar o una convención.",
+   "Un banner de tu estudio de tatuaje con tu usuario y tu WhatsApp.",
+   "El encabezado de tu sitio con la portada de tu disco nuevo."
+  ] },
+  { "p": "Para exterior con medidas de lona, abre la [lona publicitaria](id:lona-publicitaria). Si va en papel sobre una pared, te conviene el [póster](id:poster)." }
+ ],
+ "faqs": [
+  { "pregunta": "¿Hago un banner del tamaño exacto del escenario?", "respuesta": "Sí. Elige «A tu medida» y escribe ancho y alto. El diseño se reacomoda al tamaño nuevo." },
+  { "pregunta": "¿Con qué resolución sale el PNG de un banner grande?", "respuesta": "Depende de la medida. El editor usa hasta 300 ppp y baja la cifra en tamaños grandes. Junto al botón ves los pixeles antes de bajar." },
+  { "pregunta": "¿Qué archivo llevo a la imprenta?", "respuesta": "El PDF. Va a escala real y tu logo no se pixelea en grande." },
+  { "pregunta": "¿El banner digital me sirve para anunciar una fecha en Facebook?", "respuesta": "Sí sirve. La medida de 1200 × 628 px funciona en publicaciones con link." },
+  { "pregunta": "¿Puedo poner un QR a mi música?", "respuesta": "Sí. Abre tu WhatsApp o el link que escribas. Ponlo a la altura de los ojos para que lo escaneen." },
+  { "pregunta": "¿Tiene costo o marca de agua?", "respuesta": "No tiene ninguno. El banner es tuyo y lo bajas cuantas veces quieras." }
+ ],
+ "venta": {
+  "puente": "Tu banner se queda en el escenario y tu sitio atiende a quien te busca al día siguiente.",
+  "aviso": "Tu banner está listo. ¿Quieres un sitio de artista que repita tu nombre en internet?",
+  "titulo": "¿Le hago un sitio a tu banda además del banner?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026"
+}

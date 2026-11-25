@@ -1,0 +1,216 @@
+{
+ "id": "xml-de-factura",
+ "slug": "xml-de-factura",
+ "molde": "herramienta",
+ "cabeza": "xml factura",
+ "busquedas": [
+  "factura xml",
+  "facturas con xml",
+  "descargar xml de factura",
+  "facturacion xml",
+  "abrir xml de factura",
+  "ver xml factura",
+  "convertir xml a pdf factura",
+  "factura pdf",
+  "pdf factura"
+ ],
+ "categoria": "Formatos y documentos",
+ "categoriaApp": "FinanceApplication",
+ "herramienta": {
+  "id": "visor-cfdi",
+  "modo": null
+ },
+ "fuentes": [
+  {
+   "texto": "SAT, consulta y recuperación de comprobantes",
+   "url": "https://wwwmat.sat.gob.mx/consultas/42968/consulta-y-recuperacion-de-comprobantes-%28nuevo%29"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.edifact.com.mx/masinfo/abrir-archivo-xml-factura-electronica",
+   "titulo": "Abrir archivo XML de factura electrónica (Edifact)",
+   "promete": "Visor de XML; vende facturación"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.edifact.com.mx/masinfo/visor-xml",
+   "titulo": "Visor XML (Edifact)",
+   "promete": "Visor en línea de su sistema"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.facturadorelectronico.com/blog/?p=665",
+   "titulo": "Archivo XML: qué es y cómo funciona (Facturador Electrónico)",
+   "promete": "Explica que el XML es el que vale; sin visor"
+  }
+ ],
+ "title": "XML factura de tus shows, ábrelo y pásalo a PDF gratis",
+ "h1": "Abrir el XML de una factura si eres artista",
+ "description": "Abre el XML de la factura de tu show, tu sesión o tu renta de estudio y léelo claro. Revisa RFC, impuestos y folio y baja el PDF. Gratis y sin subir nada.",
+ "resumen": "Lee el XML de tus facturas y bájalo en PDF",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "formato-de-factura",
+  "recibo-de-pago",
+  "formato-de-cotizacion",
+  "lista-de-precios",
+  "link-de-pago"
+ ],
+ "respuesta": [
+  "Arrastra el archivo de tu factura y en segundos lo lees como un documento normal. Ves quién cobró, a quién, por qué concepto y con qué impuestos. Si lo necesitas impreso, descargas un PDF. Recuerda que lo que vale ante Hacienda es el archivo timbrado, que nunca sale de tu computadora."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Cuándo le toca a un artista abrir un XML"
+  },
+  {
+   "p": "Si cobras con factura un show, una sesión o una obra, tu proveedor de facturación te entrega un XML. Antes de mandarlo, conviene revisar que diga lo correcto."
+  },
+  {
+   "p": "También te llegan XML cuando pagas la renta de un estudio de grabación o compras equipo. Tu contador te los va a pedir para tu declaración."
+  },
+  {
+   "h2": "Cómo ver tu factura en cuatro pasos"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Busca el archivo",
+     "texto": "Casi siempre viene pegado al correo de la factura. Si lo perdiste, el portal del SAT lo guarda."
+    },
+    {
+     "titulo": "Suéltalo en el recuadro",
+     "texto": "También lo puedes buscar en tus carpetas. Si traes varios del mes, ábrelos juntos."
+    },
+    {
+     "titulo": "Lee con calma",
+     "texto": "Primero verás los dos RFC de la operación. Más abajo vienen lo cobrado y lo retenido."
+    },
+    {
+     "titulo": "Guarda o comprueba",
+     "texto": "Saca el PDF para tu carpeta o confirma en Hacienda que sigue vigente."
+    }
+   ]
+  },
+  {
+   "h2": "XML o PDF, cuál es la factura de verdad"
+  },
+  {
+   "p": "Lo que la gente llama factura, Hacienda lo llama CFDI. Ese CFDI es justo el archivo XML, sellado por quien cobra y timbrado por un certificador."
+  },
+  {
+   "p": "El PDF es una copia bonita para ojos humanos. Si un foro te paga y sólo te manda PDF, reclama también el archivo."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "",
+     "XML",
+     "PDF"
+    ],
+    "filas": [
+     [
+      "Qué es",
+      "El comprobante fiscal",
+      "Una vista para leer o imprimir"
+     ],
+     [
+      "Lo pide tu contador",
+      "Sí",
+      "A veces, como apoyo"
+     ],
+     [
+      "Se lee sin programas",
+      "No, es código",
+      "Sí"
+     ],
+     [
+      "Lleva sello y timbre",
+      "Sí, dentro del archivo",
+      "Sólo los muestra impresos"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Qué te enseña la herramienta"
+  },
+  {
+   "ul": [
+    "Quién factura y quién recibe, con su RFC, régimen y código postal.",
+    "El uso, la forma y el método de pago escritos en palabras y no en claves.",
+    "Cada concepto cobrado con su cantidad, su precio y su importe.",
+    "Lo que se cobró de IVA, lo que se retuvo y el total en letra.",
+    "El folio fiscal, el día en que se timbró y los sellos digitales.",
+    "Los pagos en parcialidades y las facturas ligadas a ésta."
+   ]
+  },
+  {
+   "p": "Entiende tanto la versión 4.0 como la 3.3. Cuando un archivo llega sin timbrar, lo marca como no válido."
+  },
+  {
+   "p": "Cuando facturas por honorarios a una empresa, fíjate en los impuestos retenidos. Esa parte cambia lo que de verdad te depositan."
+  },
+  {
+   "h2": "Cómo bajar tus XML desde el SAT"
+  },
+  {
+   "p": "Hacienda guarda copia de todo lo que facturas y de todo lo que te facturan. Para recuperarlo entras a su portal con tu contraseña o tu e.firma."
+  },
+  {
+   "p": "Ese servicio no cuesta y te deja descargar hasta 2,000 archivos al día. Alcanza de sobra para un año de tocadas."
+  },
+  {
+   "p": "Una factura en papel no basta para tu contador. Pide el archivo a quien te la hizo."
+  },
+  {
+   "h2": "Revisa que la factura sea real"
+  },
+  {
+   "p": "Con un botón vas a la página de Hacienda que confirma el estado de esa factura. Te dice si sigue viva o si la cancelaron."
+  },
+  {
+   "p": "Revísalo cuando compres equipo o rentes estudio con alguien nuevo. Lo cancelado ya no cuenta como gasto deducible."
+  },
+  {
+   "p": "¿Te pagaron un anticipo sin factura? Entrega un [recibo de pago](id:recibo-de-pago). Los campos que debe tener una factura están en el [formato de factura](id:formato-de-factura)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿El PDF que descargo es la factura?",
+   "respuesta": "No. Ese PDF sólo sirve para leer, lo fiscal es el archivo timbrado."
+  },
+  {
+   "pregunta": "¿Mi XML se sube a internet?",
+   "respuesta": "No. Todo pasa en tu computadora y nadie más lo ve."
+  },
+  {
+   "pregunta": "¿Puedo abrir varias facturas juntas?",
+   "respuesta": "Sí. Elige o arrastra varios XML y cambia entre ellos."
+  },
+  {
+   "pregunta": "¿Lee complementos de pago?",
+   "respuesta": "Sí. Ves cuánto entró en cada abono y cuánto falta."
+  },
+  {
+   "pregunta": "¿Puedo pasar el XML a Excel?",
+   "respuesta": "No. Aquí sólo obtienes la lectura en pantalla y el PDF."
+  },
+  {
+   "pregunta": "¿Me sirve para facturar un show?",
+   "respuesta": "No. Lee lo que ya existe, y para emitir una factura nueva usas a tu facturador."
+  }
+ ],
+ "venta": {
+  "puente": "Tus facturas ordenan tus cobros, y un sitio de artista con tus paquetes te trae más fechas que facturar.",
+  "aviso": "Tu factura ya se lee clara. ¿Quieres un sitio con tus paquetes para eventos?",
+  "titulo": "¿Te hago un sitio para que te contraten más?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

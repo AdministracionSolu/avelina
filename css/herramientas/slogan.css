@@ -1,0 +1,24 @@
+/* Generador de slogans de Avelina. Usa las variables de .ah (css/herramientas.css). */
+.ah.ahs { grid-template-columns: minmax(0, 1fr); grid-template-areas: none; gap: 40px; }
+.ah.ahs > *, .ah.ahs > .ah-vista, .ah.ahs > .ah-columna { grid-area: auto; min-width: 0; }
+.ah.ahs > .ah-vista { position: static; }
+.ahs-fila { display: grid; grid-template-columns: 1.2fr 1fr 1fr 0.9fr; gap: 16px; align-items: start; }
+@media (max-width: 960px) { .ahs-fila { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 560px) { .ahs-fila { grid-template-columns: 1fr; } }
+.ahs-cabeza { display: flex; flex-wrap: wrap; gap: 10px 16px; justify-content: space-between; align-items: center; }
+.ahs-cabeza .ah-acciones { margin: 0; gap: 8px; }
+.ahs-cabeza .ah-boton, .ahs-favoritos .ah-boton { min-height: 40px; padding: 8px 14px; font-size: 15px; }
+.ahs-lista { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 10px; }
+@media (max-width: 420px) { .ahs-lista { grid-template-columns: 1fr; } }
+.ahs-item { border: 1px solid var(--ah-borde); border-radius: 6px; padding: 16px; display: grid; gap: 12px; background: var(--ah-campo); align-content: space-between; }
+.ahs-texto { font: 500 19px/1.35 var(--ah-sans); margin: 0; overflow-wrap: anywhere; }
+.ahs-pie { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; justify-content: space-between; }
+.ahs-tono { font-size: 13px; color: var(--ah-gris); }
+.ahs-botones { display: flex; gap: 18px; align-items: center; }
+.ahs-fav {
+  background: none; border: 1px solid var(--ah-borde-fuerte); color: var(--ah-texto); border-radius: 4px;
+  padding: 6px 12px; min-height: 36px; font: 400 14px var(--ah-sans); cursor: pointer;
+}
+.ahs-fav[aria-pressed="true"] { background: var(--ah-texto); color: var(--ah-fondo); border-color: var(--ah-texto); }
+.ahs-fav:focus-visible { outline: 2px solid var(--ah-texto); outline-offset: 2px; }
+.ahs-favoritos { gap: 14px; }

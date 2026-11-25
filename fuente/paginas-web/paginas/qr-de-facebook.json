@@ -1,0 +1,84 @@
+{
+ "id": "qr-de-facebook",
+ "slug": "qr-de-facebook",
+ "molde": "herramienta",
+ "cabeza": "qr facebook",
+ "busquedas": ["qr de facebook", "codigo qr de pagina de facebook", "codigo qr facebook", "qr para facebook"],
+ "categoria": "Códigos QR",
+ "categoriaApp": "UtilitiesApplication",
+ "herramienta": { "id": "qr", "modo": "facebook" },
+ "fuentes": [],
+ "serp": [
+  { "posicion": 1, "url": "https://www.qrcode-tiger.com/es/how-to-create-a-qr-code-for-facebook", "titulo": "Cómo crear un código QR para Facebook (QR Tiger)", "promete": "QR a página, grupo o evento; dinámico de pago" },
+  { "posicion": 2, "url": "https://www.qrcode-tiger.com/es/qr-code-generator/facebook", "titulo": "Crear código QR de Facebook (QR Tiger)", "promete": "Generador con registro" },
+  { "posicion": 3, "url": "https://www.jotform.com/es/qr-code-generator/facebook/", "titulo": "Generador de códigos QR para Facebook (Jotform)", "promete": "QR de la liga de tu página; pide cuenta" }
+ ],
+ "title": "QR Facebook gratis para la página de tu banda o tu arte",
+ "h1": "QR de Facebook para artistas",
+ "description": "Haz un código QR que abra la página de Facebook de tu banda, tu evento de la tocada o tu grupo de fans. Ponle tu color y tu logo. Gratis, en PNG o SVG.",
+ "resumen": "Un QR que abre la página de tu banda en Facebook",
+ "revisada": "2026-11",
+ "relacionadas": ["qr-de-instagram", "generador-de-qr", "crear-qr-con-imagen", "pagina-de-facebook-para-negocio", "flyer", "codigo-qr-para-whatsapp"],
+ "respuesta": [
+  "Escribe el usuario de la página de tu proyecto o pega su link y aparece un código que la abre. Así te siguen, te dejan reseña o encuentran el evento de tu próxima fecha.",
+  "Le pones tu color y tu logo si quieres. Lo bajas en PNG o SVG sin abrir ninguna cuenta."
+ ],
+ "cuerpo": [
+  { "h2": "Haz el código de la página de tu proyecto" },
+  { "pasos": [
+   { "titulo": "Encuentra la dirección de tu página", "texto": "Entra a la página de tu banda desde el navegador y copia lo que dice arriba. Basta con el puro usuario." },
+   { "titulo": "Escríbela en el recuadro", "texto": "El código cambia en cuanto pegas. Si usaste el link entero, se queda tal cual lo pusiste." },
+   { "titulo": "Dale la cara de tu proyecto", "texto": "Usa el tono oscuro de tu portada o un azul profundo. Puedes subir el logo de la banda al centro." },
+   { "titulo": "Escanéalo y bájalo", "texto": "Confirma que abre la página del proyecto y no tu perfil de amigos. Luego descárgalo." }
+  ] },
+  { "h2": "Página, perfil, grupo o evento" },
+  { "p": "Muchos artistas tienen perfil personal y página del proyecto revueltos. Cada uno tiene su propio link, así que elige bien antes de imprimir." },
+  { "tabla": {
+   "columnas": ["Qué es", "Para qué te sirve el QR", "Qué copiar"],
+   "filas": [
+    ["Página de la banda o del artista", "Que te sigan y vean tus fechas", "El link o el usuario de la página"],
+    ["Perfil personal", "Que te agreguen como amigo", "El link de tu perfil"],
+    ["Grupo de fans o de alumnos", "Que entren a tu comunidad", "El link completo del grupo"],
+    ["Evento o publicación", "Que confirmen a una tocada concreta", "El link de ese evento"]
+   ]
+  } },
+  { "p": "Para grupos, eventos y publicaciones pega el link completo. El código abre justo esa dirección y nada más." },
+  { "h2": "Usos que le sirven a un artista" },
+  { "ul": [
+   "Poner el código del evento en el [flyer](id:flyer) para que la gente confirme que va.",
+   "Pedir reseñas al público al final del show con un cartel en la salida.",
+   "Juntar a tus alumnos de guitarra o de baile en un grupo con avisos de clases.",
+   "Mostrar las fotos de la exposición en tu página después de la inauguración.",
+   "Dejar el código en la mesa de mercancía junto al de tu [Instagram](id:qr-de-instagram)."
+  ] },
+  { "p": "Mucha gente que contrata música para fiestas todavía busca en Facebook. Un código a tu página le ahorra la búsqueda y le enseña tus videos." },
+  { "h2": "Antes de mandarlo a la imprenta" },
+  { "ul": [
+   "Tu página debe ser pública y tener foto de portada.",
+   "Escribe el nombre de la banda al lado del código.",
+   "Para lona baja el SVG y para historias el PNG.",
+   "Con un link muy largo usa sólo el usuario y el código sale más limpio."
+  ] },
+  { "h2": "Ejemplo con un grupo de cumbia" },
+  { "p": "Imagina un grupo que toca en bodas y pone su código en la tarjeta que deja con los novios. Junto al código dice «Mira nuestros videos en vivo»." },
+  { "p": "Los invitados que bailaron esa noche escanean y siguen la página. Ahí ven más tocadas y escriben para cotizar su propia fiesta." },
+  { "p": "Si quieres que te escriban directo, haz también tu [código QR para WhatsApp](id:codigo-qr-para-whatsapp). Para el logo al centro usa el [QR con imagen](id:crear-qr-con-imagen)." }
+ ],
+ "faqs": [
+  { "pregunta": "¿Cuánto cuesta el QR de Facebook?", "respuesta": "Nada. No pide registro ni pone marca de agua." },
+  { "pregunta": "¿Puedo hacer el QR de un evento de mi tocada?", "respuesta": "Sí se puede. Pega el link completo del evento en el recuadro." },
+  { "pregunta": "¿Y si le cambio el nombre de usuario a la página?", "respuesta": "El código impreso puede dejar de abrirla. Haz otro con el usuario nuevo." },
+  { "pregunta": "¿Sirve para la lona detrás del escenario?", "respuesta": "Sí sirve. Baja el SVG para que la imprenta lo agrande sin perder nitidez." },
+  { "pregunta": "¿Se abre la aplicación de Facebook?", "respuesta": "Sí, si la persona la tiene instalada. Si no, se abre el navegador." },
+  { "pregunta": "¿Sabré cuántos lo escanearon?", "respuesta": "No con este código. Revisa las visitas a tu página en las estadísticas de Facebook." }
+ ],
+ "venta": {
+  "puente": "Tu página de Facebook junta seguidores y un sitio propio con tu dominio les da confianza para contratarte.",
+  "aviso": "Tu QR de Facebook está listo. ¿Quieres también un sitio de artista con tu dominio?",
+  "titulo": "¿Te hago el sitio además de tu Facebook?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026"
+}

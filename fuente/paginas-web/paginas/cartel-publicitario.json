@@ -1,0 +1,211 @@
+{
+ "id": "cartel-publicitario",
+ "slug": "cartel-publicitario",
+ "molde": "herramienta",
+ "cabeza": "cártel publicitario",
+ "busquedas": [
+  "cartel publicitario",
+  "un cartel publicitario",
+  "carteles de publicitarios",
+  "diseño de carteles",
+  "diseño para cartel",
+  "diseñador de carteles",
+  "carteles de publicidad",
+  "carteles publicitarios creativos",
+  "carteles comerciales",
+  "cartel promocional",
+  "carteles de promociones",
+  "hacer letras para carteles",
+  "afiche publicitario ejemplo"
+ ],
+ "categoria": "Diseño para imprimir",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "editor-diseno",
+  "modo": "cartel"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://quillbot.com/es/blog/diseno-grafico/cartel/",
+   "titulo": "Cartel | Qué es y cómo hacer un cartel",
+   "promete": "Teoría de objetivo, público y lugar; no trae editor ni medidas"
+  },
+  {
+   "posicion": 2,
+   "url": "https://piktochart.com/es/blog/como-hacer-un-cartel/",
+   "titulo": "Cómo hacer un cartel llamativo en 6 pasos",
+   "promete": "Pasos y plantillas con cuenta; plan gratis limitado"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.canva.com/es_mx/crear/posters/publicitarios/",
+   "titulo": "Pósters publicitarios (Canva)",
+   "promete": "Plantillas con registro; sin guía de lectura a distancia"
+  }
+ ],
+ "title": "Cartel publicitario gratis para tu concierto o expo",
+ "h1": "Haz el cartel de tu concierto",
+ "description": "Diseña gratis el cartel de tu tocada, tu exposición o tu taller en carta, tabloide o 60 × 90 cm. Cinco estilos y PDF a tamaño real para la imprenta. Hazlo hoy.",
+ "resumen": "El cartel de tu tocada o tu exposición en PDF",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "poster",
+  "flyer",
+  "lona-publicitaria",
+  "flyer-para-fiesta",
+  "generador-de-qr",
+  "banner"
+ ],
+ "respuesta": [
+  "Un cartel vive en una pared y la gente lo lee de pie, a unos pasos. Escoge uno de los cinco estilos y escribe el nombre del evento, la fecha y un dato grande. Bájalo en PDF al tamaño real para tu impresora o para la imprenta."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Del nombre del evento al cartel impreso"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Quédate con una sola noticia",
+     "texto": "Un cartel que anuncia tres fechas confunde. Elige el concierto o la inauguración que más te importa llenar."
+    },
+    {
+     "titulo": "Escoge el estilo que le queda",
+     "texto": "Letra grande sirve para un concierto ruidoso. Elegante va bien con una exposición o un recital."
+    },
+    {
+     "titulo": "Escribe título, fecha y dato grande",
+     "texto": "El dato grande puede ser el día, la hora o el precio del boleto. Es lo segundo que la gente lee."
+    },
+    {
+     "titulo": "Ajusta la medida al muro",
+     "texto": "Carta para el tablero de la escuela de música, tabloide para la puerta del foro y 60 × 90 cm para una pared grande."
+    }
+   ]
+  },
+  {
+   "h2": "Los cinco estilos y qué evento cuentan"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Estilo",
+     "Qué destaca",
+     "Ejemplo de uso"
+    ],
+    "filas": [
+     [
+      "Letra grande",
+      "El título ocupa media hoja",
+      "Concierto, toquín, presentación de disco"
+     ],
+     [
+      "Retícula",
+      "Información ordenada en bloques",
+      "Cartel de un festival con varias bandas"
+     ],
+     [
+      "Elegante",
+      "Mucho aire y letra con remate",
+      "Exposición, recital, noche de poesía"
+     ],
+     [
+      "Bloques",
+      "Franjas de color con datos",
+      "Gira con varias fechas"
+     ],
+     [
+      "Inscripciones",
+      "Fecha, cupo y requisitos",
+      "Taller de dibujo, clase de baile, audiciones"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Qué medida pedir"
+  },
+  {
+   "p": "La carta mide 21.59 × 27.94 cm y la imprimes en cualquier impresora de casa. Va bien en tableros y en la puerta del ensayo."
+  },
+  {
+   "p": "El tabloide mide 27.94 × 43.18 cm, casi dos cartas juntas. Lo sacas en un centro de copiado y luce en la entrada del foro."
+  },
+  {
+   "p": "El de 60 × 90 cm ya cuenta como póster de pared. Para ése lleva el PDF a una imprenta de gran formato."
+  },
+  {
+   "h2": "Cómo lo lee alguien que pasa caminando"
+  },
+  {
+   "p": "Lo primero que se ve es el bloque más grande y oscuro. Luego el ojo busca un número y hasta el final llega a los detalles."
+  },
+  {
+   "ul": [
+    "El nombre de la banda o del evento debe llenar al menos un tercio.",
+    "Usa un solo color fuerte para lo que importa.",
+    "Escribe los detalles en renglones cortos y nunca en párrafo.",
+    "Cuida que la letra y el fondo contrasten mucho.",
+    "Deja aire en las orillas para que nada quede pegado."
+   ]
+  },
+  {
+   "p": "Si el cartel va afuera, en la reja del lugar, revisa la [lona publicitaria](id:lona-publicitaria). Para una pieza que también decora mira el [póster](id:poster)."
+  },
+  {
+   "h2": "Carteles que funcionan en el mundo del arte"
+  },
+  {
+   "ul": [
+    "Una banda de rock con la fecha del toquín en letra enorme.",
+    "Una pintora con el nombre de su expo y la noche de inauguración.",
+    "Una academia de danza con fechas de audición y cupo.",
+    "Un cantautor con la presentación de su disco y la hora de la cita.",
+    "Un estudio de tatuaje con su jornada de tatuajes pequeños."
+   ]
+  },
+  {
+   "p": "Todos repiten una sola promesa. El resto lo cuentas en tu sitio o por WhatsApp."
+  },
+  {
+   "p": "Pon en una esquina un [código QR](id:generador-de-qr) que lleve a los boletos o a tu música. Quien se interese lo escanea ahí mismo."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Cartel y póster son lo mismo?",
+   "respuesta": "Casi lo mismo. El cartel anuncia algo y el póster además adorna."
+  },
+  {
+   "pregunta": "¿Puedo imprimir el de 60 × 90 en casa?",
+   "respuesta": "No en una impresora normal. Llévalo a una imprenta de gran formato."
+  },
+  {
+   "pregunta": "¿Le puedo poner un QR?",
+   "respuesta": "Sí puedes. Que abra tu WhatsApp o la página de boletos."
+  },
+  {
+   "pregunta": "¿Puedo usar una foto de la banda de fondo?",
+   "respuesta": "Sí puedes. Súbela y escoge un diseño que la muestre, con buena resolución si es grande."
+  },
+  {
+   "pregunta": "¿Lo puedo reusar para la siguiente fecha?",
+   "respuesta": "Sí. El editor guarda tu último diseño en este navegador y sólo cambias la fecha."
+  },
+  {
+   "pregunta": "¿Sale con marca de agua?",
+   "respuesta": "No sale. Lo bajas gratis y la línea «Hecho con Avelina» al pie se quita con una casilla."
+  }
+ ],
+ "venta": {
+  "puente": "El cartel junta gente una noche, y tu sitio guarda tus fechas, tu música y tu contacto todo el año.",
+  "aviso": "Tu cartel está listo. ¿Quieres un sitio donde vivan todas tus fechas?",
+  "titulo": "¿Te hago el sitio al que lleva tu cartel?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

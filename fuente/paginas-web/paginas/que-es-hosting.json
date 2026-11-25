@@ -1,0 +1,456 @@
+{
+ "id": "que-es-hosting",
+ "slug": "que-es-hosting",
+ "molde": "guia",
+ "cabeza": "qué es hosting",
+ "busquedas": [
+  "hosting que es",
+  "que es un hosting",
+  "que es el hosting",
+  "hosting",
+  "hostings",
+  "hosting gratis",
+  "que un hosting",
+  "hosting gratuito",
+  "hosting que es y para que sirve",
+  "hoster web"
+ ],
+ "categoria": "Dominio y hosting",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.godaddy.com/resources/es/hosting/que-es-el-hosting-web-y-para-que-sirve",
+   "titulo": "Qué es el hosting web y para qué sirve",
+   "promete": "Definición y tipos que llevan a su tienda; sin tabla de qué revisar ni qué necesita un negocio pequeño"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.tiendanube.com/blog/hosting/",
+   "titulo": "Qué es un hosting, para qué sirve y qué tipos existen",
+   "promete": "Tipos de hosting en general; no explica disponibilidad en minutos ni el riesgo del hosting gratis"
+  },
+  {
+   "posicion": 3,
+   "url": "https://blog.hubspot.es/website/hosting",
+   "titulo": "Qué es un hosting: características, tipos y ejemplos",
+   "promete": "Lista de proveedores con ejemplos de España; sin consejos para México ni errores comunes"
+  }
+ ],
+ "title": "Qué es hosting y cuál necesita tu sitio de artista",
+ "h1": "Qué es hosting, explicado para músicos y artistas",
+ "description": "El hosting guarda los archivos de tu sitio de artista para que abra a cualquier hora. Tipos, qué revisar antes de pagar y cómo mudarte. Elige bien.",
+ "resumen": "Dónde vive tu sitio y qué tipo de servicio te conviene",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "dominio-y-hosting",
+  "que-es-un-dominio",
+  "certificado-ssl",
+  "comprar-dominio",
+  "como-crear-una-pagina-web",
+  "correo-corporativo"
+ ],
+ "respuesta": [
+  "El hosting es la renta de un lugar en una computadora que pasa conectada a internet de día y de noche. Ahí se guardan tus fotos, tus videos y los textos de tu sitio. Gracias a eso, tu página abre cuando un fan escribe tu dominio.",
+  "Se cobra por mes o por año y hay varios tipos. Un sitio de artista casi siempre funciona con un servicio administrado o estático."
+ ],
+ "cuerpo": [
+  {
+   "h2": "El hosting sin palabras técnicas"
+  },
+  {
+   "p": "Tu sitio no es una sola cosa. Es un montón de archivos con tus textos, tus fotos de prensa y el diseño."
+  },
+  {
+   "p": "Esos archivos necesitan estar en una máquina que jamás se apague. A esa máquina se le dice servidor."
+  },
+  {
+   "p": "Con el hosting le pagas a una empresa por usar un pedazo de ese servidor. Ella cuida la luz, la conexión y las reparaciones."
+  },
+  {
+   "p": "Piénsalo como rentar el local donde ensaya tu banda. Tú pones los instrumentos y el dueño se encarga del edificio."
+  },
+  {
+   "p": "También lo vas a ver como alojamiento web. Son dos nombres para lo mismo."
+  },
+  {
+   "h2": "Dominio y hosting, quién hace qué"
+  },
+  {
+   "p": "El dominio es la dirección que la gente escribe. El hosting es el lugar donde está guardado tu sitio."
+  },
+  {
+   "p": "Cuando alguien teclea tu dominio, internet averigua en qué servidor vives. Ese servidor le manda tus archivos al celular de esa persona."
+  },
+  {
+   "p": "Puedes comprar el dominio en una empresa y el hosting en otra. Lo único es indicarle al dominio a qué servidor apuntar."
+  },
+  {
+   "p": "Si quieres entender bien la parte del nombre, revisa [qué es un dominio](id:que-es-un-dominio)."
+  },
+  {
+   "h2": "Lo que vas a ver en cualquier plan"
+  },
+  {
+   "p": "Cada proveedor presenta sus planes con nombres distintos. Detrás casi siempre están los mismos conceptos."
+  },
+  {
+   "tabla": {
+    "titulo": "Conceptos de un plan de hosting",
+    "columnas": [
+     "Concepto",
+     "Qué significa",
+     "Qué necesita un sitio de artista"
+    ],
+    "filas": [
+     [
+      "Almacenamiento",
+      "Espacio para tus archivos",
+      "Poco si tus videos viven en otra plataforma"
+     ],
+     [
+      "Transferencia",
+      "Cuántos datos se mandan a tus visitantes al mes",
+      "Lo suficiente para un estreno o una gira"
+     ],
+     [
+      "Certificado de seguridad",
+      "El candado y la dirección con https",
+      "Indispensable"
+     ],
+     [
+      "Correo",
+      "Cuentas con tu dominio",
+      "Útil para contrataciones si no tienes otro servicio"
+     ],
+     [
+      "Respaldos",
+      "Copias de tu sitio por si algo falla",
+      "Indispensable"
+     ],
+     [
+      "Disponibilidad",
+      "Cuánto tiempo pasa en línea",
+      "Lo más cerca del cien por ciento"
+     ],
+     [
+      "Soporte",
+      "Ayuda cuando algo se descompone",
+      "En español y por un canal que sí respondan"
+     ],
+     [
+      "Ubicación del servidor",
+      "En qué país está la máquina",
+      "Cerca de tu público carga más rápido"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Los tipos de hosting"
+  },
+  {
+   "p": "No todos los sitios piden lo mismo. El tipo depende de cuántas visitas llegan y de cuánto quieres meter mano."
+  },
+  {
+   "tabla": {
+    "titulo": "Tipos de hosting y para quién conviene",
+    "columnas": [
+     "Tipo",
+     "Cómo funciona",
+     "Para quién conviene",
+     "Lo que debes saber"
+    ],
+    "filas": [
+     [
+      "Compartido",
+      "Muchos sitios comparten un mismo servidor",
+      "Sitios chicos con pocas visitas",
+      "Barato, pero un vecino pesado te puede hacer lento"
+     ],
+     [
+      "Administrado",
+      "El proveedor se encarga de todo lo técnico",
+      "Artistas que no quieren tocar nada",
+      "Pagas por no tener que preocuparte"
+     ],
+     [
+      "Servidor privado virtual",
+      "Un pedazo de servidor reservado para ti",
+      "Tiendas de mercancía con más movimiento",
+      "Necesitas saber administrarlo"
+     ],
+     [
+      "Dedicado",
+      "Un servidor completo sólo para ti",
+      "Sitios enormes con muchísimo tráfico",
+      "Caro y pide un técnico"
+     ],
+     [
+      "En la nube",
+      "Tu sitio se reparte entre varios servidores",
+      "Proyectos con picos, como una preventa",
+      "Se paga por uso y el monto cambia"
+     ],
+     [
+      "Estático",
+      "Entrega archivos sin programas detrás",
+      "Sitios de artista y páginas informativas",
+      "Muy rápido y seguro para lo que no cambia a cada minuto"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Para un sitio con tu música, tus fechas y tu contacto, el administrado o el estático alcanzan. Un servidor dedicado sería como rentar un estadio para un ensayo."
+  },
+  {
+   "h2": "La disponibilidad traducida a horas"
+  },
+  {
+   "p": "Los proveedores anuncian cifras como 99.9 por ciento. Parece perfecto, pero vale la pena convertirlo en tiempo real."
+  },
+  {
+   "tabla": {
+    "titulo": "Qué significa cada nivel de disponibilidad",
+    "columnas": [
+     "Disponibilidad",
+     "Tiempo fuera de línea al mes",
+     "Tiempo fuera de línea al año"
+    ],
+    "filas": [
+     [
+      "99 por ciento",
+      "Unas 7 horas",
+      "Unos 3.6 días"
+     ],
+     [
+      "99.9 por ciento",
+      "Unos 43 minutos",
+      "Unas 8.8 horas"
+     ],
+     [
+      "99.99 por ciento",
+      "Unos 4 minutos",
+      "Unos 53 minutos"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Entre 99 y 99.9 hay varias horas de diferencia cada mes. Imagina que tu sitio se cae justo la noche del estreno."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Antes de pagar, revisa estos puntos"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "El precio de la renovación",
+     "texto": "Muchos planes cobran poco el primer año y bastante más después. Lee las dos cifras."
+    },
+    {
+     "titulo": "El candado de seguridad",
+     "texto": "Debe venir incluido y renovarse solo. Sin él, el navegador avisa que tu sitio no es seguro."
+    },
+    {
+     "titulo": "Las copias de respaldo",
+     "texto": "Pregunta cada cuánto se hacen y cómo recuperas una si algo sale mal."
+    },
+    {
+     "titulo": "Quién te ayuda",
+     "texto": "Confirma que respondan en español, por qué medio y en qué horario."
+    },
+    {
+     "titulo": "La velocidad en el celular",
+     "texto": "Abre un sitio que ya alojen y fíjate cuánto tarda en cargar."
+    },
+    {
+     "titulo": "La puerta de salida",
+     "texto": "Averigua si puedes bajar tus archivos y llevártelos a otro lado."
+    },
+    {
+     "titulo": "El nombre de la cuenta",
+     "texto": "Tiene que estar a tu nombre o al de tu proyecto, no al de un tercero."
+    }
+   ]
+  },
+  {
+   "h2": "Cómo mudarte a otro hosting"
+  },
+  {
+   "p": "Cambiar de proveedor no es complicado si vas en orden. La regla principal es no apagar el viejo hasta que el nuevo ya funcione."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Respalda todo",
+     "texto": "Descarga los archivos de tu sitio y la base de datos si tiene una."
+    },
+    {
+     "titulo": "Abre la cuenta nueva",
+     "texto": "Elige el plan y regístralo a tu nombre."
+    },
+    {
+     "titulo": "Sube tu sitio",
+     "texto": "Copia los archivos y revísalo con la dirección temporal que te den."
+    },
+    {
+     "titulo": "Activa el candado",
+     "texto": "Confirma que el nuevo proveedor emite el certificado para tu dominio."
+    },
+    {
+     "titulo": "Apunta tu dominio",
+     "texto": "Cambia los registros desde la cuenta donde compraste tu dominio."
+    },
+    {
+     "titulo": "Espera y prueba",
+     "texto": "El cambio tarda unas horas en llegar a todos. Ábrelo desde varios celulares."
+    },
+    {
+     "titulo": "Cierra la cuenta vieja",
+     "texto": "Hazlo cuando todo funcione y tengas tu respaldo a salvo."
+    }
+   ]
+  },
+  {
+   "p": "Si tu correo de contrataciones vive en el mismo lugar, llévatelo también. De lo contrario puedes dejar de recibir propuestas."
+  },
+  {
+   "h2": "Hosting y correo, juntos o separados"
+  },
+  {
+   "p": "Varios planes regalan cuentas de correo. Es práctico, pero amarra dos servicios en uno solo."
+  },
+  {
+   "p": "Si el servidor se cae, tu correo también. Si te cambias, tienes que mudar las dos cosas."
+  },
+  {
+   "p": "Por eso mucha gente tiene el correo en un servicio aparte. Lee más sobre eso en [correo corporativo](id:correo-corporativo)."
+  },
+  {
+   "h2": "Cómo averiguar dónde está tu sitio"
+  },
+  {
+   "p": "A veces alguien te hizo el sitio hace años y no sabes dónde quedó. Hay maneras de descubrirlo sin ser técnico."
+  },
+  {
+   "ul": [
+    "Busca en tu correo cobros o avisos de renovación.",
+    "Pregúntale a quien lo hizo a nombre de quién está la cuenta.",
+    "Consulta el registro público de tu dominio para ver a qué servidores apunta.",
+    "Revisa en la cuenta de tu dominio los registros de tipo A o NS."
+   ]
+  },
+  {
+   "p": "Cuando lo encuentres, pide que la cuenta pase a tu nombre. El sitio es tuyo y debes poder entrar sin pedir permiso."
+  },
+  {
+   "h2": "Lo que pasa con el hosting gratis"
+  },
+  {
+   "p": "Hay servicios que alojan sitios sin cobrar. Para un proyecto que quiere verse serio casi siempre se quedan cortos."
+  },
+  {
+   "ul": [
+    "Te dan una dirección dentro del dominio de ellos.",
+    "Ponen anuncios o su marca encima de tu trabajo.",
+    "Limitan el espacio y las visitas.",
+    "No siempre traen respaldos ni ayuda.",
+    "Pueden cerrar o cambiar las reglas sin avisar."
+   ]
+  },
+  {
+   "p": "Sirven para hacer pruebas. Para el sitio que va en tu tarjeta y en el QR de tus flyers, mejor uno de pago o uno incluido."
+  },
+  {
+   "h2": "Hosting y velocidad"
+  },
+  {
+   "p": "Lo rápido depende del servidor, pero también de cómo está hecho el sitio. Un buen hosting no compensa fotos de diez megas."
+  },
+  {
+   "ul": [
+    "Fotos comprimidas y del tamaño en que se ven.",
+    "Videos alojados en una plataforma de video y no en tu servidor.",
+    "Pocos complementos y programas.",
+    "Servidor cerca de tu público o con red de distribución.",
+    "Portada sin animaciones pesadas."
+   ]
+  },
+  {
+   "h2": "Señales de que es hora de cambiar"
+  },
+  {
+   "ul": [
+    "Tu sitio tarda varios segundos en abrir.",
+    "Un fan te avisa que no abre antes que tu proveedor.",
+    "La ayuda tarda días en responder.",
+    "Te cobran extras por lo que antes venía incluido.",
+    "No puedes respaldar ni volver a una versión anterior."
+   ]
+  },
+  {
+   "p": "Con una señal empieza a comparar opciones. Con dos ya conviene mudarte con los pasos de arriba."
+  },
+  {
+   "h2": "Errores comunes"
+  },
+  {
+   "ul": [
+    "Contratar el plan más grande sin necesitarlo.",
+    "Pagar tres años por adelantado sin haber probado.",
+    "Dejar la cuenta a nombre de quien hizo el sitio.",
+    "No leer el precio de renovación.",
+    "Olvidar el pago y perder el sitio la semana del estreno.",
+    "No tener respaldo fuera del mismo proveedor."
+   ]
+  },
+  {
+   "p": "Cuando hago un sitio de artista desde Pilsi, el hosting ya va incluido en los $99 al mes. Tú no tienes que contratar nada aparte."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es un hosting en palabras sencillas?",
+   "respuesta": "Es rentar espacio en una computadora siempre conectada. Ahí vive tu sitio para que abra a cualquier hora."
+  },
+  {
+   "pregunta": "¿Hosting y dominio son lo mismo?",
+   "respuesta": "No. El dominio es la dirección y el hosting es donde se guardan tus archivos."
+  },
+  {
+   "pregunta": "¿Puedo tener sitio propio sin hosting?",
+   "respuesta": "No. Todo sitio necesita un servidor, aunque a veces ya viene incluido en lo que pagas."
+  },
+  {
+   "pregunta": "¿Me conviene un hosting gratis?",
+   "respuesta": "No para tu proyecto. Trae anuncios, límites y una dirección que no es tuya."
+  },
+  {
+   "pregunta": "¿Qué tipo necesita un sitio de artista?",
+   "respuesta": "Uno administrado o estático. Tu sitio pesa poco y no necesita un servidor propio."
+  },
+  {
+   "pregunta": "¿Puedo cambiarme sin perder mi sitio?",
+   "respuesta": "Sí. Respaldas, subes al nuevo y apuntas tu dominio al nuevo servidor."
+  },
+  {
+   "pregunta": "¿Dónde conviene que esté el servidor?",
+   "respuesta": "Cerca de tu público o detrás de una red de distribución. Así abre más rápido en México."
+  }
+ ],
+ "venta": {
+  "puente": "El hosting es la parte que nadie ve, y en un sitio de artista hecho por mí ya va resuelto dentro de la mensualidad.",
+  "titulo": "¿Te hago un sitio con hosting incluido?",
+  "tituloCorto": "Tu sitio de artista"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

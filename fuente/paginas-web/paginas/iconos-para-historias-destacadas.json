@@ -1,0 +1,210 @@
+{
+ "id": "iconos-para-historias-destacadas",
+ "slug": "iconos-para-historias-destacadas",
+ "molde": "herramienta",
+ "cabeza": "portada para destacados de instagram",
+ "busquedas": [
+  "iconos para historias destacadas de instagram"
+ ],
+ "categoria": "Redes sociales",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "editor-diseno",
+  "modo": "iconos-destacadas"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://metricool.com/es/portadas-historias-destacadas-instagram",
+   "titulo": "Portadas para historias destacadas (Metricool)",
+   "promete": "Pasos para ponerlas; vende su software"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.tiendanube.com/mx/blog/portadas-para-historias-destacadas",
+   "titulo": "Portadas para historias destacadas (Tiendanube)",
+   "promete": "Ideas y recursos; empuja a abrir tienda"
+  },
+  {
+   "posicion": 3,
+   "url": "https://skedsocial.com/es/blog/how-to-get-instagram-highlight-covers",
+   "titulo": "Cómo crear portadas destacadas (Sked Social)",
+   "promete": "Medidas y herramientas de terceros"
+  }
+ ],
+ "title": "Portada para destacados de Instagram de tu arte",
+ "h1": "Portadas de destacados para tu perfil de artista",
+ "description": "Haz gratis las portadas de tus historias destacadas con el color de tu marca. Hasta ocho iconos para fechas, trabajos, precios y citas, todos juntos en un ZIP.",
+ "resumen": "Las bolitas de tu perfil con el color de tu marca",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "plantillas-para-instagram",
+  "link-en-bio",
+  "portada-de-facebook",
+  "publicidad-en-instagram",
+  "paleta-de-colores",
+  "qr-de-instagram"
+ ],
+ "respuesta": [
+  "Escoge hasta ocho iconos para tus destacados y el color de tu marca. Entre más de veinte iconos hay de trabajos, citas y contacto. El editor hace una portada por icono y las bajas juntas en un ZIP."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Para qué sirven en un perfil de artista"
+  },
+  {
+   "p": "Los destacados son las bolitas que quedan debajo de tu biografía. Guardan historias que ya no se borran a las 24 horas."
+  },
+  {
+   "p": "Para un artista son como el menú de su portafolio. Quien llega por un video tuyo encuentra rápido tus trabajos o tu agenda."
+  },
+  {
+   "p": "Con portadas del mismo estilo tu perfil se ve cuidado. Eso pesa cuando alguien está decidiendo si te contrata."
+  },
+  {
+   "h2": "Hazlas en cuatro pasos"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Escoge los iconos",
+     "texto": "Tienes ocho lugares. En cada uno eliges un icono de la lista o dejas «Ninguno»."
+    },
+    {
+     "titulo": "Escribe los nombres si tu estilo los usa",
+     "texto": "Un nombre por renglón, en el mismo orden de los iconos. Sólo los estilos con nombre o inicial lo ocupan."
+    },
+    {
+     "titulo": "Elige estilo y colores",
+     "texto": "Hay cinco estilos. Usa los colores de tu logo o de la portada de tu disco."
+    },
+    {
+     "titulo": "Baja el ZIP",
+     "texto": "Trae un PNG por icono, cada uno con su nombre."
+    }
+   ]
+  },
+  {
+   "h2": "Qué destacados le sirven a cada artista"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Destacado",
+     "Icono",
+     "Qué historias guardar ahí"
+    ],
+    "filas": [
+     [
+      "Trabajos",
+      "Cámara",
+      "Clips en vivo, tatuajes terminados o sesiones de fotos"
+     ],
+     [
+      "Fechas o citas",
+      "Calendario",
+      "Tus próximas tocadas o tu agenda abierta"
+     ],
+     [
+      "Precios",
+      "Precios",
+      "Tus paquetes para bodas, clases o sesiones"
+     ],
+     [
+      "Opiniones",
+      "Estrella",
+      "Capturas de mensajes de quien ya te contrató"
+     ],
+     [
+      "Tienda",
+      "Bolsa",
+      "Playeras, discos o láminas a la venta"
+     ],
+     [
+      "Contacto",
+      "Chat o WhatsApp",
+      "Cómo pedirte fecha o cotización"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Con seis destacados alcanza para casi cualquier perfil. Después de ocho la gente tiene que deslizar y los últimos casi no se ven."
+  },
+  {
+   "p": "Todavía no hay icono de nota musical ni de pincel. Para músicos y pintores funciona bien el de Trabajos o el de Favoritos."
+  },
+  {
+   "h2": "Los cinco estilos"
+  },
+  {
+   "ul": [
+    "Línea, con el icono en trazo sobre un fondo liso.",
+    "Círculo lleno, con el icono dentro de un círculo de color.",
+    "Anillo, con un aro alrededor del icono.",
+    "Con nombre, que pone la palabra debajo del dibujo.",
+    "Inicial, que muestra la primera letra del nombre."
+   ]
+  },
+  {
+   "p": "El estilo Inicial te sirve si quieres una letra en lugar de un dibujo. Por ejemplo una F para Fechas o una V para Videos."
+  },
+  {
+   "h2": "Medidas y cómo se recortan"
+  },
+  {
+   "p": "Las portadas salen en tamaño de historia de 1080 × 1920 px o cuadradas de 1080. Instagram corta un círculo del centro."
+  },
+  {
+   "p": "En la vista del editor ves un recuadro guía con la medida de historia. Lo que quede adentro es lo que aparece en la bolita."
+  },
+  {
+   "p": "Para subirla abre el destacado y toca «Editar destacado». Luego toca «Editar portada» y escoge la imagen de tu galería."
+  },
+  {
+   "p": "Antes de cambiar portadas, revisa qué historias guarda cada destacado. Así ninguna bolita se queda vacía mientras las actualizas."
+  },
+  {
+   "p": "Usa un solo estilo en todas. Si mezclas círculos llenos con iconos de línea, el perfil se ve revuelto."
+  },
+  {
+   "p": "Para que todo combine, usa los mismos tonos en tus [plantillas para Instagram](id:plantillas-para-instagram). Tu [link en bio](id:link-en-bio) también puede ir a juego."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Cuántas portadas hago a la vez?",
+   "respuesta": "Hasta ocho. Cada icono que eliges es una portada."
+  },
+  {
+   "pregunta": "¿Puedo subir mis propios dibujos?",
+   "respuesta": "No por ahora. El editor usa sus propios iconos de línea."
+  },
+  {
+   "pregunta": "¿Hay icono de música?",
+   "respuesta": "Todavía no. Usa Trabajos, Favoritos o el estilo Inicial con la letra que quieras."
+  },
+  {
+   "pregunta": "¿Por qué el ZIP trae varias imágenes?",
+   "respuesta": "Porque cada destacado lleva su propia portada."
+  },
+  {
+   "pregunta": "¿Se ven bien en modo oscuro?",
+   "respuesta": "Sí se ven. Elige un fondo de color en lugar de blanco puro."
+  },
+  {
+   "pregunta": "¿Tiene costo?",
+   "respuesta": "No tiene. Las bajas sin marca de agua y el pie «Hecho con Avelina» se apaga con una casilla."
+  }
+ ],
+ "venta": {
+  "puente": "Tus destacados ordenan tu perfil, y tu sitio guarda tu portafolio completo con tu música y tus fechas.",
+  "aviso": "Tus portadas están listas. ¿Quieres un sitio con tu portafolio completo?",
+  "titulo": "¿Te hago el sitio de tu portafolio?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

@@ -1,0 +1,495 @@
+{
+ "id": "dominio-y-hosting",
+ "slug": "dominio-y-hosting",
+ "molde": "guia",
+ "cabeza": "dominio y hosting",
+ "busquedas": [
+  "hosting dominio",
+  "dominio hosting",
+  "hosting y dominio",
+  "dominios y hosting",
+  "hosting gratis dominio",
+  "hosting dominios gratis",
+  "hosting y dominio gratis",
+  "dominio y hosting gratis",
+  "dominio gratis y hosting",
+  "dominio hosting gratuito",
+  "dominios con hosting gratis",
+  "hosting con dominio gratuito",
+  "hosting gratuito con dominio",
+  "que es hosting y dominio",
+  "hosting y dominio que es",
+  "que es un hosting y dominio",
+  "que es un hosting y que es un dominio"
+ ],
+ "categoria": "Dominio y hosting",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.arsys.es/blog/que-diferencia-hay-entre-hosting-y-dominio",
+   "titulo": "¿Qué diferencia hay entre hosting y dominio?",
+   "promete": "Definición de cada uno con analogía de casa y dirección; escrito para España, sin pasos de conexión ni qué revisar en el contrato"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.hostinger.com/mx/tutoriales/",
+   "titulo": "Hosting y dominio: ¿cuál es la diferencia?",
+   "promete": "Explica la diferencia y empuja a comprar sus planes; no habla de a nombre de quién queda ni de la renovación"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.tiendanube.com/blog/diferencia-entre-hosting-y-dominio/",
+   "titulo": "Diferencia entre hosting y dominio",
+   "promete": "Guía general orientada a tiendas en su plataforma; no explica DNS ni qué hacer si cambias de proveedor"
+  }
+ ],
+ "title": "Dominio y hosting para tu sitio de artista, sin enredos",
+ "h1": "Dominio y hosting explicados para músicos y artistas",
+ "description": "El dominio es el nombre de tu sitio y el hosting es donde viven tus fotos y canciones. Ve cómo se conectan, qué revisar y cómo dejarlos a tu nombre. Léelo ya.",
+ "resumen": "Las dos piezas que necesita tu sitio para abrir",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "que-es-un-dominio",
+  "que-es-hosting",
+  "comprar-dominio",
+  "certificado-ssl",
+  "correo-corporativo",
+  "como-crear-una-pagina-web"
+ ],
+ "respuesta": [
+  "Tu dominio es la dirección que escribe tu público, como tubanda.mx. El hosting es la máquina siempre encendida que guarda tus fotos y tus audios.",
+  "Tu sitio sólo abre si tienes las dos. Puedes pagarlas juntas o por separado, siempre que ambas queden a tu nombre."
+ ],
+ "cuerpo": [
+  {
+   "h2": "La diferencia contada con una gira"
+  },
+  {
+   "p": "El dominio le dice a tu público dónde buscarte. El hosting guarda todo lo que ve cuando llega."
+  },
+  {
+   "p": "Imagina el cartel de una gira. La dirección del foro es el dominio y el foro con su escenario es el hosting."
+  },
+  {
+   "p": "Con dirección y sin foro, tus fans llegan a un lote baldío. Con foro y sin dirección, nadie sabe a dónde ir."
+  },
+  {
+   "tabla": {
+    "titulo": "Dominio frente a hosting",
+    "columnas": [
+     "Pregunta",
+     "Dominio",
+     "Hosting"
+    ],
+    "filas": [
+     [
+      "Qué es",
+      "El nombre de tu sitio",
+      "El espacio donde vive tu sitio"
+     ],
+     [
+      "Ejemplo",
+      "tubanda.mx",
+      "Un servidor con tus fotos y canciones"
+     ],
+     [
+      "Cómo se paga",
+      "Renta por año",
+      "Por mes o por año"
+     ],
+     [
+      "Si no pagas",
+      "Tu nombre queda libre para otro",
+      "Tu sitio deja de abrir"
+     ],
+     [
+      "Se puede mudar",
+      "Sí, con un traslado",
+      "Sí, copiando los archivos"
+     ],
+     [
+      "A nombre de quién",
+      "Tuyo o de tu proyecto",
+      "La cuenta debe ser tuya"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo se enlazan las dos piezas"
+  },
+  {
+   "p": "El dominio y el hosting se unen con registros DNS. Funcionan como un directorio que manda a cada visita a la computadora correcta."
+  },
+  {
+   "p": "Tu proveedor de hosting te entrega unos números o unos nombres de servidor. Los copias dentro del panel donde registraste tu nombre."
+  },
+  {
+   "p": "A partir de ahí, quien teclea tu dominio llega a tu hosting. Suele verse en minutos y a veces tarda unas horas."
+  },
+  {
+   "tabla": {
+    "titulo": "Dos formas de conectarlos",
+    "columnas": [
+     "Forma",
+     "Qué se cambia",
+     "Cuándo conviene"
+    ],
+    "filas": [
+     [
+      "Cambiar los servidores de nombre",
+      "Los registros NS del dominio",
+      "Si el hosting va a manejar todo, correo incluido"
+     ],
+     [
+      "Cambiar sólo el registro A o CNAME",
+      "Un registro que apunta al sitio",
+      "Si tu correo vive en otro servicio y no lo quieres mover"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si ya usas correo con tu dominio, cuida los servidores de nombre. Sin copiar los registros de correo, dejan de llegarte las propuestas de fechas."
+  },
+  {
+   "h2": "Pagarlos juntos o por separado"
+  },
+  {
+   "p": "Muchas empresas te ofrecen dominio y hosting en el mismo carrito. Es cómodo aunque no siempre te conviene."
+  },
+  {
+   "tabla": {
+    "titulo": "Lo que ganas y lo que arriesgas",
+    "columnas": [
+     "Forma",
+     "A favor",
+     "En contra"
+    ],
+    "filas": [
+     [
+      "Las dos con la misma empresa",
+      "Un solo cobro y una sola cuenta",
+      "Si te vas, mudas dos cosas a la vez"
+     ],
+     [
+      "Dominio en un registrador y hosting en otro",
+      "Cambias de hosting sin tocar tu nombre",
+      "Dos cuentas y dos fechas que cuidar"
+     ],
+     [
+      "Paquete con el sitio hecho",
+      "Otra persona conecta todo",
+      "Tienes que pedir que el dominio quede a tu nombre"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "En un proyecto de una o cuatro personas manda otra cosa. Necesitas la llave del panel de tu nombre en tus manos."
+  },
+  {
+   "h2": "Antes de pagar, revisa esto"
+  },
+  {
+   "p": "Casi todos los problemas vienen de no leer qué se renueva. Repasa estos puntos con calma."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Quién aparece como titular",
+     "texto": "Debe salir tu nombre o el de tu banda. Nunca el del diseñador ni el de la disquera."
+    },
+    {
+     "titulo": "Cuánto cuesta renovar",
+     "texto": "Varios planes cobran poco el primer año. Pregunta el precio del segundo año en adelante."
+    },
+    {
+     "titulo": "Si incluye correo",
+     "texto": "Confirma si trae cuentas con tu dominio o si las pagas aparte."
+    },
+    {
+     "titulo": "El candado en la barra",
+     "texto": "Sin candado, el navegador espanta a tus fans. Confirma que el certificado va incluido y que se pone al día sin ti."
+    },
+    {
+     "titulo": "Las copias de respaldo",
+     "texto": "Pregunta cada cuánto guardan una copia y cómo la recuperas."
+    },
+    {
+     "titulo": "La atención en español",
+     "texto": "Revisa por qué medio responden y en qué horario. Una falla un sábado de tocada también cuenta."
+    },
+    {
+     "titulo": "La puerta de salida",
+     "texto": "Antes de entrar, averigua cómo sacarías tus fotos y tu nombre el día que quieras irte."
+    }
+   ]
+  },
+  {
+   "h2": "Qué hosting necesita un artista"
+  },
+  {
+   "p": "Un portafolio de ilustración no pide lo mismo que una tienda enorme. Elige según lo que vas a subir."
+  },
+  {
+   "tabla": {
+    "titulo": "Tipos de hosting y para quién son",
+    "columnas": [
+     "Tipo",
+     "Cómo funciona",
+     "Para quién"
+    ],
+    "filas": [
+     [
+      "Compartido",
+      "Muchos sitios en la misma computadora",
+      "Sitios chicos con pocas visitas"
+     ],
+     [
+      "Administrado por un creador de sitios",
+      "La plataforma guarda tu sitio",
+      "Quien arma su sitio con un editor"
+     ],
+     [
+      "Servidor virtual",
+      "Una parte apartada de una computadora",
+      "Tiendas y sistemas con más tráfico"
+     ],
+     [
+      "Servidor dedicado",
+      "Una computadora completa para ti",
+      "Empresas grandes con equipo técnico"
+     ],
+     [
+      "Sitio estático en red de entrega",
+      "Copias de tu sitio en muchos países",
+      "Sitios de artista y páginas informativas rápidas"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Un sitio de artista pesa poco si las fotos van bien comprimidas. Lo que más importa es que abra rápido en el celular de quien está en la fila del foro."
+  },
+  {
+   "p": "Tus canciones completas pueden quedarse en tu plataforma de música. En el sitio basta con poner el reproductor o la liga."
+  },
+  {
+   "h2": "Ofertas de dominio y hosting gratis"
+  },
+  {
+   "p": "Verás anuncios que prometen las dos cosas sin costo. Léelos despacio antes de mandar a imprimir tus flyers."
+  },
+  {
+   "ul": [
+    "Lo que regalan suele ser algo como tubanda.plataforma.com. Ese nombre le pertenece a la plataforma y desaparece cuando la dejas.",
+    "El dominio de regalo del primer año se cobra completo desde el segundo.",
+    "El hosting gratis suele poner anuncios ajenos o limita las visitas.",
+    "Algunas ofertas piden pagar varios años por adelantado para darte el regalo."
+   ]
+  },
+  {
+   "p": "Lo gratis sirve para probar o para aprender. Si tu dirección va en una lona de escenario, conviene algo propio desde el principio."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Tu correo de contrataciones"
+  },
+  {
+   "p": "Con dominio propio puedes tener un correo como fechas@tubanda.mx. Para recibirlo necesitas un servicio de correo."
+  },
+  {
+   "p": "A veces viene dentro del hosting y otras se paga por fuera. Tu nombre sólo indica la puerta donde tocan los mensajes."
+  },
+  {
+   "tabla": {
+    "titulo": "Dónde puede vivir tu correo",
+    "columnas": [
+     "Opción",
+     "A favor",
+     "Qué cuidar"
+    ],
+    "filas": [
+     [
+      "Correo dentro del hosting",
+      "No pagas otro servicio",
+      "Si el hosting falla, también el correo"
+     ],
+     [
+      "Servicio de correo aparte",
+      "Cambias de hosting sin tocar el correo",
+      "Otra cuenta que pagar y vigilar"
+     ],
+     [
+      "Sólo reenvío a tu correo personal",
+      "Lees todo en la bandeja que ya usas",
+      "Contestar desde tu dominio pide configurarlo"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si apenas arrancas como solista, el reenvío puede alcanzar. Cuando la banda crezca, conviene una cuenta por integrante."
+  },
+  {
+   "h2": "El calendario de pagos de cada pieza"
+  },
+  {
+   "p": "El dominio y el hosting vencen en fechas distintas. Tenerlas anotadas te ahorra sustos antes de un estreno."
+  },
+  {
+   "ul": [
+    "Tu nombre vence cada año en la fecha exacta en que lo apartaste.",
+    "El espacio del sitio se cobra por mes, por año o en paquetes largos.",
+    "El certificado del candado se renueva solo si viene con el hosting.",
+    "El correo, si va aparte, tiene su propia fecha de cobro."
+   ]
+  },
+  {
+   "p": "Anota cada vencimiento en tu celular y pon la alarma siete días antes."
+  },
+  {
+   "h2": "Un caso de ejemplo con una banda"
+  },
+  {
+   "p": "Este caso es inventado para ver las piezas en orden. Luna Roja es una banda de Guadalajara que quiere su sitio con fechas y contacto."
+  },
+  {
+   "ol": [
+    "Buscan lunaroja.mx y ven que está disponible.",
+    "La vocalista lo registra a nombre de la banda con un correo que todos revisan.",
+    "Contratan un hosting o piden el sitio hecho con hosting incluido.",
+    "Conectan el dominio con los registros que les da el hosting.",
+    "Revisan que el sitio abra con candado en varios celulares.",
+    "Ponen el dominio en su lona, sus redes y la contraportada del disco."
+   ]
+  },
+  {
+   "p": "Si mañana cambian de proveedor, el dominio se va con ellos. La lona sigue sirviendo porque el nombre es el mismo."
+  },
+  {
+   "h2": "Cuánto tarda en verse tu sitio nuevo"
+  },
+  {
+   "p": "Registrar el dominio toma unos minutos. Que se vea conectado en todos lados puede tardar algunas horas."
+  },
+  {
+   "p": "Si recién conectado no aparece, ten paciencia. Ábrelo también con datos móviles y no nada más con tu wifi."
+  },
+  {
+   "p": "Si al otro día sigue sin abrir, toca revisar los registros. Lo usual es un punto faltante o un dato viejo olvidado."
+  },
+  {
+   "h2": "Señales de que tu hosting ya no da"
+  },
+  {
+   "p": "Tu nombre rara vez da problemas. Las fallas que ve tu público casi siempre vienen del espacio donde vive el sitio."
+  },
+  {
+   "ul": [
+    "Tu sitio tarda más de tres segundos en abrir con datos del celular.",
+    "Se cae seguido y te enteras porque un fan te avisa.",
+    "Cada renovación sube de precio sin nada nuevo a cambio.",
+    "Nadie contesta cuando reportas una falla.",
+    "Tu panel tiene opciones que no entiendes ni usas."
+   ]
+  },
+  {
+   "p": "Con dos de estas señales ya conviene mudarte. Tu nombre no cambia, sólo lo diriges a la casa nueva."
+  },
+  {
+   "h2": "Tropiezos comunes con dominio y hosting"
+  },
+  {
+   "ul": [
+    "El dominio venció y el aviso llegó al correo del exbaterista.",
+    "El diseñador registró el dominio como suyo y no lo quiere soltar.",
+    "Se movieron los servidores de nombre y dejaron de llegar los correos de booking.",
+    "El sitio abre sin candado y el navegador lo marca como inseguro.",
+    "Venció la tarjeta de la renovación automática.",
+    "El hosting gratis puso anuncios de otra marca junto a tu música."
+   ]
+  },
+  {
+   "p": "La mayoría se previene con dos hábitos. Registra el nombre como tuyo y recibe los avisos en un buzón que abras seguido."
+  },
+  {
+   "h2": "Qué pedirle a quien te hace el sitio"
+  },
+  {
+   "p": "Si alguien más arma tu sitio, pide estos datos por escrito. Te ahorran pleitos cuando termina el trabajo."
+  },
+  {
+   "ul": [
+    "El registrador donde quedó tu dominio y su fecha de vencimiento.",
+    "Tu propia entrada al panel del nombre o la clave para llevártelo.",
+    "El proveedor donde vive tu sitio y lo que cubre la mensualidad.",
+    "Qué pasa con tu sitio si dejas de pagar.",
+    "Cómo te regresan tus textos y fotos si decides cambiar."
+   ]
+  },
+  {
+   "p": "Una persona seria te da estos datos sin rodeo alguno. Si se resiste a registrar el nombre como tuyo, mejor cambia de proveedor."
+  },
+  {
+   "h2": "Cómo encontrar tus cuentas si no sabes dónde están"
+  },
+  {
+   "p": "Si otra persona hizo tu sitio, quizá no sabes dónde quedaron las cuentas. Hay maneras de rastrearlas."
+  },
+  {
+   "ul": [
+    "Consulta tu dominio en un registro público. Ahí salen el registrador y la fecha de vencimiento.",
+    "Busca en tu correo palabras como renovación, dominio o hosting.",
+    "Escríbele a quien armó tu sitio y pídele los datos de ambas cuentas."
+   ]
+  },
+  {
+   "p": "Anota tus claves donde nadie más las vea. Si el registro trae otro nombre, solicita que lo corrijan esta misma semana."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Puedo tener dominio sin hosting?",
+   "respuesta": "Sí. Puedes apartar el nombre de tu banda sin sitio. Así nadie lo toma mientras decides."
+  },
+  {
+   "pregunta": "¿Puedo tener hosting sin dominio?",
+   "respuesta": "Sí, aunque tu sitio tendría una dirección larga del proveedor. Para tu carrera no es lo ideal."
+  },
+  {
+   "pregunta": "¿Me conviene contratarlos juntos?",
+   "respuesta": "Depende. Juntos es más cómodo y separados te da libertad. En los dos casos el dominio va a tu nombre."
+  },
+  {
+   "pregunta": "¿Mis correos de booking se pierden al mudar el sitio?",
+   "respuesta": "Nada, si copias antes los registros de correo. Sin copiarlos, los mensajes dejan de llegar."
+  },
+  {
+   "pregunta": "¿Cuánto tarda en funcionar un dominio nuevo?",
+   "respuesta": "Entre unos minutos y unas horas. Ciertas redes muestran la versión previa durante un rato."
+  },
+  {
+   "pregunta": "¿Pierdo mi dominio si cambio de hosting?",
+   "respuesta": "No. El dominio es tuyo y sólo cambias hacia dónde apunta."
+  },
+  {
+   "pregunta": "¿El certificado del candado depende del nombre o del espacio?",
+   "respuesta": "Del espacio. Lo instala tu proveedor de hosting y debería ponerse al día sin que hagas nada."
+  }
+ ],
+ "venta": {
+  "puente": "Si no quieres pelearte con registros, yo armo tu sitio de artista con dominio y hosting ya conectados.",
+  "titulo": "¿Te armo el sitio con todo conectado?",
+  "tituloCorto": "Sitio con dominio y hosting"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

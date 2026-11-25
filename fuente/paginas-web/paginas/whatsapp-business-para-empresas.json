@@ -1,0 +1,548 @@
+{
+ "id": "whatsapp-business-para-empresas",
+ "slug": "whatsapp-business-para-empresas",
+ "molde": "guia",
+ "cabeza": "whatsapp empresarial",
+ "busquedas": [],
+ "categoria": "WhatsApp",
+ "herramienta": {
+  "id": "whatsapp-link",
+  "modo": "qr"
+ },
+ "fuentes": [
+  {
+   "texto": "Ayuda de WhatsApp, ¿qué es WhatsApp Business? (leída el 12-nov-2026)",
+   "url": "https://faq.whatsapp.com/988069844889223/?locale=es_LA"
+  },
+  {
+   "texto": "Ayuda de WhatsApp, información sobre el catálogo (leída el 12-nov-2026)",
+   "url": "https://faq.whatsapp.com/493359721245754/?locale=es_LA"
+  },
+  {
+   "texto": "Ayuda de WhatsApp, cómo usar las listas de difusión (leída el 12-nov-2026)",
+   "url": "https://faq.whatsapp.com/861663048350950/?cms_platform=android&locale=es_LA"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://clevertap.com/es/blog/whatsapp-empresarial/",
+   "titulo": "WhatsApp empresarial",
+   "promete": "Orientado a la plataforma para empresas grandes; poco para quien empieza con la app"
+  },
+  {
+   "posicion": 2,
+   "url": "https://respond.io/es/blog/whatsapp-business-app",
+   "titulo": "WhatsApp Business app",
+   "promete": "Describe la app para llevar a su producto; no trae lista de configuración ni ejemplo por giro"
+  },
+  {
+   "posicion": 3,
+   "url": "https://blog.whatsapp.com/building-for-people-and-now-businesses",
+   "titulo": "Building for people and now businesses",
+   "promete": "Anuncio oficial antiguo en inglés; no explica cómo elegir entre app y plataforma"
+  }
+ ],
+ "title": "WhatsApp empresarial para artistas, app o plataforma",
+ "h1": "WhatsApp empresarial para tu proyecto artístico",
+ "description": "Cuál WhatsApp empresarial le sirve a una banda, un estudio de tatuaje o una fotógrafa. Perfil, catálogo, listas y QR para que te contraten. Configúralo hoy.",
+ "resumen": "App Business o plataforma, cuál le sirve a tu proyecto",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "mensajes-automaticos-whatsapp",
+  "link-de-whatsapp",
+  "codigo-qr-para-whatsapp",
+  "pagina-web-para-negocio",
+  "google-mi-negocio"
+ ],
+ "respuesta": [
+  "El WhatsApp empresarial tiene dos caminos oficiales. Uno es la app WhatsApp Business, gratuita y hecha para negocios pequeños. El otro es la plataforma para empresas, que se contrata con un proveedor.",
+  "Si las contrataciones las contestas tú o alguien de tu banda, la app casi siempre alcanza. La plataforma tiene sentido cuando varias personas atienden el mismo número o necesitas conectarlo a otros sistemas."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Qué se entiende por WhatsApp empresarial"
+  },
+  {
+   "p": "Casi siempre que alguien dice WhatsApp empresarial se refiere a WhatsApp Business. Es la versión de la app pensada para quien vende algo."
+  },
+  {
+   "p": "La ayuda oficial la presenta como una descarga gratuita para negocios pequeños. Existe para Android y para iPhone."
+  },
+  {
+   "p": "Un artista que cobra por tocar, tatuar o fotografiar también es un negocio pequeño. Por eso la app te queda bien aunque no tengas local."
+  },
+  {
+   "p": "Se maneja casi igual que el WhatsApp de siempre. Lo nuevo son las herramientas para atender a quien te quiere contratar."
+  },
+  {
+   "h2": "Las tres versiones que hay"
+  },
+  {
+   "tabla": {
+    "titulo": "WhatsApp normal, app Business y plataforma para empresas",
+    "columnas": [
+     "Punto",
+     "WhatsApp normal",
+     "App WhatsApp Business",
+     "Plataforma para empresas"
+    ],
+    "filas": [
+     [
+      "Para quién",
+      "Personas",
+      "Negocios pequeños",
+      "Negocios con equipo o mucho volumen"
+     ],
+     [
+      "Costo de la app",
+      "Gratis",
+      "Gratis",
+      "Se contrata con un proveedor"
+     ],
+     [
+      "Perfil de empresa",
+      "No",
+      "Sí, con dirección, horario y sitio web",
+      "Sí"
+     ],
+     [
+      "Mensajes automáticos",
+      "No",
+      "Bienvenida, ausencia y respuestas rápidas",
+      "Bots a la medida"
+     ],
+     [
+      "Catálogo",
+      "No",
+      "Sí",
+      "Sí, conectado a tus sistemas"
+     ],
+     [
+      "Varias personas en un número",
+      "Limitado",
+      "Limitado",
+      "Sí"
+     ],
+     [
+      "Dónde se usa",
+      "Celular, web y escritorio",
+      "Celular, web y escritorio",
+      "Panel del proveedor o tus sistemas"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Para casi cualquier artista en México, la app Business es por donde se empieza. No cuesta y la dejas lista en una tarde."
+  },
+  {
+   "h2": "Tu número personal o uno para la música"
+  },
+  {
+   "p": "La ayuda oficial aclara que un mismo número no puede estar en las dos apps al mismo tiempo. Lo que sí puedes es pasarlo de una a otra."
+  },
+  {
+   "p": "Muchos artistas empiezan dando su número de siempre. Funciona un tiempo, pero tu familia y tus clientes terminan en la misma lista."
+  },
+  {
+   "tabla": {
+    "titulo": "Qué cambia con un número sólo para tu proyecto",
+    "columnas": [
+     "Punto",
+     "Número personal",
+     "Número del proyecto"
+    ],
+    "filas": [
+     [
+      "Horario",
+      "Te escriben a medianoche por una cotización",
+      "Pones mensaje de ausencia sin apagar tu vida"
+     ],
+     [
+      "Si tu mánager contesta",
+      "Tendría tu celular personal",
+      "Le pasas el número del proyecto"
+     ],
+     [
+      "Si la banda se separa",
+      "Cada quien se queda con contactos sueltos",
+      "El número sigue con el nombre del grupo"
+     ],
+     [
+      "Lo que ven al abrir tu perfil",
+      "Tu foto y tu estado personal",
+      "Tu logo, tu horario y tu catálogo"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si te alcanza, compra un chip nada más para contrataciones. Es poco dinero y te ordena muchísimo."
+  },
+  {
+   "h2": "Cómo dejar lista la app paso a paso"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Baja la app y registra tu número",
+     "texto": "Instala WhatsApp Business desde la tienda de tu celular. Usa el número que vas a dar para contrataciones."
+    },
+    {
+     "titulo": "Pon el nombre artístico y tu logo",
+     "texto": "Escribe el nombre con el que te buscan. El logo o tu foto deben verse bien dentro de un círculo."
+    },
+    {
+     "titulo": "Elige la categoría",
+     "texto": "Busca la que mejor describa lo que haces, como artista, fotografía o servicio de eventos."
+    },
+    {
+     "titulo": "Llena el perfil completo",
+     "texto": "Agrega tu ciudad, tus horarios de atención, tu correo y tu sitio de artista."
+    },
+    {
+     "titulo": "Escribe una descripción corta",
+     "texto": "Dos frases sobre qué haces y en qué zona trabajas. Por ejemplo «Rock en español para eventos en Guadalajara»."
+    },
+    {
+     "titulo": "Activa bienvenida y ausencia",
+     "texto": "Las encuentras en Herramientas. Escríbelas cortas y con lo que la gente necesita saber."
+    },
+    {
+     "titulo": "Guarda respuestas rápidas",
+     "texto": "Ten listos tus paquetes, tu forma de pago y lo que necesitas para cotizar."
+    },
+    {
+     "titulo": "Sube tu catálogo",
+     "texto": "Agrega tus paquetes de show, tus sesiones o tu mercancía con una buena foto."
+    },
+    {
+     "titulo": "Ordena tus chats",
+     "texto": "Usa listas o etiquetas para separar cotizaciones, fechas apartadas y pagos pendientes."
+    }
+   ]
+  },
+  {
+   "p": "El paso que casi todos se saltan es el sitio web del perfil. Ahí va la página donde ven tus videos y tus precios."
+  },
+  {
+   "h2": "El perfil de empresa de un artista"
+  },
+  {
+   "p": "El perfil es lo que aparece cuando alguien toca tu nombre en el chat. Ahí caben ciudad, horario, correo y sitio web."
+  },
+  {
+   "tabla": {
+    "titulo": "Qué poner en cada campo",
+    "columnas": [
+     "Campo",
+     "Ejemplo para una banda de versiones en Querétaro"
+    ],
+    "filas": [
+     [
+      "Nombre",
+      "Los Sin Ensayo"
+     ],
+     [
+      "Categoría",
+      "Servicio de entretenimiento"
+     ],
+     [
+      "Descripción",
+      "Versiones de rock y pop para bodas y fiestas. Tocamos en todo Querétaro."
+     ],
+     [
+      "Dirección",
+      "Tu ciudad o la dirección de tu sala de ensayo"
+     ],
+     [
+      "Horario",
+      "Lunes a sábado de 10 a 8"
+     ],
+     [
+      "Correo",
+      "El correo de contrataciones"
+     ],
+     [
+      "Sitio web",
+      "Tu sitio de artista con dominio propio"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Los datos son de ejemplo. Pon los tuyos y revisa que digan lo mismo que tu ficha de Google."
+  },
+  {
+   "h2": "El catálogo para tus paquetes y tu mercancía"
+  },
+  {
+   "p": "El catálogo muestra lo que ofreces sin que la persona salga del chat. Es ideal para paquetes de show o playeras."
+  },
+  {
+   "p": "La ayuda oficial pide tres cosas por cada producto. Un título único, por lo menos una imagen y el país de origen."
+  },
+  {
+   "p": "También puedes poner precio, descripción, liga y código. La misma ayuda dice que el precio sólo aparece en algunos países."
+  },
+  {
+   "tabla": {
+    "titulo": "Ideas de catálogo según tu disciplina",
+    "columnas": [
+     "Disciplina",
+     "Qué subir"
+    ],
+    "filas": [
+     [
+      "Banda o grupo",
+      "Paquete de dos horas, paquete de cuatro horas y equipo de sonido"
+     ],
+     [
+      "Tatuador",
+      "Diseños disponibles y sesión por hora"
+     ],
+     [
+      "Fotógrafa",
+      "Sesión en estudio, sesión en exterior y cobertura de evento"
+     ],
+     [
+      "Pintor o ilustrador",
+      "Obras disponibles, prints y retratos por encargo"
+     ],
+     [
+      "Maestro de baile",
+      "Clase suelta, mensualidad y coreografía para evento"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Empieza con tus cinco o diez paquetes más pedidos. Un catálogo corto y al día ayuda más que uno largo y viejo."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Herramientas para ordenar las contrataciones"
+  },
+  {
+   "h3": "Listas y etiquetas"
+  },
+  {
+   "p": "Las listas agrupan contactos y te dejan encontrar un chat en segundos. Sirven mucho para seguir cada cotización."
+  },
+  {
+   "tabla": {
+    "titulo": "Listas de ejemplo para un artista",
+    "columnas": [
+     "Lista",
+     "Para qué"
+    ],
+    "filas": [
+     [
+      "Primer mensaje",
+      "Gente que escribió por primera vez"
+     ],
+     [
+      "Cotización enviada",
+      "Ya tienen tu precio y falta su respuesta"
+     ],
+     [
+      "Fecha apartada",
+      "Dieron anticipo y falta el evento"
+     ],
+     [
+      "Evento hecho",
+      "Toca pedirles una reseña o fotos"
+     ],
+     [
+      "Clientes que repiten",
+      "Para avisarles de fechas o promociones"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Revisa la lista de cotización enviada cada tarde. Ahí están las fechas que se pierden si no les das seguimiento."
+  },
+  {
+   "h3": "Listas de difusión"
+  },
+  {
+   "p": "Una lista de difusión manda el mismo mensaje a varios contactos. Cada persona lo recibe como un chat privado contigo."
+  },
+  {
+   "p": "La ayuda oficial dice que caben hasta 256 contactos por lista. Sólo le llega a quien tiene tu número guardado."
+  },
+  {
+   "p": "Te sirve para anunciar una tocada o una preventa. Mándala sólo a quien te pidió enterarse."
+  },
+  {
+   "h3": "Mensajes automáticos"
+  },
+  {
+   "p": "La bienvenida, la ausencia y las respuestas rápidas te ahorran tiempo de ensayo. Mira cómo dejarlas en [mensajes automáticos de WhatsApp](id:mensajes-automaticos-whatsapp)."
+  },
+  {
+   "h2": "Cuándo te conviene la plataforma para empresas"
+  },
+  {
+   "p": "La plataforma se contrata con un proveedor autorizado por Meta. No se baja de la tienda como la app."
+  },
+  {
+   "ul": [
+    "Varias personas tienen que contestar el mismo número a la vez.",
+    "Quieres un bot que revise fechas libres en tu agenda.",
+    "Mandas avisos automáticos de boletos o de citas.",
+    "Recibes cientos de mensajes cada día."
+   ]
+  },
+  {
+   "p": "Si nada de eso te pasa, sigue con la app. Un artista independiente rara vez necesita más."
+  },
+  {
+   "h2": "Un QR para que te escriban desde el impreso"
+  },
+  {
+   "p": "La herramienta de arriba hace un QR que abre tu chat con un mensaje ya escrito. Ponlo en tu flyer, tu tarjeta o tu mesa de mercancía."
+  },
+  {
+   "p": "La persona lo escanea y ya está platicando contigo. No tiene que guardar tu número ni teclearlo."
+  },
+  {
+   "p": "Si quieres más opciones de diseño, usa el [código QR para WhatsApp](id:codigo-qr-para-whatsapp). Para una liga directa, saca tu [link de WhatsApp](id:link-de-whatsapp)."
+  },
+  {
+   "h2": "Ejemplo de un estudio de tatuaje que se ordenó"
+  },
+  {
+   "p": "Imagina un tatuador que recibía citas en su WhatsApp personal. Entre chats familiares se le pasaban fechas y anticipos."
+  },
+  {
+   "p": "Compró un chip para el estudio y bajó WhatsApp Business. Llenó el perfil y subió sus diseños disponibles al catálogo."
+  },
+  {
+   "p": "Pegó un QR en el espejo del estudio y otro en sus tarjetas. Armó listas de cotización enviada y fecha apartada."
+  },
+  {
+   "p": "Ahora revisa cada tarde quién no ha confirmado. Antes ni recordaba a quién le había mandado precio."
+  },
+  {
+   "h2": "Cómo respaldar y proteger tu cuenta"
+  },
+  {
+   "p": "Tu WhatsApp guarda fechas, anticipos y acuerdos con clientes. Perderlo es perder buena parte de tu agenda."
+  },
+  {
+   "p": "Activa la copia de seguridad de los chats en la configuración. Elige que se haga cada día o cada semana."
+  },
+  {
+   "p": "Activa también la verificación en dos pasos. Así nadie registra tu número en otro celular sin tu PIN."
+  },
+  {
+   "p": "Si tu mánager o alguien de la banda contesta, no le des tu PIN. Usa los dispositivos vinculados para que atienda desde su computadora."
+  },
+  {
+   "p": "Cuando esa persona deje de colaborar, cierra su sesión desde tu celular. La opción está en dispositivos vinculados."
+  },
+  {
+   "h2": "WhatsApp, sitio y ficha de Google trabajando juntos"
+  },
+  {
+   "p": "Casi nadie te encuentra primero por WhatsApp. Te ven en redes o te buscan en Google con tu nombre."
+  },
+  {
+   "p": "Lo mejor es que las tres piezas se manden entre sí. Google lleva a tu sitio, tu sitio tiene botón de WhatsApp y tu perfil liga a tu sitio."
+  },
+  {
+   "tabla": {
+    "titulo": "Qué resuelve cada pieza",
+    "columnas": [
+     "Pieza",
+     "Qué resuelve"
+    ],
+    "filas": [
+     [
+      "Ficha de Google",
+      "Que te encuentren al buscar tu nombre o tu ciudad"
+     ],
+     [
+      "Sitio de artista",
+      "Videos, paquetes y confianza antes de escribirte"
+     ],
+     [
+      "WhatsApp Business",
+      "La plática, la fecha y el anticipo"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si falta una pieza, la persona se pierde a medio camino. Revisa que las tres digan el mismo teléfono y horario."
+  },
+  {
+   "h2": "Reglas para atender bien una contratación"
+  },
+  {
+   "ul": [
+    "Contesta dentro del horario que pusiste en el perfil.",
+    "Manda tus paquetes claros para que no pregunten dos veces.",
+    "Evita los audios largos con alguien que apenas te conoce.",
+    "Confirma por escrito la fecha, el lugar y el anticipo.",
+    "Pide permiso antes de mandar avisos de tus fechas.",
+    "Guarda cada contacto con su nombre y el evento que contrató."
+   ]
+  },
+  {
+   "p": "Un cliente bien atendido te recomienda en la siguiente boda. Para un artista esa es la publicidad que más rinde."
+  },
+  {
+   "h2": "Errores comunes con el WhatsApp de tu proyecto"
+  },
+  {
+   "ul": [
+    "Dejar el perfil sin ciudad ni horario.",
+    "Usar una foto personal en vez de tu logo o tu foto de prensa.",
+    "Tener paquetes con precios del año pasado en el catálogo.",
+    "Mezclar pláticas familiares con contrataciones en el mismo número.",
+    "No respaldar los chats donde están tus anticipos."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿WhatsApp Business cuesta?",
+   "respuesta": "No. Bajar y usar la app es gratis y sólo gastas tus datos o tu wifi."
+  },
+  {
+   "pregunta": "¿Puedo tener WhatsApp normal y Business en el mismo celular?",
+   "respuesta": "Sí, con números distintos. Un mismo número no puede estar en las dos apps a la vez."
+  },
+  {
+   "pregunta": "¿Puedo pasar mi número actual a Business?",
+   "respuesta": "Sí. La ayuda oficial explica que se puede mover un número de una app a la otra."
+  },
+  {
+   "pregunta": "¿En qué se distingue la app Business de la API?",
+   "respuesta": "La app es gratis y para negocios pequeños. La plataforma, que la gente llama API, se contrata con un proveedor."
+  },
+  {
+   "pregunta": "¿Puedo poner precio a mis paquetes en el catálogo?",
+   "respuesta": "Depende del país. La ayuda oficial indica que el precio sólo está disponible en algunos."
+  },
+  {
+   "pregunta": "¿Qué pongo en el campo de sitio web?",
+   "respuesta": "Tu sitio de artista. Ahí ven tus videos, tus paquetes y tu agenda sin saturar el chat."
+  }
+ ],
+ "venta": {
+  "puente": "Tu WhatsApp cierra la fecha, pero la gente quiere ver tus videos y tus paquetes antes de escribirte.",
+  "titulo": "¿Te hago el sitio que va en tu perfil de WhatsApp?",
+  "tituloCorto": "Tu sitio de artista"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

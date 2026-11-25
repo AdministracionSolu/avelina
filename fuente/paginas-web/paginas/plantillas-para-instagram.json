@@ -1,0 +1,137 @@
+{
+ "id": "plantillas-para-instagram",
+ "slug": "plantillas-para-instagram",
+ "molde": "plantilla",
+ "cabeza": "plantillas instagram",
+ "busquedas": ["plantillas para instagram"],
+ "categoria": "Redes sociales",
+ "categoriaApp": "DesignApplication",
+ "herramienta": { "id": "editor-diseno", "modo": "post-instagram" },
+ "fuentes": [],
+ "serp": [
+  { "posicion": 1, "url": "https://www.canva.com/es_es/posts-instagram/plantillas/negocio/", "titulo": "Plantillas de posts para Instagram de empresas (Canva)", "promete": "Plantillas con cuenta" },
+  { "posicion": 2, "url": "https://www.crehana.com/business/descargables/plantillas-de-instagram-stories-para-tu-negocio/", "titulo": "Plantillas de historias para tu negocio (Crehana)", "promete": "Descargable con registro" },
+  { "posicion": 3, "url": "https://www.adobe.com/es/express/collections/small-business", "titulo": "Plantillas para pequeños negocios (Adobe Express)", "promete": "Plantillas con cuenta" }
+ ],
+ "title": "Plantillas Instagram para músicos y artistas gratis",
+ "h1": "Plantillas para Instagram de músicos y artistas",
+ "description": "Plantillas de Instagram para anunciar tu tocada, tu nueva canción, tus clases o tus encargos. En cuadrado, vertical o historia, editables y gratis en PNG.",
+ "resumen": "Seis plantillas de post e historia para tu música o tu obra",
+ "revisada": "2026-11",
+ "relacionadas": ["iconos-para-historias-destacadas", "link-en-bio", "publicidad-en-instagram", "paleta-de-colores", "flyer", "portada-de-facebook"],
+ "respuesta": [
+  "Arriba tienes seis plantillas para Instagram que sirven igual para una banda que para una ilustradora. Cada una cubre un tipo de publicación distinto.",
+  "Salen en cuadrado, en vertical de 1080 × 1350 px o en historia. Escribes tus textos, eliges tus colores y bajas el PNG sin dejar tu correo."
+ ],
+ "cuerpo": [
+  { "h2": "Las seis plantillas pensadas para tu proyecto" },
+  { "tabla": {
+   "columnas": ["Plantilla", "Uso para un artista", "Qué destaca"],
+   "filas": [
+    ["Promoción", "Preventa de boletos o descuento en mercancía", "El precio en número grande"],
+    ["Frase", "Un verso de tu canción o una cita de tu obra", "Una frase centrada con mucho aire"],
+    ["Lista de precios", "Tus clases, tus sesiones o tus tamaños de tatuaje", "Renglones con precio alineado"],
+    ["Foto con marco", "Tu nueva pieza, el ensayo o la portada del sencillo", "Tu foto con un marco de color"],
+    ["Aviso", "Fecha de la tocada, cambio de sede o agenda cerrada", "El aviso claro y la fecha"],
+    ["Servicios", "Qué haces, para quien llega por primera vez", "Lista de servicios con tu usuario"]
+   ]
+  } },
+  { "p": "Con esas seis alcanzas para todo un mes de publicaciones. Si las vas turnando, tu perfil no se ve repetido." },
+  { "h2": "Cómo usarlas para tu música o tu obra" },
+  { "pasos": [
+   { "titulo": "Decide qué quieres contar hoy", "texto": "Si anuncias una fecha, usa Aviso. Si presentas una pieza, usa Foto con marco. Cada imagen lleva una sola idea." },
+   { "titulo": "Elige la medida antes de escribir", "texto": "La vertical se ve más grande en el inicio. La historia sirve para recordar la tocada el mismo día." },
+   { "titulo": "Llena tus textos", "texto": "Título, fecha o precio y tu usuario. Lo que dejes vacío no aparece en la imagen." },
+   { "titulo": "Pon los colores de tu proyecto", "texto": "El editor recuerda tu combinación en este navegador. El siguiente post sale con tu misma identidad." },
+   { "titulo": "Baja el PNG y súbelo", "texto": "Pásalo al celular y publícalo. La historia completa del show o de la obra va en la descripción." }
+  ] },
+  { "h2": "La medida según lo que publicas" },
+  { "tabla": {
+   "columnas": ["Medida", "Tamaño", "Cuándo conviene"],
+   "filas": [
+    ["Cuadrada", "1080 × 1080 px", "Carruseles y publicaciones que también vas a subir a Facebook"],
+    ["Vertical", "1080 × 1350 px", "Publicaciones del inicio, ocupan más espacio en la pantalla"],
+    ["Historia", "1080 × 1920 px", "Avisos del día, promociones con fecha corta"]
+   ]
+  } },
+  { "p": "En la historia la aplicación tapa la parte de arriba con tu nombre. Abajo pone la caja para responder." },
+  { "p": "Por eso el editor marca dos líneas guía. Deja la fecha y el lugar del show entre ellas." },
+  { "p": "Las líneas punteadas sólo aparecen mientras editas. El PNG que bajas sale sin ellas." },
+  { "h2": "Un mes de publicaciones para un músico" },
+  { "p": "Subir seguido pesa más que un diseño perfecto. Con este calendario te basta una hora a la semana." },
+  { "tabla": {
+   "columnas": ["Día", "Plantilla", "Ejemplo"],
+   "filas": [
+    ["Lunes", "Frase", "Un verso de la canción que estás terminando"],
+    ["Miércoles", "Foto con marco", "Una foto del ensayo o del estudio"],
+    ["Viernes", "Aviso", "La fecha y el lugar de tu próxima tocada"],
+    ["Domingo", "Lista de precios", "Tus clases de guitarra o tus shows para eventos"],
+    ["Cuando haga falta", "Promoción", "Preventa de boletos o mercancía con descuento"]
+   ]
+  } },
+  { "p": "Una ilustradora cambiaría el ensayo por el boceto y la tocada por la apertura de encargos. La lógica es la misma." },
+  { "p": "Guarda las fechas y tus mejores piezas en historias destacadas. Sus portadas las haces con los [íconos para destacadas](id:iconos-para-historias-destacadas)." },
+  { "venta": true },
+  { "h2": "Textos que se entienden de un vistazo" },
+  { "p": "La gente pasa el dedo rápido y mira cada imagen menos de un segundo. Si la fecha no se lee al instante, se pierde." },
+  { "ul": [
+   "Un título de cinco palabras o menos.",
+   "Una sola fecha o un solo precio grande por imagen.",
+   "No más de tres renglones en una lista.",
+   "Tu usuario siempre en la misma esquina.",
+   "Nada de letra blanca sobre una foto clara del escenario."
+  ] },
+  { "p": "El repertorio, el costo de la entrada y la dirección van en la descripción. Ahí caben los detalles sin ensuciar la imagen." },
+  { "h2": "Cómo se ve cada disciplina" },
+  { "p": "La misma plantilla cambia mucho con tus colores y tu foto. Estas mezclas le quedan bien a distintos artistas." },
+  { "ul": [
+   "Banda o solista, con Aviso para cada fecha y Frase para la letra del nuevo sencillo.",
+   "Tatuador, con Foto con marco para cada pieza y Lista de precios para los tamaños.",
+   "Fotógrafa, con Foto con marco para sus mejores tomas y Servicios para sus paquetes.",
+   "Academia de baile, con Aviso para horarios y Promoción para la clase de prueba.",
+   "Pintor o ilustradora, con Foto con marco para la obra y Aviso para la expo."
+  ] },
+  { "h2": "Colores para que reconozcan tu perfil" },
+  { "p": "Escoge dos o tres colores y repítelos siempre. Así te reconocen antes de leer el nombre de tu proyecto." },
+  { "p": "Si ya tienes la portada de tu disco, saca de ahí los colores. El editor trae ocho combinaciones y también acepta los tonos exactos de tu logo." },
+  { "p": "Si todavía no los tienes, empieza con la [paleta de colores](id:paleta-de-colores). Usa la misma mezcla en tu [portada de Facebook](id:portada-de-facebook)." },
+  { "h2": "Tu logo y tus fotos" },
+  { "p": "Las plantillas aceptan tu logo y una foto en PNG o JPG. Los archivos se quedan en tu equipo y no se suben a ningún servidor." },
+  { "p": "Usa fotos tuyas con luz natural. Una foto real del ensayo o del taller convence más que una imagen de banco." },
+  { "p": "Si te falta logo, puedes armar uno con el [creador de logo gratis](id:crear-logo-gratis). En pocos minutos tienes la versión cuadrada para tu perfil." },
+  { "h2": "Hábitos que le quitan alcance a tus posts" },
+  { "ul": [
+   "Subir el mismo cartel de la tocada tres días seguidos sin cambios.",
+   "Llenar la imagen de texto hasta que parezca un volante.",
+   "Publicar fotos movidas del escenario sólo por cumplir.",
+   "Olvidar la fecha o el precio, que es lo primero que preguntan.",
+   "Cambiar de colores y de letra en cada publicación."
+  ] },
+  { "p": "Una vez al mes revisa tu perfil completo desde el celular. Si las últimas nueve imágenes se ven parejas, vas bien." },
+  { "h2": "Lo que sigue después de publicar" },
+  { "p": "Contesta comentarios y mensajes el mismo día. Quien pregunta por la fecha puede ser tu próximo boleto vendido." },
+  { "p": "Comparte el post en tu historia con una encuesta. Pregunta qué canción quieren escuchar en el próximo show." },
+  { "p": "Si un post funcionó mejor que los demás, repite esa plantilla con otra fecha o con otra pieza. Las estadísticas de tu perfil te dicen qué le gusta a tu público." },
+  { "p": "Si algún día pagas anuncios, empieza por el post que ya funcionó solo. Antes lee la guía de [publicidad en Instagram](id:publicidad-en-instagram)." },
+  { "p": "Guarda tus imágenes en una carpeta por temporada. Para la gira del año siguiente sólo cambias fechas y lugares." },
+  { "p": "Cuando tengas tu propio sitio, pon la liga en tu biografía. Ahí la gente escucha tu música y ve tu agenda completa." }
+ ],
+ "faqs": [
+  { "pregunta": "¿Las plantillas son gratis?", "respuesta": "Sí. No piden cuenta ni correo y no llevan marca de agua. La línea del pie se quita con una casilla." },
+  { "pregunta": "¿Las puedo editar desde el celular?", "respuesta": "Sí. El editor abre en el navegador del teléfono. Tocas un texto y lo mueves con las flechas." },
+  { "pregunta": "¿Sirven para la página de Facebook de mi banda?", "respuesta": "Sí. La cuadrada y la vertical también se ven bien en Facebook." },
+  { "pregunta": "¿Puedo hacer un carrusel con mis obras?", "respuesta": "Sí, una imagen a la vez. Baja cada pieza con la misma plantilla y súbelas juntas." },
+  { "pregunta": "¿Puedo poner un QR a mi música?", "respuesta": "No. En Instagram casi nadie escanea un QR desde la pantalla. Escribe tu usuario." },
+  { "pregunta": "¿Se guarda lo que hice?", "respuesta": "Sí. Tus textos y colores quedan en este navegador. La foto y el logo los subes otra vez." }
+ ],
+ "venta": {
+  "puente": "Tus posts te traen seguidores y un sitio tuyo en la biografía les muestra tu música, tus fechas y tu contacto.",
+  "aviso": "Tu post está listo. ¿Quieres un sitio de artista para poner en tu biografía?",
+  "titulo": "¿Te hago el sitio que va en tu biografía?",
+  "tituloCorto": "Tu sitio para la biografía"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

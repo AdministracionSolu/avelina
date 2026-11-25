@@ -1,0 +1,232 @@
+{
+ "id": "volantes",
+ "slug": "volantes",
+ "molde": "herramienta",
+ "cabeza": "volantes",
+ "busquedas": [
+  "volantes publicitarios",
+  "volantes de publicidad"
+ ],
+ "categoria": "Diseño para imprimir",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "editor-diseno",
+  "modo": "volante"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.crehana.com/blog/estilo-vida/como-hacer-volante-publicitario/",
+   "titulo": "Cómo hacer un volante publicitario (Crehana)",
+   "promete": "Consejos de diseño y tamaños europeos; no trae editor ni cómo medir el volanteo"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.canva.com/es_co/crear/volantes/",
+   "titulo": "Crea volantes (Canva)",
+   "promete": "Plantillas gratis con cuenta; nada sobre dónde repartir"
+  },
+  {
+   "posicion": 3,
+   "url": "https://visme.co/blog/es/ejemplos-de-volantes/",
+   "titulo": "Ejemplos de volantes (Visme)",
+   "promete": "Galería de ejemplos; sin medidas mexicanas"
+  }
+ ],
+ "title": "Volantes gratis en media carta para tu tocada o tus clases",
+ "h1": "Volantes para músicos y artistas",
+ "description": "Haz volantes en media carta para anunciar tu tocada, tus clases de guitarra o tus sesiones de foto. Pon tu WhatsApp y un QR y baja el PDF gratis para imprimir.",
+ "resumen": "Volantes en media carta para repartir en mano",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "flyer",
+  "folleto",
+  "flyer-informativo",
+  "imprimir-tarjetas-de-presentacion",
+  "codigo-qr-para-whatsapp"
+ ],
+ "respuesta": [
+  "Arranca con un diseño, anota tu clase o tu tocada y tu número de WhatsApp. El volante sale en media carta, que es el tamaño que mejor aprovecha cada hoja. El PDF se descarga del tamaño exacto para llevarlo a imprimir."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Cómo hacer tu volante"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Piensa en quién lo va a recibir",
+     "texto": "La gente a la salida de un foro va con prisa. Los papás en una escuela de música tienen más tiempo para leer."
+    },
+    {
+     "titulo": "Escoge un diseño de arranque",
+     "texto": "Promoción funciona para clases o sesiones con precio. Informativo sirve para anunciar una fecha o un cambio de foro."
+    },
+    {
+     "titulo": "Dales un motivo para guardarlo",
+     "texto": "Una clase de prueba gratis o un descuento con fecha límite evita que termine en la basura."
+    },
+    {
+     "titulo": "Saca una copia de prueba",
+     "texto": "Antes de mandar cien, revisa uno con el brazo estirado."
+    }
+   ]
+  },
+  {
+   "h2": "Qué escribir en un volante que se da en mano"
+  },
+  {
+   "p": "Quien lo recibe decide en segundos si lo guarda. Tiene que entender de un vistazo qué ofreces, cuánto cuesta y dónde."
+  },
+  {
+   "ul": [
+    "Arriba, lo que ofreces con las palabras de tu público.",
+    "Al centro, el precio o la promoción en número grande.",
+    "Hasta abajo, tu número y un lugar conocido cerca.",
+    "En una esquina, la vigencia de la promoción."
+   ]
+  },
+  {
+   "p": "Una referencia se recuerda más que una dirección. «Junto a la casa de la cultura» se queda mejor que un número de calle."
+  },
+  {
+   "h2": "Volantes según lo que haces"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Lo que anuncias",
+     "Qué poner al centro",
+     "Promoción que ayuda"
+    ],
+    "filas": [
+     [
+      "Clases de guitarra o canto",
+      "Precio por mes y horarios",
+      "Primera clase sin costo"
+     ],
+     [
+      "Tocada de tu banda",
+      "Fecha, foro y entrada",
+      "Precio de preventa"
+     ],
+     [
+      "Sesiones de fotografía",
+      "Paquetes y lo que incluyen",
+      "Descuento por fecha entre semana"
+     ],
+     [
+      "Estudio de tatuaje",
+      "Días de diseños disponibles",
+      "Precio especial en piezas chicas"
+     ],
+     [
+      "Academia de baile",
+      "Estilos y edades",
+      "Semana de prueba"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Dónde repartirlos"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Lugar",
+     "Qué anuncio funciona",
+     "Consejo"
+    ],
+    "filas": [
+     [
+      "Salida de escuelas",
+      "Clases de música o baile",
+      "Dáselo a los papás y no a los niños"
+     ],
+     [
+      "Tianguis y bazares",
+      "Prints, fotos y mercancía",
+      "Ve en las horas de más gente"
+     ],
+     [
+      "Cafés y librerías",
+      "Tocadas acústicas y talleres",
+      "Pide permiso para dejar unos en el mostrador"
+     ],
+     [
+      "Tiendas de música",
+      "Clases y bandas que buscan integrante",
+      "Ofrece dejar sus volantes en tu estudio"
+     ],
+     [
+      "Dentro de cada pedido",
+      "Cualquier cosa que vendas en línea",
+      "Es el volante que más se lee"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo saber si el volanteo sirvió"
+  },
+  {
+   "p": "Sin contar resultados no sabes si conviene otro tiraje. Llevar la cuenta de quién llegó por el papel cuesta casi nada."
+  },
+  {
+   "ul": [
+    "Pon una contraseña en el volante, como «quiero mi clase de prueba».",
+    "Agrega un código que abra tu chat y anota cuántos te escriben en esos días.",
+    "Reparte en una zona distinta cada semana y compara."
+   ]
+  },
+  {
+   "p": "El código del diseño toma tu número de WhatsApp en automático. Para mandar a la gente a tu sitio, elige el destino liga."
+  },
+  {
+   "h2": "Volante o flyer"
+  },
+  {
+   "p": "Mucha gente llama igual a las dos piezas. En este editor el volante parte de media carta y el [flyer](id:flyer) de hoja completa."
+  },
+  {
+   "p": "Para explicar con calma tus clases o tus paquetes usa un [folleto tríptico](id:folleto), que se dobla en tres."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Cuánto mide un volante media carta?",
+   "respuesta": "Son 13.97 × 21.59 cm. Equivale a una hoja carta partida a la mitad."
+  },
+  {
+   "pregunta": "¿Caben dos volantes en una hoja carta?",
+   "respuesta": "Sí. En el PDF va uno por página y en la imprenta los acomodan de dos en dos."
+  },
+  {
+   "pregunta": "¿Lo puedo mandar por WhatsApp?",
+   "respuesta": "Sí. Elige la medida «Para redes» y descarga la imagen vertical en PNG."
+  },
+  {
+   "pregunta": "¿Puedo poner la foto de mi banda?",
+   "respuesta": "Sí. Acepta archivos JPG o PNG y la mueves a donde te guste. Tu foto nunca se sube a internet."
+  },
+  {
+   "pregunta": "¿Tiene costo?",
+   "respuesta": "No. Diseñas y bajas tus volantes gratis."
+  },
+  {
+   "pregunta": "¿Las letras salen nítidas al imprimir?",
+   "respuesta": "Sí. Las letras viajan como vectores y se ven igual de finas en cualquier tamaño."
+  }
+ ],
+ "venta": {
+  "puente": "Un volante se pierde en una semana, pero tu sitio de artista sigue mostrando tus clases y tus fechas.",
+  "aviso": "Tu volante está listo. ¿Quieres que su QR lleve a tu propio sitio?",
+  "titulo": "¿Te hago el sitio al que lleva tu volante?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

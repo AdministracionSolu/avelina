@@ -1,0 +1,91 @@
+{
+ "id": "folleto",
+ "slug": "folleto",
+ "molde": "herramienta",
+ "cabeza": "como hacer un folleto",
+ "busquedas": ["como hacer un folleto facil", "folleto publicitario", "folletos publicitario", "como se hace el folleto", "folletos digitales", "imagenes de folletos"],
+ "categoria": "Diseño para imprimir",
+ "categoriaApp": "DesignApplication",
+ "herramienta": { "id": "editor-diseno", "modo": "folleto" },
+ "fuentes": [],
+ "serp": [
+  { "posicion": 1, "url": "https://design.tutsplus.com/es/articles/how-to-make-a-brochure--cms-25883", "titulo": "Cómo hacer un folleto (Tuts+)", "promete": "Tutorial con programas de diseño de pago; no explica el orden de las seis caras" },
+  { "posicion": 2, "url": "https://visme.co/blog/es/hacer-un-folleto/", "titulo": "Cómo hacer un folleto (Visme)", "promete": "Pasos generales y plantillas con cuenta; recomienda sangría para imprenta" },
+  { "posicion": 3, "url": "https://www.crehana.com/blog/negocios/que-es-un-triptico/", "titulo": "Qué es un tríptico (Crehana)", "promete": "Partes del tríptico y hacerlo en Word; no trae editor ni cuánto texto cabe" }
+ ],
+ "title": "Cómo hacer un folleto tríptico para tu estudio o clases",
+ "h1": "Cómo hacer un folleto tríptico para artistas",
+ "description": "Arma un tríptico carta para tu estudio de tatuaje, tus clases de música o tu academia de baile. Las seis caras ya van en orden. Baja el PDF gratis y sin cuenta.",
+ "resumen": "Un tríptico con tus clases o tus servicios, listo para doblar",
+ "revisada": "2026-11",
+ "relacionadas": ["flyer", "flyer-informativo", "volantes", "imprimir-tarjetas-de-presentacion", "boletin-informativo", "pagina-web-para-negocio"],
+ "respuesta": [
+  "Un tríptico es una hoja carta acostada con dos dobleces y seis caras. Escribes tus clases o tus servicios una vez en el editor y cada cosa cae en su cara. Sale un PDF de dos páginas que se imprime por ambos lados."
+ ],
+ "cuerpo": [
+  { "h2": "Para qué le sirve un tríptico a un artista" },
+  { "p": "El flyer anuncia una noche. El tríptico cuenta todo lo que ofreces y la gente se lo lleva a casa." },
+  { "ul": [
+   "Un estudio de tatuaje explica sus estilos y los cuidados después de la sesión.",
+   "Una maestra de guitarra o de canto reparte sus horarios y sus niveles.",
+   "Una academia de baile presenta sus clases para niños y adultos.",
+   "Una fotógrafa deja sus paquetes de sesión en un salón de eventos."
+  ] },
+  { "p": "Funciona en el mostrador del estudio y en la mesa de la tocada. También en la recepción de una escuela de música que te deja promocionarte." },
+  { "h2": "Dónde cae cada cosa en la hoja" },
+  { "p": "La portada no va del lado izquierdo como uno piensa. Queda en la columna derecha de la cara de afuera." },
+  { "tabla": {
+   "columnas": ["Cara", "Lugar en la hoja", "Qué pone el editor ahí"],
+   "filas": [
+    ["Portada", "Exterior, columna derecha", "Nombre, título, frase y foto o logo"],
+    ["Contraportada", "Exterior, columna central", "Tus datos de contacto y tu horario"],
+    ["Solapa", "Exterior, columna izquierda", "Por qué elegirte, en renglones cortos"],
+    ["Quiénes somos", "Interior, columna izquierda", "Tu historia en un párrafo breve"],
+    ["Servicios", "Interior, dos columnas", "Cada servicio con su descripción corta"]
+   ]
+  } },
+  { "p": "Quien abre la portada mira primero la solapa. Usa ese espacio para tus razones y deja la dirección para la contraportada." },
+  { "p": "En un estudio de tatuaje la solapa puede decir que trabajas con material nuevo en cada sesión. En una academia puede decir que la primera clase es de prueba." },
+  { "h2": "Armar tu tríptico en cuatro pasos" },
+  { "pasos": [
+   { "titulo": "Parte de uno de los cuatro diseños", "texto": "Se llaman clínica, restaurante, despacho y escuela. Para clases de música o baile el de escuela queda casi listo." },
+   { "titulo": "Escribe un renglón por clase o servicio", "texto": "Usa la forma «Nombre | descripción corta», por ejemplo «Guitarra para principiantes | lunes y miércoles». El nombre sale en negritas." },
+   { "titulo": "Cambia entre Exterior e Interior", "texto": "Los botones de arriba te muestran cada cara. La línea punteada marca por dónde se dobla." },
+   { "titulo": "Dobla una prueba antes del tiraje", "texto": "Imprime una hoja en papel bond y dóblala con tus manos. Si la portada queda al frente, ya puedes mandar a imprimir." }
+  ] },
+  { "h2": "Cuánto texto aguanta cada columna" },
+  { "p": "Cada columna tiene poco más de nueve centímetros de ancho. Si escribes mucho, la hoja se ve gris y nadie la termina." },
+  { "ul": [
+   "Tu historia como artista cabe en tres o cuatro frases.",
+   "De cuatro a seis clases o servicios llenan bien el interior.",
+   "En la solapa pon tres razones y no siete.",
+   "El título de portada se lee mejor con menos de seis palabras."
+  ] },
+  { "p": "Lo que no quepa ponlo en tu sitio o en tu canal. El tríptico invita y el sitio completa." },
+  { "h2": "Papel y forma de imprimirlo" },
+  { "p": "El couché de gramaje medio o el bond grueso doblan limpio. Una cartulina rígida se rompe justo en el pliegue." },
+  { "p": "Si lo imprimes en casa, gira la hoja por el lado largo para la segunda cara. Cada impresora jala distinto, así que prueba con una sola hoja." },
+  { "p": "El PDF sale sin sangría si no la pides. Con la casilla de imprenta lleva 3 mm de sangrado y marcas de corte." },
+  { "h2": "Tríptico, flyer o volante para tu proyecto" },
+  { "p": "Para anunciar una fecha usa un [flyer](id:flyer), que se entiende de un vistazo. Para repartir en la calle un [volante](id:volantes) de media carta sale más barato." },
+  { "p": "Si sólo quieres explicar las reglas de un taller, un [flyer informativo](id:flyer-informativo) basta. El tríptico conviene cuando tienes varias cosas que ofrecer." }
+ ],
+ "faqs": [
+  { "pregunta": "¿Puedo hacer un díptico?", "respuesta": "Todavía no. El editor sólo arma trípticos en hoja carta acostada." },
+  { "pregunta": "¿Cómo imprimo las dos caras?", "respuesta": "Gira la hoja por el lado largo. Primero sale el exterior y luego el interior." },
+  { "pregunta": "¿Le puedo poner un QR a mi música?", "respuesta": "Sí. El QR puede abrir tu WhatsApp o cualquier liga que escribas, como tu canal." },
+  { "pregunta": "¿Lo puedo mandar como folleto digital?", "respuesta": "Sí. Manda el PDF por WhatsApp o por correo y se lee bien en tableta." },
+  { "pregunta": "¿Cuánto cuesta?", "respuesta": "Nada. Lo bajas sin marca de agua las veces que quieras." },
+  { "pregunta": "¿Sirve para un estudio de tatuaje?", "respuesta": "Sí. Pon tus estilos en el interior y los cuidados en la solapa." }
+ ],
+ "venta": {
+  "puente": "Las clases y servicios de tu tríptico también pueden vivir en tu sitio, donde los cambias sin reimprimir.",
+  "aviso": "Tu tríptico está listo. ¿Quieres esas clases en tu propio sitio de artista?",
+  "titulo": "¿Te hago el sitio con todo lo de tu tríptico?",
+  "tituloCorto": "Tu tríptico en tu propio sitio"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

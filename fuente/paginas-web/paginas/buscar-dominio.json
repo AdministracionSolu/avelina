@@ -1,0 +1,262 @@
+{
+ "id": "buscar-dominio",
+ "slug": "buscar-dominio",
+ "molde": "herramienta",
+ "cabeza": "dominios disponibles",
+ "busquedas": [
+  "dominios libres",
+  "comprobar dominio",
+  "buscar dominios",
+  "buscador de dominios",
+  "who is dominio"
+ ],
+ "categoria": "Dominio y hosting",
+ "categoriaApp": "UtilitiesApplication",
+ "herramienta": {
+  "id": "dominio-disponible",
+  "modo": ""
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.hostinger.com/mx/country-code-domains",
+   "titulo": "Dominios de país (Hostinger)",
+   "promete": "Buscador de dominio que vende el registro; precios de promoción"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.godaddy.com/es-es/tlds/dominios-com-mx",
+   "titulo": "Dominios .com.mx (GoDaddy)",
+   "promete": "Buscador y venta de .com.mx; no explica cómo elegir"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.arsys.es/dominios/commx",
+   "titulo": "Dominios .com.mx (Arsys)",
+   "promete": "Registro inmediato de .com.mx sin residencia; venta"
+  }
+ ],
+ "title": "Dominios disponibles con tu nombre artístico en .mx y .com",
+ "h1": "Busca si tu nombre artístico está libre como dominio",
+ "description": "Revisa al instante si el nombre de tu banda o tu nombre artístico está libre en .com.mx, .mx o .com. Si está tomado, ves variantes. Busca gratis.",
+ "resumen": "Revisa si tu nombre artístico está libre como dominio",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "comprar-dominio",
+  "que-es-un-dominio",
+  "dominio-y-hosting",
+  "que-es-hosting",
+  "certificado-ssl",
+  "pagina-web-para-negocio"
+ ],
+ "respuesta": [
+  "Teclea tu nombre artístico o el de tu banda y marca las terminaciones que te interesan. En segundos ves si cada dominio está libre, probablemente libre u ocupado. Cuando ya tiene dueño, aparecen opciones parecidas en .com.mx y .mx."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Cómo hacer la búsqueda"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Escribe tu nombre artístico",
+     "texto": "Va junto, sin espacios ni acentos. Si se te escapan, la herramienta los limpia."
+    },
+    {
+     "titulo": "Marca las terminaciones",
+     "texto": "De entrada revisa .com.mx, .mx y .com. Puedes sumar otras."
+    },
+    {
+     "titulo": "Lee cada resultado",
+     "texto": "Verás libre, probablemente libre u ocupado, y la fecha de registro cuando existe."
+    },
+    {
+     "titulo": "Explora las opciones",
+     "texto": "Si alguien ya lo tiene, te propone nombres cercanos."
+    }
+   ]
+  },
+  {
+   "h2": "Cómo leer lo que sale"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Resultado",
+     "Qué quiere decir",
+     "Qué hacer"
+    ],
+    "filas": [
+     [
+      "Libre",
+      "El registro público dice que nadie lo tiene",
+      "Regístralo pronto"
+     ],
+     [
+      "Probablemente libre",
+      "No tiene servidores, pero puede estar apartado",
+      "Confírmalo al comprarlo"
+     ],
+     [
+      "Ocupado",
+      "Ya tiene dueño",
+      "Prueba otra terminación o una variante"
+     ],
+     [
+      "No se pudo revisar",
+      "Falló la conexión",
+      "Intenta de nuevo"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Los .mx y .com.mx no se consultan igual que un .com. Por esa razón a veces aparece «probablemente libre»."
+  },
+  {
+   "h2": "Qué terminación le va a tu proyecto"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Terminación",
+     "Para qué conviene"
+    ],
+    "filas": [
+     [
+      ".com.mx",
+      "Artistas que trabajan sobre todo en México"
+     ],
+     [
+      ".mx",
+      "Corta y mexicana, ideal para un nombre artístico nuevo"
+     ],
+     [
+      ".com",
+      "Si tu música se escucha o se vende fuera del país"
+     ],
+     [
+      ".net y .org",
+      "Opciones cuando el .com ya está tomado"
+     ],
+     [
+      ".shop y .store",
+      "Si tu sitio es sobre todo tienda de mercancía"
+     ],
+     [
+      ".online",
+      "Último recurso cuando lo demás está ocupado"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Ideas cuando tu nombre ya tiene dueño"
+  },
+  {
+   "p": "Muchos nombres artísticos se repiten en el mundo. No te desanimes si el .com está ocupado."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Si buscabas",
+     "Prueba con"
+    ],
+    "filas": [
+     [
+      "lunaroja.com",
+      "lunarojabanda.mx o lunarojamusica.com.mx"
+     ],
+     [
+      "anaperez.com",
+      "anaperezfoto.mx o anapereztatuajes.mx"
+     ],
+     [
+      "elcuarto.com",
+      "elcuartoenvivo.mx o somoselcuarto.com.mx"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Agregar lo que haces o tu ciudad casi siempre libera el nombre. Mantén la idea corta para que se pueda decir en voz alta."
+  },
+  {
+   "h2": "Lo que hace bueno a un dominio de artista"
+  },
+  {
+   "ul": [
+    "Que suene igual que tu nombre en el escenario.",
+    "Que tenga pocas letras, de ser posible menos de 15.",
+    "Que no lleve guiones ni números que haya que explicar.",
+    "Que puedas dictarlo por el micrófono al final de la tocada.",
+    "Que evite la ñ y los acentos para que nadie lo escriba mal."
+   ]
+  },
+  {
+   "p": "Haz la prueba de decirlo desde el escenario. Si la gente lo puede teclear sin preguntarte, funciona."
+  },
+  {
+   "h2": "Si lo encuentras libre"
+  },
+  {
+   "p": "Lo que hoy está libre mañana puede tener dueño. Si ya te decidiste, apártalo ese mismo día."
+  },
+  {
+   "ul": [
+    "Ponlo a tu nombre o al de tu proyecto, jamás al de otra persona.",
+    "Anota cuándo vence y activa la renovación automática.",
+    "Guarda tu usuario y tu contraseña en un lugar seguro.",
+    "Si compraste el .mx, considera también el .com.mx."
+   ]
+  },
+  {
+   "p": "Un dominio vencido puede quedar libre para cualquiera. En las terminaciones que no son .mx te enseñamos la fecha de vencimiento."
+  },
+  {
+   "h2": "Tu búsqueda es privada"
+  },
+  {
+   "p": "La consulta sale de tu navegador directo al registro público. No se guarda lo que buscas ni se usa para apartar nombres."
+  },
+  {
+   "p": "Puedes abrir esta página con la búsqueda lista si agregas ?dominio=tunombre a la dirección."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Buscar dominios cuesta?",
+   "respuesta": "No. Busca los que quieras sin dejar tu correo."
+  },
+  {
+   "pregunta": "¿Se guardan mis búsquedas?",
+   "respuesta": "No. La consulta va de tu navegador al registro público."
+  },
+  {
+   "pregunta": "¿Puedo comprarlo desde aquí?",
+   "respuesta": "No. Esta herramienta sólo revisa si está libre. Para comprarlo lee [comprar dominio](id:comprar-dominio)."
+  },
+  {
+   "pregunta": "¿Por qué dice probablemente libre?",
+   "respuesta": "Porque no tiene servidores. Puede estar apartado y se confirma al comprarlo."
+  },
+  {
+   "pregunta": "¿Me conviene .mx o .com.mx?",
+   "respuesta": "Los dos funcionan en México. El .com.mx es más conocido y el .mx es más corto."
+  },
+  {
+   "pregunta": "¿Qué hago si el nombre de mi banda está ocupado?",
+   "respuesta": "Prueba otra terminación o súmale lo que haces o tu ciudad."
+  }
+ ],
+ "venta": {
+  "puente": "Encontrar tu dominio es el primer paso, y en el sitio de artista que te hago ya va incluido.",
+  "aviso": "¿Ya viste que tu nombre está libre? Te hago el sitio con ese dominio incluido.",
+  "titulo": "¿Te hago el sitio con tu dominio incluido?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

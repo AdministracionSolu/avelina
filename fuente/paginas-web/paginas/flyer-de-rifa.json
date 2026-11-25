@@ -1,0 +1,201 @@
+{
+ "id": "flyer-de-rifa",
+ "slug": "flyer-de-rifa",
+ "molde": "herramienta",
+ "cabeza": "flyer de rifa",
+ "busquedas": [],
+ "categoria": "Diseño para imprimir",
+ "categoriaApp": "DesignApplication",
+ "herramienta": {
+  "id": "editor-diseno",
+  "modo": "rifa",
+  "opciones": {
+   "diseno": "rifa"
+  }
+ },
+ "fuentes": [
+  {
+   "texto": "Ley Federal de Juegos y Sorteos, artículo 4 (Orden Jurídico Nacional, Segob)",
+   "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17048.html"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.canva.com/es_mx/plantillas/s/rifa/",
+   "titulo": "Plantillas de rifas (Canva)",
+   "promete": "Plantillas de flyer y boletos con cuenta"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.adobe.com/es/express/create/ticket/raffle",
+   "titulo": "Boletos de rifa (Adobe Express)",
+   "promete": "Plantillas con cuenta; sin folio"
+  },
+  {
+   "posicion": 3,
+   "url": "https://asest.es/story/modelos-de-rifas-canvas/",
+   "titulo": "Modelos de rifas (Asest)",
+   "promete": "Consejos; sin herramienta"
+  }
+ ],
+ "title": "Flyer de rifa gratis para juntar fondos para tu disco",
+ "h1": "Flyer de rifa para tu banda o tu proyecto",
+ "description": "Haz el flyer de la rifa con la que juntas para grabar, irte de gira o montar tu expo. Premios, precio del boleto y fecha del sorteo. Bájalo gratis.",
+ "resumen": "La rifa para juntar fondos para tu disco o tu gira",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "flyer",
+  "flyer-para-fiesta",
+  "cartel-publicitario",
+  "codigo-qr-para-whatsapp",
+  "link-de-pago"
+ ],
+ "respuesta": [
+  "El editor abre directo en el diseño «Rifa», donde anotas un premio en cada renglón. El precio del boleto se ve en número grande y la fecha del sorteo va abajo. Lo bajas en media carta para repartir o en imagen vertical para tus grupos de WhatsApp."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Lo que tiene que decir tu flyer de rifa"
+  },
+  {
+   "p": "Quien compra un boleto quiere saber qué se puede llevar, cuánto le cuesta y cuándo es el sorteo. También necesita confiar en ti."
+  },
+  {
+   "ul": [
+    "Para qué juntas, como grabar tu primer disco o comprar equipo.",
+    "Los premios ordenados del primer lugar al último.",
+    "El precio del boleto en número bien visible.",
+    "El día, la hora y la manera de sortear.",
+    "Quién organiza y un WhatsApp para apartar."
+   ]
+  },
+  {
+   "p": "Explicar cómo vas a sortear quita dudas. Frases como «En vivo en nuestro Instagram» o «Con la Lotería Nacional» dan tranquilidad."
+  },
+  {
+   "h2": "Cómo armarlo en el editor"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Arranca con el diseño Rifa",
+     "texto": "Viene listo con fondo crema y morado. Si tu banda tiene sus colores, cámbialos."
+    },
+    {
+     "titulo": "Cuenta la causa en el subtítulo",
+     "texto": "Algo como «Para grabar nuestro primer disco» le dice a la gente a dónde va su dinero."
+    },
+    {
+     "titulo": "Escribe un premio por renglón",
+     "texto": "Pon «1er lugar · guitarra acústica» y así con los demás. El diseño los acomoda en lista."
+    },
+    {
+     "titulo": "Pon el precio en el dato grande",
+     "texto": "Es lo primero que la gente busca. Tiene que leerse desde lejos."
+    }
+   ]
+  },
+  {
+   "h2": "Premios que suelen funcionar en rifas de artistas"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Quién organiza",
+     "Premios que la gente quiere"
+    ],
+    "filas": [
+     [
+      "Banda que va a grabar",
+      "Instrumento, paquete de mercancía, canción dedicada"
+     ],
+     [
+      "Pintora que monta su expo",
+      "Una obra original, prints firmados"
+     ],
+     [
+      "Estudio de tatuaje",
+      "Sesión de tatuaje, diseño personalizado"
+     ],
+     [
+      "Fotógrafo",
+      "Sesión de retrato, impresión grande enmarcada"
+     ],
+     [
+      "Grupo de baile que va a un concurso",
+      "Mes de clases, coreografía para una fiesta"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Los premios hechos por ti cuestan poco y tienen mucho valor para tus fans. Una canción con su nombre se recuerda más que un electrodoméstico."
+  },
+  {
+   "h2": "Cómo mover tu rifa"
+  },
+  {
+   "p": "Imprime en media carta para dejar en foros, cafés y escuelas de música. Para WhatsApp elige la medida «Para redes» y manda la imagen vertical."
+  },
+  {
+   "p": "Prende el QR a tu WhatsApp para que aparten boletos sin marcarte. Así todos los pedidos te llegan en el mismo chat."
+  },
+  {
+   "p": "Lleva una lista de boletos vendidos con nombre y teléfono. El día del sorteo esa lista te evita reclamos."
+  },
+  {
+   "p": "Si vas a cobrar a distancia, manda una liga para pagar. Revisa cómo hacerla en [link de pago](id:link-de-pago)."
+  },
+  {
+   "h2": "Antes de imprimir y después del sorteo"
+  },
+  {
+   "p": "Revisa dos veces la fecha y el precio. Un número mal escrito en cien flyers te obliga a imprimir todo otra vez."
+  },
+  {
+   "p": "Cuando termine el sorteo, usa el mismo diseño para los resultados. Cambia el título a «Ganadores» y pon sus nombres en lugar de los premios."
+  },
+  {
+   "p": "Esa imagen ayuda mucho para la siguiente rifa. La gente se acuerda de quién entregó a tiempo."
+  },
+  {
+   "p": "Si sorteas en una tocada, anúnciala con un [cartel publicitario](id:cartel-publicitario). Si la rifa es parte de una fiesta, revisa el [flyer para fiesta](id:flyer-para-fiesta)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Necesito permiso para hacer una rifa?",
+   "respuesta": "Depende. La Ley Federal de Juegos y Sorteos pide permiso de Gobernación para los sorteos. Infórmate antes de vender boletos al público."
+  },
+  {
+   "pregunta": "¿El editor también hace los boletos numerados?",
+   "respuesta": "Sí. En la galería elige «Boletos numerados» y salen diez por hoja carta con talón. El número sigue solo en cada descarga."
+  },
+  {
+   "pregunta": "¿Puedo poner la foto de los premios?",
+   "respuesta": "Sí. Sube la imagen y acomódala dentro del diseño."
+  },
+  {
+   "pregunta": "¿Cuántos premios caben?",
+   "respuesta": "De tres a cinco se leen bien. Si son más, pon los tres mayores y agrega «y más premios»."
+  },
+  {
+   "pregunta": "¿Lo puedo mandar por WhatsApp?",
+   "respuesta": "Sí. Descarga la medida «Para redes» en PNG."
+  },
+  {
+   "pregunta": "¿Cuesta algo usar el editor?",
+   "respuesta": "No. Es gratis y no le pone marca de agua."
+  }
+ ],
+ "venta": {
+  "puente": "Una rifa junta para tu disco, y un sitio de artista es donde tus fans lo van a escuchar cuando salga.",
+  "aviso": "Tu flyer está listo. ¿Quieres un sitio donde anunciar al ganador y tu música?",
+  "titulo": "¿Te hago el sitio donde vas a estrenar tu disco?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

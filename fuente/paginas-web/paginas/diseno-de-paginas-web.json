@@ -1,0 +1,411 @@
+{
+ "id": "diseno-de-paginas-web",
+ "slug": "diseno-de-paginas-web",
+ "molde": "servicio",
+ "cabeza": "diseño de páginas web",
+ "busquedas": [
+  "diseño web",
+  "diseño de página web",
+  "diseño de sitios web",
+  "diseñador de páginas web",
+  "diseñar página web",
+  "agencia de diseño web",
+  "agencia de diseño",
+  "hacemos páginas web",
+  "creamos web",
+  "diseño y desarrollo web",
+  "desarrollo web",
+  "desarrollador web"
+ ],
+ "categoria": "Página web",
+ "herramienta": null,
+ "fuentes": [
+  {
+   "texto": "Cronoshare, cuánto cuesta diseñar una página web en México (guía del 9-ene-2026, leída el 12-nov-2026)",
+   "url": "https://www.cronoshare.com.mx/cuanto-cuesta/disenar-pagina-web"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.cronoshare.com.mx/cuanto-cuesta/disenar-pagina-web",
+   "titulo": "¿Cuánto cuesta diseñar una página web?",
+   "promete": "Rangos de precio de $7,000 a $15,000 y más; directorio de proveedores, sin trabajos propios"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.tiendanube.com/blog/cuanto-cuesta-crear-una-pagina-web/?lang=mx",
+   "titulo": "Costo de crear una página web: guía completa 2026",
+   "promete": "Rangos amplios sin distinguir pago único de anual; vende su tienda en línea"
+  },
+  {
+   "posicion": 3,
+   "url": "https://psicologiaymente.com/directorio/mx/rankings/mejores-agencias-diseno-web-mexico",
+   "titulo": "Las 9 mejores Agencias de Diseño web en México",
+   "promete": "Ranking de agencias sin precios; ninguna enseña precio fijo ni muestra antes de pagar"
+  }
+ ],
+ "servicio": {
+  "nombre": "Diseño de páginas web",
+  "tipo": "Diseño de páginas web"
+ },
+ "title": "Diseño de páginas web para artistas desde $1,500",
+ "h1": "Diseño de páginas web para músicos y artistas",
+ "description": "Te hago el sitio de tu banda, tu estudio o tu portafolio desde Pilsi. $1,500 con dominio incluido y $99 al mes con tu sitio al día. Pide una demo gratis.",
+ "resumen": "Tu sitio de artista hecho a medida, con dominio incluido",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "pagina-web-para-negocio",
+  "landing-page",
+  "como-crear-una-pagina-web",
+  "ejemplos-de-paginas-web",
+  "que-es-un-dominio",
+  "precios-de-wix"
+ ],
+ "respuesta": [
+  "Soy Ave, cantautora, y desde Pilsi hago sitios para artistas. Tu sitio lleva tu música o tu obra, tus fotos, tus fechas y un botón a tu WhatsApp.",
+  "Cuesta $1,500 con tu dominio incluido. Después son $99 al mes con tu sitio al día y los cambios que pidas."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Qué lleva tu sitio"
+  },
+  {
+   "p": "Un sitio pensado para tu disciplina y para quien lo abre desde el celular. No es una plantilla con tu nombre pegado encima."
+  },
+  {
+   "ul": [
+    "Diseño propio con tu logo, tus colores y tus imágenes.",
+    "Tu música, tus videos o tu portafolio en primer plano.",
+    "Tus paquetes o servicios con precio o un precio desde.",
+    "Un botón a tu WhatsApp con el mensaje ya escrito.",
+    "Tu ciudad, tus zonas y tus fechas sin contradicciones.",
+    "Un dominio propio para que tu nombre sea tu dirección.",
+    "Conexión segura con el candado del navegador.",
+    "Alta en Google para que sepa que tu sitio existe."
+   ]
+  },
+  {
+   "p": "Antes de pagar puedes pedir una demo. La abres en tu celular, me dices qué cambiar y decides con ella en la mano."
+  },
+  {
+   "h2": "Dos paquetes con precio fijo"
+  },
+  {
+   "p": "Sabes cuánto vas a pagar desde el principio. No cobro por hora ni por cada ajuste chico."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "",
+     "Sitio de artista",
+     "Sitio completo"
+    ],
+    "filas": [
+     [
+      "Pago inicial",
+      "$1,500",
+      "$5,000"
+     ],
+     [
+      "Mensualidad",
+      "$99",
+      "$99"
+     ],
+     [
+      "Páginas",
+      "Una página con todas tus secciones",
+      "Hasta 10 páginas"
+     ],
+     [
+      "Dominio",
+      "Incluido y a tu nombre",
+      "Lo compras tú y se conecta"
+     ],
+     [
+      "Discografía, galería, tienda o agenda",
+      "Lo principal en una sola página",
+      "Cada una en su propia página"
+     ],
+     [
+      "Aviso de privacidad y términos",
+      "No incluidos",
+      "Incluidos"
+     ],
+     [
+      "Cambios",
+      "Los que pidas con la mensualidad",
+      "Los que pidas con la mensualidad"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Los precios son en pesos mexicanos. Revisa los detalles de cada uno en los [paquetes de Pilsi](https://pilsi.art/paquetes)."
+  },
+  {
+   "h2": "Cuál paquete te conviene"
+  },
+  {
+   "p": "El sitio de artista es una página larga con todo lo importante de tu proyecto. Para casi todos los artistas independientes alcanza."
+  },
+  {
+   "p": "Te conviene si ofreces pocas cosas y la gente te escribe por WhatsApp. También si es tu primer sitio."
+  },
+  {
+   "p": "El completo tiene sentido si tienes discos, prensa y mercancía. También si das clases y tocas, y quieres separar cada cosa."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Tu caso",
+     "Paquete que conviene"
+    ],
+    "filas": [
+     [
+      "Solista que empieza a tocar en vivo",
+      "Sitio de artista"
+     ],
+     [
+      "Grupo para bodas con tres paquetes",
+      "Sitio de artista"
+     ],
+     [
+      "Tatuador con portafolio por estilos",
+      "Sitio de artista"
+     ],
+     [
+      "Banda con tres discos, prensa y gira",
+      "Sitio completo"
+     ],
+     [
+      "Academia de música o de baile con varios grupos",
+      "Sitio completo"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Lo que hace que un sitio de artista funcione"
+  },
+  {
+   "p": "Un sitio hermoso que nadie entiende no te consigue fechas. Estas son las reglas con las que trabajo."
+  },
+  {
+   "ul": [
+    "En la primera pantalla se entiende qué haces y dónde.",
+    "El botón para contratarte aparece sin buscarlo.",
+    "Hay precios o rangos aunque sean de arranque.",
+    "Las fotos son de tus shows o de tu obra, nunca de catálogo.",
+    "Abre rápido aunque la persona use datos del celular.",
+    "Tus datos coinciden con tu ficha de Google."
+   ]
+  },
+  {
+   "p": "Cuido el peso de cada sitio para que cargue rápido. Si tarda, la gente se va antes de escuchar tu primera canción."
+  },
+  {
+   "h3": "Pensado primero para el teléfono"
+  },
+  {
+   "p": "Cada sitio lo reviso en celular antes que en computadora. Los botones son grandes y la letra se lee sin hacer zoom."
+  },
+  {
+   "p": "El mensaje de WhatsApp va escrito para que la persona sólo toque enviar. Así te llegan mensajes con fecha y lugar, no un hola suelto."
+  },
+  {
+   "h2": "Sitios que ya están en línea"
+  },
+  {
+   "p": "Este es mi propio sitio y el de Pilsi. Ábrelos en tu celular para ver cómo se sienten."
+  },
+  {
+   "trabajos": true
+  },
+  {
+   "p": "Si quieres conocer más de mí, pasa por [quién soy](/quien-soy/) o escucha mi [música](/musica/). Ahí ves cómo presento mis canciones y mis covers, que es lo mismo que hago con los tuyos."
+  },
+  {
+   "h2": "Cómo trabajamos"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Me cuentas de tu proyecto",
+     "texto": "Llenas una forma corta con tus redes y tu material. Todavía no pagas nada."
+    },
+    {
+     "titulo": "Te enseño una demo",
+     "texto": "Con lo que mandaste armo una primera versión. La abres en tu celular y la comentas."
+    },
+    {
+     "titulo": "Apruebas y pagas",
+     "texto": "Hago los ajustes que pidas y la subo con tu dominio y su candado."
+    },
+    {
+     "titulo": "Lo mantenemos al día",
+     "texto": "Con la mensualidad me mandas cada fecha nueva o cada cambio y lo dejo listo."
+    }
+   ]
+  },
+  {
+   "h2": "Qué cubren los $99 al mes"
+  },
+  {
+   "p": "La mensualidad hace que tu sitio siga en línea y rápido. También cubre los cambios que vayas necesitando."
+  },
+  {
+   "ul": [
+    "El servidor donde vive tu sitio.",
+    "La renovación de tu dominio cada año.",
+    "El certificado del candado de seguridad.",
+    "Los cambios que pidas en textos, fotos, fechas o precios.",
+    "Arreglos urgentes si cambia tu teléfono."
+   ]
+  },
+  {
+   "p": "Si dejas de pagar, el sitio se pausa. El dominio sigue siendo tuyo y lo puedes mover cuando quieras."
+  },
+  {
+   "h2": "Para qué artistas hago sitios"
+  },
+  {
+   "p": "Cada disciplina pide cosas distintas en su sitio. Esto es lo que suele llevar cada una."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Disciplina",
+     "Lo que lleva su sitio"
+    ],
+    "filas": [
+     [
+      "Músicos y bandas",
+      "Canciones, video en vivo, fechas y botón para contratar"
+     ],
+     [
+      "Cantautoras y solistas",
+      "Tu historia, tus covers, tus canciones y tus redes"
+     ],
+     [
+      "Tatuadores",
+      "Portafolio por estilo, cómo se aparta y ubicación del estudio"
+     ],
+     [
+      "Fotógrafos",
+      "Galerías por tipo de sesión, paquetes y fechas libres"
+     ],
+     [
+      "Pintores e ilustradores",
+      "Obras disponibles, encargos y exposiciones"
+     ],
+     [
+      "Bailarines y academias",
+      "Videos, horarios de clases y presentaciones"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si quieres que te encuentren junto a otros creadores, también existe el [directorio de Pilsi](https://pilsi.art/directorio)."
+  },
+  {
+   "h2": "Cuánto cuesta el diseño de páginas web en México"
+  },
+  {
+   "p": "Una referencia publicada pone la página sencilla de agencia entre $7,000 y $14,000 pesos. Los proyectos a medida o en varios idiomas cuestan más."
+  },
+  {
+   "p": "Los creadores de sitios cobran un plan mensual y el trabajo de armarlo te toca a ti. Si te interesa ese camino, compara los [precios de Wix](id:precios-de-wix)."
+  },
+  {
+   "p": "Yo cobro $1,500 porque trabajo sobre un molde para artistas que ya probé. Lo que cambia en cada sitio es tu material y tu estilo."
+  },
+  {
+   "h2": "Qué necesito de ti"
+  },
+  {
+   "ul": [
+    "Tu nombre artístico y tu logo si ya lo tienes.",
+    "Tus paquetes, clases o servicios con su precio.",
+    "Fotos o videos de tus shows, tu estudio o tu obra.",
+    "Ligas a tu música en plataformas o a tu canal.",
+    "El WhatsApp donde quieres recibir contrataciones.",
+    "Tu ciudad y las zonas a donde viajas."
+   ]
+  },
+  {
+   "p": "Si no tienes logo, escribo tu nombre con una letra que vaya con tu estilo. Si te faltan fotos, empezamos con lo que tengas y lo cambiamos después."
+  },
+  {
+   "h2": "Después de publicar"
+  },
+  {
+   "p": "Tu sitio no se congela el día que sale. Con la mensualidad me pides lo que vaya cambiando en tu proyecto."
+  },
+  {
+   "ul": [
+    "Anunciar tu siguiente tocada o tu nuevo sencillo.",
+    "Subir precios cuando cambien tus costos.",
+    "Agregar fotos de tus trabajos recientes.",
+    "Quitar un paquete que ya no ofreces.",
+    "Avisar que estás de gira o de vacaciones."
+   ]
+  },
+  {
+   "p": "Si alguien te dice que no encontró algo, me lo mandas y lo acomodo. Así tu sitio mejora con lo que pide tu propio público. Con el tiempo queda justo como lo necesita tu proyecto."
+  },
+  {
+   "h2": "Lo que no incluye"
+  },
+  {
+   "p": "Los paquetes de $1,500 y $5,000 son sitios informativos con botones de contacto. No incluyen tienda con cobro dentro del sitio."
+  },
+  {
+   "p": "Para cobrar a distancia puedes usar una liga de pago desde tu sitio. Lee cómo funciona en [link de pago](id:link-de-pago)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Cuánto tardas en tenerlo listo?",
+   "respuesta": "Pocos días. Con tu material armo rápido la demo y después los ajustes."
+  },
+  {
+   "pregunta": "¿El dominio queda a mi nombre?",
+   "respuesta": "Sí. En el sitio de $1,500 lo registro a tu nombre y va incluido."
+  },
+  {
+   "pregunta": "¿Qué pasa si dejo de pagar la mensualidad?",
+   "respuesta": "El sitio se pausa. El dominio sigue siendo tuyo y lo puedes mover cuando quieras."
+  },
+  {
+   "pregunta": "¿Cómo te pido un cambio?",
+   "respuesta": "Por WhatsApp. Con la mensualidad hago cada cambio que pidas."
+  },
+  {
+   "pregunta": "¿Tengo que saber de computación?",
+   "respuesta": "No. Yo lo publico y lo conecto a tu dominio. Tú me dices qué quieres."
+  },
+  {
+   "pregunta": "¿Mi sitio va a salir en Google?",
+   "respuesta": "Sí, lo doy de alta. El lugar donde aparece no lo puede prometer nadie."
+  },
+  {
+   "pregunta": "¿Puedo verlo antes de pagar?",
+   "respuesta": "Sí. Pide una demo y decides con ella en la mano."
+  },
+  {
+   "pregunta": "¿Haces tiendas en línea con cobro?",
+   "respuesta": "No. Los paquetes son sitios informativos con botones de contacto."
+  }
+ ],
+ "venta": {
+  "puente": "Pide tu demo y ve tu sitio de artista en tu celular antes de pagar un peso.",
+  "titulo": "¿Te hago tu sitio de artista?",
+  "tituloCorto": "$1,500 con tu dominio incluido"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

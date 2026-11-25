@@ -1,0 +1,418 @@
+{
+ "id": "ejemplos-de-landing-page",
+ "slug": "ejemplos-de-landing-page",
+ "molde": "plantilla",
+ "cabeza": "ejemplos de landing page",
+ "busquedas": [
+  "landing page ejemplos",
+  "one page ejemplos"
+ ],
+ "categoria": "Página web",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://blog.hubspot.es/website/landing-page-ejemplos",
+   "titulo": "16 ejemplos de landing pages (HubSpot)",
+   "promete": "Ejemplos de marcas grandes y tipos de landing; vende su software"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.shopify.com/br/blog/exemplos-de-landing-page",
+   "titulo": "Exemplos de landing page (Shopify)",
+   "promete": "20 ejemplos en portugués para tiendas"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.brevo.com/pt/blog/exemplos-de-landing-pages/",
+   "titulo": "Exemplos de landing pages (Brevo)",
+   "promete": "Ejemplos para captar datos; vende su plataforma"
+  }
+ ],
+ "title": "Ejemplos de landing page para músicos y artistas",
+ "h1": "Ejemplos de landing page para artistas",
+ "description": "Ejemplos de landing page para un estreno, una preventa, bodas, un taller o una jornada de tatuaje. El orden de secciones y una lista para revisar la tuya.",
+ "resumen": "Cómo se arma la landing de un estreno o una preventa",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "landing-page",
+  "que-es-una-landing-page",
+  "ejemplos-de-paginas-web",
+  "link-de-whatsapp",
+  "como-crear-una-pagina-web",
+  "favicon"
+ ],
+ "respuesta": [
+  "Una landing es una sola página que empuja a una sola acción, como comprar boleto o apartar fecha. Abajo ves dos sitios en línea y el orden de secciones para seis casos de artistas. Úsalo como guía para la tuya."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Dos sitios que puedes abrir hoy"
+  },
+  {
+   "p": "Uno es mi propio sitio y el otro es Pilsi, el directorio de talento que llevo. Fíjate cómo cada uno ordena todo hacia lo que quiere que hagas."
+  },
+  {
+   "trabajos": true
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Sitio",
+     "Meta",
+     "Cómo la empuja"
+    ],
+    "filas": [
+     [
+      "Avelina",
+      "Que escuches mi música y leas mis cartas",
+      "La música y los covers están a la vista desde el inicio"
+     ],
+     [
+      "Pilsi",
+      "Que encuentres talento creativo o te sumes",
+      "Perfiles y talleres ordenados para explorar"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "El esqueleto que se repite"
+  },
+  {
+   "p": "Las landings que funcionan casi siempre siguen el mismo orden. Lo de adentro cambia, el acomodo se parece mucho."
+  },
+  {
+   "ol": [
+    "Arriba, lo que ofreces en una frase y el botón principal.",
+    "La razón por la que alguien te buscaría, dicha como lo diría tu público.",
+    "Lo que ofreces, con un precio o un precio desde.",
+    "La prueba de tu trabajo en audio, video u opiniones.",
+    "Las dudas de siempre ya contestadas.",
+    "El cierre, con el mismo botón del principio."
+   ]
+  },
+  {
+   "p": "El botón sale dos veces como mínimo. Quien se convence a la mitad no tiene por qué volver hasta arriba."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Seis landings para artistas"
+  },
+  {
+   "h3": "Estreno de un sencillo"
+  },
+  {
+   "p": "Arriba va la portada del sencillo con el botón para escucharlo. Debajo, un video corto de la grabación y la fecha del próximo show."
+  },
+  {
+   "h3": "Preventa de boletos"
+  },
+  {
+   "p": "La fecha, el lugar y el precio van en la primera pantalla. Luego un clip en vivo, cómo llegar y el botón de comprar otra vez."
+  },
+  {
+   "h3": "Contrataciones para bodas"
+  },
+  {
+   "p": "La promesa habla de la noche que quieren vivir los novios. Siguen los formatos con precio desde, videos de otras bodas y el botón para pedir fecha."
+  },
+  {
+   "h3": "Taller de dibujo o de música"
+  },
+  {
+   "p": "Primero lo que la persona va a aprender y para quién es. Después fechas, cupo, precio y fotos de talleres anteriores."
+  },
+  {
+   "h3": "Jornada de tatuaje"
+  },
+  {
+   "p": "Manda la hoja de diseños disponibles con su precio. Abajo van el horario del día, las reglas de la cita y el botón para apartar."
+  },
+  {
+   "h3": "Inauguración de una exposición"
+  },
+  {
+   "p": "Arriba una pieza de la serie con la fecha y la dirección. Luego un texto corto sobre la obra y el botón para confirmar asistencia."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Caso",
+     "Botón principal",
+     "Prueba que más convence"
+    ],
+    "filas": [
+     [
+      "Estreno",
+      "Escuchar ahora",
+      "Un fragmento que suene sin dar clic"
+     ],
+     [
+      "Preventa",
+      "Comprar boleto",
+      "Un clip en vivo del último show"
+     ],
+     [
+      "Bodas",
+      "Pedir fecha",
+      "Videos de bodas reales con permiso"
+     ],
+     [
+      "Taller",
+      "Apartar lugar",
+      "Fotos de alumnos trabajando"
+     ],
+     [
+      "Tatuaje",
+      "Apartar cita",
+      "Fotos de tatuajes ya cicatrizados"
+     ],
+     [
+      "Exposición",
+      "Confirmar asistencia",
+      "La pieza principal en buena luz"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Revisa tu landing con esta lista"
+  },
+  {
+   "ul": [
+    "¿Se entiende qué ofreces en cinco segundos?",
+    "¿El botón se ve sin mover la pantalla?",
+    "¿Hay un precio, una fecha o un precio desde?",
+    "¿Las fotos y los videos son tuyos?",
+    "¿Abre rápido con datos del celular?",
+    "¿El botón del final repite la misma acción?"
+   ]
+  },
+  {
+   "p": "Si dos o más respuestas son no, tu landing está dejando ir gente. Arréglalo antes de pagar un anuncio."
+  },
+  {
+   "h2": "Landing o sitio con varias secciones"
+  },
+  {
+   "p": "La landing no trae menú que distraiga. Por eso sirve cuando quieres una sola cosa de quien la visita."
+  },
+  {
+   "p": "Si tienes discografía, galería y clases, conviene un sitio con varias páginas. Compara con más [ejemplos de páginas web](id:ejemplos-de-paginas-web)."
+  },
+  {
+   "h2": "La primera frase"
+  },
+  {
+   "p": "Es lo que más se lee de toda tu landing. Tiene que decir qué haces y para quién en un renglón."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Flojo",
+     "Mejor"
+    ],
+    "filas": [
+     [
+      "Bienvenidos a mi página",
+      "Música en vivo para bodas en Puebla con fecha en 24 horas"
+     ],
+     [
+      "Pasión por el arte",
+      "Retratos al óleo por encargo desde $3,000"
+     ],
+     [
+      "La mejor banda",
+      "Cumbia en vivo para tu fiesta, tres horas desde $9,000"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Los precios de la tabla son de ejemplo. Pon los tuyos."
+  },
+  {
+   "h2": "Las fotos y los videos"
+  },
+  {
+   "p": "En una landing de artista la muestra pesa más que el texto. Quien duda se convence al escucharte o al ver tu obra."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Disciplina",
+     "Lo que va arriba",
+     "Lo que va después"
+    ],
+    "filas": [
+     [
+      "Música",
+      "Un clip en vivo con buen audio",
+      "Fotos del grupo y del público"
+     ],
+     [
+      "Pintura",
+      "La pieza principal con luz de día",
+      "Detalles de textura y el taller"
+     ],
+     [
+      "Tatuaje",
+      "Un trabajo terminado y cicatrizado",
+      "El estudio limpio y tu forma de trabajar"
+     ],
+     [
+      "Fotografía",
+      "Tu mejor foto de la serie",
+      "Una galería corta del mismo estilo"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Toma las fotos con luz natural y el celular derecho. Para el video, el audio importa más que la imagen."
+  },
+  {
+   "h2": "Qué medir cuando ya está en línea"
+  },
+  {
+   "ul": [
+    "Cuántos mensajes llegan desde el botón.",
+    "Qué te preguntan y si la respuesta ya estaba en la página.",
+    "Cuántos de esos mensajes terminan en una fecha cerrada.",
+    "Si algo cambia cuando cambias lo que va arriba."
+   ]
+  },
+  {
+   "p": "Pon en el botón un mensaje ya escrito con el nombre de la landing. Así sabes cuántas contrataciones llegan por ahí."
+  },
+  {
+   "h2": "Una sola landing para anuncios, redes y QR"
+  },
+  {
+   "p": "La misma landing recibe a quien llega de un anuncio, de tu perfil o del QR del flyer. Lo que cambias es lo de arriba."
+  },
+  {
+   "p": "Si anuncias un servicio, conviene una landing sólo para ése. Quien toca un anuncio de mariachi para serenata quiere leer de serenatas."
+  },
+  {
+   "h2": "Las dudas que tu landing debe contestar"
+  },
+  {
+   "p": "Una buena sección de preguntas te ahorra mensajes. Éstas son las que más llegan según la disciplina."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Disciplina",
+     "Pregunta que más llega"
+    ],
+    "filas": [
+     [
+      "Grupos para eventos",
+      "¿Cuántas horas tocan y qué incluye el audio?"
+     ],
+     [
+      "Tatuaje",
+      "¿Cuánto cuesta y si piden anticipo?"
+     ],
+     [
+      "Clases",
+      "¿Hay clase muestra y qué edad mínima aceptan?"
+     ],
+     [
+      "Obra",
+      "¿Hacen envíos y cómo llega empacada?"
+     ],
+     [
+      "Fotografía",
+      "¿Cuántas fotos entregan y en cuántos días?"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Escribe primero la respuesta corta y luego el detalle. Quien lee de prisa se queda con la primera frase."
+  },
+  {
+   "h2": "El botón y su texto"
+  },
+  {
+   "p": "El botón es lo más importante de tu landing. Su texto dice qué pasa al tocarlo."
+  },
+  {
+   "ul": [
+    "Mejor «Pedir fecha por WhatsApp» que «Contacto».",
+    "Mejor «Apartar mi lugar» que «Enviar».",
+    "Usa un mensaje ya escrito que diga de qué landing viene.",
+    "Dale un color que no aparezca en el resto de la página."
+   ]
+  },
+  {
+   "p": "Arma la liga del botón gratis con el [link de WhatsApp](id:link-de-whatsapp). Escribe ahí el mensaje que quieres recibir."
+  },
+  {
+   "h2": "Cuánto texto lleva"
+  },
+  {
+   "p": "El necesario para resolver dudas sin cansar. En el celular un párrafo de tres líneas ya se siente largo."
+  },
+  {
+   "ul": [
+    "Títulos de cinco a ocho palabras.",
+    "Párrafos de dos o tres frases cortas.",
+    "Listas cuando hay varias cosas que decir.",
+    "Precios escritos con número."
+   ]
+  },
+  {
+   "h2": "Errores frecuentes en landings de artistas"
+  },
+  {
+   "ul": [
+    "Un carrusel de fotos que tapa lo que ofreces.",
+    "Cinco botones distintos que confunden.",
+    "Un formulario largo cuando bastaba WhatsApp.",
+    "Una biografía larguísima antes de la primera canción."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es una landing page?",
+   "respuesta": "Una sola página que lleva a una acción. Lee más en [qué es una landing page](id:que-es-una-landing-page)."
+  },
+  {
+   "pregunta": "¿Puedo descargar estos ejemplos?",
+   "respuesta": "No. Son sitios en línea y no plantillas para bajar."
+  },
+  {
+   "pregunta": "¿Cuánto cuesta una landing hecha?",
+   "respuesta": "$1,500 con dominio incluido. Después son $99 al mes."
+  },
+  {
+   "pregunta": "¿Cuántas secciones lleva?",
+   "respuesta": "Entre cinco y siete. Más que eso cuesta recorrerla en el celular."
+  },
+  {
+   "pregunta": "¿Formulario o WhatsApp?",
+   "respuesta": "WhatsApp basta para casi todos los artistas."
+  },
+  {
+   "pregunta": "¿Sirve para anuncios?",
+   "respuesta": "Sí. Es el mejor destino para un anuncio porque lleva a una sola acción."
+  }
+ ],
+ "venta": {
+  "puente": "Una landing para tu estreno, tu preventa o tus contrataciones hace que cada visita termine en algo.",
+  "titulo": "¿Te hago la landing de tu próximo estreno?",
+  "tituloCorto": "La landing de tu estreno"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

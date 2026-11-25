@@ -1,0 +1,506 @@
+{
+ "id": "pagina-de-facebook-para-negocio",
+ "slug": "pagina-de-facebook-para-negocio",
+ "molde": "guia",
+ "cabeza": "como crear una pagina en facebook",
+ "busquedas": [
+  "crear página de facebook",
+  "crea una pagina de facebook",
+  "como hacer una pagina en facebook",
+  "como hacer una pagina de facebook",
+  "cómo crear una página en facebook para negocio",
+  "como crear una pagina de facebook para negocio"
+ ],
+ "categoria": "Redes sociales",
+ "herramienta": null,
+ "fuentes": [
+  {
+   "texto": "Servicio de ayuda de Facebook, crear una página",
+   "url": "https://www.facebook.com/help/104002523024878"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.cyberclick.es/numerical-blog/facebook-para-empresas-como-crear-la-pagina-perfecta-para-tu-negocio",
+   "titulo": "Facebook para empresas: cómo crear la página perfecta para tu negocio",
+   "promete": "Guía de España con capturas viejas; sin qué poner en cada campo para un negocio mexicano"
+  },
+  {
+   "posicion": 2,
+   "url": "https://ayuda.tiendanube.com/es_MX/123467-redes-sociales/como-crear-una-pagina-en-facebook-de-mi-marca",
+   "titulo": "Cómo crear una página en Facebook de mi marca",
+   "promete": "Pasos cortos para conectar su tienda; no explica perfil personal contra página ni errores comunes"
+  },
+  {
+   "posicion": 3,
+   "url": "https://socialbee.com/es/blog/como-crear-una-pagina-de-negocio-en-facebook/",
+   "titulo": "Cómo crear una página de negocio en Facebook y consejos para el crecimiento",
+   "promete": "Pasos y consejos generales; vende su programador de publicaciones y no habla de WhatsApp"
+  }
+ ],
+ "title": "Cómo crear una página en Facebook para tu banda o tu arte",
+ "h1": "Cómo crear la página de Facebook de tu banda o tu arte",
+ "description": "Crea gratis la página de Facebook de tu banda, tu estudio o tu obra. Pasos oficiales, qué poner en cada campo, cómo ligar WhatsApp y qué publicar.",
+ "resumen": "La página de Facebook de tu banda o tu estudio",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "portada-de-facebook",
+  "publicidad-en-facebook",
+  "marketing-en-redes-sociales",
+  "pagina-web-para-negocio",
+  "whatsapp-business-para-empresas",
+  "iconos-para-historias-destacadas"
+ ],
+ "respuesta": [
+  "Entra con tu perfil personal, abre Páginas en el menú y elige crear una página. Pon el nombre artístico, elige una categoría y luego suma contacto, fotos y horario.",
+  "Es gratis y te toma unos 15 minutos si ya tienes tu logo y tus fotos. Tu perfil personal la administra sin que tus datos se mezclen con los de la página."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Tu perfil no es la página de tu proyecto"
+  },
+  {
+   "p": "Facebook separa los perfiles de las páginas. El perfil es de una persona y la página es de una marca, un negocio o una figura pública."
+  },
+  {
+   "p": "Mucha gente abre un perfil con el nombre de su banda. No te conviene, porque va contra las reglas de Facebook y pierdes funciones."
+  },
+  {
+   "tabla": {
+    "titulo": "Perfil personal contra página",
+    "columnas": [
+     "Punto",
+     "Perfil personal",
+     "Página de artista"
+    ],
+    "filas": [
+     [
+      "Para quién es",
+      "Una persona",
+      "Tu banda, tu estudio o tu nombre artístico"
+     ],
+     [
+      "Cómo se conecta la gente",
+      "Solicitud de amistad",
+      "Seguir la página"
+     ],
+     [
+      "Límite de contactos",
+      "Tiene límite de amigos",
+      "Seguidores sin ese límite"
+     ],
+     [
+      "Estadísticas",
+      "No tiene",
+      "Sí tiene"
+     ],
+     [
+      "Anuncios",
+      "No se pueden poner",
+      "Sí se pueden poner"
+     ],
+     [
+      "Botón de contacto",
+      "No",
+      "Sí, como WhatsApp o llamar"
+     ],
+     [
+      "Varios administradores",
+      "No",
+      "Sí"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Para abrir la página necesitas un perfil personal. Ese perfil sólo la maneja y tus datos no aparecen en ella."
+  },
+  {
+   "p": "Si tocas en un grupo, la página es del grupo y no de uno de sus integrantes. Así nadie se la lleva si se sale."
+  },
+  {
+   "h2": "Lo que conviene tener listo"
+  },
+  {
+   "p": "Junta esto antes de empezar. Así la terminas de un jalón y no se queda a medias."
+  },
+  {
+   "ul": [
+    "Tu nombre artístico tal como aparece en tus carteles.",
+    "Una frase corta que diga qué haces y qué estilo tienes.",
+    "Tu logo o una foto cuadrada para el perfil.",
+    "Una imagen horizontal para la portada.",
+    "Tu teléfono de contrataciones, tu WhatsApp y tu correo.",
+    "La ciudad o la zona donde tocas o trabajas.",
+    "Tu horario si tienes estudio, taller o academia.",
+    "La dirección de tu sitio si ya tienes uno."
+   ]
+  },
+  {
+   "h2": "Crea la página paso a paso"
+  },
+  {
+   "p": "Estos pasos siguen la ayuda oficial de Facebook en computadora. En el celular el orden es casi el mismo desde el menú."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Inicia sesión",
+     "texto": "Entra con tu perfil personal. Ese perfil queda como administrador."
+    },
+    {
+     "titulo": "Busca Páginas",
+     "texto": "En el menú de la izquierda abre Páginas y elige crear una nueva."
+    },
+    {
+     "titulo": "Escoge el tipo",
+     "texto": "Selecciona página pública y sigue."
+    },
+    {
+     "titulo": "Pon nombre y categoría",
+     "texto": "Escribe tu nombre artístico. En categoría escribe músico, banda, artista o tu disciplina y elige lo más cercano."
+    },
+    {
+     "titulo": "Escribe tu presentación",
+     "texto": "En una o dos frases di qué haces y dónde. Luego confirma para crear la página."
+    },
+    {
+     "titulo": "Llena contacto y ubicación",
+     "texto": "Agrega teléfono, correo y sitio. Si tienes estudio, pon la dirección y el horario."
+    },
+    {
+     "titulo": "Sube tus imágenes",
+     "texto": "Tu logo o tu foto como perfil y una imagen horizontal de portada."
+    },
+    {
+     "titulo": "Escoge el botón principal",
+     "texto": "Para contrataciones conviene enviar mensaje de WhatsApp."
+    },
+    {
+     "titulo": "Liga WhatsApp",
+     "texto": "Facebook te ofrece conectar tu número. Lo puedes hacer en ese momento o después."
+    },
+    {
+     "titulo": "Invita y activa avisos",
+     "texto": "Invita a tus contactos a seguirte y prende las notificaciones para contestar a tiempo."
+    }
+   ]
+  },
+  {
+   "h2": "Qué escribir en cada campo"
+  },
+  {
+   "tabla": {
+    "titulo": "Campos de una página de artista",
+    "columnas": [
+     "Campo",
+     "Qué poner",
+     "Ejemplo"
+    ],
+    "filas": [
+     [
+      "Nombre",
+      "Tu nombre artístico, sin palabras de más",
+      "Mariachi Real de Jalisco"
+     ],
+     [
+      "Categoría",
+      "Tu disciplina principal",
+      "Músico o banda"
+     ],
+     [
+      "Presentación",
+      "Qué haces, dónde y qué te distingue",
+      "Mariachi para bodas y serenatas en Guadalajara"
+     ],
+     [
+      "Sitio web",
+      "Tu sitio con tu dominio",
+      "mariachireal.mx"
+     ],
+     [
+      "Teléfono",
+      "El número de contrataciones",
+      "Con lada de 10 dígitos"
+     ],
+     [
+      "Dirección",
+      "La de tu estudio o sólo tu zona",
+      "Colonia y ciudad"
+     ],
+     [
+      "Horario",
+      "Cuándo contestas o abres",
+      "Lunes a sábado de 10 a 19 h"
+     ],
+     [
+      "Botón de acción",
+      "Lo que más quieres que hagan",
+      "Enviar mensaje de WhatsApp"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si tocas en todos lados y no tienes local, pon sólo tu ciudad. No hace falta publicar la dirección de tu casa."
+  },
+  {
+   "h2": "Foto de perfil y portada"
+  },
+  {
+   "p": "La foto de perfil se ve chiquita y recortada en círculo. Usa tu logo o tu cara con espacio alrededor para que no se corte."
+  },
+  {
+   "p": "La portada es la imagen ancha de arriba. Ahí va la foto del grupo en vivo, tu obra más fuerte o tu próxima fecha."
+  },
+  {
+   "p": "En el celular la portada se corta por los lados. Deja el texto importante en el centro."
+  },
+  {
+   "p": "Si no tienes portada, hazla gratis con la herramienta de [portada de Facebook](id:portada-de-facebook)."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Liga tu WhatsApp a la página"
+  },
+  {
+   "p": "Con WhatsApp conectado, el botón de la página abre un chat contigo. También te sirve si después pones anuncios que llevan a WhatsApp."
+  },
+  {
+   "ol": [
+    "Abre la configuración de tu página.",
+    "Busca la parte de WhatsApp o de cuentas vinculadas.",
+    "Escribe tu número de WhatsApp con la clave del país.",
+    "Confirma con el código que llega a ese número.",
+    "Cambia el botón principal a enviar mensaje de WhatsApp."
+   ]
+  },
+  {
+   "p": "Te conviene usar WhatsApp Business en ese número. Así tienes respuestas rápidas y mensaje de ausencia para cuando estás tocando."
+  },
+  {
+   "h2": "Lo primero que debes publicar"
+  },
+  {
+   "p": "Una página vacía no convence a nadie de contratarte. Antes de invitar gente, sube al menos cinco publicaciones."
+  },
+  {
+   "ul": [
+    "Una presentación tuya o del grupo con una foto real.",
+    "Un video corto tocando en vivo o pintando.",
+    "Tus servicios con un rango de precio, como bodas o clases.",
+    "La zona donde trabajas o hasta dónde viajas.",
+    "Tus próximas fechas o tu horario de citas."
+   ]
+  },
+  {
+   "p": "Después publica con constancia. Dos o tres publicaciones por semana bastan si son reales y útiles."
+  },
+  {
+   "h2": "Tus primeros seguidores"
+  },
+  {
+   "p": "Los primeros llegan de quien ya te conoce. Después llegan los que te vieron tocar y te recomiendan."
+  },
+  {
+   "ul": [
+    "Invita a tus contactos desde la misma página.",
+    "Pon la liga de la página en tu WhatsApp y en tus tarjetas.",
+    "Imprime un QR en el flyer de la tocada.",
+    "Pide a quien te contrató que deje su recomendación.",
+    "Contesta rápido mensajes y comentarios."
+   ]
+  },
+  {
+   "h2": "Página de Facebook y sitio propio"
+  },
+  {
+   "p": "Tu página de Facebook ayuda mucho, pero no reemplaza a un sitio tuyo. Cada una hace un trabajo distinto."
+  },
+  {
+   "tabla": {
+    "titulo": "Página de Facebook frente a sitio propio",
+    "columnas": [
+     "Punto",
+     "Página de Facebook",
+     "Sitio propio"
+    ],
+    "filas": [
+     [
+      "Costo",
+      "Gratis",
+      "Pago inicial y mensualidad"
+     ],
+     [
+      "Quién manda",
+      "Facebook pone las reglas",
+      "Tú decides todo"
+     ],
+     [
+      "Quién la ve",
+      "Sobre todo usuarios de Facebook",
+      "Cualquiera desde Google"
+     ],
+     [
+      "Diseño",
+      "El mismo para todos",
+      "Con tu estilo y tus colores"
+     ],
+     [
+      "Dirección",
+      "Dentro de facebook.com",
+      "Tu dominio propio"
+     ],
+     [
+      "Riesgo",
+      "Si suspenden la cuenta, la pierdes",
+      "Mientras renueves, es tuya"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Lo mejor es tener las dos y ligar una con la otra. La página de Facebook atrae y platica, el sitio presenta tu trabajo completo."
+  },
+  {
+   "p": "Yo hago sitios para artistas desde Pilsi. Puedes ver los que ya están en línea en el [directorio de Pilsi](https://pilsi.art/directorio)."
+  },
+  {
+   "h2": "Administradores y seguridad"
+  },
+  {
+   "p": "Una página con un solo administrador corre riesgo. Si esa persona pierde su cuenta, el proyecto pierde la página."
+  },
+  {
+   "p": "Agrega por lo menos a otra persona de confianza con acceso completo. Puede ser otro integrante del grupo o tu representante."
+  },
+  {
+   "p": "Prende la autenticación en dos pasos en los perfiles que administran. Así nadie entra sólo con la contraseña."
+  },
+  {
+   "ul": [
+    "Usa un correo que sí revises en el perfil administrador.",
+    "No le des tu contraseña a quien te ayuda a publicar.",
+    "Dale a cada ayudante sólo el permiso que necesita.",
+    "Quita el acceso a quien se sale del proyecto.",
+    "Desconfía de mensajes que dicen que van a borrar tu página."
+   ]
+  },
+  {
+   "p": "Los mensajes falsos de soporte son una estafa muy común. Facebook no te pide la contraseña por mensaje ni por correo."
+  },
+  {
+   "h2": "Meta Business Suite"
+  },
+  {
+   "p": "Meta Business Suite es la herramienta gratis de Meta para llevar tu página y tu Instagram juntos. La usas en computadora o como app."
+  },
+  {
+   "p": "Desde ahí contestas los mensajes de las dos redes en una sola bandeja. También programas publicaciones y revisas estadísticas."
+  },
+  {
+   "p": "Te va a hacer falta si pones anuncios para promover un show. Para empezar basta con la página."
+  },
+  {
+   "h2": "Qué publicar según tu disciplina"
+  },
+  {
+   "tabla": {
+    "titulo": "Ideas de publicaciones para artistas",
+    "columnas": [
+     "Disciplina",
+     "Qué funciona"
+    ],
+    "filas": [
+     [
+      "Grupo versátil",
+      "Clips de bodas, repertorio por género y fechas libres del mes"
+     ],
+     [
+      "Cantautora",
+      "Covers, adelantos de canciones y la historia de cada letra"
+     ],
+     [
+      "Tatuador",
+      "Trabajos cicatrizados, diseños disponibles y agenda de la semana"
+     ],
+     [
+      "Pintora",
+      "Proceso de una obra, piezas disponibles con medida y precio"
+     ],
+     [
+      "Fotógrafo",
+      "Sesiones recientes, paquetes y fechas libres"
+     ],
+     [
+      "Academia de baile",
+      "Inscripciones, ensayos y recitales con permiso de los papás"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Las fotos de clientes o alumnos siempre llevan su permiso. Con menores de edad, pide el permiso por escrito a los papás."
+  },
+  {
+   "h2": "Errores comunes en páginas de artistas"
+  },
+  {
+   "ul": [
+    "Abrir un perfil personal con el nombre de la banda.",
+    "Dejar la página sin foto, sin teléfono o sin zona.",
+    "Tener un solo administrador que luego se va del grupo.",
+    "Tardar días en contestar a quien quiere contratarte.",
+    "Subir sólo carteles sin enseñar cómo suenas o cómo pintas.",
+    "Comprar seguidores que nunca van a ir a un show.",
+    "Ligar la página a un sitio que ya no existe."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Cuesta crear una página de Facebook?",
+   "respuesta": "No cuesta. Crearla y usarla es gratis y sólo pagas si pones anuncios."
+  },
+  {
+   "pregunta": "¿Necesito perfil personal para crearla?",
+   "respuesta": "Sí. La página nace desde un perfil personal, pero tus datos no se muestran en ella."
+  },
+  {
+   "pregunta": "¿Puedo convertir mi perfil en página?",
+   "respuesta": "Sí. Facebook tiene una opción para hacerlo y conviene revisar antes qué datos se pasan."
+  },
+  {
+   "pregunta": "¿Cuántos administradores puede tener?",
+   "respuesta": "Varios. Ten al menos dos para no perder el acceso si alguien se va."
+  },
+  {
+   "pregunta": "¿Puedo vender mi obra o mi mercancía desde la página?",
+   "respuesta": "Sí puedes. Enseña las piezas y recibe pedidos por mensaje o WhatsApp."
+  },
+  {
+   "pregunta": "¿La página reemplaza a un sitio propio?",
+   "respuesta": "No. Ayuda mucho, pero depende de Facebook y no lleva tu dominio."
+  },
+  {
+   "pregunta": "¿La puedo crear desde el celular?",
+   "respuesta": "Sí. En la app abres el menú, entras a Páginas y eliges crear con los mismos campos."
+  },
+  {
+   "pregunta": "¿Qué nombre le pongo?",
+   "respuesta": "Tu nombre artístico. Si ya está ocupado, agrega tu ciudad o tu disciplina al final."
+  }
+ ],
+ "venta": {
+  "puente": "Tu página de Facebook atrae y conversa, y un sitio tuyo enseña tu música, tus videos y tus fechas con tu propio dominio.",
+  "titulo": "¿Te hago el sitio que va ligado a tu página?",
+  "tituloCorto": "Un sitio para tu página"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

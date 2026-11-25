@@ -1,0 +1,138 @@
+{
+ "id": "link-en-bio",
+ "slug": "link-en-bio",
+ "molde": "guia",
+ "cabeza": "link en bio",
+ "busquedas": ["link un bio"],
+ "categoria": "Redes sociales",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {"posicion": 1, "url": "https://www.godaddy.com/resources/es/marketing/como-crear-link-en-bio-para-instagram", "titulo": "Cómo crear link en bio para Instagram", "promete": "Explica páginas de varios enlaces y empuja su creador; sin ejemplos por giro ni cómo medir"},
+  {"posicion": 2, "url": "https://www.hostinger.com/mx/tutoriales/", "titulo": "¿Qué es el link de la bio?", "promete": "Definición y herramientas de terceros; no compara con tener página propia"},
+  {"posicion": 3, "url": "https://skedsocial.com/es/blog/links-in-your-instagram-bio", "titulo": "7 formas ingeniosas de usar enlaces en tu biografía de Instagram", "promete": "Ideas para marcas grandes; nada sobre WhatsApp ni negocios locales en México"}
+ ],
+ "title": "Link en bio para músicos, bandas y artistas",
+ "h1": "Link en bio para artistas",
+ "description": "Qué poner en el link en bio si cantas, tocas, pintas o tatúas. Opciones, biografías de ejemplo y cómo medir quién llega. Arma el tuyo con tu música y fechas.",
+ "resumen": "A dónde mandar a quien te descubre en redes",
+ "relacionadas": ["link-de-whatsapp", "acortar-link", "qr-de-instagram", "publicidad-en-instagram", "pagina-web-para-negocio", "plantillas-para-instagram"],
+ "respuesta": [
+  "El link en bio es la única liga fija de tu perfil en Instagram, TikTok o Facebook. Es la puerta para quien vio tu video y quiere escuchar más o contratarte.",
+  "Lo que más te conviene es un sitio tuyo con tu música, tus fechas y tu WhatsApp. Si aún no lo tienes, un link de WhatsApp con mensaje escrito funciona mientras tanto."
+ ],
+ "cuerpo": [
+  {"h2": "Por qué tu público termina en esa liga"},
+  {"p": "En una publicación de Instagram la dirección que escribes no se puede tocar. Por eso los artistas repiten link en bio al final de cada video."},
+  {"p": "Alguien ve tu cover, entra a tu perfil y toca la liga. Ese camino sólo vale si al otro lado hay algo que escuchar o una forma de contratarte."},
+  {"p": "Si la liga lleva a una fecha que ya pasó, esa persona se va. Vale la pena pensarla con calma antes de tu próximo lanzamiento."},
+  {"h2": "Las cuatro formas de usar ese espacio"},
+  {"p": "Casi todos los artistas usan alguna de estas cuatro. Cada una sirve mejor según lo que quieres que pase."},
+  {"tabla": {"titulo": "Opciones para tu link en bio", "columnas": ["Opción", "Cómo funciona", "A favor", "En contra"], "filas": [["Sitio propio", "Tu dominio con tu música, fechas y WhatsApp", "Es tuyo y aparece en Google", "Hay que tenerlo al día"], ["Link de WhatsApp", "Abre un chat contigo con mensaje listo", "Contratación inmediata", "No enseña tu música antes"], ["Página de varios enlaces", "Un menú con botones a varias plataformas", "Se arma en minutos", "Un paso más y la dirección es de otra empresa"], ["Tienda en línea", "Lleva a tu mercancía con carrito", "Tu fan compra solo", "Sólo conviene si vendes muchas piezas"]]}},
+  {"p": "Un sitio tuyo puede traer los mismos botones que una página de enlaces. La diferencia es que la dirección dice tu nombre artístico."},
+  {"h2": "Qué debe abrir la liga según tu disciplina"},
+  {"p": "No es lo mismo una banda de bodas que una ilustradora que vende láminas. Piensa qué esperas que haga quien toca tu liga."},
+  {"tabla": {"titulo": "Link en bio por disciplina", "columnas": ["Artista", "Qué debe abrir la liga", "Por qué"], "filas": [["Banda para eventos", "Sitio con videos en vivo, repertorio y botón para cotizar", "Quien contrata quiere oírte antes de preguntar precio"], ["Cantautor o solista", "Tu último sencillo y tus próximas fechas", "El fan nuevo quiere escuchar y saber dónde verte"], ["Tatuador", "Portafolio por estilo y botón para agendar", "Nadie se tatúa sin ver trabajos anteriores"], ["Ilustrador o pintor", "Obra disponible con precio y forma de pedir encargos", "Se vende por pieza o por encargo"], ["Fotógrafo", "Galería por tipo de sesión con paquetes", "El cliente compara estilos y costos"], ["Maestro de música o baile", "Horarios, costos y botón para la clase muestra", "Los papás comparan antes de escribir"], ["DJ", "Mezclas para escuchar y fechas disponibles", "El organizador quiere saber tu estilo y si estás libre"]]}},
+  {"h2": "Cómo agregar la liga a tu perfil"},
+  {"p": "Los pasos son parecidos en cada red. Los nombres de los botones cambian con las versiones de la aplicación."},
+  {"ol": [
+   "Entra a tu perfil y toca la opción para editarlo.",
+   "Busca el apartado de enlaces o de sitio web.",
+   "Pega la dirección completa con https al principio.",
+   "Ponle un título breve si la red lo pide, como Fechas y contrataciones.",
+   "Guarda los cambios y abre la liga desde otro celular."
+  ]},
+  {"p": "Algunas redes aceptan más de un enlace. Aun así, el primero es el que más gente toca."},
+  {"h2": "La biografía que convence de tocar la liga"},
+  {"p": "Una liga sin contexto casi nadie la toca. Las líneas de arriba dicen qué hay del otro lado."},
+  {"ul": [
+   "En la primera línea di qué haces y desde dónde. Por ejemplo, cantautora de Guadalajara.",
+   "En la segunda pon lo que te distingue. Por ejemplo, boleros con guitarra para bodas.",
+   "En la tercera di qué hacer. Por ejemplo, escucha y cotiza en el link.",
+   "Si tocas en vivo seguido, agrega tu ciudad o la próxima fecha."
+  ]},
+  {"p": "Quita frases que no dicen nada, como bienvenidos a mi mundo. El espacio es corto y cada palabra tiene que trabajar."},
+  {"tabla": {"titulo": "Biografías de ejemplo", "columnas": ["Artista", "Biografía"], "filas": [["Banda versátil", "Música en vivo para bodas y eventos en Puebla. Videos y cotización en el link."], ["Tatuadora", "Línea fina y color en Monterrey. Agenda abierta en el link."], ["Cantautor", "Canciones propias y covers acústicos. Nuevo sencillo en el link."], ["Ilustradora", "Retratos por encargo y láminas. Pedidos con dos semanas de anticipación."]]}},
+  {"h2": "Sitio propio contra página de enlaces"},
+  {"p": "Las páginas de varios enlaces gustan porque quedan listas en minutos. Sirven, pero tienen límites cuando ya te contratan."},
+  {"ul": [
+   "La dirección pertenece a otra empresa y no a ti.",
+   "Tu fan da un paso más antes de escuchar tu música.",
+   "Casi nunca salen cuando alguien busca tu nombre en Google.",
+   "Si esa empresa cambia sus precios, tú dependes de ella."
+  ]},
+  {"p": "Con sitio propio la dirección no cambia aunque cambies de plataforma de música. Puede ir en tu lona, tus discos y tu ficha de Google."},
+  {"venta": true},
+  {"h2": "Lo que debe traer el sitio al que mandas"},
+  {"p": "Quien toca tu liga viene de un video corto. Llega con prisa y desde el celular."},
+  {"ul": [
+   "Arriba, la canción o el video que acaba de ver.",
+   "Fotos grandes de tus shows o de tu obra.",
+   "Tus próximas fechas con lugar y hora.",
+   "Un botón de WhatsApp para contrataciones a la vista.",
+   "Un precio desde si haces eventos o encargos.",
+   "Que abra rápido con datos móviles."
+  ]},
+  {"p": "Si tu sitio tarda en cargar, la persona vuelve a la red. Es raro que regrese a tocar la liga otra vez."},
+  {"h2": "Dónde va la liga en cada red"},
+  {"p": "Cada aplicación la acomoda en un lugar distinto. La lógica es la misma en todas."},
+  {"tabla": {"titulo": "El link en cada red", "columnas": ["Red", "Dónde va", "Consejo"], "filas": [["Instagram", "En editar perfil, sección de enlaces", "Di en la biografía qué hay al tocarla"], ["TikTok", "En editar perfil, sitio web", "Si no ves la opción, revisa el tipo de cuenta"], ["Facebook", "En la información de tu página", "Activa también el botón de enviar mensaje"], ["WhatsApp Business", "En el perfil de empresa, sitio web", "Ahí cabe tu sitio o tu catálogo"], ["YouTube", "En la descripción del canal y de cada video", "Pon la liga en la primera línea"]]}},
+  {"p": "Usa la misma liga en todas tus redes. Así tu público siempre llega al mismo lugar."},
+  {"h2": "Un WhatsApp que ya trae el mensaje escrito"},
+  {"p": "Si mandas a WhatsApp, no pongas sólo tu número. Usa un link que abra el chat con un texto listo."},
+  {"p": "Así sabes que esa persona viene de tu perfil y no tiene que pensar qué decir. Algo como «Vi tus videos y quiero cotizar para una boda»."},
+  {"p": "Haz el tuyo con el [link de WhatsApp](id:link-de-whatsapp). No pide registro y no cuesta nada."},
+  {"h2": "Cómo saber si la liga te trae contrataciones"},
+  {"p": "Medir te dice si la liga funciona o si toca cambiarla. Hay formas fáciles de llevar la cuenta."},
+  {"ul": [
+   "Pon un mensaje de WhatsApp distinto en cada red y cuenta los chats por origen.",
+   "Si tienes sitio, agrega una marca al final de la liga, como ?origen=instagram.",
+   "Revisa las estadísticas de tu perfil para ver cuántos tocaron el enlace.",
+   "Pregunta a cada cliente nuevo cómo te conoció y anótalo."
+  ]},
+  {"p": "Compara cada mes. Si casi nadie la toca, cambia primero el texto de tu biografía."},
+  {"h2": "Tu liga también va en lo impreso"},
+  {"p": "Si es un sitio tuyo, la liga no tiene por qué vivir sólo en Instagram. Puede ir en cada cosa que entregas."},
+  {"ul": [
+   "En un QR en la mesa de mercancía o en el atril.",
+   "En la contraportada de tu disco o de tu fanzine.",
+   "En tus tarjetas para contrataciones.",
+   "En tu ficha de Google, en el campo de sitio web."
+  ]},
+  {"p": "Así quien te vio en vivo llega al mismo lugar que quien te vio en redes. El código lo sacas con el [QR para Instagram](id:qr-de-instagram) o con el generador general."},
+  {"h2": "Cada cuánto cambiar la liga"},
+  {"p": "La liga principal debe quedarse quieta. Lo que cambia es lo que pones adentro de tu sitio."},
+  {"p": "Cuando estrenes sencillo, súbelo hasta arriba de tu sitio y deja la misma liga. No tienes que avisarlo en cada publicación."},
+  {"p": "Si mandas a WhatsApp, cambia el mensaje escrito cuando cambie lo que ofreces. El número puede quedarse igual."},
+  {"h2": "Un ejemplo con un dueto de boleros"},
+  {"p": "Imagina un dueto que sólo tenía su número de teléfono en la biografía. Cada interesado preguntaba lo mismo antes de contratar."},
+  {"p": "Arman un sitio con tres videos en vivo, su repertorio y un precio desde. Ponen un botón de WhatsApp con un mensaje para cotizar."},
+  {"p": "Ahora cada chat llega con la fecha del evento y el tipo de fiesta. Contestan más rápido porque el cliente ya los escuchó."},
+  {"h2": "Errores frecuentes en el perfil de un artista"},
+  {"ul": [
+   "Dejar una liga a un concierto que ya pasó.",
+   "Mandar a una plataforma enorme sin decir qué canción escuchar.",
+   "Pegar una dirección larga llena de letras y números.",
+   "No abrir la liga desde otro celular antes de publicar.",
+   "Cambiar la liga cada semana y confundir a quien regresa.",
+   "No decir en la biografía qué hay al tocarla."
+  ]}
+ ],
+ "faqs": [
+  {"pregunta": "¿Qué quiere decir link en bio?", "respuesta": "Quiere decir que la liga está en tu perfil. En las publicaciones de Instagram una dirección escrita no se puede tocar."},
+  {"pregunta": "¿Cuántos links caben en mi bio?", "respuesta": "Depende de la red y de tu tipo de cuenta. Revisa el apartado de enlaces al editar tu perfil."},
+  {"pregunta": "¿Me conviene un sitio propio o una página de enlaces?", "respuesta": "Tu sitio propio. Hace lo mismo, lleva tu nombre y puede salir en Google."},
+  {"pregunta": "¿Pongo mi WhatsApp para contrataciones en la bio?", "respuesta": "Sí, con mensaje escrito. Así el chat abre con un texto y sabes de dónde viene."},
+  {"pregunta": "¿Cómo sé cuánta gente toca mi link?", "respuesta": "Revisa las estadísticas de tu perfil. También sirve un mensaje de WhatsApp distinto en cada red."},
+  {"pregunta": "¿Necesito cuenta profesional para poner un link?", "respuesta": "Depende de la red. En Instagram cualquier perfil puede y en TikTok quizá te pida cuenta de empresa."}
+ ],
+ "venta": {
+  "puente": "La mejor liga para tu bio es un sitio tuyo con tu música, tus fechas y tu WhatsApp de contrataciones.",
+  "titulo": "¿Te hago el sitio para tu link en bio?",
+  "tituloCorto": "Tu sitio para la bio"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026"
+}

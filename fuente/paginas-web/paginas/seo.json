@@ -1,0 +1,495 @@
+{
+ "id": "seo",
+ "slug": "seo",
+ "molde": "guia",
+ "cabeza": "seo",
+ "busquedas": [
+  "seo online",
+  "marketing seo",
+  "seo marketing online",
+  "marketing online seo",
+  "posicionamiento seo",
+  "seo posicionamiento",
+  "posicionamiento y seo",
+  "seo mkt",
+  "seo google",
+  "posicionar seo",
+  "seo q es",
+  "posiciones seo",
+  "posicionamiento web",
+  "posicionamiento pagina web",
+  "posicionamiento en paginas web",
+  "posicionar web",
+  "posicionar página web",
+  "posiciona web"
+ ],
+ "categoria": "SEO",
+ "herramienta": null,
+ "fuentes": [
+  {
+   "texto": "Google Search Central, guía de SEO para principiantes",
+   "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=es"
+  },
+  {
+   "texto": "Google Search Central, cómo funciona la Búsqueda de Google",
+   "url": "https://developers.google.com/search/docs/fundamentals/how-search-works?hl=es"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.cronista.com/informacion-gral/que-es-el-posicionamiento-web-o-seo/",
+   "titulo": "Qué es el posicionamiento web o SEO",
+   "promete": "Definición periodística; sin tareas concretas para un negocio ni orden de prioridad"
+  },
+  {
+   "posicion": 2,
+   "url": "https://marketing4ecommerce.net/que-es-posicionamiento-seo/",
+   "titulo": "Qué es el posicionamiento SEO",
+   "promete": "Teoría para tiendas en línea; no habla de SEO local ni de Google Maps"
+  },
+  {
+   "posicion": 3,
+   "url": "https://metricool.com/es/guia-seo/",
+   "titulo": "Prepara tu estrategia de posicionamiento: aplica el SEO para tu negocio",
+   "promete": "Guía larga con su herramienta; sin lista corta de tareas ni advertencia sobre promesas de posición"
+  }
+ ],
+ "title": "SEO para artistas: que Google entienda tu música",
+ "h1": "SEO para músicos, bandas y artistas visuales",
+ "description": "El SEO hace que Google encuentre y entienda tu sitio sin pagar anuncios. Ve cómo funciona, qué tareas puedes hacer tú y cómo medirlo en Search Console. Empieza.",
+ "resumen": "Cómo ayudar a Google a encontrar tu música o tu obra",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "palabras-clave",
+  "google-mi-negocio",
+  "marketing-digital",
+  "como-crear-una-pagina-web",
+  "que-es-un-dominio",
+  "ejemplos-de-paginas-web"
+ ],
+ "respuesta": [
+  "El SEO es todo lo que haces para que tu sitio aparezca en Google sin pagar anuncios. La sigla viene del inglés y quiere decir optimización para buscadores.",
+  "Tiene tres partes. Que Google encuentre tu sitio, que entienda qué haces y que lo vea útil para quien busca.",
+  "Para un artista lo básico es un sitio propio claro, tus datos iguales en todos lados y menciones reales. Nadie puede asegurarte un lugar fijo en los resultados."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Qué es el SEO si haces música o arte"
+  },
+  {
+   "p": "SEO son las siglas de search engine optimization. En México se le dice posicionamiento web u orgánico."
+  },
+  {
+   "p": "Orgánico significa que no pagas por cada visita. Las visitas llegan porque Google decidió mostrar tu sitio."
+  },
+  {
+   "p": "Cuando alguien busca banda para boda en Querétaro, Google enseña dos tipos de resultado. Arriba pueden ir anuncios marcados como patrocinados y abajo los orgánicos."
+  },
+  {
+   "p": "El SEO trabaja sólo con los orgánicos. Los anuncios pagados son otro oficio que se conoce como SEM."
+  },
+  {
+   "h2": "Los tres pasos que sigue Google"
+  },
+  {
+   "p": "La documentación oficial de Google describe su buscador en tres etapas. Si las conoces, sabes qué puedes mover en cada una."
+  },
+  {
+   "tabla": {
+    "titulo": "Etapas de la Búsqueda de Google",
+    "columnas": [
+     "Etapa",
+     "Qué hace Google",
+     "Qué haces tú"
+    ],
+    "filas": [
+     [
+      "Rastreo",
+      "Sus programas recorren internet siguiendo enlaces",
+      "Que tus redes, tus plataformas y otros sitios liguen a tu sitio"
+     ],
+     [
+      "Indexación",
+      "Lee tu sitio y lo guarda en su índice",
+      "Que tus textos estén escritos y no dentro de un flyer en imagen"
+     ],
+     [
+      "Resultados",
+      "Escoge qué sitios mostrar en cada búsqueda",
+      "Que tu sitio conteste lo que la gente busca de ti"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si tu sitio no está en el índice, no puede salir. Por eso lo primero es que Google sepa que existe."
+  },
+  {
+   "h2": "Las tres áreas del SEO"
+  },
+  {
+   "p": "El trabajo se suele partir en tres áreas. Cada una cuida un aspecto distinto de tu sitio."
+  },
+  {
+   "h3": "Lo que está dentro de tu sitio"
+  },
+  {
+   "p": "Son tus títulos, tus textos y tus fotos. También los links entre tus páginas y la dirección de cada una."
+  },
+  {
+   "p": "Aquí entra escribir con las palabras de tu público. La guía de [palabras clave](id:palabras-clave) te ayuda a encontrarlas."
+  },
+  {
+   "h3": "Lo técnico"
+  },
+  {
+   "p": "Es lo que hace que tu sitio cargue rápido y que Google lo lea sin tropiezos. Incluye la velocidad, el candado de seguridad y la versión de celular."
+  },
+  {
+   "p": "Tu público te busca desde el teléfono, muchas veces saliendo de una tocada. Un sitio lento pierde a esa persona aunque tu música sea buena."
+  },
+  {
+   "h3": "Lo que pasa fuera de tu sitio"
+  },
+  {
+   "p": "Es lo que otros publican sobre ti. Reseñas de tu disco, notas de prensa, carteles de festivales y links desde otros sitios."
+  },
+  {
+   "p": "Una mención en el periódico de tu ciudad o en el sitio de un festival pesa más que cien links de páginas desconocidas."
+  },
+  {
+   "h2": "Si das clases o tienes estudio"
+  },
+  {
+   "p": "Un tatuador, una maestra de canto o un estudio de grabación atienden en un lugar. Para ellos cuenta mucho salir en el mapa cuando alguien busca cerca."
+  },
+  {
+   "p": "Eso depende sobre todo de tu ficha de Google. Revisa la guía de [Google Mi Negocio](id:google-mi-negocio) para dejarla completa."
+  },
+  {
+   "p": "Ayuda que tu nombre, tu dirección y tu teléfono se escriban igual en todos lados. En tu sitio, tu ficha, tus redes y los directorios."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Diez tareas de SEO que puedes hacer tú"
+  },
+  {
+   "p": "No necesitas una agencia para arrancar. Con estas tareas cubres lo básico de un proyecto artístico."
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Ten un sitio con tu dominio",
+     "texto": "Tu perfil en redes no cuenta como sitio propio. Google necesita una dirección tuya para mostrarte."
+    },
+    {
+     "titulo": "Pon un título claro en cada página",
+     "texto": "Que diga qué haces y dónde. Por ejemplo, mariachi para bodas en Guadalajara."
+    },
+    {
+     "titulo": "Escribe como te buscan",
+     "texto": "Si te buscan como grupo versátil, no escribas sólo propuesta musical integral."
+    },
+    {
+     "titulo": "Saca tus fechas de las imágenes",
+     "texto": "Escribe tus próximas tocadas en texto. Un flyer en foto se lee mal para Google."
+    },
+    {
+     "titulo": "Cuida la velocidad en celular",
+     "texto": "Comprime tus fotos y evita videos que arranquen solos en la portada."
+    },
+    {
+     "titulo": "Ten el candado de seguridad",
+     "texto": "Tu dirección debe empezar con https. Sin eso, el navegador avisa que no es seguro."
+    },
+    {
+     "titulo": "Describe cada obra o canción",
+     "texto": "Un pie corto con título, técnica o año ayuda a que Google sepa qué ve."
+    },
+    {
+     "titulo": "Junta menciones reales",
+     "texto": "Pide que te liguen los foros donde tocas, los festivales y las galerías."
+    },
+    {
+     "titulo": "Pide reseñas si atiendes en un lugar",
+     "texto": "En un estudio o una academia, pide a cada cliente contento su opinión en tu ficha."
+    },
+    {
+     "titulo": "Registra tu sitio en Search Console",
+     "texto": "Es la herramienta gratis de Google para ver cómo te encuentran."
+    }
+   ]
+  },
+  {
+   "h2": "Tu nombre artístico frente a lo que haces"
+  },
+  {
+   "p": "Hay dos tipos de búsqueda que te traen gente. Unas usan tu nombre y otras describen lo que haces."
+  },
+  {
+   "p": "Quien ya te vio en vivo busca tu nombre. Esas visitas llegan casi solas si tu sitio existe y lleva tu nombre en el título."
+  },
+  {
+   "p": "Quien no te conoce busca algo como ilustradora de libros infantiles o tatuajes de línea fina en Oaxaca. Para esas búsquedas necesitas texto que lo diga con esas palabras."
+  },
+  {
+   "p": "Una buena página de inicio cubre tu nombre. Una página por servicio o por disciplina cubre lo demás."
+  },
+  {
+   "h2": "Cuánto tarda en notarse"
+  },
+  {
+   "p": "El SEO no es inmediato. Google necesita encontrar tu sitio, leerlo y compararlo con otros."
+  },
+  {
+   "p": "Un sitio nuevo suele tardar semanas en aparecer de forma estable. Subir en búsquedas muy peleadas puede tardar meses."
+  },
+  {
+   "p": "La ventaja es que no se apaga cuando dejas de pagar. Un anuncio se detiene al terminar el presupuesto y tu sitio sigue ahí."
+  },
+  {
+   "tabla": {
+    "titulo": "SEO frente a anuncios pagados",
+    "columnas": [
+     "Punto",
+     "SEO",
+     "Anuncios pagados"
+    ],
+    "filas": [
+     [
+      "Costo por visita",
+      "No pagas cada clic",
+      "Pagas cada clic"
+     ],
+     [
+      "Tiempo para notarlo",
+      "Semanas o meses",
+      "Desde el primer día"
+     ],
+     [
+      "Si dejas de invertir",
+      "Los resultados bajan poco a poco",
+      "Las visitas se detienen"
+     ],
+     [
+      "Cómo lo ve tu público",
+      "Como un resultado normal",
+      "Marcado como patrocinado"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Un ejemplo de sitio que Google entiende"
+  },
+  {
+   "p": "Piensa en una banda versátil de Puebla que quiere salir cuando alguien busca grupo para boda. Así quedaría su página ordenada."
+  },
+  {
+   "tabla": {
+    "titulo": "Partes de la página de una banda para eventos",
+    "columnas": [
+     "Parte",
+     "Qué lleva",
+     "Por qué ayuda"
+    ],
+    "filas": [
+     [
+      "Título de la pestaña",
+      "Grupo versátil para bodas en Puebla",
+      "Dice qué y dónde en pocas palabras"
+     ],
+     [
+      "Encabezado principal",
+      "Música en vivo para tu boda en Puebla",
+      "Confirma el tema de la página"
+     ],
+     [
+      "Primer párrafo",
+      "Qué géneros tocan, cuántos músicos son y qué zonas cubren",
+      "Responde lo que busca la persona"
+     ],
+     [
+      "Paquetes",
+      "Horas de música, equipo de sonido y precio desde",
+      "Usa las palabras de quien contrata"
+     ],
+     [
+      "Video en vivo",
+      "Un fragmento real de una boda con su descripción",
+      "Muestra que la banda existe y suena"
+     ],
+     [
+      "Preguntas frecuentes",
+      "Anticipo, repertorio y si van fuera de la ciudad",
+      "Resuelve dudas sin escribir"
+     ],
+     [
+      "Contacto",
+      "Botón de WhatsApp y correo de contrataciones",
+      "Convierte la visita en una cotización"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Fíjate que el texto habla como habla una pareja que se va a casar. Nadie busca experiencias sonoras, la gente busca grupo para boda."
+  },
+  {
+   "h2": "Herramientas gratis para empezar"
+  },
+  {
+   "p": "No necesitas programas caros. Estas opciones cuestan cero y cubren lo básico."
+  },
+  {
+   "tabla": {
+    "titulo": "Herramientas gratis",
+    "columnas": [
+     "Herramienta",
+     "Para qué sirve"
+    ],
+    "filas": [
+     [
+      "Google Search Console",
+      "Ver búsquedas, clics y problemas de tu sitio"
+     ],
+     [
+      "Herramientas para webmasters de Bing",
+      "Lo mismo para el buscador de Microsoft"
+     ],
+     [
+      "Perfil de Negocio de Google",
+      "Tu ficha en Maps si atiendes en un lugar"
+     ],
+     [
+      "PageSpeed Insights",
+      "Medir qué tan rápido abre tu sitio en celular"
+     ],
+     [
+      "El propio buscador",
+      "Ver qué sitios salen hoy cuando buscan lo que haces"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "La última es la que menos se usa. Busca como te buscaría quien quiere contratarte y anota qué tienen los sitios de arriba."
+  },
+  {
+   "h2": "SEO y asistentes con inteligencia artificial"
+  },
+  {
+   "p": "Cada vez más gente le pregunta a un asistente en lugar de buscar. Esos asistentes también leen sitios para responder."
+  },
+  {
+   "p": "Lo que ayuda en Google ayuda también ahí. Textos claros, datos concretos y preguntas ya respondidas."
+  },
+  {
+   "p": "Un sitio que dice qué tocas, dónde y cómo contratarte es fácil de citar. Uno lleno de frases poéticas sin datos no le sirve al asistente."
+  },
+  {
+   "h2": "Cómo medir tu avance"
+  },
+  {
+   "p": "Search Console es gratis y te dice cuántas veces saliste y cuántas personas entraron. También te avisa si algo falla en tu sitio."
+  },
+  {
+   "p": "Revisa los números una vez al mes. Mira qué búsquedas te traen visitas y mejora las páginas que casi llegan."
+  },
+  {
+   "tabla": {
+    "titulo": "Números de Search Console",
+    "columnas": [
+     "Número",
+     "Qué significa"
+    ],
+    "filas": [
+     [
+      "Impresiones",
+      "Cuántas veces salió tu sitio en resultados"
+     ],
+     [
+      "Clics",
+      "Cuántas personas entraron desde Google"
+     ],
+     [
+      "CTR",
+      "El porcentaje de impresiones que acabaron en clic"
+     ],
+     [
+      "Posición media",
+      "El lugar promedio donde apareciste"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Desconfía de las promesas"
+  },
+  {
+   "p": "Nadie controla el algoritmo de Google. Quien te asegura el primer lugar promete algo que no depende de él."
+  },
+  {
+   "p": "Cuidado también con quien vende miles de links baratos. Esas prácticas pueden hacer que Google castigue tu sitio."
+  },
+  {
+   "p": "Si contratas ayuda, pide un plan con tareas concretas y un reporte cada mes. Para el panorama completo revisa [marketing digital](id:marketing-digital)."
+  },
+  {
+   "h2": "Errores comunes en sitios de artista"
+  },
+  {
+   "ul": [
+    "Depender sólo de redes y no tener sitio propio.",
+    "Publicar las fechas sólo como imagen de flyer.",
+    "Repetir tu nombre muchas veces para forzar la posición.",
+    "Copiar la biografía de otro sitio o de una nota de prensa.",
+    "Usar el mismo título en todas las páginas.",
+    "Olvidar cómo se ve en el celular.",
+    "Dejar fechas viejas que hacen pensar que ya no tocas."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué significa SEO?",
+   "respuesta": "Optimización para buscadores. Viene de la sigla en inglés search engine optimization."
+  },
+  {
+   "pregunta": "¿El SEO es gratis?",
+   "respuesta": "En parte. No pagas por cada clic, pero inviertes tiempo o le pagas a quien lo haga."
+  },
+  {
+   "pregunta": "¿Cuánto tarda en funcionar?",
+   "respuesta": "Semanas para aparecer y meses para subir en búsquedas difíciles. Depende de cuánta gente compite contigo."
+  },
+  {
+   "pregunta": "¿Puedo hacer SEO sólo con mis redes?",
+   "respuesta": "Muy poco. Tus perfiles pueden salir con tu nombre, pero sin sitio pierdes casi todas las búsquedas."
+  },
+  {
+   "pregunta": "¿Alguien me puede asegurar el primer lugar?",
+   "respuesta": "No. Nadie controla los resultados de Google. Desconfía de esa promesa."
+  },
+  {
+   "pregunta": "¿Mi nombre artístico ya me ayuda?",
+   "respuesta": "Sí, cuando ya te conocen. Para que te encuentre gente nueva, escribe qué haces y dónde."
+  },
+  {
+   "pregunta": "¿Cada cuánto debo actualizar mi sitio?",
+   "respuesta": "Cuando cambie algo real. Una fecha nueva, un sencillo o una serie nueva bastan."
+  }
+ ],
+ "venta": {
+  "puente": "Un sitio propio bien escrito es la base de tu SEO, y yo lo armo con tu música, tus fechas y tu contacto.",
+  "titulo": "¿Te hago un sitio que Google entienda?",
+  "tituloCorto": "Tu sitio de artista"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

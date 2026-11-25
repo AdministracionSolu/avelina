@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regenera todo lo publicable, en orden: fijas → diarias (la libreta) → sitio (portada, pies, sitemap).
+"""Regenera todo lo publicable, en orden: fijas → diarias (la libreta) → sitio (portada, pies, sitemap) → páginas para artistas.
 
   python3 fuente/publicar.py
 
@@ -18,6 +18,10 @@ if usa_candado:
 try:
     for paso in ("fuente/fijas/generar.py", "fuente/diarias/generar.py", "fuente/build.py"):
         r = subprocess.run([sys.executable, os.path.join(RAIZ, paso)], cwd=RAIZ)
+        if r.returncode: raise SystemExit(f"se detuvo en {paso}")
+    # Páginas para artistas (fuente/paginas-web): al final, para que tomen el pie recién hecho.
+    for paso in ("fuente/paginas-web/probar.mjs", "fuente/paginas-web/generar.mjs"):
+        r = subprocess.run(["node", os.path.join(RAIZ, paso)], cwd=RAIZ)
         if r.returncode: raise SystemExit(f"se detuvo en {paso}")
 finally:
     if usa_candado: os.rmdir(CANDADO)

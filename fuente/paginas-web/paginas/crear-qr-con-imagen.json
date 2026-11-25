@@ -1,0 +1,87 @@
+{
+ "id": "crear-qr-con-imagen",
+ "slug": "crear-qr-con-imagen",
+ "molde": "herramienta",
+ "cabeza": "crear qr con imagen",
+ "busquedas": ["codigo qr generador imagen", "generar codigo qr con imagen", "crear codigo qr con imagen", "codigo qr con imagen", "qr con imagen", "crear qr con logo", "crear codigo qr con logo", "codigo qr personalizado", "qr personalizado", "crear un codigo qr personalizado", "qr originales"],
+ "categoria": "Códigos QR",
+ "categoriaApp": "UtilitiesApplication",
+ "herramienta": { "id": "qr", "modo": "imagen" },
+ "fuentes": [
+  { "texto": "Denso Wave, corrección de errores del código QR", "url": "https://www.qrcode.com/en/about/error_correction.html" }
+ ],
+ "serp": [
+  { "posicion": 1, "url": "https://www.qrcode-tiger.com/es/qr-code-with-logo-in-the-middle", "titulo": "Plataformas para crear un código QR con un logotipo en el centro", "promete": "Logo al centro con QR dinámico de pago; el gratis es limitado" },
+  { "posicion": 2, "url": "https://www.jotform.com/es/qr-code-generator/qr-with-logo/", "titulo": "Generador de códigos QR con logotipo", "promete": "Logo personalizado dentro de su plataforma de formularios; pide cuenta" },
+  { "posicion": 3, "url": "https://dreamina.capcut.com/es-es/resource/qr-code-with-image", "titulo": "QR con imagen", "promete": "Funde una foto con el QR por IA; advierte que el contraste puede impedir la lectura" }
+ ],
+ "title": "Crear QR con imagen con el logo de tu banda o tu firma",
+ "h1": "Crear QR con imagen para artistas",
+ "description": "Pon el logo de tu banda, tu firma o tu cara al centro de un código QR. Elige los colores de tu disco y bájalo gratis en PNG o SVG, sin cuenta ni marca de agua.",
+ "resumen": "El logo de tu proyecto al centro de tu QR",
+ "revisada": "2026-11",
+ "relacionadas": ["generador-de-qr", "qr-de-instagram", "codigo-qr-para-whatsapp", "flyer", "imprimir-tarjetas-de-presentacion", "letras-para-logo"],
+ "respuesta": [
+  "Escribe el link de tu música, sube el logo de tu proyecto y el código sale con la imagen en medio. La protección contra daños sube al máximo para que siga abriendo.",
+  "Ajusta colores, el tamaño del logo y una leyenda corta debajo. La descarga es en PNG o SVG y no te pide registro."
+ ],
+ "cuerpo": [
+  { "h2": "Arma el código con tu logo" },
+  { "pasos": [
+   { "titulo": "Decide qué abre el código", "texto": "Tu disco en la plataforma que más usas, tu portafolio o tu agenda de fechas. También puedes cambiar a WhatsApp o a wifi." },
+   { "titulo": "Carga la imagen de tu proyecto", "texto": "Funciona mejor un PNG sin fondo. Un JPG cuadrado con tu firma también sirve." },
+   { "titulo": "Mueve el tamaño y el color", "texto": "Arranca con la imagen mediana. Si tu color de portada es oscuro, úsalo en los cuadros." },
+   { "titulo": "Pruébalo antes de bajarlo", "texto": "Escanéalo con tu celular y con el de alguien de la banda. Si ambos abren tu link, descárgalo." }
+  ] },
+  { "h2": "Cómo es posible que lea con tu logo encima" },
+  { "p": "Cada QR guarda su contenido varias veces dentro de sus cuadros. Gracias a eso tolera perder un pedazo sin dejar de funcionar." },
+  { "p": "Al subir tu imagen, el código pasa solo al nivel de corrección más alto. En ese nivel aguanta perder cerca de 30% de su dibujo." },
+  { "p": "El logo de tu banda tapa sólo el centro y ocupa menos que ese margen. La cámara rellena lo que falta y abre tu página." },
+  { "h2": "El tamaño del logo según la pieza" },
+  { "tabla": {
+   "columnas": ["Opción", "Cuánto ocupa del ancho", "Dónde le queda"],
+   "filas": [
+    ["Chica", "Cerca de 16%", "Tarjetas, estampas y la contraportada de un disco"],
+    ["Mediana", "Cerca de 22%", "Flyers, carteles y casi cualquier impreso"],
+    ["Grande", "Cerca de 27%", "Lonas o carteles que la gente escanea de cerca"]
+   ]
+  } },
+  { "p": "Un logo grande se ve bonito pero cuesta más leerlo. Si un teléfono viejo no lo abre, baja a la opción chica." },
+  { "h2": "Colores que no le estorban a la cámara" },
+  { "p": "Los cuadros deben quedar más oscuros que el fondo. Un vino, un verde botella o un azul marino sobre blanco leen bien." },
+  { "p": "Un código claro sobre fondo negro falla en muchas cámaras. Si el contraste queda bajo, la herramienta te avisa." },
+  { "ul": [
+   "Toma el tono más oscuro de tu portada para los cuadros.",
+   "Deja el fondo blanco o casi blanco.",
+   "Respeta el margen blanco que rodea al código.",
+   "Escribe abajo una leyenda corta como «Escucha el disco»."
+  ] },
+  { "h2": "Dónde le luce un QR con tu imagen" },
+  { "ul": [
+   "El logo de tu banda en el código del [flyer](id:flyer) de la próxima tocada.",
+   "Tu cara en el código de tu [tarjeta de presentación](id:imprimir-tarjetas-de-presentacion) para contrataciones.",
+   "Tu firma de pintora en la ficha de cada cuadro de la exposición.",
+   "El sello de tu estudio de tatuaje en la estampa que entregas con cada pieza.",
+   "Tu logo en el código que abre tu [Instagram](id:qr-de-instagram) en la mesa de mercancía."
+  ] },
+  { "p": "La imagen siempre queda en medio del código. Esta herramienta no mezcla una foto entera con el QR ni vuelve código una foto." },
+  { "p": "Si todavía no tienes logo, puedes hacer uno con [letras para logo](id:letras-para-logo) y luego subirlo aquí." }
+ ],
+ "faqs": [
+  { "pregunta": "¿Tiene costo poner mi logo en el QR?", "respuesta": "No tiene costo. Subes la imagen, eliges el tamaño y bajas el archivo sin registrarte." },
+  { "pregunta": "¿El logo de mi banda puede hacer que no abra?", "respuesta": "No, si hay buen contraste. La corrección alta cubre la parte que tapa tu imagen." },
+  { "pregunta": "¿Qué archivos de imagen acepta?", "respuesta": "PNG, JPG, WebP y SVG. El PNG sin fondo queda mejor." },
+  { "pregunta": "¿Mi logo se queda guardado en otro lado?", "respuesta": "No se guarda. La imagen se queda en tu navegador y el código se arma en tu equipo." },
+  { "pregunta": "¿El QR con imagen deja de funcionar algún día?", "respuesta": "No vence. Lleva tu link adentro y abre mientras esa página exista." },
+  { "pregunta": "¿Puedo hacer que el código abra una foto de mi obra?", "respuesta": "Sólo si la foto ya está publicada en internet. Usa el link de esa publicación como destino." }
+ ],
+ "venta": {
+  "puente": "Tu QR con logo puede abrir un sitio tuyo con tu música, tu obra y tu contacto.",
+  "aviso": "Tu QR con logo está listo. ¿Quieres que abra un sitio de artista con tu nombre?",
+  "titulo": "¿Te hago el sitio que abre tu QR?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026"
+}

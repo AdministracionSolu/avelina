@@ -1,0 +1,225 @@
+{
+ "id": "recibo-de-pago",
+ "slug": "recibo-de-pago",
+ "molde": "herramienta",
+ "cabeza": "recibo de pago",
+ "busquedas": [
+  "recibo de pago formato",
+  "formato de recibo de pago",
+  "recibo de pago imprimir",
+  "recibos de pago para imprimir",
+  "ejemplo de recibo de pago",
+  "formato de recibo",
+  "ejemplo de recibo",
+  "formato de recibo de dinero",
+  "recibo de dinero",
+  "recibo de dinero para imprimir",
+  "recibos en linea",
+  "recibo de servicio",
+  "recibo de caja"
+ ],
+ "categoria": "Formatos y documentos",
+ "categoriaApp": "BusinessApplication",
+ "herramienta": {
+  "id": "documento",
+  "modo": "recibo"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://finom.co/es-es/blog/recibo-de-pago/",
+   "titulo": "Recibo de pago",
+   "promete": "Datos que debe llevar con enfoque en España; no deja llenarlo"
+  },
+  {
+   "posicion": 2,
+   "url": "https://quickbooks.intuit.com/global/resources/es/contabilidad/que-es-un-recibo-de-pago/",
+   "titulo": "Qué es un recibo de pago",
+   "promete": "Definición y partes; sin formato para descargar"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.edifact.com.mx/masinfo/recibo-de-pago-de-nomina-formato",
+   "titulo": "Recibo de pago de nómina formato",
+   "promete": "Mezcla recibo de nómina con recibo de dinero; vende software"
+  }
+ ],
+ "title": "Recibo de pago gratis para anticipos de shows y clases",
+ "h1": "Recibo de pago para músicos y artistas",
+ "description": "Haz el recibo del anticipo de una boda, una sesión de tatuaje o un mes de clases. Importe con letra automático, firma y folio. Bájalo gratis en PDF o en imagen.",
+ "resumen": "El recibo del anticipo de tu show, tu sesión o tus clases",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "formato-de-cotizacion",
+  "xml-de-factura",
+  "formato-de-factura",
+  "link-de-pago",
+  "lista-de-precios"
+ ],
+ "respuesta": [
+  "Un recibo de pago deja por escrito quién pagó, cuánto, por qué concepto y quién recibió el dinero. Llena el de abajo y la cantidad con letra aparece sola. Lo firmas con el dedo o el ratón y lo bajas en PDF o imagen, o en blanco para llenarlo con pluma."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Cómo hacer tu recibo"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Pon tus datos",
+     "texto": "Tu nombre artístico o el de tu proyecto, y tu logo si lo tienes."
+    },
+    {
+     "titulo": "Anota quién paga y cuánto",
+     "texto": "El nombre de quien te entrega el dinero y la cantidad. La letra se escribe en automático."
+    },
+    {
+     "titulo": "Describe el concepto",
+     "texto": "Por ejemplo «Anticipo para la boda del 14 de febrero» o «Mensualidad de clases de canto de noviembre»."
+    },
+    {
+     "titulo": "Firma y descarga",
+     "texto": "Elige cómo te pagaron, firma y baja el PDF para mandarlo por WhatsApp."
+    }
+   ]
+  },
+  {
+   "h2": "Las partes de un recibo"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Parte",
+     "Ejemplo"
+    ],
+    "filas": [
+     [
+      "Folio",
+      "0087"
+     ],
+     [
+      "Bueno por",
+      "$2,500.00"
+     ],
+     [
+      "Recibí de",
+      "Martha Ruiz Gómez"
+     ],
+     [
+      "La cantidad de",
+      "Dos mil quinientos pesos 00/100 M.N."
+     ],
+     [
+      "Por concepto de",
+      "Anticipo de música en vivo para su boda"
+     ],
+     [
+      "Forma de pago",
+      "Transferencia"
+     ],
+     [
+      "Lugar y fecha",
+      "Morelia, 12 de noviembre de 2026"
+     ],
+     [
+      "Firma",
+      "Quien recibió el dinero"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "La cantidad escrita con letra impide que alguien le agregue un cero después. Por eso los recibos en papel siempre la traen."
+  },
+  {
+   "h2": "Cuándo te conviene dar un recibo"
+  },
+  {
+   "ul": [
+    "Cuando te dan anticipo para apartar la fecha de un evento.",
+    "En cada abono de una pintura o un retrato por encargo.",
+    "Al cobrar la mensualidad de clases de música o de baile.",
+    "Al recibir el depósito de una cita de tatuaje.",
+    "Cuando te pagan en efectivo al terminar una tocada."
+   ]
+  },
+  {
+   "p": "Si te pagan en partes, escribe en el concepto qué número de pago es. Algo como «Abono 2 de 3» mantiene la cuenta igual para los dos."
+  },
+  {
+   "h2": "El anticipo bien documentado te protege"
+  },
+  {
+   "p": "Muchos problemas en bodas y eventos empiezan con un anticipo que nadie anotó. Un recibo con fecha y concepto aclara qué se pagó y qué falta."
+  },
+  {
+   "p": "Escribe también la fecha del evento dentro del concepto. Si el cliente cambia de día, los dos saben de qué apartado se habla."
+  },
+  {
+   "h2": "Recibo de pago y factura no son lo mismo"
+  },
+  {
+   "p": "El recibo de pago no es un comprobante fiscal. Si quien te contrata pide factura, emite tu CFDI con tu proveedor de facturación."
+  },
+  {
+   "p": "Lo que sí hace el recibo es probar entre las dos partes que hubo un pago. Guarda una copia de cada uno con su folio."
+  },
+  {
+   "p": "Si te llega una factura en XML y no sabes leerla, ábrela con el [visor de XML de factura](id:xml-de-factura)."
+  },
+  {
+   "h2": "En papel o en PDF"
+  },
+  {
+   "p": "Si te pagan en efectivo al final del show, lleva un block de recibos en blanco y llénalos a mano. Si te transfieren, manda el PDF por WhatsApp."
+  },
+  {
+   "h2": "Ejemplo con una pintora y un retrato por encargo"
+  },
+  {
+   "p": "Imagina una pintora que cobra un retrato en tres pagos. En cada pago llena un recibo con el mismo concepto y el número de abono."
+  },
+  {
+   "p": "Su cliente guarda los tres recibos en su WhatsApp. El día de la entrega los dos saben que la cuenta quedó en ceros."
+  },
+  {
+   "p": "Antes del anticipo conviene mandar el precio por escrito. Para eso sirve el [formato de cotización](id:formato-de-cotizacion)."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿El recibo de pago cuesta?",
+   "respuesta": "No. Es gratis, sin registro y sin límite de recibos."
+  },
+  {
+   "pregunta": "¿Lo puedo bajar en Word?",
+   "respuesta": "No. Sale en PDF o imagen, que se ven igual en cualquier equipo."
+  },
+  {
+   "pregunta": "¿La cantidad con letra sale sola?",
+   "respuesta": "Sí. Escribes el número y la letra aparece debajo."
+  },
+  {
+   "pregunta": "¿Un recibo firmado tiene validez?",
+   "respuesta": "Sí, como prueba del pago entre las partes. No reemplaza una factura."
+  },
+  {
+   "pregunta": "¿Puedo imprimir varios en blanco?",
+   "respuesta": "Sí. Descárgalo sin llenar y saca las copias que necesites para tus shows."
+  },
+  {
+   "pregunta": "¿El folio avanza solo?",
+   "respuesta": "Sí. Sube cada vez que descargas desde el mismo navegador."
+  }
+ ],
+ "venta": {
+  "puente": "Un recibo cuida tu anticipo, y un sitio de artista con tus paquetes hace que te contraten más seguido.",
+  "aviso": "Tu recibo está listo. ¿Quieres un sitio donde tus clientes vean tus paquetes?",
+  "titulo": "¿Te hago un sitio con tus paquetes y precios?"
+ },
+ "publicacion": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "creada": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

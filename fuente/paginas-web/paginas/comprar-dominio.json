@@ -1,0 +1,486 @@
+{
+ "id": "comprar-dominio",
+ "slug": "comprar-dominio",
+ "molde": "guia",
+ "cabeza": "comprar dominio",
+ "busquedas": [
+  "comprar un dominio",
+  "compre un dominio",
+  "comprar dominio google",
+  "comprar dominios con google",
+  "comprar un dominio con google",
+  "compra de dominio",
+  "compras de dominios",
+  "compra de un dominio",
+  "registrar dominio",
+  "registrar el dominio",
+  "dominio com",
+  "registro dominios com",
+  "dominio google",
+  "google dominios",
+  "comprar dominio web",
+  "comprar un dominio web",
+  "dominios baratos",
+  "cuanto cuesta un dominio web"
+ ],
+ "categoria": "Dominio y hosting",
+ "herramienta": null,
+ "fuentes": [
+  {
+   "texto": "Akky, precios de dominios (consultado el 12 de noviembre de 2026)",
+   "url": "https://www.akky.mx/servicios/dominios"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.godaddy.com/resources/latam/crearweb/cuanto-cuesta-dominio-web-precios-extensiones",
+   "titulo": "Cuánto cuesta un dominio web",
+   "promete": "Rangos de precio de su propia tienda; no compara renovación ni explica a nombre de quién queda"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.godaddy.com/es-es/tlds/dominios-com-mx",
+   "titulo": "Dominios .com.mx",
+   "promete": "Página de venta con precio en otra moneda y compra mínima de varios años; sin pasos ni consejos"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.hostinger.com/mx/tutoriales/como-comprar-un-dominio",
+   "titulo": "Cómo comprar un dominio: guía completa",
+   "promete": "Tutorial con su registrador; sin precios del registro oficial de .mx ni lista de qué revisar"
+  }
+ ],
+ "title": "Comprar dominio para tu nombre artístico: precios .mx",
+ "h1": "Cómo comprar el dominio de tu nombre artístico",
+ "description": "Aparta el dominio de tu nombre artístico o de tu banda antes de que lo tome alguien más. Precios .mx y .com.mx de noviembre de 2026 y qué revisar al pagar.",
+ "resumen": "Aparta tunombre.mx antes que alguien más",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "buscar-dominio",
+  "que-es-un-dominio",
+  "que-es-hosting",
+  "dominio-y-hosting",
+  "certificado-ssl",
+  "como-crear-una-pagina-web"
+ ],
+ "respuesta": [
+  "Buscas si tu nombre artístico está libre con un registrador, pagas uno o varios años y queda a tu nombre. En noviembre de 2026 Akky cobraba $249 al año por un .com.mx y $689 por un .mx, con IVA.",
+  "Fíjate en cuánto cuesta renovar y en que tú aparezcas como titular. El dominio se renta por periodos y lo pierdes si dejas de pagarlo."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Tu nombre en internet también se aparta"
+  },
+  {
+   "p": "Cuando tu nombre artístico empieza a sonar, alguien más puede quedarse con su dirección. Pasa con bandas que se hacen conocidas en una ciudad."
+  },
+  {
+   "p": "Un dominio propio le da a tu música una dirección que no depende de ninguna red. Si cambian las reglas de una plataforma, tu dirección sigue igual."
+  },
+  {
+   "p": "Si quieres entender bien la idea, lee primero [qué es un dominio](id:que-es-un-dominio)."
+  },
+  {
+   "h2": "Lo que en realidad pagas"
+  },
+  {
+   "p": "Nadie compra un dominio para toda la vida. Lo rentas por uno o más años y tienes prioridad para renovarlo."
+  },
+  {
+   "p": "Mientras lo mantengas pagado, ningún otro artista puede usar ese nombre. Si lo dejas vencer, cualquiera puede registrarlo."
+  },
+  {
+   "p": "La empresa que te lo vende se llama registrador. Hay muchas y todas venden los mismos nombres, sólo cambia el precio y la atención."
+  },
+  {
+   "h2": "Precios en México"
+  },
+  {
+   "p": "El costo depende de la terminación y de dónde lo registres. Los dominios mexicanos se venden en Akky, el registrador del NIC México, y en otros autorizados."
+  },
+  {
+   "tabla": {
+    "titulo": "Precios por un año en Akky, noviembre de 2026",
+    "columnas": [
+     "Terminación",
+     "Precio por un año",
+     "Notas"
+    ],
+    "filas": [
+     [
+      ".com.mx",
+      "$249",
+      "Con promoción de noviembre bajó a $187, sin aplicar a renovaciones"
+     ],
+     [
+      ".mx",
+      "$689",
+      "Precio regular"
+     ],
+     [
+      ".com",
+      "$347",
+      "Precio regular"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Son precios con IVA que se consultaron en akky.mx el 12 de noviembre de 2026. Pueden cambiar, así que revísalos el día que pagues."
+  },
+  {
+   "p": "Otros registradores cobran distinto. Es común que el primer año salga barato y la renovación suba."
+  },
+  {
+   "h2": "Siete pasos para apartar tu dominio"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Decide el nombre",
+     "texto": "Usa tu nombre artístico tal como lo dices en el escenario. Que sea fácil de dictar, sin guiones ni acentos."
+    },
+    {
+     "titulo": "Confirma que esté libre",
+     "texto": "Búscalo con un registrador o en el [buscador de dominios](id:buscar-dominio)."
+    },
+    {
+     "titulo": "Escoge la terminación",
+     "texto": "Si tocas sobre todo en México, .mx o .com.mx. Si tu música se escucha afuera, piensa en .com."
+    },
+    {
+     "titulo": "Compara el primer año contra los siguientes",
+     "texto": "Revisa cuánto pagas hoy y cuánto pagarás al renovar."
+    },
+    {
+     "titulo": "Abre la cuenta a tu nombre",
+     "texto": "Usa tu nombre legal o el de tu proyecto, con un correo que sí revises."
+    },
+    {
+     "titulo": "Paga y confirma",
+     "texto": "Elige uno o varios años. Luego revisa tu correo y confirma lo que te pidan."
+    },
+    {
+     "titulo": "Prende la renovación automática",
+     "texto": "Así no lo pierdes en plena gira. Cuida que la tarjeta no esté vencida."
+    }
+   ]
+  },
+  {
+   "h2": "Antes de pagar revisa esto"
+  },
+  {
+   "tabla": {
+    "titulo": "Lista para comparar registradores",
+    "columnas": [
+     "Punto",
+     "Qué preguntar",
+     "Por qué importa"
+    ],
+    "filas": [
+     [
+      "Precio de renovación",
+      "¿Cuánto cuesta el segundo año?",
+      "El primer año suele ser promoción"
+     ],
+     [
+      "Años mínimos",
+      "¿Me obligan a pagar varios años?",
+      "Algunos piden compra de tres años"
+     ],
+     [
+      "Titular",
+      "¿Quedo yo como dueño?",
+      "Si no, el dominio no es tuyo"
+     ],
+     [
+      "Privacidad",
+      "¿Ocultan mis datos personales?",
+      "Evita correos no deseados"
+     ],
+     [
+      "Traslado",
+      "¿Me dan el código para irme?",
+      "Debes poder cambiar de registrador"
+     ],
+     [
+      "Administración de registros",
+      "¿Puedo apuntar el dominio a cualquier hosting?",
+      "Te deja elegir dónde vive tu sitio"
+     ],
+     [
+      "Moneda",
+      "¿Cobran en pesos o en dólares?",
+      "El tipo de cambio sube el precio"
+     ],
+     [
+      "Soporte",
+      "¿Contestan en español?",
+      "Lo vas a necesitar al conectar tu sitio"
+     ]
+    ]
+   }
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Con Google ya no se puede"
+  },
+  {
+   "p": "Mucha gente busca cómo comprar dominios con Google. Google tuvo un registrador que se llamaba Google Domains."
+  },
+  {
+   "p": "En 2023 vendió ese negocio y los dominios se fueron a otra empresa. Hoy no puedes registrar un dominio directo con Google."
+  },
+  {
+   "p": "Lo que sí puedes es usar tu dominio con servicios de Google. Por ejemplo, ligarlo a un sitio de [Sitios de Google](id:sitios-de-google) o a su correo de empresa."
+  },
+  {
+   "h2": "Quién puede registrar un .mx"
+  },
+  {
+   "p": "Cualquier persona o empresa puede tener un .mx o un .com.mx. Sólo das tus datos de contacto y una forma de pago."
+  },
+  {
+   "p": "Hay terminaciones con requisitos. El .gob.mx es para gobierno y el .edu.mx para escuelas que lo acrediten."
+  },
+  {
+   "tabla": {
+    "titulo": "Requisitos por terminación mexicana",
+    "columnas": [
+     "Terminación",
+     "Quién puede registrar"
+    ],
+    "filas": [
+     [
+      ".mx",
+      "Cualquier persona o empresa"
+     ],
+     [
+      ".com.mx",
+      "Cualquier persona o empresa"
+     ],
+     [
+      ".edu.mx",
+      "Instituciones educativas que lo acrediten"
+     ],
+     [
+      ".gob.mx",
+      "Sólo dependencias de gobierno"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si tienes una academia de música con validez oficial, pregunta si te corresponde el .edu.mx. Si es un taller libre, usa .mx."
+  },
+  {
+   "h2": "El nombre importa más que el precio"
+  },
+  {
+   "p": "Un dominio barato con un nombre enredado te cuesta caro con el tiempo. Lo vas a deletrear en cada entrevista y en cada tocada."
+  },
+  {
+   "p": "Paga unos pesos más por el nombre que de verdad usas. Esa dirección va en tu lona, tus discos y tus playeras."
+  },
+  {
+   "p": "Si el .mx está tomado, prueba el .com.mx. Si los dos lo están, agrega lo que haces o tu ciudad."
+  },
+  {
+   "ul": [
+    "lunamarquez.mx ocupado, prueba lunamarquez.com.mx.",
+    "Si también está ocupado, prueba lunamarquezmusica.mx.",
+    "No cambies letras para que suene igual, porque tus fans se van a equivocar."
+   ]
+  },
+  {
+   "h2": "Cuántos años pagar"
+  },
+  {
+   "tabla": {
+    "titulo": "Uno o varios años",
+    "columnas": [
+     "Opción",
+     "Ventaja",
+     "Desventaja"
+    ],
+    "filas": [
+     [
+      "Un año",
+      "Pagas poco al inicio y pruebas el registrador",
+      "Tienes que acordarte de renovar cada año"
+     ],
+     [
+      "Dos o tres años",
+      "Te olvidas del pago por más tiempo",
+      "Pagas más de una sola vez"
+     ],
+     [
+      "Cinco años o más",
+      "Proteges un nombre que vas a usar siempre",
+      "Si cambias de nombre, pagaste de más"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si tu nombre artístico ya es definitivo, varios años te dan calma. Si la banda todavía no decide cómo llamarse, con un año basta."
+  },
+  {
+   "h2": "Cuida tus datos personales"
+  },
+  {
+   "p": "Cada dominio tiene un registro público con datos de contacto. Sin protección, tu teléfono y tu correo pueden quedar a la vista."
+  },
+  {
+   "p": "Muchos registradores ocultan esos datos gratis o por poco dinero. Pregunta antes de pagar."
+  },
+  {
+   "p": "Para un artista esto cuenta doble. No quieres que cualquier fan encuentre tu domicilio por tu dominio."
+  },
+  {
+   "h2": "Nombres premium y revendidos"
+  },
+  {
+   "p": "Algunos nombres cortos o muy buscados se venden como premium. Cuestan mucho más que un dominio normal."
+  },
+  {
+   "p": "También hay quien compra dominios para revenderlos. Si tu nombre está ocupado pero nadie lo usa, puede estar en venta."
+  },
+  {
+   "ul": [
+    "Compara lo que piden con lo que te costaría reimprimir tu mercancía.",
+    "Usa un servicio de pago seguro que libere el dinero al recibir el dominio.",
+    "Confirma que el traslado quede a tu nombre antes de cerrar el trato."
+   ]
+  },
+  {
+   "h2": "Cuánto cuesta tener sitio con tu dominio"
+  },
+  {
+   "p": "El dominio es sólo una pieza. Para tener sitio necesitas tres."
+  },
+  {
+   "tabla": {
+    "titulo": "Piezas de un sitio de artista",
+    "columnas": [
+     "Pieza",
+     "Cómo se paga"
+    ],
+    "filas": [
+     [
+      "Dominio",
+      "Por año, según la terminación"
+     ],
+     [
+      "Hosting",
+      "Por mes o por año"
+     ],
+     [
+      "Diseño del sitio",
+      "Una vez, o tu tiempo si lo haces tú"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Yo hago sitios para artistas desde Pilsi en $1,500 con el dominio incluido. Después son $99 al mes por tenerlo en línea y hacerle cambios."
+  },
+  {
+   "h2": "Después de comprarlo"
+  },
+  {
+   "p": "Tener el dominio es el arranque. Falta conectarlo a un sitio y, si quieres, a un correo."
+  },
+  {
+   "ul": [
+    "Contrata hosting o un servicio que ya incluya tu sitio.",
+    "Apunta el dominio al servidor desde la cuenta del registrador.",
+    "Revisa que el sitio abra con candado de seguridad.",
+    "Crea un correo de contrataciones con tu dominio.",
+    "Pon la dirección en tus redes, tu lona y tus discos."
+   ]
+  },
+  {
+   "p": "Lee [qué es hosting](id:que-es-hosting) para saber dónde vive tu sitio. Para el candado revisa el [certificado SSL](id:certificado-ssl)."
+  },
+  {
+   "h2": "Si quieres cambiar de registrador"
+  },
+  {
+   "p": "Si encuentras mejor precio, puedes llevarte el dominio a otro lado. A eso le dicen traslado."
+  },
+  {
+   "p": "El dominio debe estar desbloqueado y necesitas un código de autorización. El registrador nuevo te lo pide para mover el nombre."
+  },
+  {
+   "p": "Tu sitio no se cae si los registros se copian bien. Pide ayuda a quien te hizo el sitio si no sabes cuáles son."
+  },
+  {
+   "h2": "Errores comunes"
+  },
+  {
+   "ul": [
+    "Dejar que el mánager o el diseñador lo registre a su nombre.",
+    "Comprar por el precio del primer año sin ver la renovación.",
+    "Escoger una terminación rara que nadie reconoce.",
+    "No prender la renovación automática.",
+    "Poner de contacto un correo que ya no abres.",
+    "Comprar el dominio y no conectarlo a ningún sitio."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Cuánto cuesta un dominio .mx?",
+   "respuesta": "En Akky, $689 por un año en noviembre de 2026. Un .com.mx costaba $249, los dos con IVA."
+  },
+  {
+   "pregunta": "¿Se paga una sola vez?",
+   "respuesta": "No. Se paga por año o por varios años y se renueva, o lo pierdes."
+  },
+  {
+   "pregunta": "¿Puedo comprarlo con Google?",
+   "respuesta": "No. Google vendió su registrador en 2023 y hoy se compra con otros."
+  },
+  {
+   "pregunta": "¿Necesito RFC para un .mx?",
+   "respuesta": "No. Para .mx o .com.mx bastan tus datos de contacto."
+  },
+  {
+   "pregunta": "¿Puedo tener el dominio en una empresa y el sitio en otra?",
+   "respuesta": "Sí. Sólo apuntas el dominio al servidor donde está tu sitio."
+  },
+  {
+   "pregunta": "¿Qué hago si mi nombre artístico ya está ocupado?",
+   "respuesta": "Prueba otra terminación o agrega lo que haces. También puedes revisar cuándo vence."
+  },
+  {
+   "pregunta": "¿En qué se distinguen .mx y .com.mx?",
+   "respuesta": "En nada al usarlos. El .mx es más corto y el .com.mx suele estar más libre y salir más barato."
+  },
+  {
+   "pregunta": "¿Conviene registrar los dos?",
+   "respuesta": "Sí, si te alcanza. Así nadie usa una dirección casi igual y uno manda al otro."
+  },
+  {
+   "pregunta": "¿Puedo pagar en pesos?",
+   "respuesta": "Sí. Los registradores mexicanos cobran en pesos y algunos extranjeros en dólares."
+  },
+  {
+   "pregunta": "¿Cuánto tarda en funcionar?",
+   "respuesta": "Unas horas. Registrarlo es casi inmediato y conectarlo puede tardar hasta un día en verse."
+  }
+ ],
+ "venta": {
+  "puente": "Tu dominio necesita un sitio que lo llene con tu música, tus videos y tus fechas.",
+  "titulo": "¿Te hago el sitio con tu dominio incluido?",
+  "tituloCorto": "Sitio con dominio incluido"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

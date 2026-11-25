@@ -1,0 +1,249 @@
+{
+ "id": "generador-de-qr",
+ "slug": "generador-de-qr",
+ "molde": "herramienta",
+ "cabeza": "generador de qr",
+ "busquedas": [
+  "qr",
+  "código qr",
+  "crear código qr gratis",
+  "crear qr",
+  "generar qr",
+  "codigo qr web",
+  "diseñar código qr",
+  "crear qr con link",
+  "convertir link a qr",
+  "link código qr",
+  "qr gratis sin caducidad",
+  "qr gratis para siempre",
+  "código qr de prueba",
+  "qr que es"
+ ],
+ "categoria": "Códigos QR",
+ "categoriaApp": "UtilitiesApplication",
+ "herramienta": {
+  "id": "qr",
+  "modo": "link"
+ },
+ "fuentes": [
+  {
+   "texto": "Denso Wave, corrección de errores del código QR",
+   "url": "https://www.qrcode.com/en/about/error_correction.html"
+  }
+ ],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.creativefabrica.com/es/studio/features/qr-code-generator/",
+   "titulo": "Generador de códigos QR en línea: Crea un código QR gratis",
+   "promete": "QR desde un link que funciona al generarse; pide entrar a su estudio para descargar"
+  },
+  {
+   "posicion": 2,
+   "url": "https://sellfy.com/es/herramientas/generador-de-codigos-qr/",
+   "titulo": "Generador de códigos QR",
+   "promete": "Gratis, sin registro, PNG, SVG y PDF; no explica estático contra dinámico ni tamaño de impresión"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.qrcode-tiger.com/es/quick-response-code-generator",
+   "titulo": "Generador gratuito de códigos QR rápido",
+   "promete": "Logo y analíticas con QR dinámico de pago; el gratis es limitado"
+  }
+ ],
+ "title": "Generador de QR gratis para tu música y tus tocadas",
+ "h1": "Generador de QR gratis para músicos",
+ "description": "Haz un código QR gratis que lleve a tu música, tu canal o tu agenda de fechas. Sin cuenta, sin marca de agua y sin vencimiento. Bájalo en PNG o en SVG.",
+ "resumen": "Un QR que lleva a tu música o a tu agenda",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "crear-qr-con-imagen",
+  "qr-de-instagram",
+  "codigo-qr-para-whatsapp",
+  "flyer",
+  "link-en-bio"
+ ],
+ "respuesta": [
+  "Pega el link de tu canción, tu canal o tu agenda y el código sale al instante. Lo bajas en PNG o SVG sin registrarte. No vence y no lleva logotipos de nadie más."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Del link de tu canción al código impreso"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Elige a dónde quieres mandar a la gente",
+     "texto": "Tu canción más escuchada, tu canal de videos o la página con tus próximas fechas. Copia esa dirección."
+    },
+    {
+     "titulo": "Pega la dirección arriba",
+     "texto": "El código se dibuja mientras escribes. Revisa que el link esté completo antes de seguir."
+    },
+    {
+     "titulo": "Escanéalo desde tu celular",
+     "texto": "Apunta la cámara a la pantalla. Si abre la canción correcta, ya puedes bajarlo."
+    },
+    {
+     "titulo": "Bájalo según dónde va",
+     "texto": "El PNG sirve para historias y carteles digitales. El SVG es el que pide la imprenta para lonas y mantas."
+    }
+   ]
+  },
+  {
+   "h2": "Por qué te conviene un QR que no vence"
+  },
+  {
+   "p": "Hay códigos **estáticos** y códigos **dinámicos**. El estático guarda tu link adentro de sus cuadros. El dinámico guarda una dirección intermedia que controla una empresa."
+  },
+  {
+   "p": "Si esa empresa cambia sus planes, tus flyers viejos dejan de abrir. Con un estático eso no pasa mientras tu link exista. Aquí todos los códigos son estáticos."
+  },
+  {
+   "p": "Todo se arma dentro de tu navegador. Tu link no se guarda en ningún servidor."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "",
+     "Estático",
+     "Dinámico"
+    ],
+    "filas": [
+     [
+      "Dónde vive tu link",
+      "Dentro del código",
+      "En la cuenta de una empresa"
+     ],
+     [
+      "¿Vence?",
+      "No",
+      "Según lo que pagues"
+     ],
+     [
+      "¿Cambias el destino?",
+      "No, haces uno nuevo",
+      "Sí, desde su panel"
+     ],
+     [
+      "¿Cuenta escaneos?",
+      "No",
+      "Sí"
+     ],
+     [
+      "Costo aquí",
+      "Gratis",
+      "No lo hago"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Para cambiar el destino sin reimprimir, manda el código a tu propio sitio. Ahí actualizas tus fechas o tu último sencillo y el impreso sigue funcionando."
+  },
+  {
+   "h2": "Qué tan grande debe ir en cada pieza"
+  },
+  {
+   "p": "Piensa en la distancia desde donde lo van a escanear. En una tarjeta o un disco basta un código chico porque lo tienen en la mano."
+  },
+  {
+   "p": "En una lona detrás del escenario necesitas uno grande y con mucho contraste. Imprime una prueba y escanéala desde el fondo del lugar."
+  },
+  {
+   "ul": [
+    "Deja aire blanco alrededor del código.",
+    "No lo pongas sobre la foto del escenario.",
+    "La luz de un foro rebota en el papel brillante.",
+    "Un link corto deja menos cuadros y se lee más rápido."
+   ]
+  },
+  {
+   "h2": "Si el código se maltrata en la gira"
+  },
+  {
+   "p": "Un QR sigue funcionando aunque se raye o se manche un poco. El nivel de corrección decide cuánto daño soporta."
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Nivel",
+     "Lo que puede perder",
+     "Para qué conviene"
+    ],
+    "filas": [
+     [
+      "L",
+      "Cerca de 7%",
+      "Historias y pantallas"
+     ],
+     [
+      "M",
+      "Cerca de 15%",
+      "Flyers y tarjetas"
+     ],
+     [
+      "Q",
+      "Cerca de 25%",
+      "Lonas y piezas de exterior"
+     ],
+     [
+      "H",
+      "Cerca de 30%",
+      "Códigos con tu logo al centro"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Si quieres el logo de tu banda en medio, usa el [QR con imagen](id:crear-qr-con-imagen). Ahí la corrección sube a H sola."
+  },
+  {
+   "h2": "Dónde poner tu QR si haces música o arte"
+  },
+  {
+   "ul": [
+    "En el flyer de la tocada, con tu agenda de fechas.",
+    "En la mesa de mercancía, con la liga para pagar.",
+    "En la ficha de cada obra de tu exposición.",
+    "En el interior de tu disco o de tu fanzine.",
+    "En tu tarjeta, con tu [link de WhatsApp](id:codigo-qr-para-whatsapp) para contrataciones."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Cuesta algo?",
+   "respuesta": "No cuesta nada. No pide cuenta ni tarjeta y no le pone marca de agua."
+  },
+  {
+   "pregunta": "¿Mis flyers viejos van a dejar de abrir?",
+   "respuesta": "No, si tu link sigue vivo. La dirección va dentro del código."
+  },
+  {
+   "pregunta": "¿Lo puedo cambiar después de imprimirlo?",
+   "respuesta": "No se puede. Por eso conviene que apunte a tu propio sitio, que sí puedes actualizar."
+  },
+  {
+   "pregunta": "¿Qué archivo mando a la imprenta?",
+   "respuesta": "El SVG. No se pixelea al agrandarlo y sirve para lonas y mantas."
+  },
+  {
+   "pregunta": "¿Sé cuánta gente lo escaneó en la tocada?",
+   "respuesta": "Con este código no. Mándalo a tu sitio y revisa ahí las visitas de esa noche."
+  },
+  {
+   "pregunta": "¿Por qué el celular no lo lee en el foro?",
+   "respuesta": "Casi siempre es poca luz o poco contraste. Usa negro sobre blanco y hazlo más grande."
+  }
+ ],
+ "venta": {
+  "puente": "Tu QR puede llevar a un sitio tuyo con tu música, tus fechas y tu contacto para contrataciones.",
+  "aviso": "Tu QR está listo. ¿Quieres que lleve a tu propio sitio de artista?",
+  "titulo": "¿Te hago el sitio al que lleva tu QR?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026. Muestra de calibración."
+}

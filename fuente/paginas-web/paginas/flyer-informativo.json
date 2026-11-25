@@ -1,0 +1,81 @@
+{
+ "id": "flyer-informativo",
+ "slug": "flyer-informativo",
+ "molde": "herramienta",
+ "cabeza": "flyer informativo",
+ "busquedas": [],
+ "categoria": "Diseño para imprimir",
+ "categoriaApp": "DesignApplication",
+ "herramienta": { "id": "editor-diseno", "modo": "flyer", "opciones": { "diseno": "informativo" } },
+ "fuentes": [],
+ "serp": [
+  { "posicion": 1, "url": "https://aprendopublisher.milaulas.com/mod/resource/view.php?id=2", "titulo": "Flyer informativo (Aprendo Publisher)", "promete": "Qué lleva: datos esenciales y contacto; en Publisher" },
+  { "posicion": 2, "url": "https://www.crehana.com/ec/blog/diseno-grafico/como-hacer-volante-publicitario", "titulo": "Cómo hacer un volante publicitario (Crehana)", "promete": "Diferencia volante informativo y comercial; curso de pago" },
+  { "posicion": 3, "url": "https://www.canva.com/es_mx/flyers/plantillas/creativos/", "titulo": "Plantillas para flyers (Canva)", "promete": "Plantillas editables con cuenta" }
+ ],
+ "title": "Flyer informativo para tu taller, convocatoria o audición",
+ "h1": "Flyer informativo para artistas",
+ "description": "Haz un flyer informativo con las bases de tu convocatoria, los requisitos de una audición o las reglas de tu taller. Puntos numerados y PDF gratis en carta.",
+ "resumen": "Bases, requisitos o reglas de tu proyecto en puntos numerados",
+ "revisada": "2026-11",
+ "relacionadas": ["flyer", "folleto", "cartel-publicitario", "volantes", "boletin-informativo", "generador-de-qr"],
+ "respuesta": [
+  "Este flyer no vende una fecha, explica cómo participar. Sirve para las bases de una convocatoria, los requisitos de una audición o las reglas de un taller. El editor abre en el diseño «Informativo» y numera cada punto por ti."
+ ],
+ "cuerpo": [
+  { "h2": "Avisos que un artista necesita explicar" },
+  { "p": "Hay papeles que la gente debe entender y no sólo mirar. Si están bien ordenados, dejas de contestar la misma duda por mensaje." },
+  { "ul": [
+   "Las bases para mandar obra a una expo colectiva.",
+   "Lo que debe preparar quien viene a audicionar para tu banda o tu coro.",
+   "Lo que hay que traer al taller de cerámica, grabado o fotografía.",
+   "Las reglas del estudio de tatuaje antes de la cita.",
+   "El cambio de sede o de horario de tus clases de baile."
+  ] },
+  { "h2": "Arma tu flyer informativo" },
+  { "pasos": [
+   { "titulo": "Usa el diseño que ya está abierto", "texto": "El editor arranca en «Informativo». Cada renglón que escribas sale con su número." },
+   { "titulo": "Pon un título que pregunte o avise", "texto": "«¿Cómo audicionar?» o «Las clases cambian de sede» se entienden desde lejos." },
+   { "titulo": "Escribe cada punto en su renglón", "texto": "En el campo de detalles va un paso por línea. Pasando de seis puntos la hoja se amontona." },
+   { "titulo": "Termina con a quién preguntar", "texto": "Deja tu WhatsApp o el horario en que contestas dudas sobre la convocatoria." }
+  ] },
+  { "h2": "Que se entienda a la primera" },
+  { "p": "Un aviso que suena a reglamento se queda sin leer. La gente lo mira de pasada en la puerta del foro o en el grupo." },
+  { "tabla": {
+   "columnas": ["En lugar de", "Escribe"],
+   "filas": [
+    ["Se informa a los interesados que…", "Recibimos obra hasta el viernes 12"],
+    ["Es requisito indispensable presentar…", "Trae dos canciones preparadas y tu instrumento"],
+    ["Para mayores informes comunicarse…", "Dudas al WhatsApp 33 1234 5678"],
+    ["Queda prohibido el ingreso de…", "No se permite entrar con comida al estudio"]
+   ]
+  } },
+  { "p": "Escribe con verbos y con fechas. «Trae», «manda» o «llega» junto a un día concreto se recuerdan mejor." },
+  { "p": "El número de WhatsApp de la tabla es de ejemplo. Pon el tuyo en el editor." },
+  { "h2": "Medidas y lugares para pegarlo" },
+  { "p": "La hoja carta va bien en el tablero de una escuela de música o en la puerta del estudio. La media carta es para entregar en mano al final de la clase." },
+  { "p": "La medida «Para redes» sale vertical y se manda completa a un grupo de WhatsApp. En el celular se lee sin acercar la imagen." },
+  { "p": "Escribe la fecha del aviso en una esquina. Así nadie confunde la convocatoria de este año con la pasada." },
+  { "h2": "Un QR para las bases completas" },
+  { "p": "Las bases de una convocatoria casi nunca caben en seis puntos. Pon lo esencial en el papel y un QR con el resto." },
+  { "p": "El QR puede abrir tu sitio, un documento o tu WhatsApp. Lo haces aparte con el [generador de QR](id:generador-de-qr)." },
+  { "p": "Si lo que anuncias es una tocada con precio de entrada, usa el [flyer](id:flyer) de siempre. Para presentar todas tus clases, el [folleto tríptico](id:folleto) te da seis caras." }
+ ],
+ "faqs": [
+  { "pregunta": "¿Cuál es el diseño informativo?", "respuesta": "El que abre primero, llamado «Informativo». Ordena tus puntos con números." },
+  { "pregunta": "¿Cuántos puntos le caben?", "respuesta": "Seis se leen bien. Si son más, manda el resto a un QR." },
+  { "pregunta": "¿Sirve para una convocatoria de expo?", "respuesta": "Sí. Pon fechas, formato de la obra y cómo enviarla en pasos." },
+  { "pregunta": "¿Puedo poner el logo de mi banda o mi estudio?", "respuesta": "Sí. Súbelo en PNG o JPG y colócalo arriba." },
+  { "pregunta": "¿Tiene costo?", "respuesta": "No. Lo bajas en PDF o PNG sin pagar y sin marca de agua. La línea del pie se quita con una casilla." }
+ ],
+ "venta": {
+  "puente": "Las bases de tu convocatoria o tus clases pueden quedar en tu sitio para que las consulten cuando quieran.",
+  "aviso": "Tu aviso quedó listo. ¿Quieres un sitio donde vivan las bases completas?",
+  "titulo": "¿Te hago el sitio donde quede toda tu información?",
+  "tituloCorto": "Tus bases completas en tu sitio"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

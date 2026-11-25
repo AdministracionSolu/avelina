@@ -1,0 +1,230 @@
+{
+ "id": "lector-qr",
+ "slug": "lector-qr",
+ "molde": "herramienta",
+ "cabeza": "escánear codigo qr",
+ "busquedas": [
+  "escanear código qr",
+  "lector qr",
+  "lector de qr en línea",
+  "camara qr",
+  "qr camara",
+  "camara codigo qr",
+  "codigo qr camara",
+  "scanner codigo qr",
+  "scanner qr gratis",
+  "buscar qr",
+  "buscar codigo qr",
+  "código qr no válido",
+  "leer qr desde imagen"
+ ],
+ "categoria": "Códigos QR",
+ "categoriaApp": "UtilitiesApplication",
+ "herramienta": {
+  "id": "lector-qr",
+  "modo": "camara"
+ },
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://dnschecker.org/es/escanear-codigo-qr",
+   "titulo": "Escanear código QR",
+   "promete": "Lector en línea con cámara o imagen; no explica qué hacer si el código no se lee"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.qrcode-tiger.com/es/qr-code-scanner",
+   "titulo": "Escáner de códigos QR",
+   "promete": "Guía para escanear con el dispositivo; vende QR dinámicos"
+  },
+  {
+   "posicion": 3,
+   "url": "https://u2l.ai/es/tools/qr-code-scanner",
+   "titulo": "Lector de QR",
+   "promete": "Lee desde imagen, portapapeles o cámara; sin aviso de seguridad antes de abrir ligas"
+  }
+ ],
+ "title": "Escanear código QR desde la compu o una foto",
+ "h1": "Escanear código QR en línea",
+ "description": "Lee un código QR con la cámara de tu compu o desde una foto o captura. Ves la liga completa antes de abrirla y la imagen no sale de tu equipo. Pruébalo ya.",
+ "resumen": "Lee un QR con la cámara o con una captura",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "generador-de-qr",
+  "crear-qr-con-imagen",
+  "codigo-qr-para-whatsapp",
+  "qr-de-instagram",
+  "flyer"
+ ],
+ "respuesta": [
+  "Toca «Abrir cámara» y acerca el código, o sube la foto o la captura donde aparece. Antes de abrir cualquier cosa ves lo que trae escrito. La imagen se lee en tu equipo y no viaja a ningún lado. Funciona igual en computadora y en celular."
+ ],
+ "cuerpo": [
+  {
+   "h2": "Lee el QR en cuatro pasos"
+  },
+  {
+   "pasos": [
+    {
+     "titulo": "Escoge cámara o imagen",
+     "texto": "En la compu usas la cámara web o subes la captura que te mandaron."
+    },
+    {
+     "titulo": "Acepta el permiso de cámara",
+     "texto": "El navegador lo pregunta una sola vez. Si dices que no, sube una foto del código."
+    },
+    {
+     "titulo": "Mira qué trae",
+     "texto": "Te dice si es una liga, una red wifi, un teléfono o una tarjeta de contacto."
+    },
+    {
+     "titulo": "Decide tú qué sigue",
+     "texto": "Copia el texto o abre la liga sólo cuando estés seguro de a dónde va."
+    }
+   ]
+  },
+  {
+   "p": "También puedes soltar la foto en el cuadro o pegarla con Ctrl + V. Es lo más rápido cuando el código te llegó por chat."
+  },
+  {
+   "h2": "Lo que puede venir dentro de un QR"
+  },
+  {
+   "tabla": {
+    "columnas": [
+     "Tipo",
+     "Qué te mostramos",
+     "Botón"
+    ],
+    "filas": [
+     [
+      "Liga de una página",
+      "La dirección completa y el sitio",
+      "Abrir liga"
+     ],
+     [
+      "WhatsApp",
+      "La liga wa.me completa con el número",
+      "Abrir en WhatsApp"
+     ],
+     [
+      "Red wifi",
+      "Nombre de la red y contraseña",
+      "Copiar contraseña"
+     ],
+     [
+      "Teléfono o SMS",
+      "El número y el texto",
+      "Llamar o mandar mensaje"
+     ],
+     [
+      "Contacto",
+      "Nombre · empresa · teléfono y correo",
+      "Guardar contacto"
+     ],
+     [
+      "Ubicación",
+      "Las coordenadas",
+      "Ver en el mapa"
+     ],
+     [
+      "Texto",
+      "El texto tal cual",
+      "Copiar"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cuándo le sirve a un artista"
+  },
+  {
+   "p": "A veces el QR te llega en una captura y no tienes otro celular para escanearlo. Con este lector lo abres desde la misma pantalla."
+  },
+  {
+   "ul": [
+    "El cartel de una convocatoria o de un festival que te reenviaron.",
+    "El QR de pago que te manda el foro o la galería.",
+    "El código del flyer que diseñaste, para revisar que abra bien.",
+    "La red wifi del estudio de grabación, sin dictar la contraseña."
+   ]
+  },
+  {
+   "h2": "Por qué la liga no se abre sola"
+  },
+  {
+   "p": "Un código puede mandarte a una página falsa que copia a tu banco. Por eso primero ves la dirección completa y luego decides."
+  },
+  {
+   "ul": [
+    "Lee el nombre del sitio con calma, letra por letra.",
+    "Sospecha de un QR pegado encima de otro en un cartel.",
+    "Nunca pongas contraseñas en una página que abriste desde un código dudoso.",
+    "Si te pide un pago, confírmalo antes con quien te contrató."
+   ]
+  },
+  {
+   "h2": "Si dice «código QR no válido»"
+  },
+  {
+   "p": "Casi siempre falla la foto y no el código. Prueba estos arreglos uno por uno."
+  },
+  {
+   "ul": [
+    "Acércate hasta que el código llene casi toda la imagen.",
+    "Endereza el código y quita el reflejo de la luz.",
+    "Limpia la lente de tu cámara.",
+    "Si está en una pantalla, sube el brillo o toma captura.",
+    "Si está roto o cortado, pide otro a quien te lo mandó."
+   ]
+  },
+  {
+   "p": "Un código con muy poco contraste tampoco se lee. Un tono claro sobre un fondo claro falla con cualquier lector."
+  },
+  {
+   "h2": "Tu celular ya trae lector"
+  },
+  {
+   "p": "Casi todos los celulares recientes leen códigos desde la cámara normal. Este lector es para la compu o para una foto que ya tienes guardada."
+  },
+  {
+   "p": "Si vas a hacer el código de tu disco o tu exposición, usa el [generador de QR](id:generador-de-qr). Luego lo pruebas en este mismo lector antes de mandarlo a imprimir."
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Tiene costo el lector?",
+   "respuesta": "No tiene costo. No pide cuenta ni instalar nada."
+  },
+  {
+   "pregunta": "¿Mi foto se sube a algún servidor?",
+   "respuesta": "No se sube. La imagen se lee dentro de tu equipo."
+  },
+  {
+   "pregunta": "¿Lee un QR desde una captura?",
+   "respuesta": "Sí lo lee. Súbela, suéltala en el cuadro o pégala con Ctrl + V."
+  },
+  {
+   "pregunta": "¿Sirve en una compu sin cámara?",
+   "respuesta": "Sí sirve. Sube una foto o una captura donde se vea el código."
+  },
+  {
+   "pregunta": "¿Lee códigos de barras?",
+   "respuesta": "No los lee. Este lector sólo entiende códigos QR."
+  },
+  {
+   "pregunta": "¿Por qué no se abre la cámara?",
+   "respuesta": "Falta el permiso del navegador. Actívalo en el candado junto a la dirección o sube una foto."
+  }
+ ],
+ "venta": {
+  "puente": "Si haces tu propio QR para la tocada, conviene que lleve a un sitio tuyo con tu música y tus fechas.",
+  "aviso": "Ya leíste el código. ¿Quieres que tus propios QR lleven a un sitio de artista?",
+  "titulo": "¿Te hago un sitio para tus códigos?"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}

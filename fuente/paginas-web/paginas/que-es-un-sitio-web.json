@@ -1,0 +1,522 @@
+{
+ "id": "que-es-un-sitio-web",
+ "slug": "que-es-un-sitio-web",
+ "molde": "guia",
+ "cabeza": "sitio web que es",
+ "cabeza_titulo": [
+  "qué es un sitio web"
+ ],
+ "busquedas": [
+  "web dinamica",
+  "pagina dinamica",
+  "paginas web dinamicas"
+ ],
+ "categoria": "Página web",
+ "herramienta": null,
+ "fuentes": [],
+ "serp": [
+  {
+   "posicion": 1,
+   "url": "https://www.shopify.com/es/blog/que-es-un-sitio-web",
+   "titulo": "Qué es un sitio web",
+   "promete": "Definición y tipos para llevar a su tienda; poco sobre qué necesita un negocio local"
+  },
+  {
+   "posicion": 2,
+   "url": "https://www.ovhcloud.com/es/learn/what-is-website/",
+   "titulo": "¿Qué es un sitio web?",
+   "promete": "Explicación técnica de servidores; sin ejemplos de negocios ni cuánto contenido poner"
+  },
+  {
+   "posicion": 3,
+   "url": "https://www.hostinger.com/co/tutoriales/que-es-un-sitio-web/",
+   "titulo": "¿Qué es un sitio web y cómo funciona?",
+   "promete": "Tutorial general que empuja su hosting; no compara sitio de una página contra sitio completo"
+  }
+ ],
+ "title": "Sitio web que es y qué tipo le sirve a un artista",
+ "h1": "Qué es un sitio web y cuál necesitas como artista",
+ "description": "Qué es un sitio web, en qué se distingue de una página y de tus redes, qué piezas lo hacen funcionar y qué debe tener el sitio de un músico, pintor o tatuador.",
+ "resumen": "Qué es un sitio web y qué lleva el de un artista",
+ "revisada": "2026-11",
+ "relacionadas": [
+  "como-crear-una-pagina-web",
+  "que-es-una-landing-page",
+  "que-es-un-dominio",
+  "que-es-hosting",
+  "ejemplos-de-paginas-web",
+  "link-en-bio"
+ ],
+ "respuesta": [
+  "Un sitio web es un grupo de páginas ligadas entre sí bajo una misma dirección, como tunombre.mx. Está guardado en un servidor y cualquiera lo abre desde su navegador.",
+  "Para un artista, el sitio cuenta quién eres, cómo suena o se ve tu trabajo y cómo contratarte. Puede ser una sola página larga o varias, según lo que quieras mostrar."
+ ],
+ "cuerpo": [
+  {
+   "h2": "La idea en corto"
+  },
+  {
+   "p": "Piensa en tu sitio como un portafolio que nunca cierra. Está abierto a las tres de la mañana para el organizador que busca un grupo para su boda."
+  },
+  {
+   "p": "Todo vive bajo un nombre que se llama dominio, por ejemplo lunamarquez.mx. Cada página adentro tiene su propia dirección, como lunamarquez.mx/fechas."
+  },
+  {
+   "p": "Las páginas se unen con ligas. Así alguien pasa de tu inicio a tus videos y de ahí a tu contacto."
+  },
+  {
+   "p": "Los archivos del sitio están en un servidor. Cuando alguien escribe tu dominio, su navegador los pide y los muestra en pantalla."
+  },
+  {
+   "h2": "Sitio web o página web"
+  },
+  {
+   "p": "En la vida diaria se dicen igual. Si te pones estricto, hay una diferencia pequeña."
+  },
+  {
+   "tabla": {
+    "titulo": "Página contra sitio",
+    "columnas": [
+     "Término",
+     "Qué es",
+     "Ejemplo"
+    ],
+    "filas": [
+     [
+      "Página web",
+      "Un solo documento con su dirección",
+      "La página con tus próximas fechas"
+     ],
+     [
+      "Sitio web",
+      "El conjunto de páginas bajo un dominio",
+      "Todo lunamarquez.mx"
+     ],
+     [
+      "Landing page",
+      "Una sola pantalla larga con un objetivo",
+      "La página para comprar boletos de un show"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Muchos artistas empiezan con un sitio de una sola página. Ahí página y sitio son prácticamente lo mismo."
+  },
+  {
+   "p": "Si te interesa la de un solo objetivo, lee [qué es una landing page](id:que-es-una-landing-page)."
+  },
+  {
+   "h2": "Lo que hace falta para que exista"
+  },
+  {
+   "p": "Un sitio necesita tres piezas. Si falta cualquiera, nadie lo puede abrir."
+  },
+  {
+   "tabla": {
+    "titulo": "Las tres piezas",
+    "columnas": [
+     "Pieza",
+     "Qué es",
+     "Comparación con un foro"
+    ],
+    "filas": [
+     [
+      "Dominio",
+      "El nombre que escribes para llegar",
+      "La dirección del foro"
+     ],
+     [
+      "Hosting",
+      "El servidor donde se guardan las páginas",
+      "El edificio donde está el foro"
+     ],
+     [
+      "Contenido",
+      "Textos, fotos, videos y botones",
+      "El show que pasa adentro"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "El dominio y el hosting se pagan aparte o en paquete. El contenido lo arma quien hace el sitio con tu material."
+  },
+  {
+   "p": "Lee qué es cada uno en [qué es un dominio](id:que-es-un-dominio) y en [qué es hosting](id:que-es-hosting)."
+  },
+  {
+   "p": "Falta el certificado de seguridad. Es lo que pone el candado junto a la dirección y la hace empezar con https."
+  },
+  {
+   "h2": "Lo que ve quien entra"
+  },
+  {
+   "p": "Casi todos los sitios usan el mismo esqueleto. Si lo conoces, sabes qué pedir."
+  },
+  {
+   "tabla": {
+    "titulo": "Partes de un sitio de artista",
+    "columnas": [
+     "Parte",
+     "Dónde está",
+     "Qué lleva"
+    ],
+    "filas": [
+     [
+      "Encabezado",
+      "Arriba",
+      "Tu logo o tu nombre, el menú y un botón de contrataciones"
+     ],
+     [
+      "Inicio",
+      "La primera pantalla",
+      "Quién eres y qué haces, en una frase y una foto"
+     ],
+     [
+      "Secciones",
+      "Debajo o en otras páginas",
+      "Música y videos, galería, fechas y opiniones"
+     ],
+     [
+      "Botón de acción",
+      "Repetido en varios lugares",
+      "WhatsApp, comprar boleto o apartar cita"
+     ],
+     [
+      "Pie",
+      "Abajo",
+      "Redes, correo y aviso de privacidad"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "La primera pantalla pesa más que todo lo demás. En unos segundos la persona decide si se queda a escucharte."
+  },
+  {
+   "h2": "Estático o dinámico"
+  },
+  {
+   "p": "Vas a leer estas dos palabras cuando investigues. Hablan de cómo se arma cada página al abrirla."
+  },
+  {
+   "h3": "Estático"
+  },
+  {
+   "p": "Las páginas ya están listas y guardadas. El servidor nada más las entrega como están."
+  },
+  {
+   "p": "Abren muy rápido y casi no tienen piezas que se descompongan. Le quedan bien a un artista que cambia sus fechas cada semana o cada mes."
+  },
+  {
+   "h3": "Dinámico"
+  },
+  {
+   "p": "Las páginas se construyen en el momento con datos de una base de datos. Cada visita puede ver algo diferente."
+  },
+  {
+   "p": "Hacen falta cuando hay cuentas de usuario, carrito de compras o inventario que se mueve. También cuando mucha gente edita todos los días."
+  },
+  {
+   "tabla": {
+    "titulo": "Estático contra dinámico",
+    "columnas": [
+     "Punto",
+     "Estático",
+     "Dinámico"
+    ],
+    "filas": [
+     [
+      "Velocidad",
+      "Muy rápida",
+      "Depende del servidor y la base de datos"
+     ],
+     [
+      "Mantenimiento",
+      "Poco",
+      "Actualizaciones frecuentes"
+     ],
+     [
+      "Seguridad",
+      "Pocas puertas de entrada",
+      "Más piezas que cuidar"
+     ],
+     [
+      "Ejemplos",
+      "Sitio de una banda, de una pintora o de un estudio de tatuaje",
+      "Tienda con carrito, red social, banca en línea"
+     ],
+     [
+      "Para quién",
+      "La mayoría de los artistas",
+      "Quien vende mucha mercancía con inventario"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Un sitio estático también puede tener cosas que se mueven. Un reproductor, un video o un botón de WhatsApp funcionan sin base de datos propia."
+  },
+  {
+   "venta": true
+  },
+  {
+   "h2": "Tipos de sitio según lo que buscas"
+  },
+  {
+   "tabla": {
+    "titulo": "Tipos de sitio para artistas",
+    "columnas": [
+     "Tipo",
+     "Para qué sirve",
+     "Ejemplo"
+    ],
+    "filas": [
+     [
+      "Sitio de artista",
+      "Presentar tu trabajo y recibir contrataciones",
+      "Grupo versátil de Monterrey"
+     ],
+     [
+      "Landing page",
+      "Una sola acción, como comprar o escribir",
+      "Preventa de boletos de un concierto"
+     ],
+     [
+      "Tienda en línea",
+      "Vender con carrito y pago",
+      "Láminas y playeras de una ilustradora"
+     ],
+     [
+      "Portafolio",
+      "Mostrar tus trabajos",
+      "Fotógrafa de bodas"
+     ],
+     [
+      "Blog",
+      "Publicar textos",
+      "Cantautora que cuenta cómo nace cada canción"
+     ],
+     [
+      "Sitio institucional",
+      "Informar sobre una organización",
+      "Escuela de música o colectivo cultural"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Puedes mezclar tipos. Una banda puede tener su sitio con fechas y una landing aparte para la preventa del disco."
+  },
+  {
+   "p": "Si piensas vender mercancía con carrito, lee la guía de [tienda en línea](id:tienda-en-linea)."
+  },
+  {
+   "h2": "Lo que no le puede faltar al sitio de un artista"
+  },
+  {
+   "p": "No te hacen falta diez páginas para arrancar. Te hace falta que alguien encuentre lo que busca en segundos."
+  },
+  {
+   "ul": [
+    "Quién eres y qué haces, en la primera pantalla.",
+    "Una muestra de tu trabajo que se escuche o se vea sin descargar nada.",
+    "Fotos reales tuyas en vivo o de tu obra.",
+    "Lo que ofreces con un precio desde, si te sirve mostrarlo.",
+    "Opiniones de quien ya te contrató, si las tienes.",
+    "Un botón de WhatsApp que se vea en el celular.",
+    "Tus próximas fechas o tu agenda de citas.",
+    "Aviso de privacidad si recibes datos de personas."
+   ]
+  },
+  {
+   "p": "Con eso alguien puede decidir contratarte sin marcarte. Lo demás se suma con el tiempo."
+  },
+  {
+   "h2": "Ejemplo de un sitio para un tatuador"
+  },
+  {
+   "p": "Es un caso inventado para que veas la estructura. Un tatuador de línea fina quiere que le aparten cita sin tanto mensaje."
+  },
+  {
+   "tabla": {
+    "titulo": "Estructura de ejemplo",
+    "columnas": [
+     "Sección",
+     "Contenido"
+    ],
+    "filas": [
+     [
+      "Inicio",
+      "Tatuaje de línea fina en Guadalajara, aparta tu cita por WhatsApp"
+     ],
+     [
+      "Estilos",
+      "Línea fina, botánico y letras, con precio desde"
+     ],
+     [
+      "Galería",
+      "Doce fotos de tatuajes ya cicatrizados"
+     ],
+     [
+      "Opiniones",
+      "Cuatro reseñas de clientes con su nombre"
+     ],
+     [
+      "Cuidados",
+      "Qué hacer los primeros días después de tatuarte"
+     ],
+     [
+      "Botón",
+      "Aparta tu cita por WhatsApp con mensaje listo"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Todo cabe en una sola página. Abre rápido en el celular y responde lo que la gente pregunta antes de escribir."
+  },
+  {
+   "h2": "Cuántas páginas te hacen falta"
+  },
+  {
+   "p": "No hay un número correcto. Depende de cuántas cosas distintas ofreces y de lo que tu público necesita saber."
+  },
+  {
+   "tabla": {
+    "titulo": "Tamaño del sitio según tu proyecto",
+    "columnas": [
+     "Proyecto",
+     "Páginas sugeridas",
+     "Por qué"
+    ],
+    "filas": [
+     [
+      "Solista con un solo servicio",
+      "Una página larga",
+      "Todo cabe y se lee de corrido"
+     ],
+     [
+      "Varios servicios distintos",
+      "Inicio más una página por servicio",
+      "Bodas y clases se buscan distinto en Google"
+     ],
+     [
+      "Grupo con varios formatos",
+      "Inicio más una página por formato",
+      "Cada formato tiene su repertorio y su precio"
+     ],
+     [
+      "Obra a la venta",
+      "Inicio, colecciones y ficha por pieza",
+      "Quien compra quiere ver medida y técnica"
+     ]
+    ]
+   }
+  },
+  {
+   "p": "Arrancar con una página no te encierra. Cuando crezcas se suman páginas sin perder lo que ya tienes."
+  },
+  {
+   "h2": "Revisa si tu sitio está bien hecho"
+  },
+  {
+   "p": "Ábrelo en tu celular con datos móviles. Revisa estas cinco cosas como si fueras quien te va a contratar."
+  },
+  {
+   "ul": [
+    "¿Abre en pocos segundos?",
+    "¿Se entiende a qué te dedicas sin bajar?",
+    "¿Puedes escuchar o ver tu trabajo ahí mismo?",
+    "¿El botón de contacto está a la vista?",
+    "¿La dirección empieza con https y tiene candado?"
+   ]
+  },
+  {
+   "p": "Si fallan dos o más, conviene arreglarlo pronto. Casi todo se corrige sin hacer el sitio de nuevo."
+  },
+  {
+   "h2": "Cómo se hace uno"
+  },
+  {
+   "p": "Hay tres caminos. Hacerlo tú con un constructor, programarlo o pedírselo a alguien."
+  },
+  {
+   "p": "Cada uno cuesta distinto en tiempo y en dinero. Los pasos están en la guía de [cómo crear una página web](id:como-crear-una-pagina-web)."
+  },
+  {
+   "p": "Yo hago sitios para artistas desde Pilsi. Cuestan $1,500 con el dominio incluido y luego $99 al mes."
+  },
+  {
+   "h2": "Si ya tienes redes, por qué un sitio"
+  },
+  {
+   "p": "Tus redes son de la plataforma y no tuyas. Cambian reglas, te bajan el alcance o cierran tu cuenta sin avisar."
+  },
+  {
+   "p": "Tu sitio es tuyo mientras pagues el dominio y el hosting. Ahí decides qué se ve y en qué orden."
+  },
+  {
+   "p": "Google enseña sitios en sus resultados. Un perfil de red social casi nunca sale cuando alguien busca mariachi en su ciudad."
+  },
+  {
+   "p": "Lo mejor es tener las dos cosas. Las redes atraen gente y el sitio ordena todo para que te contraten."
+  },
+  {
+   "p": "Pon la liga de tu sitio en tu [link en bio](id:link-en-bio) y en tu perfil de WhatsApp. Así cada fan tiene a dónde ir cuando quiere más."
+  },
+  {
+   "h2": "Errores comunes en sitios de artistas"
+  },
+  {
+   "ul": [
+    "Mucha biografía y ninguna forma de escucharte.",
+    "Fotos de banco en lugar de fotos tuyas en vivo.",
+    "El botón de contacto escondido hasta abajo.",
+    "No revisar cómo se ve en el celular.",
+    "Fechas viejas que ya pasaron hace meses.",
+    "Un dominio gratuito con el nombre de otra empresa."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "pregunta": "¿Qué es un sitio web en pocas palabras?",
+   "respuesta": "Un grupo de páginas bajo un mismo dominio. Se abre desde cualquier navegador."
+  },
+  {
+   "pregunta": "¿Sitio web y página web son lo mismo?",
+   "respuesta": "Casi. La página es un solo documento y el sitio es el conjunto de páginas de un dominio."
+  },
+  {
+   "pregunta": "¿Qué es una página dinámica?",
+   "respuesta": "Es la que se arma al abrirla. Toma datos de una base de datos y sirve para tiendas con carrito."
+  },
+  {
+   "pregunta": "¿Mi proyecto necesita un sitio dinámico?",
+   "respuesta": "Casi nunca al empezar. Si no vendes con carrito, un sitio estático te basta."
+  },
+  {
+   "pregunta": "¿Qué necesito para tener un sitio?",
+   "respuesta": "Dominio, hosting y contenido. También conviene el certificado de seguridad."
+  },
+  {
+   "pregunta": "¿Puede ser de una sola página?",
+   "respuesta": "Sí. Muchos artistas empiezan con una sola página bien ordenada."
+  },
+  {
+   "pregunta": "¿Cuánto tarda en hacerse?",
+   "respuesta": "Depende del tamaño. Una landing sale en días y un sitio grande en semanas."
+  }
+ ],
+ "venta": {
+  "puente": "Un sitio de artista junta tu música, tus videos, tus fechas y tu contacto en una dirección que es tuya.",
+  "titulo": "¿Te hago tu sitio de artista?",
+  "tituloCorto": "Tu sitio de artista"
+ },
+ "creada": "2026-11-24",
+ "actualizado": "2026-11-24",
+ "publicacion": "2026-11-24",
+ "nota": "Tercera versión (artistas) de la página de Aliviane, 24-nov-2026."
+}
