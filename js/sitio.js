@@ -1,3 +1,5 @@
+// De dónde llega la gente y qué recorre (25-nov-2026, mismo motor que Pilsi, SignSolú y Makatea): js/rastro.js.
+(() => { const s = document.createElement('script'); s.src = '/js/rastro.js'; s.defer = true; s.dataset.sitio = 'avelina'; document.head.append(s); })();
 // Cuadros de música
 document.querySelectorAll('.cuadro .cara').forEach(b => b.addEventListener('click', () => {
   const c = b.closest('.cuadro'), d = c.querySelector('.dorso');
@@ -39,9 +41,10 @@ document.querySelectorAll('.sobre').forEach(f => f.addEventListener('submit', as
     const r = await fetch(f.dataset.destino, {
       method: 'POST',
       headers: { apikey: f.dataset.llave, 'Content-Type': 'application/json', Prefer: 'return=minimal' },
-      body: JSON.stringify({ correo: datos.get('correo').trim(), idioma: f.dataset.idioma, origen: ruta(location.pathname), entrada: llegada.entrada || null, referente: llegada.referente || null })
+      body: JSON.stringify({ correo: datos.get('correo').trim(), idioma: f.dataset.idioma, origen: ruta(location.pathname), entrada: llegada.entrada || null, referente: llegada.referente || null, atribucion: window.pilsiRastro ? window.pilsiRastro.atribucion() : null, visitante: window.pilsiRastro ? window.pilsiRastro.visitante() : null })
     });
     if (!r.ok && r.status !== 409) throw new Error(r.status); // 409: ese correo ya estaba en la lista
+    if (window.pilsiRastro) window.pilsiRastro.conversion('carta', ruta(location.pathname));
     f.classList.add('enviado'); aviso.textContent = f.dataset.ok;
   } catch { aviso.textContent = f.dataset.error; b.disabled = false; }
 }));
